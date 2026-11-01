@@ -1,0 +1,973 @@
+{
+  "model": "whisper-1",
+  "lesson": "park",
+  "full_track": "dialogue-full.mp3",
+  "full_duration": 40.944,
+  "lines": [
+    {
+      "index": 1,
+      "file": "01.mp3",
+      "text": "Hey, Noah, are you doing anything on Sunday morning?",
+      "audio_sha256": "b683037551a91974f7194095535b81171b4f94be24dbd0e2fa2c12dd48411543",
+      "start": 0.0,
+      "end": 3.048,
+      "duration": 3.048,
+      "words": [
+        {
+          "word": "Hey,",
+          "start": 0.0,
+          "end": 0.28,
+          "local_start": 0.0,
+          "local_end": 0.28
+        },
+        {
+          "word": "Noah,",
+          "start": 0.32,
+          "end": 0.46,
+          "local_start": 0.32,
+          "local_end": 0.46
+        },
+        {
+          "word": "are",
+          "start": 0.82,
+          "end": 1.18,
+          "local_start": 0.82,
+          "local_end": 1.18
+        },
+        {
+          "word": "you",
+          "start": 1.18,
+          "end": 1.36,
+          "local_start": 1.18,
+          "local_end": 1.36
+        },
+        {
+          "word": "doing",
+          "start": 1.36,
+          "end": 1.56,
+          "local_start": 1.36,
+          "local_end": 1.56
+        },
+        {
+          "word": "anything",
+          "start": 1.56,
+          "end": 1.84,
+          "local_start": 1.56,
+          "local_end": 1.84
+        },
+        {
+          "word": "on",
+          "start": 1.84,
+          "end": 2.12,
+          "local_start": 1.84,
+          "local_end": 2.12
+        },
+        {
+          "word": "Sunday",
+          "start": 2.12,
+          "end": 2.26,
+          "local_start": 2.12,
+          "local_end": 2.26
+        },
+        {
+          "word": "morning?",
+          "start": 2.26,
+          "end": 2.54,
+          "local_start": 2.26,
+          "local_end": 2.54
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "file": "02.mp3",
+      "text": "Not much. Why do you ask?",
+      "audio_sha256": "3d030845c313cd1ef3fc8e45368c3b3a8a3a931288b377e5ba5450a108cf2f5d",
+      "start": 3.048,
+      "end": 4.896,
+      "duration": 1.848,
+      "words": [
+        {
+          "word": "Not",
+          "start": 3.048,
+          "end": 3.348,
+          "local_start": 0.0,
+          "local_end": 0.3
+        },
+        {
+          "word": "much.",
+          "start": 3.348,
+          "end": 3.668,
+          "local_start": 0.3,
+          "local_end": 0.62
+        },
+        {
+          "word": "Why",
+          "start": 3.888,
+          "end": 4.248,
+          "local_start": 0.84,
+          "local_end": 1.2
+        },
+        {
+          "word": "do",
+          "start": 4.248,
+          "end": 4.348,
+          "local_start": 1.2,
+          "local_end": 1.3
+        },
+        {
+          "word": "you",
+          "start": 4.348,
+          "end": 4.448,
+          "local_start": 1.3,
+          "local_end": 1.4
+        },
+        {
+          "word": "ask?",
+          "start": 4.448,
+          "end": 4.648,
+          "local_start": 1.4,
+          "local_end": 1.6
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "file": "03.mp3",
+      "text": "I'm joining a neighborhood park cleanup. Want to come along?",
+      "audio_sha256": "edf396e3ee64d2d9e57cc249dd75f5e3fa07619802c264a209992aed74d72ac9",
+      "start": 4.896,
+      "end": 8.4,
+      "duration": 3.504,
+      "words": [
+        {
+          "word": "I'm",
+          "start": 4.896,
+          "end": 5.256,
+          "local_start": 0.0,
+          "local_end": 0.36
+        },
+        {
+          "word": "joining",
+          "start": 5.256,
+          "end": 5.536,
+          "local_start": 0.36,
+          "local_end": 0.64
+        },
+        {
+          "word": "a",
+          "start": 5.536,
+          "end": 5.876,
+          "local_start": 0.64,
+          "local_end": 0.98
+        },
+        {
+          "word": "neighborhood",
+          "start": 5.876,
+          "end": 6.176,
+          "local_start": 0.98,
+          "local_end": 1.28
+        },
+        {
+          "word": "park",
+          "start": 6.176,
+          "end": 6.536,
+          "local_start": 1.28,
+          "local_end": 1.64
+        },
+        {
+          "word": "cleanup.",
+          "start": 6.536,
+          "end": 6.896,
+          "local_start": 1.64,
+          "local_end": 2.0
+        },
+        {
+          "word": "Want",
+          "start": 7.416,
+          "end": 7.516,
+          "local_start": 2.52,
+          "local_end": 2.62
+        },
+        {
+          "word": "to",
+          "start": 7.516,
+          "end": 7.696,
+          "local_start": 2.62,
+          "local_end": 2.8
+        },
+        {
+          "word": "come",
+          "start": 7.696,
+          "end": 7.736,
+          "local_start": 2.8,
+          "local_end": 2.84
+        },
+        {
+          "word": "along?",
+          "start": 7.736,
+          "end": 7.976,
+          "local_start": 2.84,
+          "local_end": 3.08
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "file": "04.mp3",
+      "text": "Maybe! I've never done anything like that before. What would we actually do?",
+      "audio_sha256": "0346597d90659b0b9ace972e9e9481bc4a8490f5e8569ae5b006ae49ef3c86a2",
+      "start": 8.4,
+      "end": 13.32,
+      "duration": 4.92,
+      "words": [
+        {
+          "word": "Maybe!",
+          "start": 8.92,
+          "end": 9.12,
+          "local_start": 0.52,
+          "local_end": 0.72
+        },
+        {
+          "word": "I've",
+          "start": 9.12,
+          "end": 9.64,
+          "local_start": 0.72,
+          "local_end": 1.24
+        },
+        {
+          "word": "never",
+          "start": 9.64,
+          "end": 9.88,
+          "local_start": 1.24,
+          "local_end": 1.48
+        },
+        {
+          "word": "done",
+          "start": 9.88,
+          "end": 10.22,
+          "local_start": 1.48,
+          "local_end": 1.82
+        },
+        {
+          "word": "anything",
+          "start": 10.22,
+          "end": 10.52,
+          "local_start": 1.82,
+          "local_end": 2.12
+        },
+        {
+          "word": "like",
+          "start": 10.52,
+          "end": 10.74,
+          "local_start": 2.12,
+          "local_end": 2.34
+        },
+        {
+          "word": "that",
+          "start": 10.74,
+          "end": 10.96,
+          "local_start": 2.34,
+          "local_end": 2.56
+        },
+        {
+          "word": "before.",
+          "start": 10.96,
+          "end": 11.24,
+          "local_start": 2.56,
+          "local_end": 2.84
+        },
+        {
+          "word": "What",
+          "start": 11.92,
+          "end": 11.94,
+          "local_start": 3.52,
+          "local_end": 3.54
+        },
+        {
+          "word": "would",
+          "start": 11.94,
+          "end": 12.06,
+          "local_start": 3.54,
+          "local_end": 3.66
+        },
+        {
+          "word": "we",
+          "start": 12.06,
+          "end": 12.22,
+          "local_start": 3.66,
+          "local_end": 3.82
+        },
+        {
+          "word": "actually",
+          "start": 12.22,
+          "end": 12.54,
+          "local_start": 3.82,
+          "local_end": 4.14
+        },
+        {
+          "word": "do?",
+          "start": 12.54,
+          "end": 12.9,
+          "local_start": 4.14,
+          "local_end": 4.5
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "file": "05.mp3",
+      "text": "We'd pick up litter and help plant a few small trees.",
+      "audio_sha256": "c6efbb0b23691ce0da65f1daa427a14a3211a57ca8ebebd16d3572d22dd66487",
+      "start": 13.32,
+      "end": 16.632,
+      "duration": 3.312,
+      "words": [
+        {
+          "word": "We'd",
+          "start": 13.32,
+          "end": 13.82,
+          "local_start": 0.0,
+          "local_end": 0.5
+        },
+        {
+          "word": "pick",
+          "start": 13.82,
+          "end": 13.98,
+          "local_start": 0.5,
+          "local_end": 0.66
+        },
+        {
+          "word": "up",
+          "start": 13.98,
+          "end": 14.26,
+          "local_start": 0.66,
+          "local_end": 0.94
+        },
+        {
+          "word": "litter",
+          "start": 14.26,
+          "end": 14.4,
+          "local_start": 0.94,
+          "local_end": 1.08
+        },
+        {
+          "word": "and",
+          "start": 14.4,
+          "end": 14.88,
+          "local_start": 1.08,
+          "local_end": 1.56
+        },
+        {
+          "word": "help",
+          "start": 14.88,
+          "end": 15.1,
+          "local_start": 1.56,
+          "local_end": 1.78
+        },
+        {
+          "word": "plant",
+          "start": 15.1,
+          "end": 15.36,
+          "local_start": 1.78,
+          "local_end": 2.04
+        },
+        {
+          "word": "a",
+          "start": 15.36,
+          "end": 15.48,
+          "local_start": 2.04,
+          "local_end": 2.16
+        },
+        {
+          "word": "few",
+          "start": 15.48,
+          "end": 15.68,
+          "local_start": 2.16,
+          "local_end": 2.36
+        },
+        {
+          "word": "small",
+          "start": 15.68,
+          "end": 15.9,
+          "local_start": 2.36,
+          "local_end": 2.58
+        },
+        {
+          "word": "trees.",
+          "start": 15.9,
+          "end": 16.22,
+          "local_start": 2.58,
+          "local_end": 2.9
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "file": "06.mp3",
+      "text": "That sounds useful. Do we need to bring our own supplies?",
+      "audio_sha256": "d1c34a736b6fb16edaba496bb5a24077da28d531eb82f5df6ab6f32142870fa1",
+      "start": 16.632,
+      "end": 19.536,
+      "duration": 2.904,
+      "words": [
+        {
+          "word": "That",
+          "start": 16.632,
+          "end": 17.012,
+          "local_start": 0.0,
+          "local_end": 0.38
+        },
+        {
+          "word": "sounds",
+          "start": 17.012,
+          "end": 17.172,
+          "local_start": 0.38,
+          "local_end": 0.54
+        },
+        {
+          "word": "useful.",
+          "start": 17.172,
+          "end": 17.512,
+          "local_start": 0.54,
+          "local_end": 0.88
+        },
+        {
+          "word": "Do",
+          "start": 17.972,
+          "end": 18.052,
+          "local_start": 1.34,
+          "local_end": 1.42
+        },
+        {
+          "word": "we",
+          "start": 18.052,
+          "end": 18.132,
+          "local_start": 1.42,
+          "local_end": 1.5
+        },
+        {
+          "word": "need",
+          "start": 18.132,
+          "end": 18.232,
+          "local_start": 1.5,
+          "local_end": 1.6
+        },
+        {
+          "word": "to",
+          "start": 18.232,
+          "end": 18.372,
+          "local_start": 1.6,
+          "local_end": 1.74
+        },
+        {
+          "word": "bring",
+          "start": 18.372,
+          "end": 18.452,
+          "local_start": 1.74,
+          "local_end": 1.82
+        },
+        {
+          "word": "our",
+          "start": 18.452,
+          "end": 18.612,
+          "local_start": 1.82,
+          "local_end": 1.98
+        },
+        {
+          "word": "own",
+          "start": 18.612,
+          "end": 18.792,
+          "local_start": 1.98,
+          "local_end": 2.16
+        },
+        {
+          "word": "supplies?",
+          "start": 18.792,
+          "end": 19.052,
+          "local_start": 2.16,
+          "local_end": 2.42
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "file": "07.mp3",
+      "text": "No, the organizers provide gloves and trash bags. Just wear shoes you don't mind getting dirty.",
+      "audio_sha256": "fe7da02df0687c13d21dd7d681e1d4d16624ff531c806a4a8908e374aa4fdb11",
+      "start": 19.536,
+      "end": 25.848,
+      "duration": 6.312,
+      "words": [
+        {
+          "word": "No,",
+          "start": 19.536,
+          "end": 20.076,
+          "local_start": 0.0,
+          "local_end": 0.54
+        },
+        {
+          "word": "the",
+          "start": 20.476,
+          "end": 20.656,
+          "local_start": 0.94,
+          "local_end": 1.12
+        },
+        {
+          "word": "organizers",
+          "start": 20.656,
+          "end": 21.076,
+          "local_start": 1.12,
+          "local_end": 1.54
+        },
+        {
+          "word": "provide",
+          "start": 21.076,
+          "end": 21.596,
+          "local_start": 1.54,
+          "local_end": 2.06
+        },
+        {
+          "word": "gloves",
+          "start": 21.596,
+          "end": 22.016,
+          "local_start": 2.06,
+          "local_end": 2.48
+        },
+        {
+          "word": "and",
+          "start": 22.016,
+          "end": 22.336,
+          "local_start": 2.48,
+          "local_end": 2.8
+        },
+        {
+          "word": "trash",
+          "start": 22.336,
+          "end": 22.596,
+          "local_start": 2.8,
+          "local_end": 3.06
+        },
+        {
+          "word": "bags.",
+          "start": 22.596,
+          "end": 22.996,
+          "local_start": 3.06,
+          "local_end": 3.46
+        },
+        {
+          "word": "Just",
+          "start": 23.836,
+          "end": 23.936,
+          "local_start": 4.3,
+          "local_end": 4.4
+        },
+        {
+          "word": "wear",
+          "start": 23.936,
+          "end": 24.156,
+          "local_start": 4.4,
+          "local_end": 4.62
+        },
+        {
+          "word": "shoes",
+          "start": 24.156,
+          "end": 24.396,
+          "local_start": 4.62,
+          "local_end": 4.86
+        },
+        {
+          "word": "you",
+          "start": 24.396,
+          "end": 24.616,
+          "local_start": 4.86,
+          "local_end": 5.08
+        },
+        {
+          "word": "don't",
+          "start": 24.616,
+          "end": 24.836,
+          "local_start": 5.08,
+          "local_end": 5.3
+        },
+        {
+          "word": "mind",
+          "start": 24.836,
+          "end": 25.016,
+          "local_start": 5.3,
+          "local_end": 5.48
+        },
+        {
+          "word": "getting",
+          "start": 25.016,
+          "end": 25.296,
+          "local_start": 5.48,
+          "local_end": 5.76
+        },
+        {
+          "word": "dirty.",
+          "start": 25.296,
+          "end": 25.476,
+          "local_start": 5.76,
+          "local_end": 5.94
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "file": "08.mp3",
+      "text": "Good to know. How early does it start?",
+      "audio_sha256": "068ee9f915778e7585ceb0bcfeaf64fb2ab84cd81928dc336e30f7c92f216d0b",
+      "start": 25.848,
+      "end": 28.416,
+      "duration": 2.568,
+      "words": [
+        {
+          "word": "Good",
+          "start": 25.848,
+          "end": 26.068,
+          "local_start": 0.0,
+          "local_end": 0.22
+        },
+        {
+          "word": "to",
+          "start": 26.068,
+          "end": 26.248,
+          "local_start": 0.22,
+          "local_end": 0.4
+        },
+        {
+          "word": "know.",
+          "start": 26.248,
+          "end": 26.648,
+          "local_start": 0.4,
+          "local_end": 0.8
+        },
+        {
+          "word": "How",
+          "start": 26.768,
+          "end": 27.228,
+          "local_start": 0.92,
+          "local_end": 1.38
+        },
+        {
+          "word": "early",
+          "start": 27.228,
+          "end": 27.468,
+          "local_start": 1.38,
+          "local_end": 1.62
+        },
+        {
+          "word": "does",
+          "start": 27.468,
+          "end": 27.668,
+          "local_start": 1.62,
+          "local_end": 1.82
+        },
+        {
+          "word": "it",
+          "start": 27.668,
+          "end": 27.828,
+          "local_start": 1.82,
+          "local_end": 1.98
+        },
+        {
+          "word": "start?",
+          "start": 27.828,
+          "end": 28.088,
+          "local_start": 1.98,
+          "local_end": 2.24
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "file": "09.mp3",
+      "text": "At nine. It usually takes about two hours.",
+      "audio_sha256": "a7d1eaa83345e1aeb7e4e12e06cd2ef6f858d7deaab813750a84fc6629f86919",
+      "start": 28.416,
+      "end": 31.272,
+      "duration": 2.856,
+      "words": [
+        {
+          "word": "At",
+          "start": 28.416,
+          "end": 28.676,
+          "local_start": 0.0,
+          "local_end": 0.26
+        },
+        {
+          "word": "nine.",
+          "start": 28.676,
+          "end": 28.956,
+          "local_start": 0.26,
+          "local_end": 0.54
+        },
+        {
+          "word": "It",
+          "start": 29.296,
+          "end": 29.496,
+          "local_start": 0.88,
+          "local_end": 1.08
+        },
+        {
+          "word": "usually",
+          "start": 29.496,
+          "end": 29.736,
+          "local_start": 1.08,
+          "local_end": 1.32
+        },
+        {
+          "word": "takes",
+          "start": 29.736,
+          "end": 30.016,
+          "local_start": 1.32,
+          "local_end": 1.6
+        },
+        {
+          "word": "about",
+          "start": 30.016,
+          "end": 30.276,
+          "local_start": 1.6,
+          "local_end": 1.86
+        },
+        {
+          "word": "two",
+          "start": 30.276,
+          "end": 30.576,
+          "local_start": 1.86,
+          "local_end": 2.16
+        },
+        {
+          "word": "hours.",
+          "start": 30.576,
+          "end": 30.876,
+          "local_start": 2.16,
+          "local_end": 2.46
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "file": "10.mp3",
+      "text": "I usually sleep in on Sundays, but this sounds worth getting up for.",
+      "audio_sha256": "c56bfeb409b88947bc59d945d72b363c20c25f6fc2853bbe60cc8f4eb60b9717",
+      "start": 31.272,
+      "end": 36.24,
+      "duration": 4.968,
+      "words": [
+        {
+          "word": "I",
+          "start": 31.272,
+          "end": 31.752,
+          "local_start": 0.0,
+          "local_end": 0.48
+        },
+        {
+          "word": "usually",
+          "start": 31.752,
+          "end": 32.232,
+          "local_start": 0.48,
+          "local_end": 0.96
+        },
+        {
+          "word": "sleep",
+          "start": 32.232,
+          "end": 32.492,
+          "local_start": 0.96,
+          "local_end": 1.22
+        },
+        {
+          "word": "in",
+          "start": 32.492,
+          "end": 32.692,
+          "local_start": 1.22,
+          "local_end": 1.42
+        },
+        {
+          "word": "on",
+          "start": 32.692,
+          "end": 32.932,
+          "local_start": 1.42,
+          "local_end": 1.66
+        },
+        {
+          "word": "Sundays,",
+          "start": 32.932,
+          "end": 33.212,
+          "local_start": 1.66,
+          "local_end": 1.94
+        },
+        {
+          "word": "but",
+          "start": 33.372,
+          "end": 33.912,
+          "local_start": 2.1,
+          "local_end": 2.64
+        },
+        {
+          "word": "this",
+          "start": 33.912,
+          "end": 34.252,
+          "local_start": 2.64,
+          "local_end": 2.98
+        },
+        {
+          "word": "sounds",
+          "start": 34.252,
+          "end": 34.652,
+          "local_start": 2.98,
+          "local_end": 3.38
+        },
+        {
+          "word": "worth",
+          "start": 34.652,
+          "end": 35.132,
+          "local_start": 3.38,
+          "local_end": 3.86
+        },
+        {
+          "word": "getting",
+          "start": 35.132,
+          "end": 35.412,
+          "local_start": 3.86,
+          "local_end": 4.14
+        },
+        {
+          "word": "up",
+          "start": 35.412,
+          "end": 35.572,
+          "local_start": 4.14,
+          "local_end": 4.3
+        },
+        {
+          "word": "for.",
+          "start": 35.572,
+          "end": 35.792,
+          "local_start": 4.3,
+          "local_end": 4.52
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "file": "11.mp3",
+      "text": "We could grab breakfast afterward. That might make it easier!",
+      "audio_sha256": "f7d3e60561731cc2eda5284bd54bb009a426b5cc83d184d81e60980198471e80",
+      "start": 36.24,
+      "end": 39.192,
+      "duration": 2.952,
+      "words": [
+        {
+          "word": "We",
+          "start": 36.24,
+          "end": 36.44,
+          "local_start": 0.0,
+          "local_end": 0.2
+        },
+        {
+          "word": "could",
+          "start": 36.44,
+          "end": 36.62,
+          "local_start": 0.2,
+          "local_end": 0.38
+        },
+        {
+          "word": "grab",
+          "start": 36.62,
+          "end": 36.84,
+          "local_start": 0.38,
+          "local_end": 0.6
+        },
+        {
+          "word": "breakfast",
+          "start": 36.84,
+          "end": 37.28,
+          "local_start": 0.6,
+          "local_end": 1.04
+        },
+        {
+          "word": "afterward.",
+          "start": 37.28,
+          "end": 37.72,
+          "local_start": 1.04,
+          "local_end": 1.48
+        },
+        {
+          "word": "That",
+          "start": 38.14,
+          "end": 38.26,
+          "local_start": 1.9,
+          "local_end": 2.02
+        },
+        {
+          "word": "might",
+          "start": 38.26,
+          "end": 38.44,
+          "local_start": 2.02,
+          "local_end": 2.2
+        },
+        {
+          "word": "make",
+          "start": 38.44,
+          "end": 38.58,
+          "local_start": 2.2,
+          "local_end": 2.34
+        },
+        {
+          "word": "it",
+          "start": 38.58,
+          "end": 38.72,
+          "local_start": 2.34,
+          "local_end": 2.48
+        },
+        {
+          "word": "easier!",
+          "start": 38.72,
+          "end": 38.94,
+          "local_start": 2.48,
+          "local_end": 2.7
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "file": "12.mp3",
+      "text": "Deal! Count me in.",
+      "audio_sha256": "21b6267df85c8caad20587fa8d36ebcce5ccff0f89e2fa575efa9762dd08ed9f",
+      "start": 39.192,
+      "end": 40.944,
+      "duration": 1.752,
+      "words": [
+        {
+          "word": "Deal!",
+          "start": 39.192,
+          "end": 39.572,
+          "local_start": 0.0,
+          "local_end": 0.38
+        },
+        {
+          "word": "Count",
+          "start": 40.232,
+          "end": 40.272,
+          "local_start": 1.04,
+          "local_end": 1.08
+        },
+        {
+          "word": "me",
+          "start": 40.272,
+          "end": 40.472,
+          "local_start": 1.08,
+          "local_end": 1.28
+        },
+        {
+          "word": "in.",
+          "start": 40.472,
+          "end": 40.612,
+          "local_start": 1.28,
+          "local_end": 1.42
+        }
+      ]
+    }
+  ]
+}

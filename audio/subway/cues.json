@@ -1,0 +1,882 @@
+{
+  "model": "whisper-1",
+  "lesson": "subway",
+  "full_track": "dialogue-full.mp3",
+  "full_duration": 36.936,
+  "lines": [
+    {
+      "index": 1,
+      "file": "01.mp3",
+      "text": "Excuse me, could you tell me how to get to the City Museum?",
+      "audio_sha256": "796398cabd467de89372bb374f9a363e90b2f222f9206e298cc3ec6d2e86598d",
+      "start": 0.0,
+      "end": 3.36,
+      "duration": 3.36,
+      "words": [
+        {
+          "word": "Excuse",
+          "start": 0.0,
+          "end": 0.44,
+          "local_start": 0.0,
+          "local_end": 0.44
+        },
+        {
+          "word": "me,",
+          "start": 0.44,
+          "end": 0.8,
+          "local_start": 0.44,
+          "local_end": 0.8
+        },
+        {
+          "word": "could",
+          "start": 1.02,
+          "end": 1.26,
+          "local_start": 1.02,
+          "local_end": 1.26
+        },
+        {
+          "word": "you",
+          "start": 1.26,
+          "end": 1.46,
+          "local_start": 1.26,
+          "local_end": 1.46
+        },
+        {
+          "word": "tell",
+          "start": 1.46,
+          "end": 1.6,
+          "local_start": 1.46,
+          "local_end": 1.6
+        },
+        {
+          "word": "me",
+          "start": 1.6,
+          "end": 1.8,
+          "local_start": 1.6,
+          "local_end": 1.8
+        },
+        {
+          "word": "how",
+          "start": 1.8,
+          "end": 1.9,
+          "local_start": 1.8,
+          "local_end": 1.9
+        },
+        {
+          "word": "to",
+          "start": 1.9,
+          "end": 2.06,
+          "local_start": 1.9,
+          "local_end": 2.06
+        },
+        {
+          "word": "get",
+          "start": 2.06,
+          "end": 2.14,
+          "local_start": 2.06,
+          "local_end": 2.14
+        },
+        {
+          "word": "to",
+          "start": 2.14,
+          "end": 2.26,
+          "local_start": 2.14,
+          "local_end": 2.26
+        },
+        {
+          "word": "the",
+          "start": 2.26,
+          "end": 2.48,
+          "local_start": 2.26,
+          "local_end": 2.48
+        },
+        {
+          "word": "City",
+          "start": 2.48,
+          "end": 2.7,
+          "local_start": 2.48,
+          "local_end": 2.7
+        },
+        {
+          "word": "Museum?",
+          "start": 2.7,
+          "end": 3.06,
+          "local_start": 2.7,
+          "local_end": 3.06
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "file": "02.mp3",
+      "text": "Sure. Take the Blue Line toward downtown.",
+      "audio_sha256": "bda2a27c06c89847ef474b88ed980340f26e3c6fb4cd1538a139b8b5ed270629",
+      "start": 3.36,
+      "end": 6.36,
+      "duration": 3.0,
+      "words": [
+        {
+          "word": "Sure.",
+          "start": 3.36,
+          "end": 3.9,
+          "local_start": 0.0,
+          "local_end": 0.54
+        },
+        {
+          "word": "Take",
+          "start": 4.32,
+          "end": 4.56,
+          "local_start": 0.96,
+          "local_end": 1.2
+        },
+        {
+          "word": "the",
+          "start": 4.56,
+          "end": 4.76,
+          "local_start": 1.2,
+          "local_end": 1.4
+        },
+        {
+          "word": "Blue",
+          "start": 4.76,
+          "end": 4.96,
+          "local_start": 1.4,
+          "local_end": 1.6
+        },
+        {
+          "word": "Line",
+          "start": 4.96,
+          "end": 5.24,
+          "local_start": 1.6,
+          "local_end": 1.88
+        },
+        {
+          "word": "toward",
+          "start": 5.24,
+          "end": 5.54,
+          "local_start": 1.88,
+          "local_end": 2.18
+        },
+        {
+          "word": "downtown.",
+          "start": 5.54,
+          "end": 5.98,
+          "local_start": 2.18,
+          "local_end": 2.62
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "file": "03.mp3",
+      "text": "Do I need to change trains?",
+      "audio_sha256": "7f499616e002fc6c87d01b73cdab5a7b0d5532c031a3b8115db51e40c4300a51",
+      "start": 6.36,
+      "end": 8.424,
+      "duration": 2.064,
+      "words": [
+        {
+          "word": "Do",
+          "start": 6.36,
+          "end": 6.54,
+          "local_start": 0.0,
+          "local_end": 0.18
+        },
+        {
+          "word": "I",
+          "start": 6.54,
+          "end": 6.76,
+          "local_start": 0.18,
+          "local_end": 0.4
+        },
+        {
+          "word": "need",
+          "start": 6.76,
+          "end": 7.0,
+          "local_start": 0.4,
+          "local_end": 0.64
+        },
+        {
+          "word": "to",
+          "start": 7.0,
+          "end": 7.38,
+          "local_start": 0.64,
+          "local_end": 1.02
+        },
+        {
+          "word": "change",
+          "start": 7.38,
+          "end": 7.5,
+          "local_start": 1.02,
+          "local_end": 1.14
+        },
+        {
+          "word": "trains?",
+          "start": 7.5,
+          "end": 8.04,
+          "local_start": 1.14,
+          "local_end": 1.68
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "file": "04.mp3",
+      "text": "Yes. Transfer to the Green Line at Central Station.",
+      "audio_sha256": "055613d59905d08124ef0c01f5565948b5eac49b5c468b7ab306872e52e48611",
+      "start": 8.424,
+      "end": 11.928,
+      "duration": 3.504,
+      "words": [
+        {
+          "word": "Yes.",
+          "start": 8.424,
+          "end": 9.104,
+          "local_start": 0.0,
+          "local_end": 0.68
+        },
+        {
+          "word": "Transfer",
+          "start": 9.884,
+          "end": 9.884,
+          "local_start": 1.46,
+          "local_end": 1.46
+        },
+        {
+          "word": "to",
+          "start": 9.884,
+          "end": 10.064,
+          "local_start": 1.46,
+          "local_end": 1.64
+        },
+        {
+          "word": "the",
+          "start": 10.064,
+          "end": 10.244,
+          "local_start": 1.64,
+          "local_end": 1.82
+        },
+        {
+          "word": "Green",
+          "start": 10.244,
+          "end": 10.444,
+          "local_start": 1.82,
+          "local_end": 2.02
+        },
+        {
+          "word": "Line",
+          "start": 10.444,
+          "end": 10.664,
+          "local_start": 2.02,
+          "local_end": 2.24
+        },
+        {
+          "word": "at",
+          "start": 10.664,
+          "end": 11.024,
+          "local_start": 2.24,
+          "local_end": 2.6
+        },
+        {
+          "word": "Central",
+          "start": 11.024,
+          "end": 11.324,
+          "local_start": 2.6,
+          "local_end": 2.9
+        },
+        {
+          "word": "Station.",
+          "start": 11.324,
+          "end": 11.624,
+          "local_start": 2.9,
+          "local_end": 3.2
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "file": "05.mp3",
+      "text": "Okay. And how many stops is it after that?",
+      "audio_sha256": "259ee7fad0b8d7c107247277f727d6f93dfb12a1e4b472d0cb4a920b3c0c6d14",
+      "start": 11.928,
+      "end": 14.688,
+      "duration": 2.76,
+      "words": [
+        {
+          "word": "Okay.",
+          "start": 11.928,
+          "end": 12.528,
+          "local_start": 0.0,
+          "local_end": 0.6
+        },
+        {
+          "word": "And",
+          "start": 12.808,
+          "end": 13.088,
+          "local_start": 0.88,
+          "local_end": 1.16
+        },
+        {
+          "word": "how",
+          "start": 13.088,
+          "end": 13.228,
+          "local_start": 1.16,
+          "local_end": 1.3
+        },
+        {
+          "word": "many",
+          "start": 13.228,
+          "end": 13.408,
+          "local_start": 1.3,
+          "local_end": 1.48
+        },
+        {
+          "word": "stops",
+          "start": 13.408,
+          "end": 13.708,
+          "local_start": 1.48,
+          "local_end": 1.78
+        },
+        {
+          "word": "is",
+          "start": 13.708,
+          "end": 13.848,
+          "local_start": 1.78,
+          "local_end": 1.92
+        },
+        {
+          "word": "it",
+          "start": 13.848,
+          "end": 14.048,
+          "local_start": 1.92,
+          "local_end": 2.12
+        },
+        {
+          "word": "after",
+          "start": 14.048,
+          "end": 14.188,
+          "local_start": 2.12,
+          "local_end": 2.26
+        },
+        {
+          "word": "that?",
+          "start": 14.188,
+          "end": 14.408,
+          "local_start": 2.26,
+          "local_end": 2.48
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "file": "06.mp3",
+      "text": "Just two. Get off at Museum Square.",
+      "audio_sha256": "27ce90b136d6d0ace1f6737c2e791d66258008e87c11e9bdf1468342b866cbe7",
+      "start": 14.688,
+      "end": 17.688,
+      "duration": 3.0,
+      "words": [
+        {
+          "word": "Just",
+          "start": 14.688,
+          "end": 15.008,
+          "local_start": 0.0,
+          "local_end": 0.32
+        },
+        {
+          "word": "two.",
+          "start": 15.008,
+          "end": 15.388,
+          "local_start": 0.32,
+          "local_end": 0.7
+        },
+        {
+          "word": "Get",
+          "start": 16.028,
+          "end": 16.148,
+          "local_start": 1.34,
+          "local_end": 1.46
+        },
+        {
+          "word": "off",
+          "start": 16.148,
+          "end": 16.368,
+          "local_start": 1.46,
+          "local_end": 1.68
+        },
+        {
+          "word": "at",
+          "start": 16.368,
+          "end": 16.588,
+          "local_start": 1.68,
+          "local_end": 1.9
+        },
+        {
+          "word": "Museum",
+          "start": 16.588,
+          "end": 16.928,
+          "local_start": 1.9,
+          "local_end": 2.24
+        },
+        {
+          "word": "Square.",
+          "start": 16.928,
+          "end": 17.268,
+          "local_start": 2.24,
+          "local_end": 2.58
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "file": "07.mp3",
+      "text": "Got it. Is the museum far from the station?",
+      "audio_sha256": "8d45d3b290452c89a6e51462b8d2165178080dc5dffaa98e9d7abb250984cdb4",
+      "start": 17.688,
+      "end": 20.592,
+      "duration": 2.904,
+      "words": [
+        {
+          "word": "Got",
+          "start": 17.688,
+          "end": 18.048,
+          "local_start": 0.0,
+          "local_end": 0.36
+        },
+        {
+          "word": "it.",
+          "start": 18.048,
+          "end": 18.248,
+          "local_start": 0.36,
+          "local_end": 0.56
+        },
+        {
+          "word": "Is",
+          "start": 18.568,
+          "end": 18.828,
+          "local_start": 0.88,
+          "local_end": 1.14
+        },
+        {
+          "word": "the",
+          "start": 18.828,
+          "end": 18.928,
+          "local_start": 1.14,
+          "local_end": 1.24
+        },
+        {
+          "word": "museum",
+          "start": 18.928,
+          "end": 19.288,
+          "local_start": 1.24,
+          "local_end": 1.6
+        },
+        {
+          "word": "far",
+          "start": 19.288,
+          "end": 19.608,
+          "local_start": 1.6,
+          "local_end": 1.92
+        },
+        {
+          "word": "from",
+          "start": 19.608,
+          "end": 19.788,
+          "local_start": 1.92,
+          "local_end": 2.1
+        },
+        {
+          "word": "the",
+          "start": 19.788,
+          "end": 20.088,
+          "local_start": 2.1,
+          "local_end": 2.4
+        },
+        {
+          "word": "station?",
+          "start": 20.088,
+          "end": 20.188,
+          "local_start": 2.4,
+          "local_end": 2.5
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "file": "08.mp3",
+      "text": "Not at all. It's about a five-minute walk from Exit Two.",
+      "audio_sha256": "36cdb7cce4909868c27d64f57b1b30576187f603b70b7dbfa37d2cc08938f855",
+      "start": 20.592,
+      "end": 24.24,
+      "duration": 3.648,
+      "words": [
+        {
+          "word": "Not",
+          "start": 20.592,
+          "end": 20.892,
+          "local_start": 0.0,
+          "local_end": 0.3
+        },
+        {
+          "word": "at",
+          "start": 20.892,
+          "end": 21.032,
+          "local_start": 0.3,
+          "local_end": 0.44
+        },
+        {
+          "word": "all.",
+          "start": 21.032,
+          "end": 21.372,
+          "local_start": 0.44,
+          "local_end": 0.78
+        },
+        {
+          "word": "It's",
+          "start": 21.552,
+          "end": 21.672,
+          "local_start": 0.96,
+          "local_end": 1.08
+        },
+        {
+          "word": "about",
+          "start": 21.672,
+          "end": 21.832,
+          "local_start": 1.08,
+          "local_end": 1.24
+        },
+        {
+          "word": "a",
+          "start": 21.832,
+          "end": 22.052,
+          "local_start": 1.24,
+          "local_end": 1.46
+        },
+        {
+          "word": "five-minute",
+          "start": 22.052,
+          "end": 22.452,
+          "local_start": 1.46,
+          "local_end": 1.86
+        },
+        {
+          "word": "walk",
+          "start": 22.452,
+          "end": 22.732,
+          "local_start": 1.86,
+          "local_end": 2.14
+        },
+        {
+          "word": "from",
+          "start": 22.732,
+          "end": 23.132,
+          "local_start": 2.14,
+          "local_end": 2.54
+        },
+        {
+          "word": "Exit",
+          "start": 23.132,
+          "end": 23.432,
+          "local_start": 2.54,
+          "local_end": 2.84
+        },
+        {
+          "word": "Two.",
+          "start": 23.432,
+          "end": 23.712,
+          "local_start": 2.84,
+          "local_end": 3.12
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "file": "09.mp3",
+      "text": "Great. I always get a little nervous using a new subway system.",
+      "audio_sha256": "86c92713bc22e0334c3e4210aa2e4885f08318f15b9c246ca9fbbeee39c64d80",
+      "start": 24.24,
+      "end": 28.104,
+      "duration": 3.864,
+      "words": [
+        {
+          "word": "Great.",
+          "start": 24.24,
+          "end": 24.6,
+          "local_start": 0.0,
+          "local_end": 0.36
+        },
+        {
+          "word": "I",
+          "start": 25.06,
+          "end": 25.22,
+          "local_start": 0.82,
+          "local_end": 0.98
+        },
+        {
+          "word": "always",
+          "start": 25.22,
+          "end": 25.42,
+          "local_start": 0.98,
+          "local_end": 1.18
+        },
+        {
+          "word": "get",
+          "start": 25.42,
+          "end": 25.58,
+          "local_start": 1.18,
+          "local_end": 1.34
+        },
+        {
+          "word": "a",
+          "start": 25.58,
+          "end": 25.68,
+          "local_start": 1.34,
+          "local_end": 1.44
+        },
+        {
+          "word": "little",
+          "start": 25.68,
+          "end": 25.9,
+          "local_start": 1.44,
+          "local_end": 1.66
+        },
+        {
+          "word": "nervous",
+          "start": 25.9,
+          "end": 26.32,
+          "local_start": 1.66,
+          "local_end": 2.08
+        },
+        {
+          "word": "using",
+          "start": 26.32,
+          "end": 26.6,
+          "local_start": 2.08,
+          "local_end": 2.36
+        },
+        {
+          "word": "a",
+          "start": 26.6,
+          "end": 26.8,
+          "local_start": 2.36,
+          "local_end": 2.56
+        },
+        {
+          "word": "new",
+          "start": 26.8,
+          "end": 27.02,
+          "local_start": 2.56,
+          "local_end": 2.78
+        },
+        {
+          "word": "subway",
+          "start": 27.02,
+          "end": 27.3,
+          "local_start": 2.78,
+          "local_end": 3.06
+        },
+        {
+          "word": "system.",
+          "start": 27.3,
+          "end": 27.62,
+          "local_start": 3.06,
+          "local_end": 3.38
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "file": "10.mp3",
+      "text": "No worries. Just follow the signs, and you'll be fine.",
+      "audio_sha256": "662de58a356121186cc951127a94fe539e4dbd9ed13c9a021ccd10e5e0e320a2",
+      "start": 28.104,
+      "end": 31.464,
+      "duration": 3.36,
+      "words": [
+        {
+          "word": "No",
+          "start": 28.104,
+          "end": 28.384,
+          "local_start": 0.0,
+          "local_end": 0.28
+        },
+        {
+          "word": "worries.",
+          "start": 28.384,
+          "end": 28.764,
+          "local_start": 0.28,
+          "local_end": 0.66
+        },
+        {
+          "word": "Just",
+          "start": 29.184,
+          "end": 29.624,
+          "local_start": 1.08,
+          "local_end": 1.52
+        },
+        {
+          "word": "follow",
+          "start": 29.624,
+          "end": 29.724,
+          "local_start": 1.52,
+          "local_end": 1.62
+        },
+        {
+          "word": "the",
+          "start": 29.724,
+          "end": 29.944,
+          "local_start": 1.62,
+          "local_end": 1.84
+        },
+        {
+          "word": "signs,",
+          "start": 29.944,
+          "end": 30.284,
+          "local_start": 1.84,
+          "local_end": 2.18
+        },
+        {
+          "word": "and",
+          "start": 30.604,
+          "end": 30.784,
+          "local_start": 2.5,
+          "local_end": 2.68
+        },
+        {
+          "word": "you'll",
+          "start": 30.784,
+          "end": 30.944,
+          "local_start": 2.68,
+          "local_end": 2.84
+        },
+        {
+          "word": "be",
+          "start": 30.944,
+          "end": 31.104,
+          "local_start": 2.84,
+          "local_end": 3.0
+        },
+        {
+          "word": "fine.",
+          "start": 31.104,
+          "end": 31.304,
+          "local_start": 3.0,
+          "local_end": 3.2
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "file": "11.mp3",
+      "text": "Thanks so much. I really appreciate your help.",
+      "audio_sha256": "566bd1bb244981ade7ca2e1d047705f7ef7b48a0c8a384006c032837e2c61cda",
+      "start": 31.464,
+      "end": 34.416,
+      "duration": 2.952,
+      "words": [
+        {
+          "word": "Thanks",
+          "start": 31.464,
+          "end": 31.804,
+          "local_start": 0.0,
+          "local_end": 0.34
+        },
+        {
+          "word": "so",
+          "start": 31.804,
+          "end": 32.004,
+          "local_start": 0.34,
+          "local_end": 0.54
+        },
+        {
+          "word": "much.",
+          "start": 32.004,
+          "end": 32.344,
+          "local_start": 0.54,
+          "local_end": 0.88
+        },
+        {
+          "word": "I",
+          "start": 32.764,
+          "end": 33.024,
+          "local_start": 1.3,
+          "local_end": 1.56
+        },
+        {
+          "word": "really",
+          "start": 33.024,
+          "end": 33.304,
+          "local_start": 1.56,
+          "local_end": 1.84
+        },
+        {
+          "word": "appreciate",
+          "start": 33.304,
+          "end": 33.804,
+          "local_start": 1.84,
+          "local_end": 2.34
+        },
+        {
+          "word": "your",
+          "start": 33.804,
+          "end": 34.004,
+          "local_start": 2.34,
+          "local_end": 2.54
+        },
+        {
+          "word": "help.",
+          "start": 34.004,
+          "end": 34.184,
+          "local_start": 2.54,
+          "local_end": 2.72
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "file": "12.mp3",
+      "text": "You're welcome. Enjoy your visit!",
+      "audio_sha256": "b8880a72f62e9cff2281eb86bf7c9de40ec65a295edf1d81936af1b851cc73fa",
+      "start": 34.416,
+      "end": 36.936,
+      "duration": 2.52,
+      "words": [
+        {
+          "word": "You're",
+          "start": 34.416,
+          "end": 34.856,
+          "local_start": 0.0,
+          "local_end": 0.44
+        },
+        {
+          "word": "welcome.",
+          "start": 34.856,
+          "end": 35.556,
+          "local_start": 0.44,
+          "local_end": 1.14
+        },
+        {
+          "word": "Enjoy",
+          "start": 36.156,
+          "end": 36.316,
+          "local_start": 1.74,
+          "local_end": 1.9
+        },
+        {
+          "word": "your",
+          "start": 36.316,
+          "end": 36.576,
+          "local_start": 1.9,
+          "local_end": 2.16
+        },
+        {
+          "word": "visit!",
+          "start": 36.576,
+          "end": 36.696,
+          "local_start": 2.16,
+          "local_end": 2.28
+        }
+      ]
+    }
+  ]
+}

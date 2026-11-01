@@ -137,14 +137,15 @@ function setupFullDialogueKaraoke() {
     const words = parts.map((part) => part.trimEnd());
     const weights = words.map((w) => Math.max(1, w.replace(/[^A-Za-z0-9']/g, '').length || w.length || 1));
     const weightSum = weights.reduce((a, b) => a + b, 0) || 1;
-    return { line, speaker, english, chinese, words, weights, weightSum, parts };
+    return { line, speaker, english, chinese, words, weights, weightSum, parts, wordCues: null };
   });
 
   let cues = [];
   let activeIndex = -1;
   let wordIndex = -1;
+  let usingWhisper = false;
 
-  function rebuildCues(durations) {
+  function rebuildCuesFromDurations(durations) {
     let t = 0;
     cues = durations.map((duration, i) => {
       const start = t;
@@ -152,6 +153,31 @@ function setupFullDialogueKaraoke() {
       t = end;
       return { start, end, i };
     });
+  }
+
+  function applyWhisperCues(payload) {
+    if (!payload?.lines?.length || payload.lines.length !== tokens.length) return false;
+    cues = payload.lines.map((line, i) => {
+      const words = (line.words || []).map((w) => ({
+        word: w.word,
+        start: Number(w.start),
+        end: Number(w.end),
+      }));
+      tokens[i].wordCues = words;
+      return {
+        start: Number(line.start),
+        end: Number(line.end),
+        i,
+      };
+    });
+    usingWhisper = cues.every((c) => Number.isFinite(c.start) && Number.isFinite(c.end) && c.end > c.start);
+    return usingWhisper;
+  }
+
+  function cuesUrl() {
+    const src = fullAudio.getAttribute('src') || fullAudio.currentSrc || '';
+    // audio/<lesson>/dialogue-full.mp3 → audio/<lesson>/cues.json
+    return src.replace(/dialogue-full\.mp3(?:\?.*)?$/i, 'cues.json');
   }
 
   function renderWords(token, progressWord) {
@@ -166,7 +192,40 @@ function setupFullDialogueKaraoke() {
     });
   }
 
-  function setActive(index, localProgress) {
+  function wordProgress(token, cue, t) {
+    if (usingWhisper && token.wordCues?.length) {
+      const words = token.wordCues;
+      let idx = words.findIndex((w) => t >= w.start && t < w.end);
+      if (idx < 0) {
+        if (t <= words[0].start) idx = 0;
+        else if (t >= words[words.length - 1].end) idx = words.length - 1;
+        else {
+          // between words: highlight the next upcoming word
+          idx = words.findIndex((w) => t < w.start);
+          if (idx < 0) idx = words.length - 1;
+          else idx = Math.max(0, idx - 1);
+        }
+      }
+      // Map whisper word count onto display parts if lengths differ.
+      if (words.length === token.parts.length) return idx;
+      const ratio = (idx + 0.5) / words.length;
+      return Math.min(token.parts.length - 1, Math.floor(ratio * token.parts.length));
+    }
+    const local = Math.min(1, Math.max(0, (t - cue.start) / (cue.end - cue.start || 1)));
+    let acc = 0;
+    let weightedWord = token.words.length - 1;
+    const target = local * token.weightSum;
+    for (let i = 0; i < token.weights.length; i += 1) {
+      acc += token.weights[i];
+      if (target <= acc) {
+        weightedWord = i;
+        break;
+      }
+    }
+    return weightedWord;
+  }
+
+  function setActive(index, t) {
     const playing = !fullAudio.paused && !fullAudio.ended;
     panel.hidden = index < 0;
     panel.classList.toggle('is-playing', playing && index >= 0);
@@ -179,29 +238,23 @@ function setupFullDialogueKaraoke() {
     }
 
     const token = tokens[index];
-    // Prefer weight-based word progress for uneven word lengths.
-    let acc = 0;
-    let weightedWord = token.words.length - 1;
-    const target = localProgress * token.weightSum;
-    for (let i = 0; i < token.weights.length; i += 1) {
-      acc += token.weights[i];
-      if (target <= acc) {
-        weightedWord = i;
-        break;
-      }
-    }
+    const cue = cues[index];
+    const progressWord = wordProgress(token, cue, t);
 
     if (index !== activeIndex) {
       lines.forEach((line, i) => line.classList.toggle('is-active', i === index));
+      const active = tokens[index].line;
+      if (playing && active && typeof active.scrollIntoView === 'function') {
+        try { active.scrollIntoView({ block: 'nearest', behavior: 'smooth' }); } catch (_) {}
+      }
       speakerEl.textContent = token.speaker;
       zhEl.textContent = token.chinese;
-      token.line.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
       activeIndex = index;
       wordIndex = -1;
     }
-    if (weightedWord !== wordIndex || index !== activeIndex) {
-      renderWords(token, weightedWord);
-      wordIndex = weightedWord;
+    if (progressWord !== wordIndex) {
+      renderWords(token, progressWord);
+      wordIndex = progressWord;
     }
   }
 
@@ -209,16 +262,13 @@ function setupFullDialogueKaraoke() {
     if (!cues.length) return;
     const t = fullAudio.currentTime || 0;
     if (fullAudio.ended) {
-      // Keep the last line visible after finish so the learner can re-read it.
-      setActive(cues.length - 1, 1);
+      setActive(cues.length - 1, cues[cues.length - 1].end);
       panel.classList.remove('is-playing');
       return;
     }
     let idx = cues.findIndex((c) => t >= c.start && t < c.end);
     if (idx < 0) idx = t >= cues[cues.length - 1].end ? cues.length - 1 : 0;
-    const cue = cues[idx];
-    const local = Math.min(1, Math.max(0, (t - cue.start) / (cue.end - cue.start || 1)));
-    setActive(idx, local);
+    setActive(idx, t);
     if (fullAudio.paused) panel.classList.remove('is-playing');
   }
 
@@ -233,26 +283,42 @@ function setupFullDialogueKaraoke() {
     });
   }
 
-  Promise.all(lineAudios.map(waitMeta)).then((durations) => {
-    if (durations.every((d) => d > 0)) rebuildCues(durations);
-    else {
-      // Fallback: equal slices of the full track if a line duration is missing.
-      waitMeta(fullAudio).then((fullDur) => {
-        const n = lines.length;
-        const slice = (fullDur || n) / n;
-        rebuildCues(Array.from({ length: n }, () => slice));
+  function fallbackDurationCues() {
+    return Promise.all(lineAudios.map(waitMeta)).then((durations) => {
+      if (durations.every((d) => d > 0)) rebuildCuesFromDurations(durations);
+      else {
+        return waitMeta(fullAudio).then((fullDur) => {
+          const n = lines.length;
+          const slice = (fullDur || n) / n;
+          rebuildCuesFromDurations(Array.from({ length: n }, () => slice));
+        });
+      }
+    });
+  }
+
+  fetch(cuesUrl(), { credentials: 'same-origin' })
+    .then((r) => (r.ok ? r.json() : null))
+    .then((payload) => {
+      if (payload && applyWhisperCues(payload)) {
+        panel.dataset.cues = 'whisper';
         syncFromTime();
-      });
-    }
-    syncFromTime();
-  });
+        return;
+      }
+      panel.dataset.cues = 'approx';
+      return fallbackDurationCues().then(syncFromTime);
+    })
+    .catch(() => {
+      panel.dataset.cues = 'approx';
+      return fallbackDurationCues().then(syncFromTime);
+    });
 
   ['timeupdate', 'seeked', 'play', 'pause', 'ended', 'loadedmetadata'].forEach((evt) => {
     fullAudio.addEventListener(evt, syncFromTime);
   });
 }
 
-const CACHE = 'everyday-english-v6';
+
+const CACHE = 'everyday-english-v6-park-1';
 
 async function putUrl(cache, url) {
   const abs = new URL(url, location.href).href;
@@ -320,7 +386,8 @@ async function warmLibraryFromHome() {
   if (!links.length || !('caches' in window)) return;
   const lessons = [...new Set(links.map((a) => a.getAttribute('href').replace(/\.html$/, '')))];
   const urls = [];
-  for (const slug of lessons) {
+  for (const lesson of lessons) {
+    const slug = lesson === 'lesson-coffee' ? 'coffee' : lesson;
     for (let i = 1; i <= 12; i += 1) urls.push(`audio/${slug}/${String(i).padStart(2, '0')}.mp3`);
     urls.push(`audio/${slug}/dialogue-full.mp3`);
   }
@@ -337,3 +404,92 @@ setupFullDialogueKaraoke();
 
 if (lineAudios.length || fullAudio) prepareLessonAudio();
 else warmLibraryFromHome();
+
+function setupMiniPlayer() {
+  if (!lineAudios.length) return;
+  const lines = lineAudios.map(a => a.closest('article.line'));
+  const dock = document.createElement('section');
+  dock.id = 'mini-player';
+  dock.setAttribute('aria-label', '对话迷你播放器');
+  dock.innerHTML = `<div class="mini-copy"><p class="mini-status" role="status"></p><p class="mini-sentence" lang="en"></p></div><div class="mini-controls"><button type="button" aria-label="上一句">‹</button><button type="button" class="mini-toggle" aria-label="播放">▶</button><button type="button" aria-label="下一句">›</button></div>`;
+  document.body.append(dock);
+  document.body.classList.add('has-mini-player');
+  const [prev, toggle, next] = dock.querySelectorAll('button');
+  let index = 0;
+  let source = lineAudios[0];
+  let sequence = false;
+  let failed = false;
+  function render() {
+    const playing = !source.paused && !source.ended;
+    lines.forEach((line, i) => line.classList.toggle('is-current', i === index));
+    dock.querySelector('.mini-status').textContent = `${failed ? '播放失败，请重试' : playing ? '播放中' : '已暂停'} · ${lines[index].querySelector('.speaker').textContent.split('·')[0].trim()} · ${index + 1}/${lines.length}`;
+    dock.querySelector('.mini-sentence').textContent = lines[index].querySelector('.english').textContent;
+    toggle.textContent = playing ? 'Ⅱ' : '▶';
+    toggle.setAttribute('aria-label', playing ? '暂停' : '播放');
+    prev.disabled = index === 0;
+    next.disabled = index === lines.length - 1;
+  }
+  async function playLine(i) {
+    source.pause();
+    index = i;
+    source = lineAudios[i];
+    source.currentTime = 0;
+    source.playbackRate = Number(rate?.value || 1);
+    failed = false;
+    try { await source.play(); } catch (_) { failed = true; }
+    render();
+  }
+  lineAudios.forEach((audio, i) => {
+    audio.addEventListener('play', () => {
+      lines.forEach(line => line.classList.remove('is-active'));
+      index = i;
+      source = audio;
+      failed = false;
+      render();
+    });
+    audio.addEventListener('ended', () => {
+      if (sequence && i < lineAudios.length - 1) playLine(i + 1);
+      else { sequence = false; render(); }
+    });
+  });
+  audios.forEach(audio => {
+    ['pause', 'error'].forEach(event => audio.addEventListener(event, () => {
+      if (audio === source) { failed = event === 'error'; render(); }
+    }));
+  });
+  // Full-track cues use the actual line durations, matching the concatenated MP3.
+  if (fullAudio) {
+    const syncFull = () => {
+      if (source !== fullAudio) return;
+      let offset = 0;
+      for (let i = 0; i < lineAudios.length; i++) {
+        if (!Number.isFinite(lineAudios[i].duration)) break;
+        offset += lineAudios[i].duration;
+        index = i;
+        if (fullAudio.currentTime < offset) break;
+      }
+      render();
+    };
+    fullAudio.addEventListener('play', () => { source = fullAudio; sequence = false; failed = false; syncFull(); });
+    ['timeupdate', 'seeked', 'ended'].forEach(event => fullAudio.addEventListener(event, syncFull));
+  }
+  toggle.addEventListener('click', async () => {
+    if (!source.paused && !source.ended) source.pause();
+    else {
+      failed = false;
+      if (source !== fullAudio) sequence = true;
+      try { await source.play(); } catch (_) { failed = true; }
+      render();
+    }
+  });
+  prev.addEventListener('click', () => { sequence = true; playLine(Math.max(0, index - 1)); });
+  next.addEventListener('click', () => { sequence = true; playLine(Math.min(lines.length - 1, index + 1)); });
+  const all = document.createElement('button');
+  all.type = 'button';
+  all.className = 'audio-toggle';
+  all.textContent = '▶ 逐句连续播放';
+  all.addEventListener('click', () => { sequence = true; playLine(0); });
+  document.querySelector('.full-play-copy')?.append(all);
+  render();
+}
+setupMiniPlayer();
