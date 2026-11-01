@@ -99,7 +99,7 @@ if (search) {
   });
 }
 
-const CACHE = 'everyday-english-v4';
+const CACHE = 'everyday-english-v5';
 
 async function putUrl(cache, url) {
   const abs = new URL(url, location.href).href;
