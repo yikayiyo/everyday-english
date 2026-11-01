@@ -1,5 +1,5 @@
-const CACHE = 'everyday-english-d5e91894a001-301fd3a51aaa';
-const PRECACHE = ['./', './index.html', './site.css?h=d5e91894a001', './app.js?h=301fd3a51aaa', './lesson-coffee.html', './subway.html', './cooking.html', './park.html'];
+const CACHE = 'everyday-english-97bdb4286a5a-4a1a555c09ab';
+const PRECACHE = ['./', './index.html', './site.css?h=97bdb4286a5a', './app.js?h=4a1a555c09ab', './lesson-coffee.html', './subway.html', './cooking.html', './park.html'];
 self.addEventListener('install', (event) => {
   event.waitUntil(caches.open(CACHE).then((c) => c.addAll(PRECACHE)).then(() => self.skipWaiting()));
 });

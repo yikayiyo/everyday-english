@@ -99,34 +99,85 @@ if (search) {
 }
 
 
-function setupFullDialogueKaraoke() {
+function setupMiniPlayer() {
   if (!fullAudio) return;
   const lines = [...document.querySelectorAll('article.line')];
   if (!lines.length) return;
 
-  const section = document.querySelector('#full-dialogue') || document.querySelector('.full-play');
-  if (!section) return;
-
-  const panel = document.createElement('div');
-  panel.className = 'karaoke';
-  panel.hidden = true;
-  panel.setAttribute('aria-live', 'polite');
-  panel.innerHTML = `
-    <p class="karaoke-kicker">NOW PLAYING</p>
+  const dock = document.createElement('section');
+  dock.id = 'mini-player';
+  dock.setAttribute('aria-label', '对话迷你播放器');
+  dock.innerHTML = `<div class="karaoke mini-copy">
     <p class="karaoke-speaker"></p>
     <p class="karaoke-en" lang="en"></p>
-    <p class="karaoke-zh chinese"></p>`;
+    <p class="karaoke-zh chinese"></p>
+    </div><div class="mini-controls">
+    <button type="button" aria-label="上一句">‹</button>
+    <button type="button" class="mini-toggle" aria-label="播放完整对话">▶</button>
+    <button type="button" aria-label="下一句">›</button>
+    </div>`;
+  document.body.append(dock);
+  document.body.classList.add('has-mini-player');
+  const panel = dock.querySelector('.karaoke');
   const speakerEl = panel.querySelector('.karaoke-speaker');
   const enEl = panel.querySelector('.karaoke-en');
   const zhEl = panel.querySelector('.karaoke-zh');
+  const [prev, toggle, next] = dock.querySelectorAll('button');
+  let source = fullAudio;
+  let lineIndex = 0;
+  let failed = false;
 
-  const hostPlayer = section.querySelector('.audio-player');
-  if (hostPlayer) hostPlayer.before(panel);
-  else {
-    const audio = section.querySelector('#full-audio');
-    if (audio) audio.before(panel);
-    else section.append(panel);
+  function renderControls() {
+    const playing = !source.paused && !source.ended;
+    toggle.textContent = playing ? 'Ⅱ' : '▶';
+    toggle.setAttribute('aria-label', playing ? '暂停' : '播放');
+    speakerEl.textContent = failed ? '播放失败，请重试' : tokens[lineIndex].speaker;
+    prev.disabled = lineIndex === 0;
+    next.disabled = lineIndex === lines.length - 1;
   }
+  async function playSource() {
+    failed = false;
+    try { await source.play(); } catch (_) { failed = true; }
+    renderControls();
+  }
+  function playLine(index) {
+    source.pause();
+    source = lineAudios[index];
+    source.currentTime = 0;
+    source.playbackRate = Number(rate?.value || 1);
+    playSource();
+  }
+  toggle.addEventListener('click', () => {
+    if (!source.paused && !source.ended) source.pause();
+    else playSource();
+  });
+  prev.addEventListener('click', () => playLine(Math.max(0, lineIndex - 1)));
+  next.addEventListener('click', () => playLine(Math.min(lines.length - 1, lineIndex + 1)));
+  lineAudios.forEach((audio, index) => {
+    audio.addEventListener('play', () => {
+      source = audio;
+      lineIndex = index;
+      activeIndex = -1;
+      failed = false;
+      lines.forEach((line, i) => line.classList.toggle('is-active', i === index));
+      enEl.textContent = tokens[index].english;
+      zhEl.textContent = tokens[index].chinese;
+      renderControls();
+    });
+  });
+  audios.forEach((audio) => {
+    ['pause', 'ended', 'error'].forEach((event) => audio.addEventListener(event, () => {
+      if (audio !== source) return;
+      failed = event === 'error';
+      renderControls();
+    }));
+  });
+  fullAudio.addEventListener('play', () => {
+    source = fullAudio;
+    failed = false;
+    syncFromTime();
+    renderControls();
+  });
 
   const tokens = lines.map((line) => {
     const english = line.querySelector('.english')?.textContent.trim() || '';
@@ -226,7 +277,8 @@ function setupFullDialogueKaraoke() {
 
   function setActive(index, t) {
     const playing = !fullAudio.paused && !fullAudio.ended;
-    panel.hidden = index < 0;
+    lineIndex = Math.max(0, index);
+    renderControls();
     panel.classList.toggle('is-playing', playing && index >= 0);
 
     if (index < 0) {
@@ -254,7 +306,7 @@ function setupFullDialogueKaraoke() {
   }
 
   function syncFromTime() {
-    if (!cues.length) return;
+    if (source !== fullAudio || !cues.length) return;
     const t = fullAudio.currentTime || 0;
     if (fullAudio.ended) {
       setActive(cues.length - 1, cues[cues.length - 1].end);
@@ -290,6 +342,10 @@ function setupFullDialogueKaraoke() {
       }
     });
   }
+
+  enEl.textContent = tokens[0].english;
+  zhEl.textContent = tokens[0].chinese;
+  renderControls();
 
   fetch(cuesUrl(), { credentials: 'same-origin' })
     .then((r) => (r.ok ? r.json() : null))
@@ -385,7 +441,7 @@ if ('serviceWorker' in navigator) {
   });
 }
 
-setupFullDialogueKaraoke();
+setupMiniPlayer();
 
 if (lineAudios.length || fullAudio) prepareLessonAudio();
 else warmLibraryFromHome();

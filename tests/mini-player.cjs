@@ -3,14 +3,19 @@ const fs = require('node:fs');
 const vm = require('node:vm');
 const source = fs.readFileSync('app.js', 'utf8');
 const css = fs.readFileSync('site.css', 'utf8');
-assert.doesNotMatch(source + css, /setupMiniPlayer|mini-player|mini-controls|逐句连续播放|audio-status|audio-action/);
+assert.doesNotMatch(source + css, /逐句连续播放|audio-status|audio-action|scrollIntoView|NOW PLAYING/);
+assert.match(source, /setupMiniPlayer\(\);/);
+assert.match(source, /document.body.append\(dock\)/);
+assert.doesNotMatch(source, /hostPlayer|section.append\(panel\)/);
+assert.match(css, /height: 140px/);
+assert.match(css, /hidden-zh #mini-player .chinese.*visibility: hidden/);
 for (const page of ['lesson-coffee.html', 'subway.html', 'cooking.html', 'park.html']) {
   const html = fs.readFileSync(page, 'utf8');
   assert.doesNotMatch(html, /audio-status|mini-player/);
   assert.match(html, /id="full-audio"/);
   assert.match(html, /<audio controls/);
 }
-assert.match(source, /setupFullDialogueKaraoke\(\);/);
+
 assert.match(source, /applyWhisperCues\(payload\)/);
 assert.match(css, /\.karaoke-word\.is-current/);
 
@@ -32,4 +37,62 @@ for (const label of ['播放第 1 句', '播放完整对话']) {
   assert.equal(icon.textContent, 'Ⅱ');
   assert.equal(button['aria-label'], label.replace('播放', '暂停'));
 }
-console.log('PASS: dock/banner absent, karaoke retained, icon-only controls and accessible playback labels');
+
+// Exercise cue sync and shared dock controls without a browser dependency.
+(async () => {
+  function element() {
+    return {
+      textContent: '', children: [], events: {}, dataset: {},
+      classList: { add() {}, remove() {}, toggle() {} },
+      setAttribute(k, v) { this[k] = v; },
+      addEventListener(k, fn) { (this.events[k] ||= []).push(fn); },
+      emit(k) { for (const fn of this.events[k] || []) fn(); },
+      append(child) { this.children.push(child); },
+      replaceChildren() { this.children = []; },
+    };
+  }
+  const speaker = element(), en = element(), zh = element();
+  const panel = Object.assign(element(), { querySelector: s => ({'.karaoke-speaker': speaker, '.karaoke-en': en, '.karaoke-zh': zh})[s] });
+  const buttons = [element(), element(), element()];
+  const dock = Object.assign(element(), { querySelector: () => panel, querySelectorAll: () => buttons });
+  const lines = ['Hello there', 'Good morning'].map((english, i) => Object.assign(element(), {
+    querySelector: s => ({ textContent: s === '.english' ? english : s === '.speaker' ? `Speaker ${i}` : `中文 ${i}` }),
+  }));
+  const makeAudio = () => Object.assign(element(), {
+    paused: true, ended: false, currentTime: 0,
+    getAttribute: () => 'audio/park/dialogue-full.mp3',
+    async play() { this.paused = false; this.emit('play'); },
+    pause() { this.paused = true; this.emit('pause'); },
+  });
+  const fullAudio = makeAudio(), lineAudios = [makeAudio(), makeAudio()];
+  const body = element();
+  vm.runInNewContext(source.slice(source.indexOf('function setupMiniPlayer'), source.indexOf('const cssHash')) + '\nsetupMiniPlayer();', {
+    fullAudio, lineAudios, audios: [...lineAudios, fullAudio], rate: null,
+    document: { body, querySelectorAll: () => lines, createElement: tag => tag === 'section' ? dock : element() },
+    fetch: async () => ({ ok: true, json: async () => ({ lines: [
+      { start: 0, end: 2, words: [{start: 0, end: 1}, {start: 1, end: 2}] },
+      { start: 2, end: 4, words: [{start: 2, end: 3}, {start: 3, end: 4}] },
+    ] }) }),
+  });
+  await new Promise(resolve => setImmediate(resolve));
+  assert.equal(body.children[0], dock);
+  assert.equal(panel.dataset.cues, 'whisper');
+  fullAudio.currentTime = 2.5;
+  await fullAudio.play();
+  assert.equal(speaker.textContent, 'Speaker 1');
+  assert.equal(zh.textContent, '中文 1');
+  assert.equal(en.children[0].textContent, 'Good ');
+  fullAudio.currentTime = 3.5;
+  fullAudio.emit('timeupdate');
+  assert.equal(en.children[1].textContent, 'morning');
+  buttons[1].emit('click');
+  assert.equal(fullAudio.paused, true);
+  buttons[0].emit('click');
+  await new Promise(resolve => setImmediate(resolve));
+  assert.equal(lineAudios[0].paused, false);
+  assert.equal(en.textContent, 'Hello there');
+  // A late cue/time event must not overwrite the active line player.
+  fullAudio.emit('timeupdate');
+  assert.equal(en.textContent, 'Hello there');
+  console.log('PASS: dock cue sync, playback controls, line switching, icon-only labels and stable layout rules');
+})().catch(error => { console.error(error); process.exitCode = 1; });
