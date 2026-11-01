@@ -29,7 +29,7 @@ dock.querySelector = selector => selector === '.mini-status' ? status : sentence
 const host = new Element(); let playAll;
 host.append = button => { playAll = button; };
 const document = { body: new Element(), createElement: type => type === 'section' ? dock : new Element(), querySelector: () => host };
-const source = fs.readFileSync('app-v6.js', 'utf8').split('function setupMiniPlayer()')[1];
+const source = fs.readFileSync('app.js', 'utf8').split('function setupMiniPlayer()')[1];
 vm.runInNewContext('function setupMiniPlayer()' + source, {document, lineAudios, fullAudio, audios, rate: {value: '0.8'}});
 const tick = () => new Promise(resolve => setImmediate(resolve));
 (async () => {
