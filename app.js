@@ -108,7 +108,7 @@ async function warmLibraryFromHome() {
   const urls = [];
   for (const slug of lessons) {
     for (let i = 1; i <= 12; i += 1) urls.push(`audio/${slug}/${String(i).padStart(2, '0')}.mp3`);
-    urls.push(`audio/${slug}/full-dialogue.mp3`);
+    urls.push(`audio/${slug}/dialogue-full.mp3`);
   }
   warmUrls(urls).catch(() => {});
 }
