@@ -19,6 +19,29 @@ for (const page of ['lesson-coffee.html', 'subway.html', 'cooking.html', 'park.h
 assert.match(source, /applyWhisperCues\(payload\)/);
 assert.match(css, /\.karaoke-word\.is-current/);
 
+// Deferred scripts have no currentScript; missing or invalid asset URLs must not stop startup.
+for (const urls of [
+  ['site.css?h=css123', 'app.js?h=app456'],
+  [null, null],
+  ['http://[', 'http://['],
+]) {
+  const cache = vm.runInNewContext(
+    source.slice(source.indexOf('function assetHash'), source.indexOf('async function putUrl')) + '\nCACHE;',
+    {
+      URL,
+      document: {
+        currentScript: null,
+        baseURI: 'https://example.com/lessons/coffee.html',
+        querySelector: selector => {
+          const url = urls[selector.startsWith('link') ? 0 : 1];
+          return url === null ? null : { getAttribute: () => url };
+        },
+      },
+    },
+  );
+  assert.equal(cache, urls[0] === 'site.css?h=css123' ? 'everyday-english-css123-app456' : 'everyday-english--');
+}
+
 // Exercise the shared controls used by both line and full-dialogue audio.
 for (const label of ['播放第 1 句', '播放完整对话']) {
   const element = () => ({ textContent: '', hidden: true, style: { setProperty() {} }, setAttribute(k, v) { this[k] = v; }, addEventListener() {} });
@@ -66,7 +89,7 @@ for (const label of ['播放第 1 句', '播放完整对话']) {
   });
   const fullAudio = makeAudio(), lineAudios = [makeAudio(), makeAudio()];
   const body = element();
-  vm.runInNewContext(source.slice(source.indexOf('function setupMiniPlayer'), source.indexOf('const cssHash')) + '\nsetupMiniPlayer();', {
+  vm.runInNewContext(source.slice(source.indexOf('function setupMiniPlayer'), source.indexOf('function assetHash')), {
     fullAudio, lineAudios, audios: [...lineAudios, fullAudio], rate: null,
     document: { body, querySelectorAll: () => lines, createElement: tag => tag === 'section' ? dock : element() },
     fetch: async () => ({ ok: true, json: async () => ({ lines: [

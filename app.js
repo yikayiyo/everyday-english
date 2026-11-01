@@ -369,8 +369,19 @@ function setupMiniPlayer() {
 }
 
 
-const cssHash = new URL(document.querySelector('link[rel="stylesheet"]').href).searchParams.get('h');
-const appHash = new URL(document.currentScript.src).searchParams.get('h');
+setupMiniPlayer();
+
+function assetHash(selector, attribute) {
+  try {
+    const url = document.querySelector(selector)?.getAttribute(attribute);
+    return url ? new URL(url, document.baseURI).searchParams.get('h') || '' : '';
+  } catch (_) {
+    return '';
+  }
+}
+
+const cssHash = assetHash('link[rel="stylesheet"]', 'href');
+const appHash = assetHash('script[src*="app.js"]', 'src');
 const CACHE = `everyday-english-${cssHash}-${appHash}`;
 
 async function putUrl(cache, url) {
@@ -440,8 +451,6 @@ if ('serviceWorker' in navigator) {
     navigator.serviceWorker.register('./sw.js').catch(() => {});
   });
 }
-
-setupMiniPlayer();
 
 if (lineAudios.length || fullAudio) prepareLessonAudio();
 else warmLibraryFromHome();
