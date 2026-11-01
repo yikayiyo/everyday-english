@@ -26,6 +26,67 @@ audios.forEach((a) => {
   });
 });
 
+function formatAudioTime(seconds) {
+  if (!Number.isFinite(seconds)) return '0:00';
+  return `${Math.floor(seconds / 60)}:${String(Math.floor(seconds % 60)).padStart(2, '0')}`;
+}
+
+audios.forEach((audio) => {
+  const label = audio.getAttribute('aria-label') || '播放音频';
+  const player = document.createElement('div');
+  player.className = 'audio-player';
+  player.setAttribute('role', 'group');
+  player.setAttribute('aria-label', label);
+  player.innerHTML = `
+    <button class="audio-toggle" type="button"><span class="audio-icon" aria-hidden="true">▶</span><span class="audio-action">播放</span></button>
+    <input class="audio-seek" type="range" min="0" max="100" step="0.1" value="0" aria-label="音频进度" disabled>
+    <span class="audio-time">0:00 / 0:00</span>
+    <p class="audio-feedback" role="status" hidden></p>`;
+  const button = player.querySelector('button');
+  const seek = player.querySelector('input');
+  const time = player.querySelector('.audio-time');
+  const feedback = player.querySelector('.audio-feedback');
+  const update = () => {
+    const playing = !audio.paused && !audio.ended;
+    player.querySelector('.audio-icon').textContent = playing ? 'Ⅱ' : '▶';
+    player.querySelector('.audio-action').textContent = playing ? '暂停' : '播放';
+    button.setAttribute('aria-label', playing ? label.replace('播放', '暂停') : label);
+    const duration = Number.isFinite(audio.duration) ? audio.duration : 0;
+    seek.disabled = duration <= 0;
+    seek.value = duration ? audio.currentTime / duration * 100 : 0;
+    seek.style.setProperty('--progress', `${seek.value}%`);
+    seek.setAttribute('aria-valuetext', `${formatAudioTime(audio.currentTime)} / ${formatAudioTime(duration)}`);
+    time.textContent = `${formatAudioTime(audio.currentTime)} / ${formatAudioTime(duration)}`;
+  };
+  button.addEventListener('click', async () => {
+    feedback.hidden = true;
+    if (!audio.paused) return audio.pause();
+    try {
+      await audio.play();
+    } catch (_) {
+      feedback.textContent = '暂时无法播放，请重试。';
+      feedback.hidden = false;
+      update();
+    }
+  });
+  seek.addEventListener('input', () => {
+    if (Number.isFinite(audio.duration) && audio.duration > 0) {
+      audio.currentTime = Number(seek.value) / 100 * audio.duration;
+      update();
+    }
+  });
+  ['play', 'pause', 'ended', 'timeupdate', 'loadedmetadata', 'durationchange', 'emptied'].forEach((event) => audio.addEventListener(event, update));
+  audio.addEventListener('error', () => {
+    feedback.textContent = '音频加载失败，请重试。';
+    feedback.hidden = false;
+    update();
+  });
+  audio.after(player);
+  audio.controls = false;
+  audio.hidden = true;
+  update();
+});
+
 const search = document.querySelector('#search');
 if (search) {
   search.addEventListener('input', () => {
@@ -38,7 +99,7 @@ if (search) {
   });
 }
 
-const CACHE = 'everyday-english-v3';
+const CACHE = 'everyday-english-v4';
 
 async function putUrl(cache, url) {
   const abs = new URL(url, location.href).href;
