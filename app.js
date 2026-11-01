@@ -38,7 +38,7 @@ audios.forEach((audio) => {
   player.setAttribute('role', 'group');
   player.setAttribute('aria-label', label);
   player.innerHTML = `
-    <button class="audio-toggle" type="button"><span class="audio-icon" aria-hidden="true">▶</span><span class="audio-action">播放</span></button>
+    <button class="audio-toggle" type="button"><span class="audio-icon" aria-hidden="true">▶</span></button>
     <input class="audio-seek" type="range" min="0" max="100" step="0.1" value="0" aria-label="音频进度" disabled>
     <span class="audio-time">0:00 / 0:00</span>
     <p class="audio-feedback" role="status" hidden></p>`;
@@ -49,7 +49,6 @@ audios.forEach((audio) => {
   const update = () => {
     const playing = !audio.paused && !audio.ended;
     player.querySelector('.audio-icon').textContent = playing ? 'Ⅱ' : '▶';
-    player.querySelector('.audio-action').textContent = playing ? '暂停' : '播放';
     button.setAttribute('aria-label', playing ? label.replace('播放', '暂停') : label);
     const duration = Number.isFinite(audio.duration) ? audio.duration : 0;
     seek.disabled = duration <= 0;
@@ -341,19 +340,13 @@ async function warmUrls(urls, onProgress) {
   return { ok, total: urls.length, skipped: false };
 }
 
-function setAudioStatus(text) {
-  const el = document.querySelector('#audio-status');
-  if (el) el.textContent = text;
-}
-
 async function prepareLessonAudio() {
   if (!audios.length) return;
   audios.forEach((a) => {
     a.preload = 'auto';
   });
   const urls = audios.map((a) => a.currentSrc || a.src).filter(Boolean);
-  setAudioStatus(`正在准备音频 0/${urls.length}…`);
-  const result = await warmUrls(urls, (ok, total) => setAudioStatus(`正在准备音频 ${ok}/${total}…`));
+  await warmUrls(urls);
   await Promise.all(
     audios.map(
       (a) =>
@@ -370,13 +363,6 @@ async function prepareLessonAudio() {
         })
     )
   );
-  if (result.skipped) {
-    setAudioStatus('音频将在点击时加载。');
-  } else if (result.ok === result.total) {
-    setAudioStatus(`音频已就绪（含完整对话，共 ${result.total} 段）。再次打开会优先用本地缓存。`);
-  } else {
-    setAudioStatus(`已准备 ${result.ok}/${result.total} 段；其余点播放时再下载。`);
-  }
 }
 
 async function warmLibraryFromHome() {
@@ -403,92 +389,3 @@ setupFullDialogueKaraoke();
 
 if (lineAudios.length || fullAudio) prepareLessonAudio();
 else warmLibraryFromHome();
-
-function setupMiniPlayer() {
-  if (!lineAudios.length) return;
-  const lines = lineAudios.map(a => a.closest('article.line'));
-  const dock = document.createElement('section');
-  dock.id = 'mini-player';
-  dock.setAttribute('aria-label', '对话迷你播放器');
-  dock.innerHTML = `<div class="mini-copy"><p class="mini-status" role="status"></p><p class="mini-sentence" lang="en"></p></div><div class="mini-controls"><button type="button" aria-label="上一句">‹</button><button type="button" class="mini-toggle" aria-label="播放">▶</button><button type="button" aria-label="下一句">›</button></div>`;
-  document.body.append(dock);
-  document.body.classList.add('has-mini-player');
-  const [prev, toggle, next] = dock.querySelectorAll('button');
-  let index = 0;
-  let source = lineAudios[0];
-  let sequence = false;
-  let failed = false;
-  function render() {
-    const playing = !source.paused && !source.ended;
-    lines.forEach((line, i) => line.classList.toggle('is-current', i === index));
-    dock.querySelector('.mini-status').textContent = `${failed ? '播放失败，请重试' : playing ? '播放中' : '已暂停'} · ${lines[index].querySelector('.speaker').textContent.split('·')[0].trim()} · ${index + 1}/${lines.length}`;
-    dock.querySelector('.mini-sentence').textContent = lines[index].querySelector('.english').textContent;
-    toggle.textContent = playing ? 'Ⅱ' : '▶';
-    toggle.setAttribute('aria-label', playing ? '暂停' : '播放');
-    prev.disabled = index === 0;
-    next.disabled = index === lines.length - 1;
-  }
-  async function playLine(i) {
-    source.pause();
-    index = i;
-    source = lineAudios[i];
-    source.currentTime = 0;
-    source.playbackRate = Number(rate?.value || 1);
-    failed = false;
-    try { await source.play(); } catch (_) { failed = true; }
-    render();
-  }
-  lineAudios.forEach((audio, i) => {
-    audio.addEventListener('play', () => {
-      lines.forEach(line => line.classList.remove('is-active'));
-      index = i;
-      source = audio;
-      failed = false;
-      render();
-    });
-    audio.addEventListener('ended', () => {
-      if (sequence && i < lineAudios.length - 1) playLine(i + 1);
-      else { sequence = false; render(); }
-    });
-  });
-  audios.forEach(audio => {
-    ['pause', 'error'].forEach(event => audio.addEventListener(event, () => {
-      if (audio === source) { failed = event === 'error'; render(); }
-    }));
-  });
-  // Full-track cues use the actual line durations, matching the concatenated MP3.
-  if (fullAudio) {
-    const syncFull = () => {
-      if (source !== fullAudio) return;
-      let offset = 0;
-      for (let i = 0; i < lineAudios.length; i++) {
-        if (!Number.isFinite(lineAudios[i].duration)) break;
-        offset += lineAudios[i].duration;
-        index = i;
-        if (fullAudio.currentTime < offset) break;
-      }
-      render();
-    };
-    fullAudio.addEventListener('play', () => { source = fullAudio; sequence = false; failed = false; syncFull(); });
-    ['timeupdate', 'seeked', 'ended'].forEach(event => fullAudio.addEventListener(event, syncFull));
-  }
-  toggle.addEventListener('click', async () => {
-    if (!source.paused && !source.ended) source.pause();
-    else {
-      failed = false;
-      if (source !== fullAudio) sequence = true;
-      try { await source.play(); } catch (_) { failed = true; }
-      render();
-    }
-  });
-  prev.addEventListener('click', () => { sequence = true; playLine(Math.max(0, index - 1)); });
-  next.addEventListener('click', () => { sequence = true; playLine(Math.min(lines.length - 1, index + 1)); });
-  const all = document.createElement('button');
-  all.type = 'button';
-  all.className = 'audio-toggle';
-  all.textContent = '▶ 逐句连续播放';
-  all.addEventListener('click', () => { sequence = true; playLine(0); });
-  document.querySelector('.full-play-copy')?.append(all);
-  render();
-}
-setupMiniPlayer();
