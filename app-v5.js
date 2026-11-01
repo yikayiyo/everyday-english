@@ -99,7 +99,160 @@ if (search) {
   });
 }
 
-const CACHE = 'everyday-english-v5';
+
+function setupFullDialogueKaraoke() {
+  if (!fullAudio) return;
+  const lines = [...document.querySelectorAll('article.line')];
+  if (!lines.length) return;
+
+  const section = document.querySelector('#full-dialogue') || document.querySelector('.full-play');
+  if (!section) return;
+
+  const panel = document.createElement('div');
+  panel.className = 'karaoke';
+  panel.hidden = true;
+  panel.setAttribute('aria-live', 'polite');
+  panel.innerHTML = `
+    <p class="karaoke-kicker">NOW PLAYING</p>
+    <p class="karaoke-speaker"></p>
+    <p class="karaoke-en" lang="en"></p>
+    <p class="karaoke-zh chinese"></p>`;
+  const speakerEl = panel.querySelector('.karaoke-speaker');
+  const enEl = panel.querySelector('.karaoke-en');
+  const zhEl = panel.querySelector('.karaoke-zh');
+
+  const hostPlayer = section.querySelector('.audio-player');
+  if (hostPlayer) hostPlayer.before(panel);
+  else {
+    const audio = section.querySelector('#full-audio');
+    if (audio) audio.before(panel);
+    else section.append(panel);
+  }
+
+  const tokens = lines.map((line) => {
+    const english = line.querySelector('.english')?.textContent.trim() || '';
+    const chinese = line.querySelector('.chinese')?.textContent.trim() || '';
+    const speaker = line.querySelector('.speaker')?.textContent.trim() || '';
+    const parts = english.match(/\S+\s*/g) || [english];
+    const words = parts.map((part) => part.trimEnd());
+    const weights = words.map((w) => Math.max(1, w.replace(/[^A-Za-z0-9']/g, '').length || w.length || 1));
+    const weightSum = weights.reduce((a, b) => a + b, 0) || 1;
+    return { line, speaker, english, chinese, words, weights, weightSum, parts };
+  });
+
+  let cues = [];
+  let activeIndex = -1;
+  let wordIndex = -1;
+
+  function rebuildCues(durations) {
+    let t = 0;
+    cues = durations.map((duration, i) => {
+      const start = t;
+      const end = t + Math.max(0.01, duration || 0.01);
+      t = end;
+      return { start, end, i };
+    });
+  }
+
+  function renderWords(token, progressWord) {
+    enEl.replaceChildren();
+    token.parts.forEach((part, i) => {
+      const span = document.createElement('span');
+      span.className = 'karaoke-word';
+      if (i < progressWord) span.classList.add('is-done');
+      if (i === progressWord) span.classList.add('is-current');
+      span.textContent = part;
+      enEl.append(span);
+    });
+  }
+
+  function setActive(index, localProgress) {
+    const playing = !fullAudio.paused && !fullAudio.ended;
+    panel.hidden = index < 0;
+    panel.classList.toggle('is-playing', playing && index >= 0);
+
+    if (index < 0) {
+      lines.forEach((line) => line.classList.remove('is-active'));
+      activeIndex = -1;
+      wordIndex = -1;
+      return;
+    }
+
+    const token = tokens[index];
+    // Prefer weight-based word progress for uneven word lengths.
+    let acc = 0;
+    let weightedWord = token.words.length - 1;
+    const target = localProgress * token.weightSum;
+    for (let i = 0; i < token.weights.length; i += 1) {
+      acc += token.weights[i];
+      if (target <= acc) {
+        weightedWord = i;
+        break;
+      }
+    }
+
+    if (index !== activeIndex) {
+      lines.forEach((line, i) => line.classList.toggle('is-active', i === index));
+      speakerEl.textContent = token.speaker;
+      zhEl.textContent = token.chinese;
+      token.line.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+      activeIndex = index;
+      wordIndex = -1;
+    }
+    if (weightedWord !== wordIndex || index !== activeIndex) {
+      renderWords(token, weightedWord);
+      wordIndex = weightedWord;
+    }
+  }
+
+  function syncFromTime() {
+    if (!cues.length) return;
+    const t = fullAudio.currentTime || 0;
+    if (fullAudio.ended) {
+      // Keep the last line visible after finish so the learner can re-read it.
+      setActive(cues.length - 1, 1);
+      panel.classList.remove('is-playing');
+      return;
+    }
+    let idx = cues.findIndex((c) => t >= c.start && t < c.end);
+    if (idx < 0) idx = t >= cues[cues.length - 1].end ? cues.length - 1 : 0;
+    const cue = cues[idx];
+    const local = Math.min(1, Math.max(0, (t - cue.start) / (cue.end - cue.start || 1)));
+    setActive(idx, local);
+    if (fullAudio.paused) panel.classList.remove('is-playing');
+  }
+
+  function waitMeta(audio) {
+    return new Promise((resolve) => {
+      if (Number.isFinite(audio.duration) && audio.duration > 0) return resolve(audio.duration);
+      const done = () => resolve(Number.isFinite(audio.duration) ? audio.duration : 0);
+      audio.addEventListener('loadedmetadata', done, { once: true });
+      audio.addEventListener('durationchange', done, { once: true });
+      audio.addEventListener('error', () => resolve(0), { once: true });
+      try { audio.load(); } catch (_) { resolve(0); }
+    });
+  }
+
+  Promise.all(lineAudios.map(waitMeta)).then((durations) => {
+    if (durations.every((d) => d > 0)) rebuildCues(durations);
+    else {
+      // Fallback: equal slices of the full track if a line duration is missing.
+      waitMeta(fullAudio).then((fullDur) => {
+        const n = lines.length;
+        const slice = (fullDur || n) / n;
+        rebuildCues(Array.from({ length: n }, () => slice));
+        syncFromTime();
+      });
+    }
+    syncFromTime();
+  });
+
+  ['timeupdate', 'seeked', 'play', 'pause', 'ended', 'loadedmetadata'].forEach((evt) => {
+    fullAudio.addEventListener(evt, syncFromTime);
+  });
+}
+
+const CACHE = 'everyday-english-v6';
 
 async function putUrl(cache, url) {
   const abs = new URL(url, location.href).href;
@@ -179,6 +332,8 @@ if ('serviceWorker' in navigator) {
     navigator.serviceWorker.register('./sw.js').catch(() => {});
   });
 }
+
+setupFullDialogueKaraoke();
 
 if (lineAudios.length || fullAudio) prepareLessonAudio();
 else warmLibraryFromHome();

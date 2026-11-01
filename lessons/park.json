@@ -1,0 +1,103 @@
+{
+  "date": "2026-11-01",
+  "slug": "joining-a-park-cleanup",
+  "title": "Joining a Park Cleanup",
+  "title_zh": "参加社区公园清洁活动",
+  "context": "Emma 准备参加周日的社区公园清洁活动，邀请朋友 Noah 一起参加。",
+  "voices": {
+    "Emma": "marin",
+    "Noah": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Emma",
+      "en": "Hey, Noah, are you doing anything on Sunday morning?",
+      "zh": "嘿，诺亚，你周日早上有安排吗？"
+    },
+    {
+      "speaker": "Noah",
+      "en": "Not much. Why do you ask?",
+      "zh": "没什么特别的。怎么啦？"
+    },
+    {
+      "speaker": "Emma",
+      "en": "I'm joining a neighborhood park cleanup. Want to come along?",
+      "zh": "我要参加社区公园清洁活动。想一起去吗？"
+    },
+    {
+      "speaker": "Noah",
+      "en": "Maybe! I've never done anything like that before. What would we actually do?",
+      "zh": "也许可以！我以前从没参加过类似活动。具体要做些什么？"
+    },
+    {
+      "speaker": "Emma",
+      "en": "We'd pick up litter and help plant a few small trees.",
+      "zh": "我们会捡垃圾，还会帮忙种几棵小树。"
+    },
+    {
+      "speaker": "Noah",
+      "en": "That sounds useful. Do we need to bring our own supplies?",
+      "zh": "听起来挺有意义。我们需要自带工具吗？"
+    },
+    {
+      "speaker": "Emma",
+      "en": "No, the organizers provide gloves and trash bags. Just wear shoes you don't mind getting dirty.",
+      "zh": "不用，组织方会提供手套和垃圾袋。穿一双不怕弄脏的鞋就好。"
+    },
+    {
+      "speaker": "Noah",
+      "en": "Good to know. How early does it start?",
+      "zh": "了解了。几点开始？"
+    },
+    {
+      "speaker": "Emma",
+      "en": "At nine. It usually takes about two hours.",
+      "zh": "九点。一般大概持续两个小时。"
+    },
+    {
+      "speaker": "Noah",
+      "en": "I usually sleep in on Sundays, but this sounds worth getting up for.",
+      "zh": "我周日通常会睡懒觉，但这次活动值得我早起。"
+    },
+    {
+      "speaker": "Emma",
+      "en": "We could grab breakfast afterward. That might make it easier!",
+      "zh": "我们可以活动后一起吃早餐。这样早起也许就没那么难啦！"
+    },
+    {
+      "speaker": "Noah",
+      "en": "Deal! Count me in.",
+      "zh": "一言为定！算我一个。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "Want to come along?",
+      "zh": "想一起去吗？",
+      "example": "We're going hiking tomorrow. Want to come along?"
+    },
+    {
+      "en": "Count me in.",
+      "zh": "算我一个。",
+      "example": "Sounds fun. Count me in!"
+    }
+  ],
+  "pronunciation": "练习 want to 的弱读，以及 COUNT me IN 的重音。",
+  "practice": [
+    {
+      "title": "IELTS Speaking Part 1 · Parks",
+      "prompt": "Do you enjoy spending time in parks?",
+      "answer": "说明习惯、原因和个人经历。"
+    },
+    {
+      "title": "IELTS Speaking Part 2",
+      "prompt": "Describe a community activity you would like to take part in.",
+      "answer": "活动介绍 → 具体计划 → 参加原因 → 预期感受。"
+    },
+    {
+      "title": "听力理解",
+      "prompt": "Why was Noah unsure about joining the activity at first?",
+      "answer": "他没有参加过类似活动，而且习惯在周日睡懒觉。"
+    }
+  ]
+}

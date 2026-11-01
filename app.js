@@ -99,7 +99,159 @@ if (search) {
   });
 }
 
-const CACHE = 'everyday-english-v5';
+
+function setupFullDialogueKaraoke() {
+  if (!fullAudio) return;
+  const lines = [...document.querySelectorAll('article.line')];
+  if (!lines.length) return;
+
+  const section = document.querySelector('#full-dialogue') || document.querySelector('.full-play');
+  if (!section) return;
+
+  const panel = document.createElement('div');
+  panel.className = 'karaoke';
+  panel.hidden = true;
+  panel.setAttribute('aria-live', 'polite');
+  panel.innerHTML = `
+    <p class="karaoke-kicker">NOW PLAYING</p>
+    <p class="karaoke-speaker"></p>
+    <p class="karaoke-en" lang="en"></p>
+    <p class="karaoke-zh chinese"></p>`;
+  const speakerEl = panel.querySelector('.karaoke-speaker');
+  const enEl = panel.querySelector('.karaoke-en');
+  const zhEl = panel.querySelector('.karaoke-zh');
+
+  const hostPlayer = section.querySelector('.audio-player');
+  if (hostPlayer) hostPlayer.before(panel);
+  else {
+    const audio = section.querySelector('#full-audio');
+    if (audio) audio.before(panel);
+    else section.append(panel);
+  }
+
+  const tokens = lines.map((line) => {
+    const english = line.querySelector('.english')?.textContent.trim() || '';
+    const chinese = line.querySelector('.chinese')?.textContent.trim() || '';
+    const speaker = line.querySelector('.speaker')?.textContent.trim() || '';
+    const parts = english.match(/\S+\s*/g) || [english];
+    const words = parts.map((part) => part.trimEnd());
+    const weights = words.map((w) => Math.max(1, w.replace(/[^A-Za-z0-9']/g, '').length || w.length || 1));
+    const weightSum = weights.reduce((a, b) => a + b, 0) || 1;
+    return { line, speaker, english, chinese, words, weights, weightSum, parts };
+  });
+
+  let cues = [];
+  let activeIndex = -1;
+  let wordIndex = -1;
+
+  function rebuildCues(durations) {
+    let t = 0;
+    cues = durations.map((duration, i) => {
+      const start = t;
+      const end = t + Math.max(0.01, duration || 0.01);
+      t = end;
+      return { start, end, i };
+    });
+  }
+
+  function renderWords(token, progressWord) {
+    enEl.replaceChildren();
+    token.parts.forEach((part, i) => {
+      const span = document.createElement('span');
+      span.className = 'karaoke-word';
+      if (i < progressWord) span.classList.add('is-done');
+      if (i === progressWord) span.classList.add('is-current');
+      span.textContent = part;
+      enEl.append(span);
+    });
+  }
+
+  function setActive(index, localProgress) {
+    const playing = !fullAudio.paused && !fullAudio.ended;
+    panel.hidden = index < 0;
+    panel.classList.toggle('is-playing', playing && index >= 0);
+
+    if (index < 0) {
+      lines.forEach((line) => line.classList.remove('is-active'));
+      activeIndex = -1;
+      wordIndex = -1;
+      return;
+    }
+
+    const token = tokens[index];
+    // Prefer weight-based word progress for uneven word lengths.
+    let acc = 0;
+    let weightedWord = token.words.length - 1;
+    const target = localProgress * token.weightSum;
+    for (let i = 0; i < token.weights.length; i += 1) {
+      acc += token.weights[i];
+      if (target <= acc) {
+        weightedWord = i;
+        break;
+      }
+    }
+
+    if (index !== activeIndex) {
+      lines.forEach((line, i) => line.classList.toggle('is-active', i === index));
+      speakerEl.textContent = token.speaker;
+      zhEl.textContent = token.chinese;
+      activeIndex = index;
+      wordIndex = -1;
+    }
+    if (weightedWord !== wordIndex || index !== activeIndex) {
+      renderWords(token, weightedWord);
+      wordIndex = weightedWord;
+    }
+  }
+
+  function syncFromTime() {
+    if (!cues.length) return;
+    const t = fullAudio.currentTime || 0;
+    if (fullAudio.ended) {
+      // Keep the last line visible after finish so the learner can re-read it.
+      setActive(cues.length - 1, 1);
+      panel.classList.remove('is-playing');
+      return;
+    }
+    let idx = cues.findIndex((c) => t >= c.start && t < c.end);
+    if (idx < 0) idx = t >= cues[cues.length - 1].end ? cues.length - 1 : 0;
+    const cue = cues[idx];
+    const local = Math.min(1, Math.max(0, (t - cue.start) / (cue.end - cue.start || 1)));
+    setActive(idx, local);
+    if (fullAudio.paused) panel.classList.remove('is-playing');
+  }
+
+  function waitMeta(audio) {
+    return new Promise((resolve) => {
+      if (Number.isFinite(audio.duration) && audio.duration > 0) return resolve(audio.duration);
+      const done = () => resolve(Number.isFinite(audio.duration) ? audio.duration : 0);
+      audio.addEventListener('loadedmetadata', done, { once: true });
+      audio.addEventListener('durationchange', done, { once: true });
+      audio.addEventListener('error', () => resolve(0), { once: true });
+      try { audio.load(); } catch (_) { resolve(0); }
+    });
+  }
+
+  Promise.all(lineAudios.map(waitMeta)).then((durations) => {
+    if (durations.every((d) => d > 0)) rebuildCues(durations);
+    else {
+      // Fallback: equal slices of the full track if a line duration is missing.
+      waitMeta(fullAudio).then((fullDur) => {
+        const n = lines.length;
+        const slice = (fullDur || n) / n;
+        rebuildCues(Array.from({ length: n }, () => slice));
+        syncFromTime();
+      });
+    }
+    syncFromTime();
+  });
+
+  ['timeupdate', 'seeked', 'play', 'pause', 'ended', 'loadedmetadata'].forEach((evt) => {
+    fullAudio.addEventListener(evt, syncFromTime);
+  });
+}
+
+const CACHE = 'everyday-english-v6-park-1';
 
 async function putUrl(cache, url) {
   const abs = new URL(url, location.href).href;
@@ -167,7 +319,8 @@ async function warmLibraryFromHome() {
   if (!links.length || !('caches' in window)) return;
   const lessons = [...new Set(links.map((a) => a.getAttribute('href').replace(/\.html$/, '')))];
   const urls = [];
-  for (const slug of lessons) {
+  for (const lesson of lessons) {
+    const slug = lesson === 'lesson-coffee' ? 'coffee' : lesson;
     for (let i = 1; i <= 12; i += 1) urls.push(`audio/${slug}/${String(i).padStart(2, '0')}.mp3`);
     urls.push(`audio/${slug}/dialogue-full.mp3`);
   }
@@ -180,5 +333,96 @@ if ('serviceWorker' in navigator) {
   });
 }
 
+setupFullDialogueKaraoke();
+
 if (lineAudios.length || fullAudio) prepareLessonAudio();
 else warmLibraryFromHome();
+
+function setupMiniPlayer() {
+  if (!lineAudios.length) return;
+  const lines = lineAudios.map(a => a.closest('article.line'));
+  const dock = document.createElement('section');
+  dock.id = 'mini-player';
+  dock.setAttribute('aria-label', '对话迷你播放器');
+  dock.innerHTML = `<div class="mini-copy"><p class="mini-status" role="status"></p><p class="mini-sentence" lang="en"></p></div><div class="mini-controls"><button type="button" aria-label="上一句">‹</button><button type="button" class="mini-toggle" aria-label="播放">▶</button><button type="button" aria-label="下一句">›</button></div>`;
+  document.body.append(dock);
+  document.body.classList.add('has-mini-player');
+  const [prev, toggle, next] = dock.querySelectorAll('button');
+  let index = 0;
+  let source = lineAudios[0];
+  let sequence = false;
+  let failed = false;
+  function render() {
+    const playing = !source.paused && !source.ended;
+    lines.forEach((line, i) => line.classList.toggle('is-current', i === index));
+    dock.querySelector('.mini-status').textContent = `${failed ? '播放失败，请重试' : playing ? '播放中' : '已暂停'} · ${lines[index].querySelector('.speaker').textContent.split('·')[0].trim()} · ${index + 1}/${lines.length}`;
+    dock.querySelector('.mini-sentence').textContent = lines[index].querySelector('.english').textContent;
+    toggle.textContent = playing ? 'Ⅱ' : '▶';
+    toggle.setAttribute('aria-label', playing ? '暂停' : '播放');
+    prev.disabled = index === 0;
+    next.disabled = index === lines.length - 1;
+  }
+  async function playLine(i) {
+    source.pause();
+    index = i;
+    source = lineAudios[i];
+    source.currentTime = 0;
+    source.playbackRate = Number(rate?.value || 1);
+    failed = false;
+    try { await source.play(); } catch (_) { failed = true; }
+    render();
+  }
+  lineAudios.forEach((audio, i) => {
+    audio.addEventListener('play', () => {
+      lines.forEach(line => line.classList.remove('is-active'));
+      index = i;
+      source = audio;
+      failed = false;
+      render();
+    });
+    audio.addEventListener('ended', () => {
+      if (sequence && i < lineAudios.length - 1) playLine(i + 1);
+      else { sequence = false; render(); }
+    });
+  });
+  audios.forEach(audio => {
+    ['pause', 'error'].forEach(event => audio.addEventListener(event, () => {
+      if (audio === source) { failed = event === 'error'; render(); }
+    }));
+  });
+  // Full-track cues use the actual line durations, matching the concatenated MP3.
+  if (fullAudio) {
+    const syncFull = () => {
+      if (source !== fullAudio) return;
+      let offset = 0;
+      for (let i = 0; i < lineAudios.length; i++) {
+        if (!Number.isFinite(lineAudios[i].duration)) break;
+        offset += lineAudios[i].duration;
+        index = i;
+        if (fullAudio.currentTime < offset) break;
+      }
+      render();
+    };
+    fullAudio.addEventListener('play', () => { source = fullAudio; sequence = false; failed = false; syncFull(); });
+    ['timeupdate', 'seeked', 'ended'].forEach(event => fullAudio.addEventListener(event, syncFull));
+  }
+  toggle.addEventListener('click', async () => {
+    if (!source.paused && !source.ended) source.pause();
+    else {
+      failed = false;
+      if (source !== fullAudio) sequence = true;
+      try { await source.play(); } catch (_) { failed = true; }
+      render();
+    }
+  });
+  prev.addEventListener('click', () => { sequence = true; playLine(Math.max(0, index - 1)); });
+  next.addEventListener('click', () => { sequence = true; playLine(Math.min(lines.length - 1, index + 1)); });
+  const all = document.createElement('button');
+  all.type = 'button';
+  all.className = 'audio-toggle';
+  all.textContent = '▶ 逐句连续播放';
+  all.addEventListener('click', () => { sequence = true; playLine(0); });
+  document.querySelector('.full-play-copy')?.append(all);
+  render();
+}
+setupMiniPlayer();
