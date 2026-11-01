@@ -243,10 +243,6 @@ function setupFullDialogueKaraoke() {
 
     if (index !== activeIndex) {
       lines.forEach((line, i) => line.classList.toggle('is-active', i === index));
-      const active = tokens[index].line;
-      if (playing && active && typeof active.scrollIntoView === 'function') {
-        try { active.scrollIntoView({ block: 'nearest', behavior: 'smooth' }); } catch (_) {}
-      }
       speakerEl.textContent = token.speaker;
       zhEl.textContent = token.chinese;
       activeIndex = index;
@@ -318,7 +314,7 @@ function setupFullDialogueKaraoke() {
 }
 
 
-const CACHE = 'everyday-english-v6-whisper-1';
+const CACHE = 'everyday-english-v6-toolbar-karaoke-2';
 
 async function putUrl(cache, url) {
   const abs = new URL(url, location.href).href;
