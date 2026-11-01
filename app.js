@@ -7,7 +7,9 @@ if (trans) {
   });
 }
 
-const audios = [...document.querySelectorAll('audio')];
+const lineAudios = [...document.querySelectorAll('article.line audio')];
+const fullAudio = document.querySelector('#full-audio');
+const audios = [...lineAudios, ...(fullAudio ? [fullAudio] : [])];
 const rate = document.querySelector('#rate');
 if (rate) {
   rate.addEventListener('change', () => {
@@ -36,16 +38,15 @@ if (search) {
   });
 }
 
-const CACHE = 'everyday-english-v1';
+const CACHE = 'everyday-english-v2';
 
 async function putUrl(cache, url) {
   const abs = new URL(url, location.href).href;
   const hit = await cache.match(abs);
-  if (hit) return { url: abs, cached: true };
+  if (hit) return;
   const res = await fetch(abs, { cache: 'force-cache', credentials: 'same-origin' });
-  if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  if (!res.ok) throw new Error(String(res.status));
   await cache.put(abs, res.clone());
-  return { url: abs, cached: false };
 }
 
 async function warmUrls(urls, onProgress) {
@@ -56,9 +57,7 @@ async function warmUrls(urls, onProgress) {
     try {
       await putUrl(cache, url);
       ok += 1;
-    } catch (_) {
-      // keep going; player can still fetch on demand
-    }
+    } catch (_) {}
     if (onProgress) onProgress(ok, urls.length);
   }
   return { ok, total: urls.length, skipped: false };
@@ -76,10 +75,7 @@ async function prepareLessonAudio() {
   });
   const urls = audios.map((a) => a.currentSrc || a.src).filter(Boolean);
   setAudioStatus(`正在准备音频 0/${urls.length}…`);
-  const result = await warmUrls(urls, (ok, total) => {
-    setAudioStatus(`正在准备音频 ${ok}/${total}…`);
-  });
-  // nudge browser media element cache too
+  const result = await warmUrls(urls, (ok, total) => setAudioStatus(`正在准备音频 ${ok}/${total}…`));
   await Promise.all(
     audios.map(
       (a) =>
@@ -92,35 +88,28 @@ async function prepareLessonAudio() {
           };
           a.addEventListener('canplaythrough', done, { once: true });
           a.addEventListener('error', done, { once: true });
-          try {
-            a.load();
-          } catch (_) {
-            resolve();
-          }
+          try { a.load(); } catch (_) { resolve(); }
         })
     )
   );
   if (result.skipped) {
-    setAudioStatus('音频将在点击时加载；建议使用支持离线缓存的现代浏览器。');
+    setAudioStatus('音频将在点击时加载。');
   } else if (result.ok === result.total) {
-    setAudioStatus(`音频已就绪（${result.total} 句），可流畅播放；再次打开本课会优先用本地缓存。`);
+    setAudioStatus(`音频已就绪（含完整对话，共 ${result.total} 段）。再次打开会优先用本地缓存。`);
   } else {
-    setAudioStatus(`已准备 ${result.ok}/${result.total} 句；未完成的句子点播放时仍会下载。`);
+    setAudioStatus(`已准备 ${result.ok}/${result.total} 段；其余点播放时再下载。`);
   }
 }
 
 async function warmLibraryFromHome() {
   const links = [...document.querySelectorAll('a.feature[href$=".html"], a.item[href$=".html"]')];
   if (!links.length || !('caches' in window)) return;
-  const lessons = [...new Set(links.map((a) => a.getAttribute('href')))];
+  const lessons = [...new Set(links.map((a) => a.getAttribute('href').replace(/\.html$/, '')))];
   const urls = [];
-  for (const href of lessons) {
-    const slug = href.replace(/\.html$/, '');
-    for (let i = 1; i <= 12; i += 1) {
-      urls.push(`audio/${slug}/${String(i).padStart(2, '0')}.mp3`);
-    }
+  for (const slug of lessons) {
+    for (let i = 1; i <= 12; i += 1) urls.push(`audio/${slug}/${String(i).padStart(2, '0')}.mp3`);
+    urls.push(`audio/${slug}/full-dialogue.mp3`);
   }
-  // quiet background warm — no blocking UI on home
   warmUrls(urls).catch(() => {});
 }
 
@@ -130,8 +119,5 @@ if ('serviceWorker' in navigator) {
   });
 }
 
-if (audios.length) {
-  prepareLessonAudio();
-} else {
-  warmLibraryFromHome();
-}
+if (lineAudios.length || fullAudio) prepareLessonAudio();
+else warmLibraryFromHome();
