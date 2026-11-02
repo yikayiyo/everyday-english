@@ -167,7 +167,7 @@ button:focus-visible, a:focus-visible, select:focus-visible, input:focus-visible
   pointer-events: none;
 }
 
-.featured h2, .library h2 {
+.library h2 {
   font-size: 15px;
   letter-spacing: 0.08em;
   text-transform: uppercase;

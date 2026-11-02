@@ -92,7 +92,7 @@ if (search) {
   let kind = location.hash === '#speaking' ? 'speaking' : 'all';
   function updateCourses() {
     const query = search.value.trim().toLowerCase();
-    document.querySelectorAll('.item, .feature').forEach((row) => {
+    document.querySelectorAll('.item').forEach((row) => {
       row.hidden = (kind !== 'all' && row.dataset.kind !== kind) || !row.textContent.toLowerCase().includes(query);
     });
     document.querySelector('#count').textContent = `${document.querySelectorAll('.item:not([hidden])').length} 篇课程`;
@@ -447,7 +447,7 @@ async function prepareLessonAudio() {
 }
 
 async function warmLibraryFromHome() {
-  const links = [...document.querySelectorAll('a.feature[data-kind="speaking"], a.item[data-kind="speaking"]')];
+  const links = [...document.querySelectorAll('a.item[data-kind="speaking"]')];
   if (!links.length || !('caches' in window)) return;
   const lessons = [...new Set(links.map((a) => a.getAttribute('href').replace(/\.html$/, '')))];
   const urls = [];
