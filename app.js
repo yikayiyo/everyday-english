@@ -88,14 +88,28 @@ audios.forEach((audio) => {
 
 const search = document.querySelector('#search');
 if (search) {
-  search.addEventListener('input', () => {
-    let n = 0;
-    document.querySelectorAll('.item').forEach((row) => {
-      row.hidden = !row.textContent.toLowerCase().includes(search.value.trim().toLowerCase());
-      if (!row.hidden) n += 1;
+  const filters = [...document.querySelectorAll('[data-filter]')];
+  let kind = location.hash === '#speaking' ? 'speaking' : 'all';
+  function updateCourses() {
+    const query = search.value.trim().toLowerCase();
+    document.querySelectorAll('.item, .feature').forEach((row) => {
+      row.hidden = (kind !== 'all' && row.dataset.kind !== kind) || !row.textContent.toLowerCase().includes(query);
     });
-    document.querySelector('#count').textContent = `${n} 篇课程`;
+    document.querySelector('#count').textContent = `${document.querySelectorAll('.item:not([hidden])').length} 篇课程`;
+    filters.forEach((button) => button.setAttribute('aria-pressed', String(button.dataset.filter === kind)));
+  }
+  search.addEventListener('input', updateCourses);
+  filters.forEach((button) => button.addEventListener('click', () => {
+    kind = button.dataset.filter;
+    updateCourses();
+  }));
+  window.addEventListener('hashchange', () => {
+    if (location.hash === '#speaking') {
+      kind = 'speaking';
+      updateCourses();
+    }
   });
+  updateCourses();
 }
 
 
@@ -433,7 +447,7 @@ async function prepareLessonAudio() {
 }
 
 async function warmLibraryFromHome() {
-  const links = [...document.querySelectorAll('a.feature[href$=".html"], a.item[href$=".html"]')];
+  const links = [...document.querySelectorAll('a.feature[data-kind="speaking"], a.item[data-kind="speaking"]')];
   if (!links.length || !('caches' in window)) return;
   const lessons = [...new Set(links.map((a) => a.getAttribute('href').replace(/\.html$/, '')))];
   const urls = [];
@@ -448,7 +462,7 @@ async function warmLibraryFromHome() {
 
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', () => {
-    navigator.serviceWorker.register('./sw.js').catch(() => {});
+    navigator.serviceWorker.register(new URL('sw.js', new URL('.', document.querySelector('script[src*="app.js"]').src))).catch(() => {});
   });
 }
 
