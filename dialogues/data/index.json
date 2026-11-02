@@ -1,0 +1,134 @@
+{
+  "source_label": "英语 bot",
+  "kind": "daily scene dialogues",
+  "note": "From English-bot routine chat deliveries; separate from IELTS speaking lesson pages. Text only on site.",
+  "count": 14,
+  "dialogues": [
+    {
+      "date": "2026-11-02",
+      "slug": "dialogue-property-repair",
+      "file": "2026-11-02-property-repair.md",
+      "title_en": "Calling property management about a leaky faucet",
+      "title_zh": "电话物业报修（厨房水龙头滴水）",
+      "audio": "voice_memo_chat",
+      "kind": "dialogue"
+    },
+    {
+      "date": "2026-11-01",
+      "slug": "dialogue-parcel-locker",
+      "file": "2026-11-01-parcel-locker.md",
+      "title_en": "Using a parcel locker",
+      "title_zh": "小区智能快递柜取件（取件码过期）",
+      "audio": "voice_memo_chat",
+      "kind": "dialogue"
+    },
+    {
+      "date": "2026-10-31",
+      "slug": "dialogue-bubble-tea",
+      "file": "2026-10-31-bubble-tea.md",
+      "title_en": "Ordering bubble tea",
+      "title_zh": "奶茶店点单（少糖、boba、外带）",
+      "audio": "voice_memo_chat",
+      "kind": "dialogue"
+    },
+    {
+      "date": "2026-10-30",
+      "slug": "dialogue-dentist-appointment",
+      "file": "2026-10-30-dentist-appointment.md",
+      "title_en": "Booking a dental checkup",
+      "title_zh": "打电话预约牙医检查",
+      "audio": "voice_memo_chat",
+      "kind": "dialogue"
+    },
+    {
+      "date": "2026-10-29",
+      "slug": "dialogue-library-renew",
+      "file": "2026-10-29-library-renew.md",
+      "title_en": "Renewing library books",
+      "title_zh": "图书馆续借逾期图书并预约保留",
+      "audio": "voice_memo_chat",
+      "kind": "dialogue"
+    },
+    {
+      "date": "2026-10-28",
+      "slug": "dialogue-pharmacy-cold",
+      "file": "2026-10-28-pharmacy-cold.md",
+      "title_en": "Buying cold medicine at a pharmacy",
+      "title_zh": "药店买感冒药",
+      "audio": "voice_memo_chat",
+      "kind": "dialogue"
+    },
+    {
+      "date": "2026-10-27",
+      "slug": "dialogue-supermarket-aisle",
+      "file": "2026-10-27-supermarket-aisle.md",
+      "title_en": "Finding olive oil in a supermarket",
+      "title_zh": "超市里找商品（橄榄油）",
+      "audio": "none",
+      "kind": "dialogue"
+    },
+    {
+      "date": "2026-10-26",
+      "slug": "dialogue-courier-delay",
+      "file": "2026-10-26-courier-delay.md",
+      "title_en": "Calling about a delayed package",
+      "title_zh": "打电话问快递延误",
+      "audio": "none",
+      "kind": "dialogue"
+    },
+    {
+      "date": "2026-10-25",
+      "slug": "dialogue-gym-membership",
+      "file": "2026-10-25-gym-membership.md",
+      "title_en": "Asking about a gym membership",
+      "title_zh": "健身房咨询办会员",
+      "audio": "none",
+      "kind": "dialogue"
+    },
+    {
+      "date": "2026-10-24",
+      "slug": "dialogue-ask-directions",
+      "file": "2026-10-24-ask-directions.md",
+      "title_en": "Asking for directions to a bookstore",
+      "title_zh": "问路（车站附近找书店）",
+      "audio": "none",
+      "kind": "dialogue"
+    },
+    {
+      "date": "2026-10-23",
+      "slug": "dialogue-hotel-checkin",
+      "file": "2026-10-23-hotel-checkin.md",
+      "title_en": "Hotel check-in",
+      "title_zh": "酒店前台办理入住",
+      "audio": "none",
+      "kind": "dialogue"
+    },
+    {
+      "date": "2026-10-22",
+      "slug": "dialogue-haircut",
+      "file": "2026-10-22-haircut.md",
+      "title_en": "Getting a haircut",
+      "title_zh": "在理发店剪头发",
+      "audio": "none",
+      "kind": "dialogue"
+    },
+    {
+      "date": "2026-10-21",
+      "slug": "dialogue-return-shoes",
+      "file": "2026-10-21-return-shoes.md",
+      "title_en": "Returning faulty shoes",
+      "title_zh": "去商店退货（鞋子开胶了）",
+      "audio": "none",
+      "kind": "dialogue"
+    },
+    {
+      "date": "2026-10-20",
+      "slug": "dialogue-reschedule-meeting",
+      "file": "2026-10-20-reschedule-meeting.md",
+      "title_en": "Rescheduling a meeting with a colleague",
+      "title_zh": "和同事改约会议时间",
+      "audio": "none",
+      "kind": "dialogue"
+    }
+  ]
+}

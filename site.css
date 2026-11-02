@@ -638,3 +638,10 @@ audio[hidden] { display: none; }
 @media (min-width: 720px) { .map-pair { grid-template-columns: 1fr 1fr; } }
 .map-card { background: #fff; border-radius: 10px; border: 1px solid #e4dfd6; padding: 10px; }
 .map-card h3 { margin: 0 0 8px; font-size: 14px; font-weight: 600; color: #5a564e; }
+
+.dialogue-badge { background: #efe6f4; color: #5a4f73; display: inline-block; }
+.dialogue-tip { margin: 10px 0 0; color: #7a756d; font-size: 14px; }
+.dialogue-script { display: grid; gap: 12px; }
+.dialogue-turn { padding: 12px 14px; background: #fbfaf7; border-radius: 10px; border: 1px solid rgba(0,0,0,.05); }
+.dialogue-role { display: block; font-size: 12px; font-weight: 600; color: #5a4f73; margin-bottom: 4px; letter-spacing: .02em; }
+.dialogue-turn p { margin: 0; line-height: 1.55; }

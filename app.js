@@ -89,7 +89,7 @@ audios.forEach((audio) => {
 const search = document.querySelector('#search');
 if (search) {
   const filters = [...document.querySelectorAll('[data-filter]')];
-  let kind = location.hash === '#speaking' ? 'speaking' : 'all';
+  let kind = location.hash === '#speaking' ? 'speaking' : location.hash === '#dialogues' ? 'dialogue' : location.hash === '#writing' ? 'writing' : 'all';
   function updateCourses() {
     const query = search.value.trim().toLowerCase();
     document.querySelectorAll('.item').forEach((row) => {
@@ -104,10 +104,11 @@ if (search) {
     updateCourses();
   }));
   window.addEventListener('hashchange', () => {
-    if (location.hash === '#speaking') {
-      kind = 'speaking';
-      updateCourses();
-    }
+    if (location.hash === '#speaking') kind = 'speaking';
+    else if (location.hash === '#dialogues') kind = 'dialogue';
+    else if (location.hash === '#writing') kind = 'writing';
+    else kind = 'all';
+    updateCourses();
   });
   updateCourses();
 }
