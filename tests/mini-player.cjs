@@ -9,7 +9,7 @@ assert.match(source, /document.body.append\(dock\)/);
 assert.doesNotMatch(source, /hostPlayer|section.append\(panel\)/);
 assert.match(css, /height: 140px/);
 assert.match(css, /hidden-zh #mini-player .chinese.*visibility: hidden/);
-for (const page of ['lesson-coffee.html', 'subway.html', 'cooking.html', 'park.html']) {
+for (const page of ['lesson-coffee.html', 'subway.html', 'cooking.html', 'park.html', 'farmers-market.html']) {
   const html = fs.readFileSync(page, 'utf8');
   assert.doesNotMatch(html, /audio-status|mini-player/);
   assert.match(html, /id="full-audio"/);

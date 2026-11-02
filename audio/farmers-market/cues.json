@@ -1,0 +1,917 @@
+{
+  "model": "whisper-1",
+  "lesson": "farmers-market",
+  "full_track": "dialogue-full.mp3",
+  "full_duration": 38.568,
+  "lines": [
+    {
+      "index": 1,
+      "file": "01.mp3",
+      "text": "Hi! Are these tomatoes grown nearby?",
+      "audio_sha256": "5a9b050a89d046a9bba20f5b0d5924316ba54ca1df6dee64998b9411533f138b",
+      "start": 0.0,
+      "end": 2.664,
+      "duration": 2.664,
+      "words": [
+        {
+          "word": "Hi!",
+          "start": 0.0,
+          "end": 0.44,
+          "local_start": 0.0,
+          "local_end": 0.44
+        },
+        {
+          "word": "Are",
+          "start": 0.52,
+          "end": 1.04,
+          "local_start": 0.52,
+          "local_end": 1.04
+        },
+        {
+          "word": "these",
+          "start": 1.04,
+          "end": 1.28,
+          "local_start": 1.04,
+          "local_end": 1.28
+        },
+        {
+          "word": "tomatoes",
+          "start": 1.28,
+          "end": 1.62,
+          "local_start": 1.28,
+          "local_end": 1.62
+        },
+        {
+          "word": "grown",
+          "start": 1.62,
+          "end": 1.96,
+          "local_start": 1.62,
+          "local_end": 1.96
+        },
+        {
+          "word": "nearby?",
+          "start": 1.96,
+          "end": 2.2,
+          "local_start": 1.96,
+          "local_end": 2.2
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "file": "02.mp3",
+      "text": "They are. We picked them this morning on our farm.",
+      "audio_sha256": "e66bb7286d7731b8131550cc982a1bf1012055c240a4b1adf5a0da86c3a91e61",
+      "start": 2.664,
+      "end": 5.88,
+      "duration": 3.216,
+      "words": [
+        {
+          "word": "They",
+          "start": 2.664,
+          "end": 2.944,
+          "local_start": 0.0,
+          "local_end": 0.28
+        },
+        {
+          "word": "are.",
+          "start": 2.944,
+          "end": 3.244,
+          "local_start": 0.28,
+          "local_end": 0.58
+        },
+        {
+          "word": "We",
+          "start": 3.464,
+          "end": 3.904,
+          "local_start": 0.8,
+          "local_end": 1.24
+        },
+        {
+          "word": "picked",
+          "start": 3.904,
+          "end": 4.024,
+          "local_start": 1.24,
+          "local_end": 1.36
+        },
+        {
+          "word": "them",
+          "start": 4.024,
+          "end": 4.264,
+          "local_start": 1.36,
+          "local_end": 1.6
+        },
+        {
+          "word": "this",
+          "start": 4.264,
+          "end": 4.644,
+          "local_start": 1.6,
+          "local_end": 1.98
+        },
+        {
+          "word": "morning",
+          "start": 4.644,
+          "end": 4.824,
+          "local_start": 1.98,
+          "local_end": 2.16
+        },
+        {
+          "word": "on",
+          "start": 4.824,
+          "end": 5.084,
+          "local_start": 2.16,
+          "local_end": 2.42
+        },
+        {
+          "word": "our",
+          "start": 5.084,
+          "end": 5.284,
+          "local_start": 2.42,
+          "local_end": 2.62
+        },
+        {
+          "word": "farm.",
+          "start": 5.284,
+          "end": 5.464,
+          "local_start": 2.62,
+          "local_end": 2.8
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "file": "03.mp3",
+      "text": "They look really fresh. How much are they?",
+      "audio_sha256": "463e9c3cb44085474fe8ef12bb64b88ae91989b61726141627792e143126abe6",
+      "start": 5.88,
+      "end": 8.688,
+      "duration": 2.808,
+      "words": [
+        {
+          "word": "They",
+          "start": 5.88,
+          "end": 6.2,
+          "local_start": 0.0,
+          "local_end": 0.32
+        },
+        {
+          "word": "look",
+          "start": 6.2,
+          "end": 6.38,
+          "local_start": 0.32,
+          "local_end": 0.5
+        },
+        {
+          "word": "really",
+          "start": 6.38,
+          "end": 6.8,
+          "local_start": 0.5,
+          "local_end": 0.92
+        },
+        {
+          "word": "fresh.",
+          "start": 6.8,
+          "end": 7.12,
+          "local_start": 0.92,
+          "local_end": 1.24
+        },
+        {
+          "word": "How",
+          "start": 7.42,
+          "end": 7.86,
+          "local_start": 1.54,
+          "local_end": 1.98
+        },
+        {
+          "word": "much",
+          "start": 7.86,
+          "end": 8.02,
+          "local_start": 1.98,
+          "local_end": 2.14
+        },
+        {
+          "word": "are",
+          "start": 8.02,
+          "end": 8.16,
+          "local_start": 2.14,
+          "local_end": 2.28
+        },
+        {
+          "word": "they?",
+          "start": 8.16,
+          "end": 8.3,
+          "local_start": 2.28,
+          "local_end": 2.42
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "file": "04.mp3",
+      "text": "Three dollars a pound, or five for two pounds.",
+      "audio_sha256": "541b92d57831b8dcc7d7d6aea492e3ba0dfc47f818ea222bf9f9aa2c565c7a74",
+      "start": 8.688,
+      "end": 11.736,
+      "duration": 3.048,
+      "words": [
+        {
+          "word": "Three",
+          "start": 8.688,
+          "end": 8.988,
+          "local_start": 0.0,
+          "local_end": 0.3
+        },
+        {
+          "word": "dollars",
+          "start": 8.988,
+          "end": 9.248,
+          "local_start": 0.3,
+          "local_end": 0.56
+        },
+        {
+          "word": "a",
+          "start": 9.248,
+          "end": 9.648,
+          "local_start": 0.56,
+          "local_end": 0.96
+        },
+        {
+          "word": "pound,",
+          "start": 9.648,
+          "end": 9.648,
+          "local_start": 0.96,
+          "local_end": 0.96
+        },
+        {
+          "word": "or",
+          "start": 9.728,
+          "end": 10.588,
+          "local_start": 1.04,
+          "local_end": 1.9
+        },
+        {
+          "word": "five",
+          "start": 10.588,
+          "end": 10.788,
+          "local_start": 1.9,
+          "local_end": 2.1
+        },
+        {
+          "word": "for",
+          "start": 10.788,
+          "end": 10.948,
+          "local_start": 2.1,
+          "local_end": 2.26
+        },
+        {
+          "word": "two",
+          "start": 10.948,
+          "end": 11.108,
+          "local_start": 2.26,
+          "local_end": 2.42
+        },
+        {
+          "word": "pounds.",
+          "start": 11.108,
+          "end": 11.328,
+          "local_start": 2.42,
+          "local_end": 2.64
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "file": "05.mp3",
+      "text": "I'll take two pounds. Do you have strawberries as well?",
+      "audio_sha256": "cb20c69aa0a525490c89594c5fe83e6f215a44c66bbd00ab476fcb4922f1c49e",
+      "start": 11.736,
+      "end": 15.048,
+      "duration": 3.312,
+      "words": [
+        {
+          "word": "I'll",
+          "start": 11.736,
+          "end": 12.016,
+          "local_start": 0.0,
+          "local_end": 0.28
+        },
+        {
+          "word": "take",
+          "start": 12.016,
+          "end": 12.256,
+          "local_start": 0.28,
+          "local_end": 0.52
+        },
+        {
+          "word": "two",
+          "start": 12.256,
+          "end": 12.576,
+          "local_start": 0.52,
+          "local_end": 0.84
+        },
+        {
+          "word": "pounds.",
+          "start": 12.576,
+          "end": 13.016,
+          "local_start": 0.84,
+          "local_end": 1.28
+        },
+        {
+          "word": "Do",
+          "start": 13.556,
+          "end": 13.676,
+          "local_start": 1.82,
+          "local_end": 1.94
+        },
+        {
+          "word": "you",
+          "start": 13.676,
+          "end": 13.776,
+          "local_start": 1.94,
+          "local_end": 2.04
+        },
+        {
+          "word": "have",
+          "start": 13.776,
+          "end": 13.936,
+          "local_start": 2.04,
+          "local_end": 2.2
+        },
+        {
+          "word": "strawberries",
+          "start": 13.936,
+          "end": 14.376,
+          "local_start": 2.2,
+          "local_end": 2.64
+        },
+        {
+          "word": "as",
+          "start": 14.376,
+          "end": 14.676,
+          "local_start": 2.64,
+          "local_end": 2.94
+        },
+        {
+          "word": "well?",
+          "start": 14.676,
+          "end": 14.796,
+          "local_start": 2.94,
+          "local_end": 3.06
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "file": "06.mp3",
+      "text": "Yes, but they're almost sold out. There's one box left.",
+      "audio_sha256": "ffc4ab49f30591d57b6429ba11dc51fc2cb3a7da5384a9d35dca789eb1a1c52f",
+      "start": 15.048,
+      "end": 19.152,
+      "duration": 4.104,
+      "words": [
+        {
+          "word": "Yes,",
+          "start": 15.048,
+          "end": 15.608,
+          "local_start": 0.0,
+          "local_end": 0.56
+        },
+        {
+          "word": "but",
+          "start": 15.868,
+          "end": 16.108,
+          "local_start": 0.82,
+          "local_end": 1.06
+        },
+        {
+          "word": "they're",
+          "start": 16.108,
+          "end": 16.268,
+          "local_start": 1.06,
+          "local_end": 1.22
+        },
+        {
+          "word": "almost",
+          "start": 16.268,
+          "end": 16.688,
+          "local_start": 1.22,
+          "local_end": 1.64
+        },
+        {
+          "word": "sold",
+          "start": 16.688,
+          "end": 16.968,
+          "local_start": 1.64,
+          "local_end": 1.92
+        },
+        {
+          "word": "out.",
+          "start": 16.968,
+          "end": 17.248,
+          "local_start": 1.92,
+          "local_end": 2.2
+        },
+        {
+          "word": "There's",
+          "start": 17.848,
+          "end": 18.048,
+          "local_start": 2.8,
+          "local_end": 3.0
+        },
+        {
+          "word": "one",
+          "start": 18.048,
+          "end": 18.268,
+          "local_start": 3.0,
+          "local_end": 3.22
+        },
+        {
+          "word": "box",
+          "start": 18.268,
+          "end": 18.528,
+          "local_start": 3.22,
+          "local_end": 3.48
+        },
+        {
+          "word": "left.",
+          "start": 18.528,
+          "end": 18.828,
+          "local_start": 3.48,
+          "local_end": 3.78
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "file": "07.mp3",
+      "text": "Perfect. I've been meaning to make a fruit salad.",
+      "audio_sha256": "70816f1e27c8487d88e0a2023f8ae9def2d79ce410288bb61bee7b3393e1794d",
+      "start": 19.152,
+      "end": 22.104,
+      "duration": 2.952,
+      "words": [
+        {
+          "word": "Perfect.",
+          "start": 19.152,
+          "end": 19.592,
+          "local_start": 0.0,
+          "local_end": 0.44
+        },
+        {
+          "word": "I've",
+          "start": 20.072,
+          "end": 20.272,
+          "local_start": 0.92,
+          "local_end": 1.12
+        },
+        {
+          "word": "been",
+          "start": 20.272,
+          "end": 20.472,
+          "local_start": 1.12,
+          "local_end": 1.32
+        },
+        {
+          "word": "meaning",
+          "start": 20.472,
+          "end": 20.812,
+          "local_start": 1.32,
+          "local_end": 1.66
+        },
+        {
+          "word": "to",
+          "start": 20.812,
+          "end": 21.072,
+          "local_start": 1.66,
+          "local_end": 1.92
+        },
+        {
+          "word": "make",
+          "start": 21.072,
+          "end": 21.152,
+          "local_start": 1.92,
+          "local_end": 2.0
+        },
+        {
+          "word": "a",
+          "start": 21.152,
+          "end": 21.332,
+          "local_start": 2.0,
+          "local_end": 2.18
+        },
+        {
+          "word": "fruit",
+          "start": 21.332,
+          "end": 21.492,
+          "local_start": 2.18,
+          "local_end": 2.34
+        },
+        {
+          "word": "salad.",
+          "start": 21.492,
+          "end": 21.752,
+          "local_start": 2.34,
+          "local_end": 2.6
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "file": "08.mp3",
+      "text": "Then these should be a good fit. They're sweet and ripe.",
+      "audio_sha256": "491fc00ab4230d8a8a15c07546d0b5ac7d812e84093ff44a781cc48a9b68f947",
+      "start": 22.104,
+      "end": 25.824,
+      "duration": 3.72,
+      "words": [
+        {
+          "word": "Then",
+          "start": 22.104,
+          "end": 22.484,
+          "local_start": 0.0,
+          "local_end": 0.38
+        },
+        {
+          "word": "these",
+          "start": 22.484,
+          "end": 22.984,
+          "local_start": 0.38,
+          "local_end": 0.88
+        },
+        {
+          "word": "should",
+          "start": 22.984,
+          "end": 23.184,
+          "local_start": 0.88,
+          "local_end": 1.08
+        },
+        {
+          "word": "be",
+          "start": 23.184,
+          "end": 23.424,
+          "local_start": 1.08,
+          "local_end": 1.32
+        },
+        {
+          "word": "a",
+          "start": 23.424,
+          "end": 23.704,
+          "local_start": 1.32,
+          "local_end": 1.6
+        },
+        {
+          "word": "good",
+          "start": 23.704,
+          "end": 23.944,
+          "local_start": 1.6,
+          "local_end": 1.84
+        },
+        {
+          "word": "fit.",
+          "start": 23.944,
+          "end": 24.224,
+          "local_start": 1.84,
+          "local_end": 2.12
+        },
+        {
+          "word": "They're",
+          "start": 24.744,
+          "end": 24.924,
+          "local_start": 2.64,
+          "local_end": 2.82
+        },
+        {
+          "word": "sweet",
+          "start": 24.924,
+          "end": 25.144,
+          "local_start": 2.82,
+          "local_end": 3.04
+        },
+        {
+          "word": "and",
+          "start": 25.144,
+          "end": 25.524,
+          "local_start": 3.04,
+          "local_end": 3.42
+        },
+        {
+          "word": "ripe.",
+          "start": 25.524,
+          "end": 25.584,
+          "local_start": 3.42,
+          "local_end": 3.48
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "file": "09.mp3",
+      "text": "Great. Can I pay with a card, or do you take cash only?",
+      "audio_sha256": "acd6b4c7a9118e09416829b3294673ccfe15d2f2d4b119079d1efa523247681f",
+      "start": 25.824,
+      "end": 29.976,
+      "duration": 4.152,
+      "words": [
+        {
+          "word": "Great.",
+          "start": 26.164,
+          "end": 26.364,
+          "local_start": 0.34,
+          "local_end": 0.54
+        },
+        {
+          "word": "Can",
+          "start": 26.364,
+          "end": 26.804,
+          "local_start": 0.54,
+          "local_end": 0.98
+        },
+        {
+          "word": "I",
+          "start": 26.804,
+          "end": 27.044,
+          "local_start": 0.98,
+          "local_end": 1.22
+        },
+        {
+          "word": "pay",
+          "start": 27.044,
+          "end": 27.144,
+          "local_start": 1.22,
+          "local_end": 1.32
+        },
+        {
+          "word": "with",
+          "start": 27.144,
+          "end": 27.324,
+          "local_start": 1.32,
+          "local_end": 1.5
+        },
+        {
+          "word": "a",
+          "start": 27.324,
+          "end": 27.544,
+          "local_start": 1.5,
+          "local_end": 1.72
+        },
+        {
+          "word": "card,",
+          "start": 27.544,
+          "end": 27.684,
+          "local_start": 1.72,
+          "local_end": 1.86
+        },
+        {
+          "word": "or",
+          "start": 28.224,
+          "end": 28.404,
+          "local_start": 2.4,
+          "local_end": 2.58
+        },
+        {
+          "word": "do",
+          "start": 28.404,
+          "end": 28.644,
+          "local_start": 2.58,
+          "local_end": 2.82
+        },
+        {
+          "word": "you",
+          "start": 28.644,
+          "end": 28.644,
+          "local_start": 2.82,
+          "local_end": 2.82
+        },
+        {
+          "word": "take",
+          "start": 28.644,
+          "end": 28.764,
+          "local_start": 2.82,
+          "local_end": 2.94
+        },
+        {
+          "word": "cash",
+          "start": 28.764,
+          "end": 29.024,
+          "local_start": 2.94,
+          "local_end": 3.2
+        },
+        {
+          "word": "only?",
+          "start": 29.024,
+          "end": 29.304,
+          "local_start": 3.2,
+          "local_end": 3.48
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "file": "10.mp3",
+      "text": "Either works. There's a small card fee of fifty cents.",
+      "audio_sha256": "1e4b652bb3e6637d7ee93229b7876b25d2fe37775158642970c65563ea15834a",
+      "start": 29.976,
+      "end": 33.192,
+      "duration": 3.216,
+      "words": [
+        {
+          "word": "Either",
+          "start": 30.696,
+          "end": 30.896,
+          "local_start": 0.72,
+          "local_end": 0.92
+        },
+        {
+          "word": "works.",
+          "start": 30.896,
+          "end": 30.906,
+          "local_start": 0.92,
+          "local_end": 0.93
+        },
+        {
+          "word": "There's",
+          "start": 30.896,
+          "end": 31.336,
+          "local_start": 0.92,
+          "local_end": 1.36
+        },
+        {
+          "word": "a",
+          "start": 31.336,
+          "end": 31.476,
+          "local_start": 1.36,
+          "local_end": 1.5
+        },
+        {
+          "word": "small",
+          "start": 31.476,
+          "end": 31.776,
+          "local_start": 1.5,
+          "local_end": 1.8
+        },
+        {
+          "word": "card",
+          "start": 31.776,
+          "end": 32.096,
+          "local_start": 1.8,
+          "local_end": 2.12
+        },
+        {
+          "word": "fee",
+          "start": 32.096,
+          "end": 32.236,
+          "local_start": 2.12,
+          "local_end": 2.26
+        },
+        {
+          "word": "of",
+          "start": 32.236,
+          "end": 32.376,
+          "local_start": 2.26,
+          "local_end": 2.4
+        },
+        {
+          "word": "fifty",
+          "start": 32.376,
+          "end": 32.636,
+          "local_start": 2.4,
+          "local_end": 2.66
+        },
+        {
+          "word": "cents.",
+          "start": 32.636,
+          "end": 32.856,
+          "local_start": 2.66,
+          "local_end": 2.88
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "file": "11.mp3",
+      "text": "Cash is fine. Thanks for the tip about the strawberries.",
+      "audio_sha256": "26162bf8de4e6884645d505dc0a346a24a31802f594d02f5c28c82b89144739a",
+      "start": 33.192,
+      "end": 36.0,
+      "duration": 2.808,
+      "words": [
+        {
+          "word": "Cash",
+          "start": 33.192,
+          "end": 33.512,
+          "local_start": 0.0,
+          "local_end": 0.32
+        },
+        {
+          "word": "is",
+          "start": 33.512,
+          "end": 33.692,
+          "local_start": 0.32,
+          "local_end": 0.5
+        },
+        {
+          "word": "fine.",
+          "start": 33.692,
+          "end": 33.972,
+          "local_start": 0.5,
+          "local_end": 0.78
+        },
+        {
+          "word": "Thanks",
+          "start": 34.432,
+          "end": 34.552,
+          "local_start": 1.24,
+          "local_end": 1.36
+        },
+        {
+          "word": "for",
+          "start": 34.552,
+          "end": 34.672,
+          "local_start": 1.36,
+          "local_end": 1.48
+        },
+        {
+          "word": "the",
+          "start": 34.672,
+          "end": 34.812,
+          "local_start": 1.48,
+          "local_end": 1.62
+        },
+        {
+          "word": "tip",
+          "start": 34.812,
+          "end": 34.932,
+          "local_start": 1.62,
+          "local_end": 1.74
+        },
+        {
+          "word": "about",
+          "start": 34.932,
+          "end": 35.132,
+          "local_start": 1.74,
+          "local_end": 1.94
+        },
+        {
+          "word": "the",
+          "start": 35.132,
+          "end": 35.312,
+          "local_start": 1.94,
+          "local_end": 2.12
+        },
+        {
+          "word": "strawberries.",
+          "start": 35.312,
+          "end": 35.552,
+          "local_start": 2.12,
+          "local_end": 2.36
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "file": "12.mp3",
+      "text": "Anytime. Enjoy your weekend cooking!",
+      "audio_sha256": "236ef06afb4f59e32c8fe16c424c582426aef849b97abe3c7cc261424d9be43b",
+      "start": 36.0,
+      "end": 38.568,
+      "duration": 2.568,
+      "words": [
+        {
+          "word": "Anytime.",
+          "start": 36.66,
+          "end": 36.86,
+          "local_start": 0.66,
+          "local_end": 0.86
+        },
+        {
+          "word": "Enjoy",
+          "start": 36.86,
+          "end": 37.42,
+          "local_start": 0.86,
+          "local_end": 1.42
+        },
+        {
+          "word": "your",
+          "start": 37.42,
+          "end": 37.7,
+          "local_start": 1.42,
+          "local_end": 1.7
+        },
+        {
+          "word": "weekend",
+          "start": 37.7,
+          "end": 38.0,
+          "local_start": 1.7,
+          "local_end": 2.0
+        },
+        {
+          "word": "cooking!",
+          "start": 38.0,
+          "end": 38.26,
+          "local_start": 2.0,
+          "local_end": 2.26
+        }
+      ]
+    }
+  ]
+}

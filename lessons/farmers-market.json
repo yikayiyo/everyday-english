@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-02",
+  "slug": "farmers-market",
+  "title": "Shopping at a Farmers Market",
+  "title_zh": "在农夫市场买菜",
+  "context": "Maya 周末去农夫市场买新鲜食材，向摊主 Chris 打听西红柿和草莓的情况。",
+  "voices": {
+    "Maya": "marin",
+    "Chris": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Maya",
+      "en": "Hi! Are these tomatoes grown nearby?",
+      "zh": "你好！这些西红柿是附近种的吗？"
+    },
+    {
+      "speaker": "Chris",
+      "en": "They are. We picked them this morning on our farm.",
+      "zh": "是的。我们今天早上刚从自家农场摘下来。"
+    },
+    {
+      "speaker": "Maya",
+      "en": "They look really fresh. How much are they?",
+      "zh": "看起来真新鲜。怎么卖？"
+    },
+    {
+      "speaker": "Chris",
+      "en": "Three dollars a pound, or five for two pounds.",
+      "zh": "一磅三美元，两磅五美元。"
+    },
+    {
+      "speaker": "Maya",
+      "en": "I'll take two pounds. Do you have strawberries as well?",
+      "zh": "我要两磅。你们也有草莓吗？"
+    },
+    {
+      "speaker": "Chris",
+      "en": "Yes, but they're almost sold out. There's one box left.",
+      "zh": "有，不过快卖完了。只剩一盒了。"
+    },
+    {
+      "speaker": "Maya",
+      "en": "Perfect. I've been meaning to make a fruit salad.",
+      "zh": "太好了。我一直想做一份水果沙拉。"
+    },
+    {
+      "speaker": "Chris",
+      "en": "Then these should be a good fit. They're sweet and ripe.",
+      "zh": "那这盒应该挺适合你。又甜又熟。"
+    },
+    {
+      "speaker": "Maya",
+      "en": "Great. Can I pay with a card, or do you take cash only?",
+      "zh": "好。我能刷卡吗，还是只收现金？"
+    },
+    {
+      "speaker": "Chris",
+      "en": "Either works. There's a small card fee of fifty cents.",
+      "zh": "都行。刷卡会多收五十美分手续费。"
+    },
+    {
+      "speaker": "Maya",
+      "en": "Cash is fine. Thanks for the tip about the strawberries.",
+      "zh": "那就付现金吧。谢谢你提醒草莓快卖完了。"
+    },
+    {
+      "speaker": "Chris",
+      "en": "Anytime. Enjoy your weekend cooking!",
+      "zh": "不客气。祝你周末做饭愉快！"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "How much are they?",
+      "zh": "怎么卖？/多少钱？询问价格的自然说法。",
+      "example": "How much are the apples today?"
+    },
+    {
+      "en": "I've been meaning to…",
+      "zh": "我一直想做……，但还没真正去做。",
+      "example": "I've been meaning to cook more at home."
+    },
+    {
+      "en": "A good fit",
+      "zh": "很合适的人或事物。",
+      "example": "These berries are a good fit for a fruit salad."
+    },
+    {
+      "en": "Almost sold out",
+      "zh": "快卖完了。",
+      "example": "The bread is almost sold out."
+    },
+    {
+      "en": "Either works.",
+      "zh": "两种都可以。用于给出灵活选择。",
+      "example": "We can meet at ten or eleven. Either works."
+    }
+  ],
+  "pronunciation": "练习 tomatoes 的美式发音 /təˈmeɪtoʊz/，以及 two pounds 的连读。注意 strawberries 的重音在第一音节 STRAW。",
+  "practice": [
+    {
+      "title": "Part 1 · Markets",
+      "prompt": "Do you like going to markets?",
+      "answer": "Yes, I do. I like farmers markets because the food is fresher. I usually go on weekends with a friend."
+    },
+    {
+      "title": "Part 2 · A place to buy food",
+      "prompt": "Describe a place where you like to buy food. Say where it is, what you buy there, and why you like it.",
+      "answer": "I like shopping at a local farmers market. It is outdoors and open on weekends. I usually buy fruit and vegetables there because they taste fresher than supermarket food. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Local food",
+      "prompt": "Why do some people prefer to buy local food?",
+      "answer": "I think local food is often fresher, and buying it can support nearby farmers. Some people also care about reducing transportation and knowing where their food comes from."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "先听完整对话，再逐句跟读。最后练习在市场询问价格并决定买什么。",
+      "answer": "用 3–4 句说明你想买什么、怎么问价，以及你为什么选择现金或刷卡。"
+    }
+  ]
+}

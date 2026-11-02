@@ -1,0 +1,86 @@
+{
+  "01.mp3": {
+    "text_sha256": "a0f8450d5d8a120e6eb3f1742abc6b862b0e8b2999070d7a0146171a46548103",
+    "audio_sha256": "5a9b050a89d046a9bba20f5b0d5924316ba54ca1df6dee64998b9411533f138b",
+    "voice": "marin",
+    "model": "gpt-realtime-2.1-mini",
+    "transcript_check": "matched"
+  },
+  "02.mp3": {
+    "text_sha256": "5ccba2d00c3d899c795e85c8e9986629f03bf2ffb08acbd0cad7c18577a8cdf7",
+    "audio_sha256": "e66bb7286d7731b8131550cc982a1bf1012055c240a4b1adf5a0da86c3a91e61",
+    "voice": "cedar",
+    "model": "gpt-realtime-2.1-mini",
+    "transcript_check": "matched"
+  },
+  "03.mp3": {
+    "text_sha256": "f74e120f96c4eefca9ef9bb9a323161fa58528b37b883f10a5c286e08d80cd15",
+    "audio_sha256": "463e9c3cb44085474fe8ef12bb64b88ae91989b61726141627792e143126abe6",
+    "voice": "marin",
+    "model": "gpt-realtime-2.1-mini",
+    "transcript_check": "matched"
+  },
+  "04.mp3": {
+    "text_sha256": "13cee5054f89d1467e3bacc2df72738e68456e61793bec27819de988f78cd34d",
+    "audio_sha256": "541b92d57831b8dcc7d7d6aea492e3ba0dfc47f818ea222bf9f9aa2c565c7a74",
+    "voice": "cedar",
+    "model": "gpt-realtime-2.1-mini",
+    "transcript_check": "matched"
+  },
+  "05.mp3": {
+    "text_sha256": "b63f9c7da7c129bd8c17942bd2c3571805512b002ce87bb9c7dd4d96edbf3909",
+    "audio_sha256": "cb20c69aa0a525490c89594c5fe83e6f215a44c66bbd00ab476fcb4922f1c49e",
+    "voice": "marin",
+    "model": "gpt-realtime-2.1-mini",
+    "transcript_check": "matched"
+  },
+  "06.mp3": {
+    "text_sha256": "9b4e4c824c271582ef5978b5243f56ab77d9a61765fde7f729ddad2733352955",
+    "audio_sha256": "ffc4ab49f30591d57b6429ba11dc51fc2cb3a7da5384a9d35dca789eb1a1c52f",
+    "voice": "cedar",
+    "model": "gpt-realtime-2.1-mini",
+    "transcript_check": "matched"
+  },
+  "07.mp3": {
+    "text_sha256": "bf88039154e499c80af18b5c9e26cf330be8e2f9ab09650fce1debb5516a1774",
+    "audio_sha256": "70816f1e27c8487d88e0a2023f8ae9def2d79ce410288bb61bee7b3393e1794d",
+    "voice": "marin",
+    "model": "gpt-realtime-2.1-mini",
+    "transcript_check": "matched"
+  },
+  "08.mp3": {
+    "text_sha256": "280b38e7bf3309de423c3ea579ddc3cb4f7b78ae98244c43a9c6fef6d5eecd0c",
+    "audio_sha256": "491fc00ab4230d8a8a15c07546d0b5ac7d812e84093ff44a781cc48a9b68f947",
+    "voice": "cedar",
+    "model": "gpt-realtime-2.1-mini",
+    "transcript_check": "matched"
+  },
+  "09.mp3": {
+    "text_sha256": "46bc76a2b040992873b7aae407a3904b6a24287cad1d32071228a0dfee6821cb",
+    "audio_sha256": "acd6b4c7a9118e09416829b3294673ccfe15d2f2d4b119079d1efa523247681f",
+    "voice": "marin",
+    "model": "gpt-realtime-2.1-mini",
+    "transcript_check": "matched"
+  },
+  "10.mp3": {
+    "text_sha256": "793b134aa3440d34c9568500bf3b79dde58b1f203fcf5d401adb0b98f02a2f39",
+    "audio_sha256": "1e4b652bb3e6637d7ee93229b7876b25d2fe37775158642970c65563ea15834a",
+    "voice": "cedar",
+    "model": "gpt-realtime-2.1-mini",
+    "transcript_check": "matched"
+  },
+  "11.mp3": {
+    "text_sha256": "1f3aafe589c1f04303544cd6b1da8424fec2ec51c4d79ea547c9a4d1dafa7538",
+    "audio_sha256": "26162bf8de4e6884645d505dc0a346a24a31802f594d02f5c28c82b89144739a",
+    "voice": "marin",
+    "model": "gpt-realtime-2.1-mini",
+    "transcript_check": "matched"
+  },
+  "12.mp3": {
+    "text_sha256": "492201b603ac0ca8155058be9d7316bf712ef077df46950e0fb8bf51d859be18",
+    "audio_sha256": "236ef06afb4f59e32c8fe16c424c582426aef849b97abe3c7cc261424d9be43b",
+    "voice": "cedar",
+    "model": "gpt-realtime-2.1-mini",
+    "transcript_check": "matched"
+  }
+}
