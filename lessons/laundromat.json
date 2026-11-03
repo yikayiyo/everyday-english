@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-03",
+  "slug": "laundromat",
+  "title": "Doing Laundry at a Laundromat",
+  "title_zh": "在自助洗衣店洗衣服",
+  "context": "Lena 第一次来自助洗衣店，向店员 Alex 打听哪台洗衣机空着、用什么洗涤剂，以及烘干机和付款方式。",
+  "voices": {
+    "Lena": "marin",
+    "Alex": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Lena",
+      "en": "Hi! Are any washing machines free right now?",
+      "zh": "你好！现在有空着的洗衣机吗？"
+    },
+    {
+      "speaker": "Alex",
+      "en": "Yes. Machines four and seven are open. Four is a large load.",
+      "zh": "有。四号和七号空着。四号是大容量的。"
+    },
+    {
+      "speaker": "Lena",
+      "en": "Great, I'll take four. Do I need to bring my own detergent?",
+      "zh": "太好了，我用四号。我需要自备洗涤剂吗？"
+    },
+    {
+      "speaker": "Alex",
+      "en": "You can. Or buy a single-use pack from the vending machine by the door.",
+      "zh": "可以自备。也可以在门口自动售货机买单次用量的包装。"
+    },
+    {
+      "speaker": "Lena",
+      "en": "I'll buy a pack. Which cycle should I use for mixed clothes?",
+      "zh": "那我买一包。混洗衣物该选哪个程序？"
+    },
+    {
+      "speaker": "Alex",
+      "en": "Use the normal cycle with warm water. It takes about thirty-five minutes.",
+      "zh": "选标准程序，用温水。大概三十五分钟。"
+    },
+    {
+      "speaker": "Lena",
+      "en": "Got it. And how long do the dryers usually take?",
+      "zh": "明白了。烘干机一般要多久？"
+    },
+    {
+      "speaker": "Alex",
+      "en": "Most loads need about forty minutes on medium heat.",
+      "zh": "大多数衣物用中温大约四十分钟就够。"
+    },
+    {
+      "speaker": "Lena",
+      "en": "Can I pay with a card, or do I need coins?",
+      "zh": "我能刷卡吗，还是必须用硬币？"
+    },
+    {
+      "speaker": "Alex",
+      "en": "Either works. You can tap your card, use the app, or add coins.",
+      "zh": "都行。可以刷卡、用 App，也可以投币。"
+    },
+    {
+      "speaker": "Lena",
+      "en": "Perfect. Should I stay here the whole time, or can I come back later?",
+      "zh": "太好了。我要一直待在这儿，还是可以过会儿再回来？"
+    },
+    {
+      "speaker": "Alex",
+      "en": "You can step out. Just come back before the cycle ends so nobody moves your stuff.",
+      "zh": "可以出去。只要在程序结束前回来，免得别人挪走你的衣服。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "Are any … free right now?",
+      "zh": "现在有……空着吗？询问是否有空位或空闲设备。",
+      "example": "Are any dryers free right now?"
+    },
+    {
+      "en": "I'll take …",
+      "zh": "我选……/我要……，用于选定某台机器或某样东西。",
+      "example": "I'll take machine seven."
+    },
+    {
+      "en": "Which cycle should I use…?",
+      "zh": "我该选哪个洗衣程序？询问机器设置。",
+      "example": "Which cycle should I use for towels?"
+    },
+    {
+      "en": "Either works.",
+      "zh": "两种都可以。用于给出灵活选择。",
+      "example": "Card or coins? Either works."
+    },
+    {
+      "en": "Come back before the cycle ends",
+      "zh": "在程序结束前回来。提醒时间安排。",
+      "example": "Come back before the cycle ends so your clothes stay safe."
+    }
+  ],
+  "pronunciation": "练习 laundromat /ˈlɔːndrəmæt/ 的重音在 LAUN。注意 detergent 的重音在第二音节 -TER-，以及 thirty-five minutes 的连读。",
+  "practice": [
+    {
+      "title": "Part 1 · Household chores",
+      "prompt": "Do you usually do your own laundry?",
+      "answer": "Yes, I do. I wash my clothes once or twice a week. Sometimes I use a laundromat when I have a big load."
+    },
+    {
+      "title": "Part 2 · A place you go regularly",
+      "prompt": "Describe a place you go to do everyday tasks. Say where it is, what you do there, and why you go there.",
+      "answer": "I sometimes go to a laundromat near my apartment. It has large washing machines and dryers. I go there when I have too many clothes for my small machine at home. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Shared facilities",
+      "prompt": "Why do some people prefer shared laundry facilities instead of washing at home?",
+      "answer": "I think shared facilities can save space and money, especially in small apartments. They also have larger machines, so big loads finish faster. Some people like that they don't need to buy a washer themselves."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "先听完整对话，再逐句跟读。最后练习询问空洗衣机、选择程序和付款方式。",
+      "answer": "用 3–4 句说明你如何找空机器、选洗涤程序，以及你更喜欢刷卡还是投币。"
+    }
+  ]
+}

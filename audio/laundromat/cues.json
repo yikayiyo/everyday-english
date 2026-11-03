@@ -1,0 +1,1141 @@
+{
+  "model": "whisper-1",
+  "lesson": "laundromat",
+  "full_track": "dialogue-full.mp3",
+  "full_duration": 49.56,
+  "lines": [
+    {
+      "index": 1,
+      "file": "01.mp3",
+      "text": "Hi! Are any washing machines free right now?",
+      "audio_sha256": "288253f778b2f336c34bcd5678d243169b49a8d226cd4dd3634ae65e57cf6c27",
+      "start": 0.0,
+      "end": 2.76,
+      "duration": 2.76,
+      "words": [
+        {
+          "word": "Hi!",
+          "start": 0.0,
+          "end": 0.52,
+          "local_start": 0.0,
+          "local_end": 0.52
+        },
+        {
+          "word": "Are",
+          "start": 0.78,
+          "end": 1.08,
+          "local_start": 0.78,
+          "local_end": 1.08
+        },
+        {
+          "word": "any",
+          "start": 1.08,
+          "end": 1.32,
+          "local_start": 1.08,
+          "local_end": 1.32
+        },
+        {
+          "word": "washing",
+          "start": 1.32,
+          "end": 1.52,
+          "local_start": 1.32,
+          "local_end": 1.52
+        },
+        {
+          "word": "machines",
+          "start": 1.52,
+          "end": 1.88,
+          "local_start": 1.52,
+          "local_end": 1.88
+        },
+        {
+          "word": "free",
+          "start": 1.88,
+          "end": 2.12,
+          "local_start": 1.88,
+          "local_end": 2.12
+        },
+        {
+          "word": "right",
+          "start": 2.12,
+          "end": 2.34,
+          "local_start": 2.12,
+          "local_end": 2.34
+        },
+        {
+          "word": "now?",
+          "start": 2.34,
+          "end": 2.54,
+          "local_start": 2.34,
+          "local_end": 2.54
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "file": "02.mp3",
+      "text": "Yes. Machines four and seven are open. Four is a large load.",
+      "audio_sha256": "252d6bb7b78fd41c0df4bccd59e1e5bff4c10e50757554c945c839aa293b3231",
+      "start": 2.76,
+      "end": 7.272,
+      "duration": 4.512,
+      "words": [
+        {
+          "word": "Yes.",
+          "start": 2.76,
+          "end": 3.52,
+          "local_start": 0.0,
+          "local_end": 0.76
+        },
+        {
+          "word": "Machines",
+          "start": 3.98,
+          "end": 4.04,
+          "local_start": 1.22,
+          "local_end": 1.28
+        },
+        {
+          "word": "four",
+          "start": 4.04,
+          "end": 4.38,
+          "local_start": 1.28,
+          "local_end": 1.62
+        },
+        {
+          "word": "and",
+          "start": 4.38,
+          "end": 4.62,
+          "local_start": 1.62,
+          "local_end": 1.86
+        },
+        {
+          "word": "seven",
+          "start": 4.62,
+          "end": 4.84,
+          "local_start": 1.86,
+          "local_end": 2.08
+        },
+        {
+          "word": "are",
+          "start": 4.84,
+          "end": 5.0,
+          "local_start": 2.08,
+          "local_end": 2.24
+        },
+        {
+          "word": "open.",
+          "start": 5.0,
+          "end": 5.24,
+          "local_start": 2.24,
+          "local_end": 2.48
+        },
+        {
+          "word": "Four",
+          "start": 5.84,
+          "end": 6.06,
+          "local_start": 3.08,
+          "local_end": 3.3
+        },
+        {
+          "word": "is",
+          "start": 6.06,
+          "end": 6.26,
+          "local_start": 3.3,
+          "local_end": 3.5
+        },
+        {
+          "word": "a",
+          "start": 6.26,
+          "end": 6.46,
+          "local_start": 3.5,
+          "local_end": 3.7
+        },
+        {
+          "word": "large",
+          "start": 6.46,
+          "end": 6.68,
+          "local_start": 3.7,
+          "local_end": 3.92
+        },
+        {
+          "word": "load.",
+          "start": 6.68,
+          "end": 6.92,
+          "local_start": 3.92,
+          "local_end": 4.16
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "file": "03.mp3",
+      "text": "Great, I'll take four. Do I need to bring my own detergent?",
+      "audio_sha256": "077cd86821f3a84018e513b4c0d71fb2e0bef1a32cf078ee397afff40e387bb6",
+      "start": 7.272,
+      "end": 11.136,
+      "duration": 3.864,
+      "words": [
+        {
+          "word": "Great,",
+          "start": 7.272,
+          "end": 7.992,
+          "local_start": 0.0,
+          "local_end": 0.72
+        },
+        {
+          "word": "I'll",
+          "start": 8.192,
+          "end": 8.372,
+          "local_start": 0.92,
+          "local_end": 1.1
+        },
+        {
+          "word": "take",
+          "start": 8.372,
+          "end": 8.532,
+          "local_start": 1.1,
+          "local_end": 1.26
+        },
+        {
+          "word": "four.",
+          "start": 8.532,
+          "end": 8.792,
+          "local_start": 1.26,
+          "local_end": 1.52
+        },
+        {
+          "word": "Do",
+          "start": 9.392,
+          "end": 9.472,
+          "local_start": 2.12,
+          "local_end": 2.2
+        },
+        {
+          "word": "I",
+          "start": 9.472,
+          "end": 9.652,
+          "local_start": 2.2,
+          "local_end": 2.38
+        },
+        {
+          "word": "need",
+          "start": 9.652,
+          "end": 9.812,
+          "local_start": 2.38,
+          "local_end": 2.54
+        },
+        {
+          "word": "to",
+          "start": 9.812,
+          "end": 10.012,
+          "local_start": 2.54,
+          "local_end": 2.74
+        },
+        {
+          "word": "bring",
+          "start": 10.012,
+          "end": 10.112,
+          "local_start": 2.74,
+          "local_end": 2.84
+        },
+        {
+          "word": "my",
+          "start": 10.112,
+          "end": 10.312,
+          "local_start": 2.84,
+          "local_end": 3.04
+        },
+        {
+          "word": "own",
+          "start": 10.312,
+          "end": 10.492,
+          "local_start": 3.04,
+          "local_end": 3.22
+        },
+        {
+          "word": "detergent?",
+          "start": 10.492,
+          "end": 10.772,
+          "local_start": 3.22,
+          "local_end": 3.5
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "file": "04.mp3",
+      "text": "You can. Or buy a single-use pack from the vending machine by the door.",
+      "audio_sha256": "5a856163d9a5f288d7e54d9fc533437e3a285fd95f6f77bce492f900bd0d92e2",
+      "start": 11.136,
+      "end": 15.744,
+      "duration": 4.608,
+      "words": [
+        {
+          "word": "You",
+          "start": 11.136,
+          "end": 11.356,
+          "local_start": 0.0,
+          "local_end": 0.22
+        },
+        {
+          "word": "can.",
+          "start": 11.356,
+          "end": 11.676,
+          "local_start": 0.22,
+          "local_end": 0.54
+        },
+        {
+          "word": "Or",
+          "start": 12.276,
+          "end": 12.456,
+          "local_start": 1.14,
+          "local_end": 1.32
+        },
+        {
+          "word": "buy",
+          "start": 12.456,
+          "end": 12.576,
+          "local_start": 1.32,
+          "local_end": 1.44
+        },
+        {
+          "word": "a",
+          "start": 12.576,
+          "end": 12.796,
+          "local_start": 1.44,
+          "local_end": 1.66
+        },
+        {
+          "word": "single-use",
+          "start": 12.796,
+          "end": 13.316,
+          "local_start": 1.66,
+          "local_end": 2.18
+        },
+        {
+          "word": "pack",
+          "start": 13.316,
+          "end": 13.596,
+          "local_start": 2.18,
+          "local_end": 2.46
+        },
+        {
+          "word": "from",
+          "start": 13.596,
+          "end": 14.196,
+          "local_start": 2.46,
+          "local_end": 3.06
+        },
+        {
+          "word": "the",
+          "start": 14.196,
+          "end": 14.436,
+          "local_start": 3.06,
+          "local_end": 3.3
+        },
+        {
+          "word": "vending",
+          "start": 14.436,
+          "end": 14.496,
+          "local_start": 3.3,
+          "local_end": 3.36
+        },
+        {
+          "word": "machine",
+          "start": 14.496,
+          "end": 14.836,
+          "local_start": 3.36,
+          "local_end": 3.7
+        },
+        {
+          "word": "by",
+          "start": 14.836,
+          "end": 15.056,
+          "local_start": 3.7,
+          "local_end": 3.92
+        },
+        {
+          "word": "the",
+          "start": 15.056,
+          "end": 15.276,
+          "local_start": 3.92,
+          "local_end": 4.14
+        },
+        {
+          "word": "door.",
+          "start": 15.276,
+          "end": 15.316,
+          "local_start": 4.14,
+          "local_end": 4.18
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "file": "05.mp3",
+      "text": "I'll buy a pack. Which cycle should I use for mixed clothes?",
+      "audio_sha256": "26431fbff942f0263df0607f6ea0be4d032c93c30be2fe84832d06a50d498994",
+      "start": 15.744,
+      "end": 20.256,
+      "duration": 4.512,
+      "words": [
+        {
+          "word": "I'll",
+          "start": 15.744,
+          "end": 16.064,
+          "local_start": 0.0,
+          "local_end": 0.32
+        },
+        {
+          "word": "buy",
+          "start": 16.064,
+          "end": 16.364,
+          "local_start": 0.32,
+          "local_end": 0.62
+        },
+        {
+          "word": "a",
+          "start": 16.364,
+          "end": 16.604,
+          "local_start": 0.62,
+          "local_end": 0.86
+        },
+        {
+          "word": "pack.",
+          "start": 16.604,
+          "end": 16.904,
+          "local_start": 0.86,
+          "local_end": 1.16
+        },
+        {
+          "word": "Which",
+          "start": 17.544,
+          "end": 17.664,
+          "local_start": 1.8,
+          "local_end": 1.92
+        },
+        {
+          "word": "cycle",
+          "start": 17.664,
+          "end": 18.044,
+          "local_start": 1.92,
+          "local_end": 2.3
+        },
+        {
+          "word": "should",
+          "start": 18.044,
+          "end": 18.224,
+          "local_start": 2.3,
+          "local_end": 2.48
+        },
+        {
+          "word": "I",
+          "start": 18.224,
+          "end": 18.444,
+          "local_start": 2.48,
+          "local_end": 2.7
+        },
+        {
+          "word": "use",
+          "start": 18.444,
+          "end": 18.684,
+          "local_start": 2.7,
+          "local_end": 2.94
+        },
+        {
+          "word": "for",
+          "start": 18.684,
+          "end": 18.944,
+          "local_start": 2.94,
+          "local_end": 3.2
+        },
+        {
+          "word": "mixed",
+          "start": 18.944,
+          "end": 19.144,
+          "local_start": 3.2,
+          "local_end": 3.4
+        },
+        {
+          "word": "clothes?",
+          "start": 19.144,
+          "end": 19.604,
+          "local_start": 3.4,
+          "local_end": 3.86
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "file": "06.mp3",
+      "text": "Use the normal cycle with warm water. It takes about thirty-five minutes.",
+      "audio_sha256": "31bdde5e8152a0b6842a5ef245e8becd7dff633b1ec41e1db4d7727e7770994b",
+      "start": 20.256,
+      "end": 25.512,
+      "duration": 5.256,
+      "words": [
+        {
+          "word": "Use",
+          "start": 20.256,
+          "end": 20.656,
+          "local_start": 0.0,
+          "local_end": 0.4
+        },
+        {
+          "word": "the",
+          "start": 20.656,
+          "end": 20.896,
+          "local_start": 0.4,
+          "local_end": 0.64
+        },
+        {
+          "word": "normal",
+          "start": 20.896,
+          "end": 21.236,
+          "local_start": 0.64,
+          "local_end": 0.98
+        },
+        {
+          "word": "cycle",
+          "start": 21.236,
+          "end": 21.556,
+          "local_start": 0.98,
+          "local_end": 1.3
+        },
+        {
+          "word": "with",
+          "start": 21.556,
+          "end": 22.036,
+          "local_start": 1.3,
+          "local_end": 1.78
+        },
+        {
+          "word": "warm",
+          "start": 22.036,
+          "end": 22.396,
+          "local_start": 1.78,
+          "local_end": 2.14
+        },
+        {
+          "word": "water.",
+          "start": 22.396,
+          "end": 22.656,
+          "local_start": 2.14,
+          "local_end": 2.4
+        },
+        {
+          "word": "It",
+          "start": 23.636,
+          "end": 23.736,
+          "local_start": 3.38,
+          "local_end": 3.48
+        },
+        {
+          "word": "takes",
+          "start": 23.736,
+          "end": 23.936,
+          "local_start": 3.48,
+          "local_end": 3.68
+        },
+        {
+          "word": "about",
+          "start": 23.936,
+          "end": 24.316,
+          "local_start": 3.68,
+          "local_end": 4.06
+        },
+        {
+          "word": "thirty-five",
+          "start": 24.316,
+          "end": 24.916,
+          "local_start": 4.06,
+          "local_end": 4.66
+        },
+        {
+          "word": "minutes.",
+          "start": 24.916,
+          "end": 25.216,
+          "local_start": 4.66,
+          "local_end": 4.96
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "file": "07.mp3",
+      "text": "Got it. And how long do the dryers usually take?",
+      "audio_sha256": "48b3b6de98868eb33a74a0955b7f66ec95fbd5dc34687d4d71f24daedc86ab52",
+      "start": 25.512,
+      "end": 28.464,
+      "duration": 2.952,
+      "words": [
+        {
+          "word": "Got",
+          "start": 25.512,
+          "end": 25.772,
+          "local_start": 0.0,
+          "local_end": 0.26
+        },
+        {
+          "word": "it.",
+          "start": 25.772,
+          "end": 25.992,
+          "local_start": 0.26,
+          "local_end": 0.48
+        },
+        {
+          "word": "And",
+          "start": 26.432,
+          "end": 26.592,
+          "local_start": 0.92,
+          "local_end": 1.08
+        },
+        {
+          "word": "how",
+          "start": 26.592,
+          "end": 26.752,
+          "local_start": 1.08,
+          "local_end": 1.24
+        },
+        {
+          "word": "long",
+          "start": 26.752,
+          "end": 26.952,
+          "local_start": 1.24,
+          "local_end": 1.44
+        },
+        {
+          "word": "do",
+          "start": 26.952,
+          "end": 27.092,
+          "local_start": 1.44,
+          "local_end": 1.58
+        },
+        {
+          "word": "the",
+          "start": 27.092,
+          "end": 27.232,
+          "local_start": 1.58,
+          "local_end": 1.72
+        },
+        {
+          "word": "dryers",
+          "start": 27.232,
+          "end": 27.632,
+          "local_start": 1.72,
+          "local_end": 2.12
+        },
+        {
+          "word": "usually",
+          "start": 27.632,
+          "end": 27.952,
+          "local_start": 2.12,
+          "local_end": 2.44
+        },
+        {
+          "word": "take?",
+          "start": 27.952,
+          "end": 28.272,
+          "local_start": 2.44,
+          "local_end": 2.76
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "file": "08.mp3",
+      "text": "Most loads need about forty minutes on medium heat.",
+      "audio_sha256": "3f5f0f1d34a86fdd35b3d7f8950b91bda787363528776eceb560dff896d06ec6",
+      "start": 28.464,
+      "end": 32.112,
+      "duration": 3.648,
+      "words": [
+        {
+          "word": "Most",
+          "start": 28.464,
+          "end": 28.904,
+          "local_start": 0.0,
+          "local_end": 0.44
+        },
+        {
+          "word": "loads",
+          "start": 28.904,
+          "end": 29.284,
+          "local_start": 0.44,
+          "local_end": 0.82
+        },
+        {
+          "word": "need",
+          "start": 29.284,
+          "end": 29.624,
+          "local_start": 0.82,
+          "local_end": 1.16
+        },
+        {
+          "word": "about",
+          "start": 29.624,
+          "end": 29.924,
+          "local_start": 1.16,
+          "local_end": 1.46
+        },
+        {
+          "word": "forty",
+          "start": 29.924,
+          "end": 30.324,
+          "local_start": 1.46,
+          "local_end": 1.86
+        },
+        {
+          "word": "minutes",
+          "start": 30.324,
+          "end": 30.724,
+          "local_start": 1.86,
+          "local_end": 2.26
+        },
+        {
+          "word": "on",
+          "start": 30.724,
+          "end": 31.144,
+          "local_start": 2.26,
+          "local_end": 2.68
+        },
+        {
+          "word": "medium",
+          "start": 31.144,
+          "end": 31.444,
+          "local_start": 2.68,
+          "local_end": 2.98
+        },
+        {
+          "word": "heat.",
+          "start": 31.444,
+          "end": 31.764,
+          "local_start": 2.98,
+          "local_end": 3.3
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "file": "09.mp3",
+      "text": "Can I pay with a card, or do I need coins?",
+      "audio_sha256": "b3c939675c55f7cb6631e5a86a367ac7b83f62bb4d8845303c384b93d7436d7d",
+      "start": 32.112,
+      "end": 35.376,
+      "duration": 3.264,
+      "words": [
+        {
+          "word": "Can",
+          "start": 32.112,
+          "end": 32.672,
+          "local_start": 0.0,
+          "local_end": 0.56
+        },
+        {
+          "word": "I",
+          "start": 32.672,
+          "end": 32.872,
+          "local_start": 0.56,
+          "local_end": 0.76
+        },
+        {
+          "word": "pay",
+          "start": 32.872,
+          "end": 32.992,
+          "local_start": 0.76,
+          "local_end": 0.88
+        },
+        {
+          "word": "with",
+          "start": 32.992,
+          "end": 33.152,
+          "local_start": 0.88,
+          "local_end": 1.04
+        },
+        {
+          "word": "a",
+          "start": 33.152,
+          "end": 33.332,
+          "local_start": 1.04,
+          "local_end": 1.22
+        },
+        {
+          "word": "card,",
+          "start": 33.332,
+          "end": 33.472,
+          "local_start": 1.22,
+          "local_end": 1.36
+        },
+        {
+          "word": "or",
+          "start": 33.932,
+          "end": 34.212,
+          "local_start": 1.82,
+          "local_end": 2.1
+        },
+        {
+          "word": "do",
+          "start": 34.212,
+          "end": 34.292,
+          "local_start": 2.1,
+          "local_end": 2.18
+        },
+        {
+          "word": "I",
+          "start": 34.292,
+          "end": 34.472,
+          "local_start": 2.18,
+          "local_end": 2.36
+        },
+        {
+          "word": "need",
+          "start": 34.472,
+          "end": 34.572,
+          "local_start": 2.36,
+          "local_end": 2.46
+        },
+        {
+          "word": "coins?",
+          "start": 34.572,
+          "end": 34.852,
+          "local_start": 2.46,
+          "local_end": 2.74
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "file": "10.mp3",
+      "text": "Either works. You can tap your card, use the app, or add coins.",
+      "audio_sha256": "f6364ac680d3a134016ef8658dad32789e8ed2fd36dbf26d13427865c02caf3b",
+      "start": 35.376,
+      "end": 39.624,
+      "duration": 4.248,
+      "words": [
+        {
+          "word": "Either",
+          "start": 35.376,
+          "end": 35.376,
+          "local_start": 0.0,
+          "local_end": 0.0
+        },
+        {
+          "word": "works.",
+          "start": 35.376,
+          "end": 35.386,
+          "local_start": 0.0,
+          "local_end": 0.01
+        },
+        {
+          "word": "You",
+          "start": 35.376,
+          "end": 36.216,
+          "local_start": 0.0,
+          "local_end": 0.84
+        },
+        {
+          "word": "can",
+          "start": 36.216,
+          "end": 36.676,
+          "local_start": 0.84,
+          "local_end": 1.3
+        },
+        {
+          "word": "tap",
+          "start": 36.676,
+          "end": 36.916,
+          "local_start": 1.3,
+          "local_end": 1.54
+        },
+        {
+          "word": "your",
+          "start": 36.916,
+          "end": 37.096,
+          "local_start": 1.54,
+          "local_end": 1.72
+        },
+        {
+          "word": "card,",
+          "start": 37.096,
+          "end": 37.376,
+          "local_start": 1.72,
+          "local_end": 2.0
+        },
+        {
+          "word": "use",
+          "start": 37.936,
+          "end": 37.936,
+          "local_start": 2.56,
+          "local_end": 2.56
+        },
+        {
+          "word": "the",
+          "start": 37.936,
+          "end": 38.096,
+          "local_start": 2.56,
+          "local_end": 2.72
+        },
+        {
+          "word": "app,",
+          "start": 38.096,
+          "end": 38.356,
+          "local_start": 2.72,
+          "local_end": 2.98
+        },
+        {
+          "word": "or",
+          "start": 38.656,
+          "end": 38.816,
+          "local_start": 3.28,
+          "local_end": 3.44
+        },
+        {
+          "word": "add",
+          "start": 38.816,
+          "end": 39.036,
+          "local_start": 3.44,
+          "local_end": 3.66
+        },
+        {
+          "word": "coins.",
+          "start": 39.036,
+          "end": 39.296,
+          "local_start": 3.66,
+          "local_end": 3.92
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "file": "11.mp3",
+      "text": "Perfect. Should I stay here the whole time, or can I come back later?",
+      "audio_sha256": "d7f5c44e323cdd6b14a3d50e8c54068392ecea9b3ce9abc029b2d28c111e2255",
+      "start": 39.624,
+      "end": 44.544,
+      "duration": 4.92,
+      "words": [
+        {
+          "word": "Perfect.",
+          "start": 39.624,
+          "end": 39.624,
+          "local_start": 0.0,
+          "local_end": 0.0
+        },
+        {
+          "word": "Should",
+          "start": 39.624,
+          "end": 40.344,
+          "local_start": 0.0,
+          "local_end": 0.72
+        },
+        {
+          "word": "I",
+          "start": 40.344,
+          "end": 41.284,
+          "local_start": 0.72,
+          "local_end": 1.66
+        },
+        {
+          "word": "stay",
+          "start": 41.284,
+          "end": 41.524,
+          "local_start": 1.66,
+          "local_end": 1.9
+        },
+        {
+          "word": "here",
+          "start": 41.524,
+          "end": 41.744,
+          "local_start": 1.9,
+          "local_end": 2.12
+        },
+        {
+          "word": "the",
+          "start": 41.744,
+          "end": 41.944,
+          "local_start": 2.12,
+          "local_end": 2.32
+        },
+        {
+          "word": "whole",
+          "start": 41.944,
+          "end": 42.104,
+          "local_start": 2.32,
+          "local_end": 2.48
+        },
+        {
+          "word": "time,",
+          "start": 42.104,
+          "end": 42.484,
+          "local_start": 2.48,
+          "local_end": 2.86
+        },
+        {
+          "word": "or",
+          "start": 42.884,
+          "end": 43.004,
+          "local_start": 3.26,
+          "local_end": 3.38
+        },
+        {
+          "word": "can",
+          "start": 43.004,
+          "end": 43.184,
+          "local_start": 3.38,
+          "local_end": 3.56
+        },
+        {
+          "word": "I",
+          "start": 43.184,
+          "end": 43.384,
+          "local_start": 3.56,
+          "local_end": 3.76
+        },
+        {
+          "word": "come",
+          "start": 43.384,
+          "end": 43.484,
+          "local_start": 3.76,
+          "local_end": 3.86
+        },
+        {
+          "word": "back",
+          "start": 43.484,
+          "end": 43.764,
+          "local_start": 3.86,
+          "local_end": 4.14
+        },
+        {
+          "word": "later?",
+          "start": 43.764,
+          "end": 43.964,
+          "local_start": 4.14,
+          "local_end": 4.34
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "file": "12.mp3",
+      "text": "You can step out. Just come back before the cycle ends so nobody moves your stuff.",
+      "audio_sha256": "4d69248c1973810f15e96f8e19a16705205a4521d4d2390aeb9865736ea95c9a",
+      "start": 44.544,
+      "end": 49.56,
+      "duration": 5.016,
+      "words": [
+        {
+          "word": "You",
+          "start": 44.544,
+          "end": 44.744,
+          "local_start": 0.0,
+          "local_end": 0.2
+        },
+        {
+          "word": "can",
+          "start": 44.744,
+          "end": 44.924,
+          "local_start": 0.2,
+          "local_end": 0.38
+        },
+        {
+          "word": "step",
+          "start": 44.924,
+          "end": 45.104,
+          "local_start": 0.38,
+          "local_end": 0.56
+        },
+        {
+          "word": "out.",
+          "start": 45.104,
+          "end": 45.664,
+          "local_start": 0.56,
+          "local_end": 1.12
+        },
+        {
+          "word": "Just",
+          "start": 45.984,
+          "end": 46.124,
+          "local_start": 1.44,
+          "local_end": 1.58
+        },
+        {
+          "word": "come",
+          "start": 46.124,
+          "end": 46.324,
+          "local_start": 1.58,
+          "local_end": 1.78
+        },
+        {
+          "word": "back",
+          "start": 46.324,
+          "end": 46.604,
+          "local_start": 1.78,
+          "local_end": 2.06
+        },
+        {
+          "word": "before",
+          "start": 46.604,
+          "end": 46.784,
+          "local_start": 2.06,
+          "local_end": 2.24
+        },
+        {
+          "word": "the",
+          "start": 46.784,
+          "end": 46.964,
+          "local_start": 2.24,
+          "local_end": 2.42
+        },
+        {
+          "word": "cycle",
+          "start": 46.964,
+          "end": 47.224,
+          "local_start": 2.42,
+          "local_end": 2.68
+        },
+        {
+          "word": "ends",
+          "start": 47.224,
+          "end": 47.624,
+          "local_start": 2.68,
+          "local_end": 3.08
+        },
+        {
+          "word": "so",
+          "start": 47.624,
+          "end": 48.164,
+          "local_start": 3.08,
+          "local_end": 3.62
+        },
+        {
+          "word": "nobody",
+          "start": 48.164,
+          "end": 48.484,
+          "local_start": 3.62,
+          "local_end": 3.94
+        },
+        {
+          "word": "moves",
+          "start": 48.484,
+          "end": 48.784,
+          "local_start": 3.94,
+          "local_end": 4.24
+        },
+        {
+          "word": "your",
+          "start": 48.784,
+          "end": 49.004,
+          "local_start": 4.24,
+          "local_end": 4.46
+        },
+        {
+          "word": "stuff.",
+          "start": 49.004,
+          "end": 49.244,
+          "local_start": 4.46,
+          "local_end": 4.7
+        }
+      ]
+    }
+  ]
+}
