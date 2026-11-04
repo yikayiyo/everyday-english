@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-27",
+  "slug": "dialogue-supermarket-aisle",
+  "title_en": "Finding olive oil in a supermarket",
+  "title_zh": "超市里找商品（橄榄油）",
+  "roles": [
+    "A",
+    "B"
+  ],
+  "voices": {
+    "A": "marin",
+    "B": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "A",
+      "en": "Excuse me — I'm after some olive oil. Which aisle is that in?",
+      "zh": ""
+    },
+    {
+      "speaker": "B",
+      "en": "Aisle 6, next to the pasta. Want me to show you?",
+      "zh": ""
+    },
+    {
+      "speaker": "A",
+      "en": "No need, thanks. One more thing — is the organic brand still on sale?",
+      "zh": ""
+    },
+    {
+      "speaker": "B",
+      "en": "The organic one's out of stock today, I'm afraid. But the regular bottles are on special offer: buy one, get one free.",
+      "zh": ""
+    },
+    {
+      "speaker": "A",
+      "en": "Perfect. I'll stock up on those then. Thanks for your help.",
+      "zh": ""
+    },
+    {
+      "speaker": "B",
+      "en": "You're welcome. Enjoy your shopping.",
+      "zh": ""
+    }
+  ],
+  "expressions": [
+    {
+      "en": "aisle",
+      "zh": "超市货架之间的过道。"
+    },
+    {
+      "en": "out of stock",
+      "zh": "缺货。"
+    },
+    {
+      "en": "on special offer / on sale",
+      "zh": "特价、促销。"
+    },
+    {
+      "en": "stock up (on something)",
+      "zh": "多买一些存着。"
+    }
+  ],
+  "kind": "dialogue"
+}

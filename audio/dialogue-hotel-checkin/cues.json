@@ -1,0 +1,739 @@
+{
+  "model": "whisper-1",
+  "lesson": "dialogue-hotel-checkin",
+  "full_track": "dialogue-full.mp3",
+  "full_duration": 30.408,
+  "lines": [
+    {
+      "index": 1,
+      "file": "01.mp3",
+      "text": "Hi, I'd like to check in. I have a reservation in the name of Chen.",
+      "audio_sha256": "2560e566f23845fbebdde13516d40fe108c220f7dbea7ae91c9762c24fdd578a",
+      "start": 0.0,
+      "end": 4.32,
+      "duration": 4.32,
+      "words": [
+        {
+          "word": "Hi,",
+          "start": 0.0,
+          "end": 0.44,
+          "local_start": 0.0,
+          "local_end": 0.44
+        },
+        {
+          "word": "I'd",
+          "start": 0.52,
+          "end": 1.02,
+          "local_start": 0.52,
+          "local_end": 1.02
+        },
+        {
+          "word": "like",
+          "start": 1.02,
+          "end": 1.22,
+          "local_start": 1.02,
+          "local_end": 1.22
+        },
+        {
+          "word": "to",
+          "start": 1.22,
+          "end": 1.4,
+          "local_start": 1.22,
+          "local_end": 1.4
+        },
+        {
+          "word": "check",
+          "start": 1.4,
+          "end": 1.58,
+          "local_start": 1.4,
+          "local_end": 1.58
+        },
+        {
+          "word": "in.",
+          "start": 1.58,
+          "end": 1.86,
+          "local_start": 1.58,
+          "local_end": 1.86
+        },
+        {
+          "word": "I",
+          "start": 2.16,
+          "end": 2.22,
+          "local_start": 2.16,
+          "local_end": 2.22
+        },
+        {
+          "word": "have",
+          "start": 2.22,
+          "end": 2.34,
+          "local_start": 2.22,
+          "local_end": 2.34
+        },
+        {
+          "word": "a",
+          "start": 2.34,
+          "end": 2.48,
+          "local_start": 2.34,
+          "local_end": 2.48
+        },
+        {
+          "word": "reservation",
+          "start": 2.48,
+          "end": 2.92,
+          "local_start": 2.48,
+          "local_end": 2.92
+        },
+        {
+          "word": "in",
+          "start": 2.92,
+          "end": 3.26,
+          "local_start": 2.92,
+          "local_end": 3.26
+        },
+        {
+          "word": "the",
+          "start": 3.26,
+          "end": 3.42,
+          "local_start": 3.26,
+          "local_end": 3.42
+        },
+        {
+          "word": "name",
+          "start": 3.42,
+          "end": 3.56,
+          "local_start": 3.42,
+          "local_end": 3.56
+        },
+        {
+          "word": "of",
+          "start": 3.56,
+          "end": 3.78,
+          "local_start": 3.56,
+          "local_end": 3.78
+        },
+        {
+          "word": "Chen.",
+          "start": 3.78,
+          "end": 4.02,
+          "local_start": 3.78,
+          "local_end": 4.02
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "file": "02.mp3",
+      "text": "Good afternoon. Yes, I can see your booking for two nights. I'm afraid your room isn't ready yet — check-in usually starts at three.",
+      "audio_sha256": "a279b8732e5a32d1c4c35a6802e02d2e5715020c58f4aeffd685d0dd0c825681",
+      "start": 4.32,
+      "end": 12.12,
+      "duration": 7.8,
+      "words": [
+        {
+          "word": "Good",
+          "start": 4.32,
+          "end": 4.32,
+          "local_start": 0.0,
+          "local_end": 0.0
+        },
+        {
+          "word": "afternoon.",
+          "start": 4.32,
+          "end": 4.33,
+          "local_start": 0.0,
+          "local_end": 0.01
+        },
+        {
+          "word": "Yes,",
+          "start": 4.32,
+          "end": 5.04,
+          "local_start": 0.0,
+          "local_end": 0.72
+        },
+        {
+          "word": "I",
+          "start": 5.84,
+          "end": 6.12,
+          "local_start": 1.52,
+          "local_end": 1.8
+        },
+        {
+          "word": "can",
+          "start": 6.12,
+          "end": 6.28,
+          "local_start": 1.8,
+          "local_end": 1.96
+        },
+        {
+          "word": "see",
+          "start": 6.28,
+          "end": 6.42,
+          "local_start": 1.96,
+          "local_end": 2.1
+        },
+        {
+          "word": "your",
+          "start": 6.42,
+          "end": 6.56,
+          "local_start": 2.1,
+          "local_end": 2.24
+        },
+        {
+          "word": "booking",
+          "start": 6.56,
+          "end": 6.74,
+          "local_start": 2.24,
+          "local_end": 2.42
+        },
+        {
+          "word": "for",
+          "start": 6.74,
+          "end": 7.0,
+          "local_start": 2.42,
+          "local_end": 2.68
+        },
+        {
+          "word": "two",
+          "start": 7.0,
+          "end": 7.2,
+          "local_start": 2.68,
+          "local_end": 2.88
+        },
+        {
+          "word": "nights.",
+          "start": 7.2,
+          "end": 7.44,
+          "local_start": 2.88,
+          "local_end": 3.12
+        },
+        {
+          "word": "I'm",
+          "start": 8.38,
+          "end": 8.5,
+          "local_start": 4.06,
+          "local_end": 4.18
+        },
+        {
+          "word": "afraid",
+          "start": 8.5,
+          "end": 8.84,
+          "local_start": 4.18,
+          "local_end": 4.52
+        },
+        {
+          "word": "your",
+          "start": 8.84,
+          "end": 9.06,
+          "local_start": 4.52,
+          "local_end": 4.74
+        },
+        {
+          "word": "room",
+          "start": 9.06,
+          "end": 9.18,
+          "local_start": 4.74,
+          "local_end": 4.86
+        },
+        {
+          "word": "isn't",
+          "start": 9.18,
+          "end": 9.4,
+          "local_start": 4.86,
+          "local_end": 5.08
+        },
+        {
+          "word": "ready",
+          "start": 9.4,
+          "end": 9.64,
+          "local_start": 5.08,
+          "local_end": 5.32
+        },
+        {
+          "word": "yet",
+          "start": 9.64,
+          "end": 10.08,
+          "local_start": 5.32,
+          "local_end": 5.76
+        },
+        {
+          "word": "—",
+          "start": 10.08,
+          "end": 10.9,
+          "local_start": 5.76,
+          "local_end": 6.58
+        },
+        {
+          "word": "check-in",
+          "start": 10.9,
+          "end": 11.06,
+          "local_start": 6.58,
+          "local_end": 6.74
+        },
+        {
+          "word": "usually",
+          "start": 11.06,
+          "end": 11.42,
+          "local_start": 6.74,
+          "local_end": 7.1
+        },
+        {
+          "word": "starts",
+          "start": 11.42,
+          "end": 11.6,
+          "local_start": 7.1,
+          "local_end": 7.28
+        },
+        {
+          "word": "at",
+          "start": 11.6,
+          "end": 11.78,
+          "local_start": 7.28,
+          "local_end": 7.46
+        },
+        {
+          "word": "three.",
+          "start": 11.78,
+          "end": 11.96,
+          "local_start": 7.46,
+          "local_end": 7.64
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "file": "03.mp3",
+      "text": "Oh, okay. Would you mind holding my bags while I wait in the lobby?",
+      "audio_sha256": "4c003d072088165ceff4dff9bcffbbf57c848dbc580ce5017534d082fe9e1a23",
+      "start": 12.12,
+      "end": 16.08,
+      "duration": 3.96,
+      "words": [
+        {
+          "word": "Oh,",
+          "start": 12.12,
+          "end": 12.42,
+          "local_start": 0.0,
+          "local_end": 0.3
+        },
+        {
+          "word": "okay.",
+          "start": 12.6,
+          "end": 12.96,
+          "local_start": 0.48,
+          "local_end": 0.84
+        },
+        {
+          "word": "Would",
+          "start": 13.4,
+          "end": 13.5,
+          "local_start": 1.28,
+          "local_end": 1.38
+        },
+        {
+          "word": "you",
+          "start": 13.5,
+          "end": 13.7,
+          "local_start": 1.38,
+          "local_end": 1.58
+        },
+        {
+          "word": "mind",
+          "start": 13.7,
+          "end": 13.82,
+          "local_start": 1.58,
+          "local_end": 1.7
+        },
+        {
+          "word": "holding",
+          "start": 13.82,
+          "end": 14.06,
+          "local_start": 1.7,
+          "local_end": 1.94
+        },
+        {
+          "word": "my",
+          "start": 14.06,
+          "end": 14.34,
+          "local_start": 1.94,
+          "local_end": 2.22
+        },
+        {
+          "word": "bags",
+          "start": 14.34,
+          "end": 14.54,
+          "local_start": 2.22,
+          "local_end": 2.42
+        },
+        {
+          "word": "while",
+          "start": 14.54,
+          "end": 14.76,
+          "local_start": 2.42,
+          "local_end": 2.64
+        },
+        {
+          "word": "I",
+          "start": 14.76,
+          "end": 15.02,
+          "local_start": 2.64,
+          "local_end": 2.9
+        },
+        {
+          "word": "wait",
+          "start": 15.02,
+          "end": 15.06,
+          "local_start": 2.9,
+          "local_end": 2.94
+        },
+        {
+          "word": "in",
+          "start": 15.06,
+          "end": 15.18,
+          "local_start": 2.94,
+          "local_end": 3.06
+        },
+        {
+          "word": "the",
+          "start": 15.18,
+          "end": 15.44,
+          "local_start": 3.06,
+          "local_end": 3.32
+        },
+        {
+          "word": "lobby?",
+          "start": 15.44,
+          "end": 15.46,
+          "local_start": 3.32,
+          "local_end": 3.34
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "file": "04.mp3",
+      "text": "Of course. We'll store them for you. There's also complimentary coffee over there if you'd like some.",
+      "audio_sha256": "f1db83fbe937d071b99dc34a6bcfb2263cf582487075c41b1c2dd7b8cd65c576",
+      "start": 16.08,
+      "end": 21.6,
+      "duration": 5.52,
+      "words": [
+        {
+          "word": "Of",
+          "start": 16.08,
+          "end": 16.36,
+          "local_start": 0.0,
+          "local_end": 0.28
+        },
+        {
+          "word": "course.",
+          "start": 16.36,
+          "end": 16.62,
+          "local_start": 0.28,
+          "local_end": 0.54
+        },
+        {
+          "word": "We'll",
+          "start": 17.04,
+          "end": 17.36,
+          "local_start": 0.96,
+          "local_end": 1.28
+        },
+        {
+          "word": "store",
+          "start": 17.36,
+          "end": 17.54,
+          "local_start": 1.28,
+          "local_end": 1.46
+        },
+        {
+          "word": "them",
+          "start": 17.54,
+          "end": 17.68,
+          "local_start": 1.46,
+          "local_end": 1.6
+        },
+        {
+          "word": "for",
+          "start": 17.68,
+          "end": 17.94,
+          "local_start": 1.6,
+          "local_end": 1.86
+        },
+        {
+          "word": "you.",
+          "start": 17.94,
+          "end": 18.08,
+          "local_start": 1.86,
+          "local_end": 2.0
+        },
+        {
+          "word": "There's",
+          "start": 18.82,
+          "end": 18.98,
+          "local_start": 2.74,
+          "local_end": 2.9
+        },
+        {
+          "word": "also",
+          "start": 18.98,
+          "end": 19.3,
+          "local_start": 2.9,
+          "local_end": 3.22
+        },
+        {
+          "word": "complimentary",
+          "start": 19.3,
+          "end": 19.78,
+          "local_start": 3.22,
+          "local_end": 3.7
+        },
+        {
+          "word": "coffee",
+          "start": 19.78,
+          "end": 20.18,
+          "local_start": 3.7,
+          "local_end": 4.1
+        },
+        {
+          "word": "over",
+          "start": 20.18,
+          "end": 20.4,
+          "local_start": 4.1,
+          "local_end": 4.32
+        },
+        {
+          "word": "there",
+          "start": 20.4,
+          "end": 20.58,
+          "local_start": 4.32,
+          "local_end": 4.5
+        },
+        {
+          "word": "if",
+          "start": 20.58,
+          "end": 20.68,
+          "local_start": 4.5,
+          "local_end": 4.6
+        },
+        {
+          "word": "you'd",
+          "start": 20.68,
+          "end": 20.86,
+          "local_start": 4.6,
+          "local_end": 4.78
+        },
+        {
+          "word": "like",
+          "start": 20.86,
+          "end": 20.96,
+          "local_start": 4.78,
+          "local_end": 4.88
+        },
+        {
+          "word": "some.",
+          "start": 20.96,
+          "end": 21.12,
+          "local_start": 4.88,
+          "local_end": 5.04
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "file": "05.mp3",
+      "text": "That's great, thanks. Could I get the keycard as soon as the room is ready?",
+      "audio_sha256": "1ee993432e46457df9dd48caa44a001ab0822844bb8a94fd16a052976a068698",
+      "start": 21.6,
+      "end": 27.048,
+      "duration": 5.448,
+      "words": [
+        {
+          "word": "That's",
+          "start": 21.6,
+          "end": 22.1,
+          "local_start": 0.0,
+          "local_end": 0.5
+        },
+        {
+          "word": "great,",
+          "start": 22.1,
+          "end": 22.56,
+          "local_start": 0.5,
+          "local_end": 0.96
+        },
+        {
+          "word": "thanks.",
+          "start": 23.14,
+          "end": 23.38,
+          "local_start": 1.54,
+          "local_end": 1.78
+        },
+        {
+          "word": "Could",
+          "start": 23.9,
+          "end": 24.02,
+          "local_start": 2.3,
+          "local_end": 2.42
+        },
+        {
+          "word": "I",
+          "start": 24.02,
+          "end": 24.16,
+          "local_start": 2.42,
+          "local_end": 2.56
+        },
+        {
+          "word": "get",
+          "start": 24.16,
+          "end": 24.24,
+          "local_start": 2.56,
+          "local_end": 2.64
+        },
+        {
+          "word": "the",
+          "start": 24.24,
+          "end": 24.42,
+          "local_start": 2.64,
+          "local_end": 2.82
+        },
+        {
+          "word": "keycard",
+          "start": 24.42,
+          "end": 24.82,
+          "local_start": 2.82,
+          "local_end": 3.22
+        },
+        {
+          "word": "as",
+          "start": 24.82,
+          "end": 25.24,
+          "local_start": 3.22,
+          "local_end": 3.64
+        },
+        {
+          "word": "soon",
+          "start": 25.24,
+          "end": 25.6,
+          "local_start": 3.64,
+          "local_end": 4.0
+        },
+        {
+          "word": "as",
+          "start": 25.6,
+          "end": 25.94,
+          "local_start": 4.0,
+          "local_end": 4.34
+        },
+        {
+          "word": "the",
+          "start": 25.94,
+          "end": 26.1,
+          "local_start": 4.34,
+          "local_end": 4.5
+        },
+        {
+          "word": "room",
+          "start": 26.1,
+          "end": 26.2,
+          "local_start": 4.5,
+          "local_end": 4.6
+        },
+        {
+          "word": "is",
+          "start": 26.2,
+          "end": 26.42,
+          "local_start": 4.6,
+          "local_end": 4.82
+        },
+        {
+          "word": "ready?",
+          "start": 26.42,
+          "end": 26.56,
+          "local_start": 4.82,
+          "local_end": 4.96
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "file": "06.mp3",
+      "text": "Absolutely. I'll let you know as soon as it's available.",
+      "audio_sha256": "1f6a20d916ecdad67651093cb33898599560a3c985fea32f2b22dd777b979f25",
+      "start": 27.048,
+      "end": 30.408,
+      "duration": 3.36,
+      "words": [
+        {
+          "word": "Absolutely.",
+          "start": 27.048,
+          "end": 27.788,
+          "local_start": 0.0,
+          "local_end": 0.74
+        },
+        {
+          "word": "I'll",
+          "start": 28.068,
+          "end": 28.268,
+          "local_start": 1.02,
+          "local_end": 1.22
+        },
+        {
+          "word": "let",
+          "start": 28.268,
+          "end": 28.388,
+          "local_start": 1.22,
+          "local_end": 1.34
+        },
+        {
+          "word": "you",
+          "start": 28.388,
+          "end": 28.548,
+          "local_start": 1.34,
+          "local_end": 1.5
+        },
+        {
+          "word": "know",
+          "start": 28.548,
+          "end": 28.728,
+          "local_start": 1.5,
+          "local_end": 1.68
+        },
+        {
+          "word": "as",
+          "start": 28.728,
+          "end": 28.968,
+          "local_start": 1.68,
+          "local_end": 1.92
+        },
+        {
+          "word": "soon",
+          "start": 28.968,
+          "end": 29.048,
+          "local_start": 1.92,
+          "local_end": 2.0
+        },
+        {
+          "word": "as",
+          "start": 29.048,
+          "end": 29.268,
+          "local_start": 2.0,
+          "local_end": 2.22
+        },
+        {
+          "word": "it's",
+          "start": 29.268,
+          "end": 29.428,
+          "local_start": 2.22,
+          "local_end": 2.38
+        },
+        {
+          "word": "available.",
+          "start": 29.428,
+          "end": 29.668,
+          "local_start": 2.38,
+          "local_end": 2.62
+        }
+      ]
+    }
+  ]
+}

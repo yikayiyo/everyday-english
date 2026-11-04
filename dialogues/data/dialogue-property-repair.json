@@ -1,0 +1,69 @@
+{
+  "date": "2026-11-02",
+  "slug": "dialogue-property-repair",
+  "title_en": "Calling property management about a leaky faucet",
+  "title_zh": "电话物业报修（厨房水龙头滴水）",
+  "roles": [
+    "Resident",
+    "Staff"
+  ],
+  "voices": {
+    "Resident": "marin",
+    "Staff": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Resident",
+      "en": "Hi, this is apartment 1203 in Building 5. My kitchen faucet has been dripping all night. Could someone come take a look?",
+      "zh": ""
+    },
+    {
+      "speaker": "Staff",
+      "en": "Of course. May I have your name and a callback number?",
+      "zh": ""
+    },
+    {
+      "speaker": "Resident",
+      "en": "Sure — Li Wei, and my number is 138-0000-1234. What's the earliest slot you have?",
+      "zh": ""
+    },
+    {
+      "speaker": "Staff",
+      "en": "We can send a maintenance worker this afternoon around three. Does that work for you?",
+      "zh": ""
+    },
+    {
+      "speaker": "Resident",
+      "en": "Three works. Will they call before they come, or should I leave the door unlocked?",
+      "zh": ""
+    },
+    {
+      "speaker": "Staff",
+      "en": "We'll call about fifteen minutes ahead. Please make sure someone is home.",
+      "zh": ""
+    }
+  ],
+  "expressions": [
+    {
+      "en": "drip / dripping",
+      "zh": "液体一滴一滴落下；水龙头「一直在滴」就说 *has been dripping*。"
+    },
+    {
+      "en": "take a look",
+      "zh": "过来看一眼 / 检查一下，口语里很常用。"
+    },
+    {
+      "en": "callback number",
+      "zh": "方便对方回电的号码。"
+    },
+    {
+      "en": "(time) slot",
+      "zh": "可预约的时段；约维修、约配送都能用。"
+    },
+    {
+      "en": "faucet",
+      "zh": "水龙头（美式；英式更常说 *tap*）。搭配可记 *leaky faucet*。另：*maintenance worker* = 维修工人。"
+    }
+  ],
+  "kind": "dialogue"
+}

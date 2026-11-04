@@ -1,0 +1,84 @@
+{
+  "date": "2026-10-21",
+  "slug": "dialogue-return-shoes",
+  "title_en": "Returning faulty shoes",
+  "title_zh": "去商店退货（鞋子开胶了）",
+  "roles": [
+    "Clerk",
+    "Customer"
+  ],
+  "voices": {
+    "Clerk": "marin",
+    "Customer": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Clerk",
+      "en": "Hi there, how can I help you?",
+      "zh": ""
+    },
+    {
+      "speaker": "Customer",
+      "en": "Hi, I'd like to return these shoes. I bought them two weeks ago, and they're already falling apart.",
+      "zh": ""
+    },
+    {
+      "speaker": "Clerk",
+      "en": "Oh, I'm sorry about that. Do you have the receipt or any other proof of purchase?",
+      "zh": ""
+    },
+    {
+      "speaker": "Customer",
+      "en": "Yes, here's the receipt. Could I get a full refund?",
+      "zh": ""
+    },
+    {
+      "speaker": "Clerk",
+      "en": "Sure. Since they're faulty, you can get a full refund, or you can exchange them for another pair if you prefer.",
+      "zh": ""
+    },
+    {
+      "speaker": "Customer",
+      "en": "Hmm, do you have the same style in a different color?",
+      "zh": ""
+    },
+    {
+      "speaker": "Clerk",
+      "en": "Let me check… We don't, I'm afraid. But if you'd like, I can give you store credit instead, and you can use it anytime.",
+      "zh": ""
+    },
+    {
+      "speaker": "Customer",
+      "en": "Thanks, but I'll just take the refund, please.",
+      "zh": ""
+    },
+    {
+      "speaker": "Clerk",
+      "en": "No problem. It'll go back onto your card in three to five business days.",
+      "zh": ""
+    }
+  ],
+  "expressions": [
+    {
+      "en": "fall apart",
+      "zh": "散架、坏掉。剑桥例句：*My poor old boots are falling apart.*"
+    },
+    {
+      "en": "proof of purchase",
+      "zh": "购买凭证（小票、发票等）。"
+    },
+    {
+      "en": "a full refund",
+      "zh": "全额退款。"
+    },
+    {
+      "en": "exchange A for B",
+      "zh": "把 A 换成 B（商店换货）。"
+    },
+    {
+      "en": "store credit",
+      "zh": "退货后店里给的等值购物额度（美式；英式常说 *credit note*）。"
+    }
+  ],
+  "kind": "dialogue"
+}

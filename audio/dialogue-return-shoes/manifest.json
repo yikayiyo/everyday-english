@@ -1,0 +1,89 @@
+{
+  "model": "gpt-realtime-2.1-mini",
+  "instructions": "Speak in natural American English with clear pronunciation and conversational rhythm.",
+  "verification": "解码、请求关联及模型转写已检查；内容需逐句试听",
+  "lines": [
+    {
+      "index": 1,
+      "speaker": "Clerk",
+      "voice": "marin",
+      "text_sha256": "7596645feee5e509b8d83163c6eaae39b39b25f1c452f58a7b0ef5ad5b3ca471",
+      "audio_sha256": "162134771de3563a49bdc07c160f2606c605252035a4fc24abdd9bd35ba1f558",
+      "file": "audio/01.mp3",
+      "transcript_check": "matched"
+    },
+    {
+      "index": 2,
+      "speaker": "Customer",
+      "voice": "cedar",
+      "text_sha256": "6fcb54a0ae380d952e7f8c8327c14a0d94fdeccf46beecf51014e27e48c6af09",
+      "audio_sha256": "f9dbb87deb387fd379b6944c1ec40b2d894b3aff2ed05801d14b3b13b10b10cc",
+      "file": "audio/02.mp3",
+      "transcript_check": "matched"
+    },
+    {
+      "index": 3,
+      "speaker": "Clerk",
+      "voice": "marin",
+      "text_sha256": "8afcbc3c585daf79ea9c3905d416c6c9d02d6a36585b0a29e8ee84d9715faaf1",
+      "audio_sha256": "c12de59e12c13e0fd78ebaf0bc7d1c9ba92ea2de8ad92f2da5bf3372d620b1a6",
+      "file": "audio/03.mp3",
+      "transcript_check": "matched"
+    },
+    {
+      "index": 4,
+      "speaker": "Customer",
+      "voice": "cedar",
+      "text_sha256": "91b8a762783de2177598fc83821dae3988c8eaca93c9edafa909462337a5e218",
+      "audio_sha256": "28e6736360c0af945d40bd92b612c313125e68b5e40cbcefc8f75081feb73e40",
+      "file": "audio/04.mp3",
+      "transcript_check": "matched"
+    },
+    {
+      "index": 5,
+      "speaker": "Clerk",
+      "voice": "marin",
+      "text_sha256": "3a3e9ba9d2f5f5f8635ccd4b1c509c5fc787e4342ed91eb84c09001579de0470",
+      "audio_sha256": "2efbd33962cca1d624e45531f315f3ff32bfdfefdd3c5b6ed04f1b7e0408017c",
+      "file": "audio/05.mp3",
+      "transcript_check": "matched"
+    },
+    {
+      "index": 6,
+      "speaker": "Customer",
+      "voice": "cedar",
+      "text_sha256": "2c804369679f60d888fe11da90ba8f4fe22bef90b511c6cd7e116ae60dabfde6",
+      "audio_sha256": "2f984e9a61e1dbdf959e852cd828aad7d3d10093a7cd87cdd468337ec3aa9841",
+      "file": "audio/06.mp3",
+      "transcript_check": "matched",
+      "model": "gpt-realtime-2.1-mini"
+    },
+    {
+      "index": 7,
+      "speaker": "Clerk",
+      "voice": "marin",
+      "text_sha256": "111ed235560116d03e8879d96e283bb6cffb0775507b6a6b44ac83cd0e509eaf",
+      "audio_sha256": "17fd1b068c9cea691500984071b5e8eb24c6b550d7353124cdca7712ad576dfb",
+      "file": "audio/07.mp3",
+      "transcript_check": "matched"
+    },
+    {
+      "index": 8,
+      "speaker": "Customer",
+      "voice": "cedar",
+      "text_sha256": "a64b098a60b26b32df0508f3778bb2a1b2693d81f08cf38f61a82cffea926017",
+      "audio_sha256": "477ecb2e876630c464a095f33d2ffab9782921ea2706ff154ecac0ed65cb5f13",
+      "file": "audio/08.mp3",
+      "transcript_check": "matched"
+    },
+    {
+      "index": 9,
+      "speaker": "Clerk",
+      "voice": "marin",
+      "text_sha256": "5c3e459bb33dd4f5d339ac8af1ba4783575dbb9ccc828e84bcd4d0a539e73476",
+      "audio_sha256": "417b2ea660b428a712e73a5c71993a99aa7e482558b549073ee428ebe9e4f98e",
+      "file": "audio/09.mp3",
+      "transcript_check": "matched"
+    }
+  ]
+}

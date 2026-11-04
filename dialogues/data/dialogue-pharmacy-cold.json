@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-28",
+  "slug": "dialogue-pharmacy-cold",
+  "title_en": "Buying cold medicine at a pharmacy",
+  "title_zh": "药店买感冒药",
+  "roles": [
+    "Customer",
+    "Pharmacist"
+  ],
+  "voices": {
+    "Customer": "marin",
+    "Pharmacist": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Customer",
+      "en": "Hi, I've got a bit of a cold. Could you recommend something for a sore throat and a runny nose?",
+      "zh": ""
+    },
+    {
+      "speaker": "Pharmacist",
+      "en": "Sure. Are you allergic to any medicines?",
+      "zh": ""
+    },
+    {
+      "speaker": "Customer",
+      "en": "Not that I know of. And I'd prefer something that won't make me drowsy — I've got work later.",
+      "zh": ""
+    },
+    {
+      "speaker": "Pharmacist",
+      "en": "In that case, these lozenges should help your throat, and this is a non-drowsy decongestant for the congestion. Take one tablet every six hours with water.",
+      "zh": ""
+    },
+    {
+      "speaker": "Customer",
+      "en": "Great. Do I need a prescription for either of them?",
+      "zh": ""
+    },
+    {
+      "speaker": "Pharmacist",
+      "en": "No, they're both available over the counter. Anything else?",
+      "zh": ""
+    },
+    {
+      "speaker": "Customer",
+      "en": "That's all, thanks. How much is that?",
+      "zh": ""
+    }
+  ],
+  "expressions": [
+    {
+      "en": "a runny nose",
+      "zh": "流鼻涕（感冒或过敏时常见）。"
+    },
+    {
+      "en": "Not that I know of.",
+      "zh": "口语习语，「据我所知没有」。"
+    },
+    {
+      "en": "drowsy / non-drowsy",
+      "zh": "昏昏欲睡的／不引起困倦的（药盒常见标注）。"
+    },
+    {
+      "en": "lozenge",
+      "zh": "润喉含片。"
+    },
+    {
+      "en": "over the counter",
+      "zh": "非处方、可直接在柜台买。"
+    }
+  ],
+  "kind": "dialogue"
+}

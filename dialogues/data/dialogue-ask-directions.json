@@ -1,0 +1,69 @@
+{
+  "date": "2026-10-24",
+  "slug": "dialogue-ask-directions",
+  "title_en": "Asking for directions to a bookstore",
+  "title_zh": "问路（车站附近找书店）",
+  "roles": [
+    "A",
+    "B"
+  ],
+  "voices": {
+    "A": "marin",
+    "B": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "A",
+      "en": "Excuse me, could you tell me how to get to Greenwood Bookstore? I think it's near here.",
+      "zh": ""
+    },
+    {
+      "speaker": "B",
+      "en": "Sure. Go straight ahead along this road for about two blocks, then take a left at the traffic lights.",
+      "zh": ""
+    },
+    {
+      "speaker": "A",
+      "en": "Okay—two blocks, then left. Is it within walking distance?",
+      "zh": ""
+    },
+    {
+      "speaker": "B",
+      "en": "Yes, it's only about a five-minute walk. After you turn, you'll see a small park on your right. The bookstore is just around the block from there—you can't miss it. There's a big green sign above the door.",
+      "zh": ""
+    },
+    {
+      "speaker": "A",
+      "en": "Got it. Thanks so much!",
+      "zh": ""
+    },
+    {
+      "speaker": "B",
+      "en": "You're welcome. Enjoy your visit.",
+      "zh": ""
+    }
+  ],
+  "expressions": [
+    {
+      "en": "Excuse me",
+      "zh": "礼貌地引起陌生人注意、开口问路时常用。"
+    },
+    {
+      "en": "take a left",
+      "zh": "在下一个路口向左转（mainly US；英式更常说 turn left）。"
+    },
+    {
+      "en": "within walking distance",
+      "zh": "走着就能到、距离不远。"
+    },
+    {
+      "en": "(just) around the block",
+      "zh": "就在拐过去那条街上 / 很近。"
+    },
+    {
+      "en": "You can't miss it",
+      "zh": "很好找、绝对不会错过。"
+    }
+  ],
+  "kind": "dialogue"
+}

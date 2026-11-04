@@ -1,0 +1,74 @@
+{
+  "date": "2026-11-01",
+  "slug": "dialogue-parcel-locker",
+  "title_en": "Using a parcel locker",
+  "title_zh": "小区智能快递柜取件（取件码过期）",
+  "roles": [
+    "A",
+    "B"
+  ],
+  "voices": {
+    "A": "marin",
+    "B": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "A",
+      "en": "Excuse me, do you know how this locker works? My pickup code keeps saying it’s expired.",
+      "zh": ""
+    },
+    {
+      "speaker": "B",
+      "en": "Sure. Have you tried requesting a new code in the app?",
+      "zh": ""
+    },
+    {
+      "speaker": "A",
+      "en": "I did, but the door still won’t open.",
+      "zh": ""
+    },
+    {
+      "speaker": "B",
+      "en": "Sometimes you need to tap “Open again” within two minutes. Want me to show you?",
+      "zh": ""
+    },
+    {
+      "speaker": "A",
+      "en": "That would be great. Thanks so much.",
+      "zh": ""
+    },
+    {
+      "speaker": "B",
+      "en": "No problem. Just tap here… There you go.",
+      "zh": ""
+    },
+    {
+      "speaker": "A",
+      "en": "Perfect! I was worried I’d have to pick it up from the collection point tomorrow.",
+      "zh": ""
+    }
+  ],
+  "expressions": [
+    {
+      "en": "That would be great",
+      "zh": "礼貌地接受别人的帮助/提议。"
+    },
+    {
+      "en": "No problem",
+      "zh": "非正式口语：答应帮忙，或回应别人的感谢。"
+    },
+    {
+      "en": "pick (something) up",
+      "zh": "去某处取/领（包裹、预订的东西等）。"
+    },
+    {
+      "en": "keep + -ing",
+      "zh": "反复或持续发生。"
+    },
+    {
+      "en": "There you go",
+      "zh": "把东西递给对方、或帮对方弄好时的口语。"
+    }
+  ],
+  "kind": "dialogue"
+}

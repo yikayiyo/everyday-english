@@ -1,0 +1,1010 @@
+{
+  "model": "whisper-1",
+  "lesson": "dialogue-return-shoes",
+  "full_track": "dialogue-full.mp3",
+  "full_duration": 42.816,
+  "lines": [
+    {
+      "index": 1,
+      "file": "01.mp3",
+      "text": "Hi there, how can I help you?",
+      "audio_sha256": "162134771de3563a49bdc07c160f2606c605252035a4fc24abdd9bd35ba1f558",
+      "start": 0.0,
+      "end": 2.208,
+      "duration": 2.208,
+      "words": [
+        {
+          "word": "Hi",
+          "start": 0.0,
+          "end": 0.3,
+          "local_start": 0.0,
+          "local_end": 0.3
+        },
+        {
+          "word": "there,",
+          "start": 0.3,
+          "end": 0.66,
+          "local_start": 0.3,
+          "local_end": 0.66
+        },
+        {
+          "word": "how",
+          "start": 0.74,
+          "end": 1.26,
+          "local_start": 0.74,
+          "local_end": 1.26
+        },
+        {
+          "word": "can",
+          "start": 1.26,
+          "end": 1.36,
+          "local_start": 1.26,
+          "local_end": 1.36
+        },
+        {
+          "word": "I",
+          "start": 1.36,
+          "end": 1.54,
+          "local_start": 1.36,
+          "local_end": 1.54
+        },
+        {
+          "word": "help",
+          "start": 1.54,
+          "end": 1.68,
+          "local_start": 1.54,
+          "local_end": 1.68
+        },
+        {
+          "word": "you?",
+          "start": 1.68,
+          "end": 1.88,
+          "local_start": 1.68,
+          "local_end": 1.88
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "file": "02.mp3",
+      "text": "Hi, I'd like to return these shoes. I bought them two weeks ago, and they're already falling apart.",
+      "audio_sha256": "f9dbb87deb387fd379b6944c1ec40b2d894b3aff2ed05801d14b3b13b10b10cc",
+      "start": 2.208,
+      "end": 8.016,
+      "duration": 5.808,
+      "words": [
+        {
+          "word": "Hi,",
+          "start": 2.208,
+          "end": 2.608,
+          "local_start": 0.0,
+          "local_end": 0.4
+        },
+        {
+          "word": "I'd",
+          "start": 2.888,
+          "end": 3.268,
+          "local_start": 0.68,
+          "local_end": 1.06
+        },
+        {
+          "word": "like",
+          "start": 3.268,
+          "end": 3.408,
+          "local_start": 1.06,
+          "local_end": 1.2
+        },
+        {
+          "word": "to",
+          "start": 3.408,
+          "end": 3.808,
+          "local_start": 1.2,
+          "local_end": 1.6
+        },
+        {
+          "word": "return",
+          "start": 3.808,
+          "end": 3.808,
+          "local_start": 1.6,
+          "local_end": 1.6
+        },
+        {
+          "word": "these",
+          "start": 3.808,
+          "end": 4.108,
+          "local_start": 1.6,
+          "local_end": 1.9
+        },
+        {
+          "word": "shoes.",
+          "start": 4.108,
+          "end": 4.388,
+          "local_start": 1.9,
+          "local_end": 2.18
+        },
+        {
+          "word": "I",
+          "start": 4.988,
+          "end": 5.148,
+          "local_start": 2.78,
+          "local_end": 2.94
+        },
+        {
+          "word": "bought",
+          "start": 5.148,
+          "end": 5.248,
+          "local_start": 2.94,
+          "local_end": 3.04
+        },
+        {
+          "word": "them",
+          "start": 5.248,
+          "end": 5.448,
+          "local_start": 3.04,
+          "local_end": 3.24
+        },
+        {
+          "word": "two",
+          "start": 5.448,
+          "end": 5.628,
+          "local_start": 3.24,
+          "local_end": 3.42
+        },
+        {
+          "word": "weeks",
+          "start": 5.628,
+          "end": 5.808,
+          "local_start": 3.42,
+          "local_end": 3.6
+        },
+        {
+          "word": "ago,",
+          "start": 5.808,
+          "end": 6.168,
+          "local_start": 3.6,
+          "local_end": 3.96
+        },
+        {
+          "word": "and",
+          "start": 6.288,
+          "end": 6.528,
+          "local_start": 4.08,
+          "local_end": 4.32
+        },
+        {
+          "word": "they're",
+          "start": 6.528,
+          "end": 6.668,
+          "local_start": 4.32,
+          "local_end": 4.46
+        },
+        {
+          "word": "already",
+          "start": 6.668,
+          "end": 7.008,
+          "local_start": 4.46,
+          "local_end": 4.8
+        },
+        {
+          "word": "falling",
+          "start": 7.008,
+          "end": 7.268,
+          "local_start": 4.8,
+          "local_end": 5.06
+        },
+        {
+          "word": "apart.",
+          "start": 7.268,
+          "end": 7.528,
+          "local_start": 5.06,
+          "local_end": 5.32
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "file": "03.mp3",
+      "text": "Oh, I'm sorry about that. Do you have the receipt or any other proof of purchase?",
+      "audio_sha256": "c12de59e12c13e0fd78ebaf0bc7d1c9ba92ea2de8ad92f2da5bf3372d620b1a6",
+      "start": 8.016,
+      "end": 13.032,
+      "duration": 5.016,
+      "words": [
+        {
+          "word": "Oh,",
+          "start": 8.016,
+          "end": 8.376,
+          "local_start": 0.0,
+          "local_end": 0.36
+        },
+        {
+          "word": "I'm",
+          "start": 8.416,
+          "end": 8.716,
+          "local_start": 0.4,
+          "local_end": 0.7
+        },
+        {
+          "word": "sorry",
+          "start": 8.716,
+          "end": 8.916,
+          "local_start": 0.7,
+          "local_end": 0.9
+        },
+        {
+          "word": "about",
+          "start": 8.916,
+          "end": 9.116,
+          "local_start": 0.9,
+          "local_end": 1.1
+        },
+        {
+          "word": "that.",
+          "start": 9.116,
+          "end": 9.496,
+          "local_start": 1.1,
+          "local_end": 1.48
+        },
+        {
+          "word": "Do",
+          "start": 9.976,
+          "end": 10.076,
+          "local_start": 1.96,
+          "local_end": 2.06
+        },
+        {
+          "word": "you",
+          "start": 10.076,
+          "end": 10.196,
+          "local_start": 2.06,
+          "local_end": 2.18
+        },
+        {
+          "word": "have",
+          "start": 10.196,
+          "end": 10.396,
+          "local_start": 2.18,
+          "local_end": 2.38
+        },
+        {
+          "word": "the",
+          "start": 10.396,
+          "end": 10.916,
+          "local_start": 2.38,
+          "local_end": 2.9
+        },
+        {
+          "word": "receipt",
+          "start": 10.916,
+          "end": 10.916,
+          "local_start": 2.9,
+          "local_end": 2.9
+        },
+        {
+          "word": "or",
+          "start": 10.916,
+          "end": 11.436,
+          "local_start": 2.9,
+          "local_end": 3.42
+        },
+        {
+          "word": "any",
+          "start": 11.436,
+          "end": 11.676,
+          "local_start": 3.42,
+          "local_end": 3.66
+        },
+        {
+          "word": "other",
+          "start": 11.676,
+          "end": 11.916,
+          "local_start": 3.66,
+          "local_end": 3.9
+        },
+        {
+          "word": "proof",
+          "start": 11.916,
+          "end": 12.056,
+          "local_start": 3.9,
+          "local_end": 4.04
+        },
+        {
+          "word": "of",
+          "start": 12.056,
+          "end": 12.296,
+          "local_start": 4.04,
+          "local_end": 4.28
+        },
+        {
+          "word": "purchase?",
+          "start": 12.296,
+          "end": 12.416,
+          "local_start": 4.28,
+          "local_end": 4.4
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "file": "04.mp3",
+      "text": "Yes, here's the receipt. Could I get a full refund?",
+      "audio_sha256": "28e6736360c0af945d40bd92b612c313125e68b5e40cbcefc8f75081feb73e40",
+      "start": 13.032,
+      "end": 16.536,
+      "duration": 3.504,
+      "words": [
+        {
+          "word": "Yes,",
+          "start": 13.032,
+          "end": 13.552,
+          "local_start": 0.0,
+          "local_end": 0.52
+        },
+        {
+          "word": "here's",
+          "start": 13.932,
+          "end": 14.172,
+          "local_start": 0.9,
+          "local_end": 1.14
+        },
+        {
+          "word": "the",
+          "start": 14.172,
+          "end": 14.632,
+          "local_start": 1.14,
+          "local_end": 1.6
+        },
+        {
+          "word": "receipt.",
+          "start": 14.632,
+          "end": 14.632,
+          "local_start": 1.6,
+          "local_end": 1.6
+        },
+        {
+          "word": "Could",
+          "start": 15.072,
+          "end": 15.172,
+          "local_start": 2.04,
+          "local_end": 2.14
+        },
+        {
+          "word": "I",
+          "start": 15.172,
+          "end": 15.312,
+          "local_start": 2.14,
+          "local_end": 2.28
+        },
+        {
+          "word": "get",
+          "start": 15.312,
+          "end": 15.392,
+          "local_start": 2.28,
+          "local_end": 2.36
+        },
+        {
+          "word": "a",
+          "start": 15.392,
+          "end": 15.532,
+          "local_start": 2.36,
+          "local_end": 2.5
+        },
+        {
+          "word": "full",
+          "start": 15.532,
+          "end": 15.712,
+          "local_start": 2.5,
+          "local_end": 2.68
+        },
+        {
+          "word": "refund?",
+          "start": 15.712,
+          "end": 15.992,
+          "local_start": 2.68,
+          "local_end": 2.96
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "file": "05.mp3",
+      "text": "Sure. Since they're faulty, you can get a full refund, or you can exchange them for another pair if you prefer.",
+      "audio_sha256": "2efbd33962cca1d624e45531f315f3ff32bfdfefdd3c5b6ed04f1b7e0408017c",
+      "start": 16.536,
+      "end": 23.64,
+      "duration": 7.104,
+      "words": [
+        {
+          "word": "Sure.",
+          "start": 16.536,
+          "end": 17.076,
+          "local_start": 0.0,
+          "local_end": 0.54
+        },
+        {
+          "word": "Since",
+          "start": 17.376,
+          "end": 17.736,
+          "local_start": 0.84,
+          "local_end": 1.2
+        },
+        {
+          "word": "they're",
+          "start": 17.736,
+          "end": 18.016,
+          "local_start": 1.2,
+          "local_end": 1.48
+        },
+        {
+          "word": "faulty,",
+          "start": 18.016,
+          "end": 18.276,
+          "local_start": 1.48,
+          "local_end": 1.74
+        },
+        {
+          "word": "you",
+          "start": 18.656,
+          "end": 18.736,
+          "local_start": 2.12,
+          "local_end": 2.2
+        },
+        {
+          "word": "can",
+          "start": 18.736,
+          "end": 18.936,
+          "local_start": 2.2,
+          "local_end": 2.4
+        },
+        {
+          "word": "get",
+          "start": 18.936,
+          "end": 18.976,
+          "local_start": 2.4,
+          "local_end": 2.44
+        },
+        {
+          "word": "a",
+          "start": 18.976,
+          "end": 19.176,
+          "local_start": 2.44,
+          "local_end": 2.64
+        },
+        {
+          "word": "full",
+          "start": 19.176,
+          "end": 19.456,
+          "local_start": 2.64,
+          "local_end": 2.92
+        },
+        {
+          "word": "refund,",
+          "start": 19.456,
+          "end": 19.856,
+          "local_start": 2.92,
+          "local_end": 3.32
+        },
+        {
+          "word": "or",
+          "start": 20.356,
+          "end": 20.516,
+          "local_start": 3.82,
+          "local_end": 3.98
+        },
+        {
+          "word": "you",
+          "start": 20.516,
+          "end": 20.656,
+          "local_start": 3.98,
+          "local_end": 4.12
+        },
+        {
+          "word": "can",
+          "start": 20.656,
+          "end": 20.956,
+          "local_start": 4.12,
+          "local_end": 4.42
+        },
+        {
+          "word": "exchange",
+          "start": 20.956,
+          "end": 21.216,
+          "local_start": 4.42,
+          "local_end": 4.68
+        },
+        {
+          "word": "them",
+          "start": 21.216,
+          "end": 21.476,
+          "local_start": 4.68,
+          "local_end": 4.94
+        },
+        {
+          "word": "for",
+          "start": 21.476,
+          "end": 21.716,
+          "local_start": 4.94,
+          "local_end": 5.18
+        },
+        {
+          "word": "another",
+          "start": 21.716,
+          "end": 21.956,
+          "local_start": 5.18,
+          "local_end": 5.42
+        },
+        {
+          "word": "pair",
+          "start": 21.956,
+          "end": 22.236,
+          "local_start": 5.42,
+          "local_end": 5.7
+        },
+        {
+          "word": "if",
+          "start": 22.236,
+          "end": 22.416,
+          "local_start": 5.7,
+          "local_end": 5.88
+        },
+        {
+          "word": "you",
+          "start": 22.416,
+          "end": 22.596,
+          "local_start": 5.88,
+          "local_end": 6.06
+        },
+        {
+          "word": "prefer.",
+          "start": 22.596,
+          "end": 22.776,
+          "local_start": 6.06,
+          "local_end": 6.24
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "file": "06.mp3",
+      "text": "Hmm, do you have the same style in a different color?",
+      "audio_sha256": "2f984e9a61e1dbdf959e852cd828aad7d3d10093a7cd87cdd468337ec3aa9841",
+      "start": 23.64,
+      "end": 27.192,
+      "duration": 3.552,
+      "words": [
+        {
+          "word": "Hmm,",
+          "start": 23.64,
+          "end": 24.0,
+          "local_start": 0.0,
+          "local_end": 0.36
+        },
+        {
+          "word": "do",
+          "start": 24.34,
+          "end": 24.7,
+          "local_start": 0.7,
+          "local_end": 1.06
+        },
+        {
+          "word": "you",
+          "start": 24.7,
+          "end": 24.76,
+          "local_start": 1.06,
+          "local_end": 1.12
+        },
+        {
+          "word": "have",
+          "start": 24.76,
+          "end": 24.88,
+          "local_start": 1.12,
+          "local_end": 1.24
+        },
+        {
+          "word": "the",
+          "start": 24.88,
+          "end": 25.02,
+          "local_start": 1.24,
+          "local_end": 1.38
+        },
+        {
+          "word": "same",
+          "start": 25.02,
+          "end": 25.32,
+          "local_start": 1.38,
+          "local_end": 1.68
+        },
+        {
+          "word": "style",
+          "start": 25.32,
+          "end": 25.58,
+          "local_start": 1.68,
+          "local_end": 1.94
+        },
+        {
+          "word": "in",
+          "start": 25.58,
+          "end": 25.76,
+          "local_start": 1.94,
+          "local_end": 2.12
+        },
+        {
+          "word": "a",
+          "start": 25.76,
+          "end": 25.86,
+          "local_start": 2.12,
+          "local_end": 2.22
+        },
+        {
+          "word": "different",
+          "start": 25.86,
+          "end": 26.02,
+          "local_start": 2.22,
+          "local_end": 2.38
+        },
+        {
+          "word": "color?",
+          "start": 26.02,
+          "end": 26.24,
+          "local_start": 2.38,
+          "local_end": 2.6
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "file": "07.mp3",
+      "text": "Let me check… We don't, I'm afraid. But if you'd like, I can give you store credit instead, and you can use it anytime.",
+      "audio_sha256": "17fd1b068c9cea691500984071b5e8eb24c6b550d7353124cdca7712ad576dfb",
+      "start": 27.192,
+      "end": 34.992,
+      "duration": 7.8,
+      "words": [
+        {
+          "word": "Let",
+          "start": 27.192,
+          "end": 27.412,
+          "local_start": 0.0,
+          "local_end": 0.22
+        },
+        {
+          "word": "me",
+          "start": 27.412,
+          "end": 27.532,
+          "local_start": 0.22,
+          "local_end": 0.34
+        },
+        {
+          "word": "check…",
+          "start": 27.532,
+          "end": 28.372,
+          "local_start": 0.34,
+          "local_end": 1.18
+        },
+        {
+          "word": "We",
+          "start": 28.372,
+          "end": 28.492,
+          "local_start": 1.18,
+          "local_end": 1.3
+        },
+        {
+          "word": "don't,",
+          "start": 28.492,
+          "end": 28.772,
+          "local_start": 1.3,
+          "local_end": 1.58
+        },
+        {
+          "word": "I'm",
+          "start": 28.932,
+          "end": 29.012,
+          "local_start": 1.74,
+          "local_end": 1.82
+        },
+        {
+          "word": "afraid.",
+          "start": 29.012,
+          "end": 29.292,
+          "local_start": 1.82,
+          "local_end": 2.1
+        },
+        {
+          "word": "But",
+          "start": 29.812,
+          "end": 29.932,
+          "local_start": 2.62,
+          "local_end": 2.74
+        },
+        {
+          "word": "if",
+          "start": 29.932,
+          "end": 30.012,
+          "local_start": 2.74,
+          "local_end": 2.82
+        },
+        {
+          "word": "you'd",
+          "start": 30.012,
+          "end": 30.232,
+          "local_start": 2.82,
+          "local_end": 3.04
+        },
+        {
+          "word": "like,",
+          "start": 30.232,
+          "end": 30.452,
+          "local_start": 3.04,
+          "local_end": 3.26
+        },
+        {
+          "word": "I",
+          "start": 30.852,
+          "end": 30.892,
+          "local_start": 3.66,
+          "local_end": 3.7
+        },
+        {
+          "word": "can",
+          "start": 30.892,
+          "end": 31.112,
+          "local_start": 3.7,
+          "local_end": 3.92
+        },
+        {
+          "word": "give",
+          "start": 31.112,
+          "end": 31.252,
+          "local_start": 3.92,
+          "local_end": 4.06
+        },
+        {
+          "word": "you",
+          "start": 31.252,
+          "end": 31.572,
+          "local_start": 4.06,
+          "local_end": 4.38
+        },
+        {
+          "word": "store",
+          "start": 31.572,
+          "end": 31.752,
+          "local_start": 4.38,
+          "local_end": 4.56
+        },
+        {
+          "word": "credit",
+          "start": 31.752,
+          "end": 32.092,
+          "local_start": 4.56,
+          "local_end": 4.9
+        },
+        {
+          "word": "instead,",
+          "start": 32.092,
+          "end": 32.592,
+          "local_start": 4.9,
+          "local_end": 5.4
+        },
+        {
+          "word": "and",
+          "start": 33.072,
+          "end": 33.172,
+          "local_start": 5.88,
+          "local_end": 5.98
+        },
+        {
+          "word": "you",
+          "start": 33.172,
+          "end": 33.252,
+          "local_start": 5.98,
+          "local_end": 6.06
+        },
+        {
+          "word": "can",
+          "start": 33.252,
+          "end": 33.472,
+          "local_start": 6.06,
+          "local_end": 6.28
+        },
+        {
+          "word": "use",
+          "start": 33.472,
+          "end": 33.632,
+          "local_start": 6.28,
+          "local_end": 6.44
+        },
+        {
+          "word": "it",
+          "start": 33.632,
+          "end": 33.832,
+          "local_start": 6.44,
+          "local_end": 6.64
+        },
+        {
+          "word": "anytime.",
+          "start": 33.832,
+          "end": 34.412,
+          "local_start": 6.64,
+          "local_end": 7.22
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "file": "08.mp3",
+      "text": "Thanks, but I'll just take the refund, please.",
+      "audio_sha256": "477ecb2e876630c464a095f33d2ffab9782921ea2706ff154ecac0ed65cb5f13",
+      "start": 34.992,
+      "end": 38.448,
+      "duration": 3.456,
+      "words": [
+        {
+          "word": "Thanks,",
+          "start": 35.372,
+          "end": 35.572,
+          "local_start": 0.38,
+          "local_end": 0.58
+        },
+        {
+          "word": "but",
+          "start": 35.572,
+          "end": 36.092,
+          "local_start": 0.58,
+          "local_end": 1.1
+        },
+        {
+          "word": "I'll",
+          "start": 36.092,
+          "end": 36.452,
+          "local_start": 1.1,
+          "local_end": 1.46
+        },
+        {
+          "word": "just",
+          "start": 36.452,
+          "end": 36.652,
+          "local_start": 1.46,
+          "local_end": 1.66
+        },
+        {
+          "word": "take",
+          "start": 36.652,
+          "end": 36.752,
+          "local_start": 1.66,
+          "local_end": 1.76
+        },
+        {
+          "word": "the",
+          "start": 36.752,
+          "end": 37.012,
+          "local_start": 1.76,
+          "local_end": 2.02
+        },
+        {
+          "word": "refund,",
+          "start": 37.012,
+          "end": 37.132,
+          "local_start": 2.02,
+          "local_end": 2.14
+        },
+        {
+          "word": "please.",
+          "start": 37.892,
+          "end": 38.152,
+          "local_start": 2.9,
+          "local_end": 3.16
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "file": "09.mp3",
+      "text": "No problem. It'll go back onto your card in three to five business days.",
+      "audio_sha256": "417b2ea660b428a712e73a5c71993a99aa7e482558b549073ee428ebe9e4f98e",
+      "start": 38.448,
+      "end": 42.816,
+      "duration": 4.368,
+      "words": [
+        {
+          "word": "No",
+          "start": 38.448,
+          "end": 38.788,
+          "local_start": 0.0,
+          "local_end": 0.34
+        },
+        {
+          "word": "problem.",
+          "start": 38.788,
+          "end": 39.248,
+          "local_start": 0.34,
+          "local_end": 0.8
+        },
+        {
+          "word": "It'll",
+          "start": 39.708,
+          "end": 39.908,
+          "local_start": 1.26,
+          "local_end": 1.46
+        },
+        {
+          "word": "go",
+          "start": 39.908,
+          "end": 40.048,
+          "local_start": 1.46,
+          "local_end": 1.6
+        },
+        {
+          "word": "back",
+          "start": 40.048,
+          "end": 40.288,
+          "local_start": 1.6,
+          "local_end": 1.84
+        },
+        {
+          "word": "onto",
+          "start": 40.288,
+          "end": 40.488,
+          "local_start": 1.84,
+          "local_end": 2.04
+        },
+        {
+          "word": "your",
+          "start": 40.488,
+          "end": 40.688,
+          "local_start": 2.04,
+          "local_end": 2.24
+        },
+        {
+          "word": "card",
+          "start": 40.688,
+          "end": 40.928,
+          "local_start": 2.24,
+          "local_end": 2.48
+        },
+        {
+          "word": "in",
+          "start": 40.928,
+          "end": 41.308,
+          "local_start": 2.48,
+          "local_end": 2.86
+        },
+        {
+          "word": "three",
+          "start": 41.308,
+          "end": 41.468,
+          "local_start": 2.86,
+          "local_end": 3.02
+        },
+        {
+          "word": "to",
+          "start": 41.468,
+          "end": 41.648,
+          "local_start": 3.02,
+          "local_end": 3.2
+        },
+        {
+          "word": "five",
+          "start": 41.648,
+          "end": 41.848,
+          "local_start": 3.2,
+          "local_end": 3.4
+        },
+        {
+          "word": "business",
+          "start": 41.848,
+          "end": 42.188,
+          "local_start": 3.4,
+          "local_end": 3.74
+        },
+        {
+          "word": "days.",
+          "start": 42.188,
+          "end": 42.488,
+          "local_start": 3.74,
+          "local_end": 4.04
+        }
+      ]
+    }
+  ]
+}

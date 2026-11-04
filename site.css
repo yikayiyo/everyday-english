@@ -540,7 +540,7 @@ audio[hidden] { display: none; }
 }
 
 
-.has-mini-player { padding-bottom: calc(180px + var(--safe-bottom)); }
+.has-mini-player { padding-bottom: calc(210px + var(--safe-bottom)); }
 #mini-player {
   position: fixed;
   z-index: 50;
@@ -550,7 +550,7 @@ audio[hidden] { display: none; }
   display: flex;
   align-items: center;
   gap: 12px;
-  height: 140px;
+  height: 168px;
   box-sizing: border-box;
   padding: 16px;
   border: 1px solid var(--line);
@@ -560,10 +560,10 @@ audio[hidden] { display: none; }
 }
 .mini-copy { flex: 1; min-width: 0; overflow: hidden; }
 .karaoke-speaker {
-  margin: 0 0 4px;
-  height: 18px;
-  font-size: 12px;
-  line-height: 18px;
+  margin: 0 0 6px;
+  height: 20px;
+  font-size: 13px;
+  line-height: 20px;
   color: var(--accent-ink);
   overflow: hidden;
   white-space: nowrap;
@@ -576,16 +576,31 @@ audio[hidden] { display: none; }
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 2;
 }
-.karaoke-en { height: 44px; min-height: 44px; font-size: 16px; line-height: 22px; color: var(--muted); }
-.karaoke-zh { height: 36px; min-height: 36px; font-size: 12px; line-height: 18px; color: var(--muted); }
+.karaoke-en { height: 56px; min-height: 56px; font-size: 20px; line-height: 28px; color: var(--muted); font-weight: 550; letter-spacing: -0.01em; }
+.karaoke-zh { height: 44px; min-height: 44px; font-size: 15px; line-height: 22px; color: var(--muted); }
 .hidden-zh #mini-player .chinese { display: -webkit-box; visibility: hidden; }
 .mini-controls { display: flex; gap: 4px; align-items: center; flex-shrink: 0; }
-.mini-controls button { width: 44px; height: 44px; border: 0; border-radius: 50%; background: transparent; color: var(--ink); font-size: 24px; }
+.mini-controls button { width: 44px; height: 44px; border: 0; border-radius: 50%; background: transparent; color: var(--ink); font-size: 24px; display: inline-grid; place-items: center; }
 .mini-controls .mini-toggle { background: var(--ink); color: var(--surface); font-size: 16px; }
 .mini-controls button:disabled { opacity: .3; cursor: default; }
+.mini-controls .mini-loop-all,
+.mini-controls .mini-loop-one { width: 40px; height: 40px; color: #8a857d; }
+.mini-controls .mini-loop-all svg,
+.mini-controls .mini-loop-one svg { width: 22px; height: 22px; display: block; }
+.mini-controls .mini-loop-all.is-active,
+.mini-controls .mini-loop-one.is-active {
+  color: var(--ink);
+  background: color-mix(in oklab, var(--accent) 35%, transparent);
+}
 @media (max-width: 520px) {
-  #mini-player { left: 0; right: 0; bottom: 0; border-radius: 16px 16px 0 0; height: calc(140px + var(--safe-bottom)); padding: 12px 8px calc(12px + var(--safe-bottom)); gap: 4px; }
+  #mini-player { left: 0; right: 0; bottom: 0; border-radius: 16px 16px 0 0; height: calc(176px + var(--safe-bottom)); padding: 12px 8px calc(12px + var(--safe-bottom)); gap: 4px; }
   .mini-controls { gap: 0; }
+  .karaoke-en { font-size: 18px; line-height: 26px; height: 52px; min-height: 52px; }
+  .karaoke-zh { font-size: 14px; line-height: 20px; height: 40px; min-height: 40px; }
+  .mini-controls .mini-loop-all,
+  .mini-controls .mini-loop-one { width: 36px; height: 36px; }
+  .mini-controls .mini-loop-all svg,
+  .mini-controls .mini-loop-one svg { width: 20px; height: 20px; }
 }
 .karaoke-word { color: inherit; transition: color 80ms linear; }
 .karaoke-word.is-done,

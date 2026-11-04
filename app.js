@@ -127,9 +127,15 @@ function setupMiniPlayer() {
     <p class="karaoke-en" lang="en"></p>
     <p class="karaoke-zh chinese"></p>
     </div><div class="mini-controls">
-    <button type="button" aria-label="上一句">‹</button>
+    <button type="button" class="mini-prev" aria-label="上一句">‹</button>
     <button type="button" class="mini-toggle" aria-label="播放完整对话">▶</button>
-    <button type="button" aria-label="下一句">›</button>
+    <button type="button" class="mini-next" aria-label="下一句">›</button>
+    <button type="button" class="mini-loop-all" aria-label="整段循环" aria-pressed="false" title="整段循环">
+      <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path fill="currentColor" d="M7 7h10v3l4-4-4-4v3H5v6h2V7zm10 10H7v-3l-4 4 4 4v-3h12v-6h-2v4z"/></svg>
+    </button>
+    <button type="button" class="mini-loop-one" aria-label="单句循环" aria-pressed="false" title="单句循环">
+      <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path fill="currentColor" d="M7 7h10v3l4-4-4-4v3H5v6h2V7zm10 10H7v-3l-4 4 4 4v-3h12v-6h-2v4z"/><text x="12" y="14.5" text-anchor="middle" font-size="8" font-family="system-ui,sans-serif" font-weight="700" fill="currentColor">1</text></svg>
+    </button>
     </div>`;
   document.body.append(dock);
   document.body.classList.add('has-mini-player');
@@ -137,18 +143,33 @@ function setupMiniPlayer() {
   const speakerEl = panel.querySelector('.karaoke-speaker');
   const enEl = panel.querySelector('.karaoke-en');
   const zhEl = panel.querySelector('.karaoke-zh');
-  const [prev, toggle, next] = dock.querySelectorAll('button');
+  const prev = dock.querySelector('.mini-prev');
+  const toggle = dock.querySelector('.mini-toggle');
+  const next = dock.querySelector('.mini-next');
+  const loopAllBtn = dock.querySelector('.mini-loop-all');
+  const loopOneBtn = dock.querySelector('.mini-loop-one');
   let source = fullAudio;
   let lineIndex = 0;
   let failed = false;
+  let loopMode = 'off'; // off | all | one
+
+  function setLoopMode(mode) {
+    loopMode = mode;
+    loopAllBtn.setAttribute('aria-pressed', String(mode === 'all'));
+    loopOneBtn.setAttribute('aria-pressed', String(mode === 'one'));
+    loopAllBtn.classList.toggle('is-active', mode === 'all');
+    loopOneBtn.classList.toggle('is-active', mode === 'one');
+  }
+  loopAllBtn.addEventListener('click', () => setLoopMode(loopMode === 'all' ? 'off' : 'all'));
+  loopOneBtn.addEventListener('click', () => setLoopMode(loopMode === 'one' ? 'off' : 'one'));
 
   function renderControls() {
     const playing = !source.paused && !source.ended;
     toggle.textContent = playing ? 'Ⅱ' : '▶';
     toggle.setAttribute('aria-label', playing ? '暂停' : '播放');
     speakerEl.textContent = failed ? '播放失败，请重试' : tokens[lineIndex].speaker;
-    prev.disabled = lineIndex === 0;
-    next.disabled = lineIndex === lines.length - 1;
+    prev.disabled = lineIndex === 0 && loopMode !== 'all';
+    next.disabled = lineIndex === lines.length - 1 && loopMode !== 'all';
   }
   async function playSource() {
     failed = false;
@@ -166,8 +187,14 @@ function setupMiniPlayer() {
     if (!source.paused && !source.ended) source.pause();
     else playSource();
   });
-  prev.addEventListener('click', () => playLine(Math.max(0, lineIndex - 1)));
-  next.addEventListener('click', () => playLine(Math.min(lines.length - 1, lineIndex + 1)));
+  prev.addEventListener('click', () => {
+    if (lineIndex > 0) playLine(lineIndex - 1);
+    else if (loopMode === 'all') playLine(lines.length - 1);
+  });
+  next.addEventListener('click', () => {
+    if (lineIndex < lines.length - 1) playLine(lineIndex + 1);
+    else if (loopMode === 'all') playLine(0);
+  });
   lineAudios.forEach((audio, index) => {
     audio.addEventListener('play', () => {
       source = audio;
@@ -186,6 +213,38 @@ function setupMiniPlayer() {
       failed = event === 'error';
       renderControls();
     }));
+  });
+  function restartCurrent() {
+    source.currentTime = 0;
+    playSource();
+  }
+  function onSourceEnded() {
+    if (source !== fullAudio && source !== lineAudios[lineIndex]) return;
+    if (loopMode === 'one') {
+      restartCurrent();
+      return;
+    }
+    if (loopMode === 'all') {
+      if (source === fullAudio) {
+        restartCurrent();
+        return;
+      }
+      const nextIndex = (lineIndex + 1) % lines.length;
+      playLine(nextIndex);
+      return;
+    }
+  }
+  audios.forEach((audio) => audio.addEventListener('ended', () => {
+    if (audio === source) onSourceEnded();
+  }));
+  // Single-line loop while the full track is playing: snap back to the active cue.
+  fullAudio.addEventListener('timeupdate', () => {
+    if (loopMode !== 'one' || source !== fullAudio || !cues.length || fullAudio.paused) return;
+    const cue = cues[lineIndex];
+    if (!cue) return;
+    if (fullAudio.currentTime >= cue.end - 0.04) {
+      fullAudio.currentTime = Math.max(0, cue.start);
+    }
   });
   fullAudio.addEventListener('play', () => {
     source = fullAudio;

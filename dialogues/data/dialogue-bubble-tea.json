@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-31",
+  "slug": "dialogue-bubble-tea",
+  "title_en": "Ordering bubble tea",
+  "title_zh": "奶茶店点单（少糖、boba、外带）",
+  "roles": [
+    "Staff",
+    "Customer"
+  ],
+  "voices": {
+    "Staff": "marin",
+    "Customer": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Staff",
+      "en": "Hi! What can I get for you?",
+      "zh": ""
+    },
+    {
+      "speaker": "Customer",
+      "en": "Hi. Could I get a large brown sugar milk tea, please? With boba.",
+      "zh": ""
+    },
+    {
+      "speaker": "Staff",
+      "en": "Sure. How sweet would you like it?",
+      "zh": ""
+    },
+    {
+      "speaker": "Customer",
+      "en": "Not too sweet, please — half sugar if you have that.",
+      "zh": ""
+    },
+    {
+      "speaker": "Staff",
+      "en": "No problem. For here or to go?",
+      "zh": ""
+    },
+    {
+      "speaker": "Customer",
+      "en": "To go, please. How long will it take?",
+      "zh": ""
+    },
+    {
+      "speaker": "Staff",
+      "en": "About five minutes. That'll be eighteen yuan.",
+      "zh": ""
+    }
+  ],
+  "expressions": [
+    {
+      "en": "What can I get for you?",
+      "zh": "店员点单时很常用，「您要点什么？」"
+    },
+    {
+      "en": "Could I get …?",
+      "zh": "礼貌地点单。"
+    },
+    {
+      "en": "For here or to go? / to go",
+      "zh": "「堂食还是外带？」"
+    },
+    {
+      "en": "boba",
+      "zh": "珍珠/波霸；也可指整杯奶茶。"
+    },
+    {
+      "en": "That'll be …",
+      "zh": "结账时报价的口语说法。"
+    }
+  ],
+  "kind": "dialogue"
+}

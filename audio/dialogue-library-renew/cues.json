@@ -1,0 +1,669 @@
+{
+  "model": "whisper-1",
+  "lesson": "dialogue-library-renew",
+  "full_track": "dialogue-full.mp3",
+  "full_duration": 27.144,
+  "lines": [
+    {
+      "index": 1,
+      "file": "01.mp3",
+      "text": "Hi. I'd like to renew these two books, please. Are they overdue?",
+      "audio_sha256": "bb2b1a3a096af8626bef7d7aa245038106865ed75500b95d4377767c83755777",
+      "start": 0.0,
+      "end": 4.248,
+      "duration": 4.248,
+      "words": [
+        {
+          "word": "Hi.",
+          "start": 0.0,
+          "end": 0.9,
+          "local_start": 0.0,
+          "local_end": 0.9
+        },
+        {
+          "word": "I'd",
+          "start": 1.04,
+          "end": 1.48,
+          "local_start": 1.04,
+          "local_end": 1.48
+        },
+        {
+          "word": "like",
+          "start": 1.48,
+          "end": 1.62,
+          "local_start": 1.48,
+          "local_end": 1.62
+        },
+        {
+          "word": "to",
+          "start": 1.62,
+          "end": 1.88,
+          "local_start": 1.62,
+          "local_end": 1.88
+        },
+        {
+          "word": "renew",
+          "start": 1.88,
+          "end": 1.9,
+          "local_start": 1.88,
+          "local_end": 1.9
+        },
+        {
+          "word": "these",
+          "start": 1.9,
+          "end": 2.16,
+          "local_start": 1.9,
+          "local_end": 2.16
+        },
+        {
+          "word": "two",
+          "start": 2.16,
+          "end": 2.42,
+          "local_start": 2.16,
+          "local_end": 2.42
+        },
+        {
+          "word": "books,",
+          "start": 2.42,
+          "end": 2.52,
+          "local_start": 2.42,
+          "local_end": 2.52
+        },
+        {
+          "word": "please.",
+          "start": 2.66,
+          "end": 2.96,
+          "local_start": 2.66,
+          "local_end": 2.96
+        },
+        {
+          "word": "Are",
+          "start": 3.36,
+          "end": 3.42,
+          "local_start": 3.36,
+          "local_end": 3.42
+        },
+        {
+          "word": "they",
+          "start": 3.42,
+          "end": 3.6,
+          "local_start": 3.42,
+          "local_end": 3.6
+        },
+        {
+          "word": "overdue?",
+          "start": 3.6,
+          "end": 3.88,
+          "local_start": 3.6,
+          "local_end": 3.88
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "file": "02.mp3",
+      "text": "Let me check… Yes, one is three days overdue, so there'll be a small late fee. I can renew both for another two weeks, though.",
+      "audio_sha256": "4da8f7de420c129a69e507a588d950466f3b4c095bde76f4217c064add7fffd7",
+      "start": 4.248,
+      "end": 12.648,
+      "duration": 8.4,
+      "words": [
+        {
+          "word": "Let",
+          "start": 4.248,
+          "end": 4.588,
+          "local_start": 0.0,
+          "local_end": 0.34
+        },
+        {
+          "word": "me",
+          "start": 4.588,
+          "end": 4.748,
+          "local_start": 0.34,
+          "local_end": 0.5
+        },
+        {
+          "word": "check…",
+          "start": 4.748,
+          "end": 5.688,
+          "local_start": 0.5,
+          "local_end": 1.44
+        },
+        {
+          "word": "Yes,",
+          "start": 5.688,
+          "end": 5.968,
+          "local_start": 1.44,
+          "local_end": 1.72
+        },
+        {
+          "word": "one",
+          "start": 6.008,
+          "end": 6.288,
+          "local_start": 1.76,
+          "local_end": 2.04
+        },
+        {
+          "word": "is",
+          "start": 6.288,
+          "end": 6.408,
+          "local_start": 2.04,
+          "local_end": 2.16
+        },
+        {
+          "word": "three",
+          "start": 6.408,
+          "end": 6.568,
+          "local_start": 2.16,
+          "local_end": 2.32
+        },
+        {
+          "word": "days",
+          "start": 6.568,
+          "end": 6.828,
+          "local_start": 2.32,
+          "local_end": 2.58
+        },
+        {
+          "word": "overdue,",
+          "start": 6.828,
+          "end": 7.188,
+          "local_start": 2.58,
+          "local_end": 2.94
+        },
+        {
+          "word": "so",
+          "start": 7.408,
+          "end": 7.628,
+          "local_start": 3.16,
+          "local_end": 3.38
+        },
+        {
+          "word": "there'll",
+          "start": 7.628,
+          "end": 8.008,
+          "local_start": 3.38,
+          "local_end": 3.76
+        },
+        {
+          "word": "be",
+          "start": 8.008,
+          "end": 8.168,
+          "local_start": 3.76,
+          "local_end": 3.92
+        },
+        {
+          "word": "a",
+          "start": 8.168,
+          "end": 8.268,
+          "local_start": 3.92,
+          "local_end": 4.02
+        },
+        {
+          "word": "small",
+          "start": 8.268,
+          "end": 8.708,
+          "local_start": 4.02,
+          "local_end": 4.46
+        },
+        {
+          "word": "late",
+          "start": 8.708,
+          "end": 9.068,
+          "local_start": 4.46,
+          "local_end": 4.82
+        },
+        {
+          "word": "fee.",
+          "start": 9.068,
+          "end": 9.188,
+          "local_start": 4.82,
+          "local_end": 4.94
+        },
+        {
+          "word": "I",
+          "start": 10.048,
+          "end": 10.268,
+          "local_start": 5.8,
+          "local_end": 6.02
+        },
+        {
+          "word": "can",
+          "start": 10.268,
+          "end": 10.468,
+          "local_start": 6.02,
+          "local_end": 6.22
+        },
+        {
+          "word": "renew",
+          "start": 10.468,
+          "end": 10.828,
+          "local_start": 6.22,
+          "local_end": 6.58
+        },
+        {
+          "word": "both",
+          "start": 10.828,
+          "end": 11.228,
+          "local_start": 6.58,
+          "local_end": 6.98
+        },
+        {
+          "word": "for",
+          "start": 11.228,
+          "end": 11.368,
+          "local_start": 6.98,
+          "local_end": 7.12
+        },
+        {
+          "word": "another",
+          "start": 11.368,
+          "end": 11.608,
+          "local_start": 7.12,
+          "local_end": 7.36
+        },
+        {
+          "word": "two",
+          "start": 11.608,
+          "end": 11.848,
+          "local_start": 7.36,
+          "local_end": 7.6
+        },
+        {
+          "word": "weeks,",
+          "start": 11.848,
+          "end": 12.008,
+          "local_start": 7.6,
+          "local_end": 7.76
+        },
+        {
+          "word": "though.",
+          "start": 12.068,
+          "end": 12.228,
+          "local_start": 7.82,
+          "local_end": 7.98
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "file": "03.mp3",
+      "text": "That's fine. How much is the fine?",
+      "audio_sha256": "a8b1f8be0ed42e824b1cce43f1a782f31110b795ab15481190ad513054007d39",
+      "start": 12.648,
+      "end": 14.664,
+      "duration": 2.016,
+      "words": [
+        {
+          "word": "That's",
+          "start": 12.648,
+          "end": 13.128,
+          "local_start": 0.0,
+          "local_end": 0.48
+        },
+        {
+          "word": "fine.",
+          "start": 13.128,
+          "end": 13.268,
+          "local_start": 0.48,
+          "local_end": 0.62
+        },
+        {
+          "word": "How",
+          "start": 13.748,
+          "end": 13.868,
+          "local_start": 1.1,
+          "local_end": 1.22
+        },
+        {
+          "word": "much",
+          "start": 13.868,
+          "end": 14.048,
+          "local_start": 1.22,
+          "local_end": 1.4
+        },
+        {
+          "word": "is",
+          "start": 14.048,
+          "end": 14.188,
+          "local_start": 1.4,
+          "local_end": 1.54
+        },
+        {
+          "word": "the",
+          "start": 14.188,
+          "end": 14.308,
+          "local_start": 1.54,
+          "local_end": 1.66
+        },
+        {
+          "word": "fine?",
+          "start": 14.308,
+          "end": 14.508,
+          "local_start": 1.66,
+          "local_end": 1.86
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "file": "04.mp3",
+      "text": "It's two dollars. Also, did you want me to put this title on reserve for you? Someone just returned a copy.",
+      "audio_sha256": "3ebf27363be71d95bf10eadab4733667d3d0a1218345634ff262a67575319cba",
+      "start": 14.664,
+      "end": 20.328,
+      "duration": 5.664,
+      "words": [
+        {
+          "word": "It's",
+          "start": 15.564,
+          "end": 15.764,
+          "local_start": 0.9,
+          "local_end": 1.1
+        },
+        {
+          "word": "two",
+          "start": 15.764,
+          "end": 15.769,
+          "local_start": 1.1,
+          "local_end": 1.105
+        },
+        {
+          "word": "dollars.",
+          "start": 15.769,
+          "end": 15.774,
+          "local_start": 1.105,
+          "local_end": 1.11
+        },
+        {
+          "word": "Also,",
+          "start": 15.764,
+          "end": 16.164,
+          "local_start": 1.1,
+          "local_end": 1.5
+        },
+        {
+          "word": "did",
+          "start": 16.624,
+          "end": 16.684,
+          "local_start": 1.96,
+          "local_end": 2.02
+        },
+        {
+          "word": "you",
+          "start": 16.684,
+          "end": 16.824,
+          "local_start": 2.02,
+          "local_end": 2.16
+        },
+        {
+          "word": "want",
+          "start": 16.824,
+          "end": 16.944,
+          "local_start": 2.16,
+          "local_end": 2.28
+        },
+        {
+          "word": "me",
+          "start": 16.944,
+          "end": 17.084,
+          "local_start": 2.28,
+          "local_end": 2.42
+        },
+        {
+          "word": "to",
+          "start": 17.084,
+          "end": 17.264,
+          "local_start": 2.42,
+          "local_end": 2.6
+        },
+        {
+          "word": "put",
+          "start": 17.264,
+          "end": 17.264,
+          "local_start": 2.6,
+          "local_end": 2.6
+        },
+        {
+          "word": "this",
+          "start": 17.264,
+          "end": 17.444,
+          "local_start": 2.6,
+          "local_end": 2.78
+        },
+        {
+          "word": "title",
+          "start": 17.444,
+          "end": 17.664,
+          "local_start": 2.78,
+          "local_end": 3.0
+        },
+        {
+          "word": "on",
+          "start": 17.664,
+          "end": 17.904,
+          "local_start": 3.0,
+          "local_end": 3.24
+        },
+        {
+          "word": "reserve",
+          "start": 17.904,
+          "end": 18.084,
+          "local_start": 3.24,
+          "local_end": 3.42
+        },
+        {
+          "word": "for",
+          "start": 18.084,
+          "end": 18.304,
+          "local_start": 3.42,
+          "local_end": 3.64
+        },
+        {
+          "word": "you?",
+          "start": 18.304,
+          "end": 18.424,
+          "local_start": 3.64,
+          "local_end": 3.76
+        },
+        {
+          "word": "Someone",
+          "start": 18.964,
+          "end": 19.124,
+          "local_start": 4.3,
+          "local_end": 4.46
+        },
+        {
+          "word": "just",
+          "start": 19.124,
+          "end": 19.404,
+          "local_start": 4.46,
+          "local_end": 4.74
+        },
+        {
+          "word": "returned",
+          "start": 19.404,
+          "end": 19.604,
+          "local_start": 4.74,
+          "local_end": 4.94
+        },
+        {
+          "word": "a",
+          "start": 19.604,
+          "end": 19.964,
+          "local_start": 4.94,
+          "local_end": 5.3
+        },
+        {
+          "word": "copy.",
+          "start": 19.964,
+          "end": 19.964,
+          "local_start": 5.3,
+          "local_end": 5.3
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "file": "05.mp3",
+      "text": "Yes, please. Can I check it out today?",
+      "audio_sha256": "7d9cb2ab314ecbf9e5895cd621c738bdab2a9816ef43708b5fa4e6047ae1a41c",
+      "start": 20.328,
+      "end": 22.992,
+      "duration": 2.664,
+      "words": [
+        {
+          "word": "Yes,",
+          "start": 20.328,
+          "end": 20.788,
+          "local_start": 0.0,
+          "local_end": 0.46
+        },
+        {
+          "word": "please.",
+          "start": 21.008,
+          "end": 21.328,
+          "local_start": 0.68,
+          "local_end": 1.0
+        },
+        {
+          "word": "Can",
+          "start": 21.748,
+          "end": 21.888,
+          "local_start": 1.42,
+          "local_end": 1.56
+        },
+        {
+          "word": "I",
+          "start": 21.888,
+          "end": 22.068,
+          "local_start": 1.56,
+          "local_end": 1.74
+        },
+        {
+          "word": "check",
+          "start": 22.068,
+          "end": 22.188,
+          "local_start": 1.74,
+          "local_end": 1.86
+        },
+        {
+          "word": "it",
+          "start": 22.188,
+          "end": 22.308,
+          "local_start": 1.86,
+          "local_end": 1.98
+        },
+        {
+          "word": "out",
+          "start": 22.308,
+          "end": 22.468,
+          "local_start": 1.98,
+          "local_end": 2.14
+        },
+        {
+          "word": "today?",
+          "start": 22.468,
+          "end": 22.648,
+          "local_start": 2.14,
+          "local_end": 2.32
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "file": "06.mp3",
+      "text": "Sure. Here's your receipt — the new due date is November 12th.",
+      "audio_sha256": "fd8604554923522c34116a5eac32aa3efe238af194cbd1a56c9946950ea678b0",
+      "start": 22.992,
+      "end": 27.144,
+      "duration": 4.152,
+      "words": [
+        {
+          "word": "Sure.",
+          "start": 22.992,
+          "end": 23.372,
+          "local_start": 0.0,
+          "local_end": 0.38
+        },
+        {
+          "word": "Here's",
+          "start": 23.592,
+          "end": 24.092,
+          "local_start": 0.6,
+          "local_end": 1.1
+        },
+        {
+          "word": "your",
+          "start": 24.092,
+          "end": 24.352,
+          "local_start": 1.1,
+          "local_end": 1.36
+        },
+        {
+          "word": "receipt",
+          "start": 24.352,
+          "end": 24.552,
+          "local_start": 1.36,
+          "local_end": 1.56
+        },
+        {
+          "word": "—",
+          "start": 24.552,
+          "end": 24.912,
+          "local_start": 1.56,
+          "local_end": 1.92
+        },
+        {
+          "word": "the",
+          "start": 24.912,
+          "end": 24.972,
+          "local_start": 1.92,
+          "local_end": 1.98
+        },
+        {
+          "word": "new",
+          "start": 24.972,
+          "end": 25.232,
+          "local_start": 1.98,
+          "local_end": 2.24
+        },
+        {
+          "word": "due",
+          "start": 25.232,
+          "end": 25.372,
+          "local_start": 2.24,
+          "local_end": 2.38
+        },
+        {
+          "word": "date",
+          "start": 25.372,
+          "end": 25.572,
+          "local_start": 2.38,
+          "local_end": 2.58
+        },
+        {
+          "word": "is",
+          "start": 25.572,
+          "end": 25.872,
+          "local_start": 2.58,
+          "local_end": 2.88
+        },
+        {
+          "word": "November",
+          "start": 25.872,
+          "end": 26.152,
+          "local_start": 2.88,
+          "local_end": 3.16
+        },
+        {
+          "word": "12th.",
+          "start": 26.152,
+          "end": 26.592,
+          "local_start": 3.16,
+          "local_end": 3.6
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,725 @@
+{
+  "model": "whisper-1",
+  "lesson": "dialogue-ask-directions",
+  "full_track": "dialogue-full.mp3",
+  "full_duration": 29.544,
+  "lines": [
+    {
+      "index": 1,
+      "file": "01.mp3",
+      "text": "Excuse me, could you tell me how to get to Greenwood Bookstore? I think it's near here.",
+      "audio_sha256": "c110236101b489f2063aff3fecbe77777ce7eb83b1d5deebbacd27c80903ac30",
+      "start": 0.0,
+      "end": 4.8,
+      "duration": 4.8,
+      "words": [
+        {
+          "word": "Excuse",
+          "start": 0.0,
+          "end": 0.42,
+          "local_start": 0.0,
+          "local_end": 0.42
+        },
+        {
+          "word": "me,",
+          "start": 0.42,
+          "end": 0.8,
+          "local_start": 0.42,
+          "local_end": 0.8
+        },
+        {
+          "word": "could",
+          "start": 1.08,
+          "end": 1.14,
+          "local_start": 1.08,
+          "local_end": 1.14
+        },
+        {
+          "word": "you",
+          "start": 1.14,
+          "end": 1.32,
+          "local_start": 1.14,
+          "local_end": 1.32
+        },
+        {
+          "word": "tell",
+          "start": 1.32,
+          "end": 1.46,
+          "local_start": 1.32,
+          "local_end": 1.46
+        },
+        {
+          "word": "me",
+          "start": 1.46,
+          "end": 1.66,
+          "local_start": 1.46,
+          "local_end": 1.66
+        },
+        {
+          "word": "how",
+          "start": 1.66,
+          "end": 1.72,
+          "local_start": 1.66,
+          "local_end": 1.72
+        },
+        {
+          "word": "to",
+          "start": 1.72,
+          "end": 1.88,
+          "local_start": 1.72,
+          "local_end": 1.88
+        },
+        {
+          "word": "get",
+          "start": 1.88,
+          "end": 1.94,
+          "local_start": 1.88,
+          "local_end": 1.94
+        },
+        {
+          "word": "to",
+          "start": 1.94,
+          "end": 2.18,
+          "local_start": 1.94,
+          "local_end": 2.18
+        },
+        {
+          "word": "Greenwood",
+          "start": 2.18,
+          "end": 2.56,
+          "local_start": 2.18,
+          "local_end": 2.56
+        },
+        {
+          "word": "Bookstore?",
+          "start": 2.56,
+          "end": 3.0,
+          "local_start": 2.56,
+          "local_end": 3.0
+        },
+        {
+          "word": "I",
+          "start": 3.5,
+          "end": 3.58,
+          "local_start": 3.5,
+          "local_end": 3.58
+        },
+        {
+          "word": "think",
+          "start": 3.58,
+          "end": 3.74,
+          "local_start": 3.58,
+          "local_end": 3.74
+        },
+        {
+          "word": "it's",
+          "start": 3.74,
+          "end": 3.98,
+          "local_start": 3.74,
+          "local_end": 3.98
+        },
+        {
+          "word": "near",
+          "start": 3.98,
+          "end": 4.2,
+          "local_start": 3.98,
+          "local_end": 4.2
+        },
+        {
+          "word": "here.",
+          "start": 4.2,
+          "end": 4.5,
+          "local_start": 4.2,
+          "local_end": 4.5
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "file": "02.mp3",
+      "text": "Sure. Go straight ahead along this road for about two blocks, then take a left at the traffic lights.",
+      "audio_sha256": "d151ac371141135e12ed011959dc95660086b1e2673e1ff6afad32f569b711a0",
+      "start": 4.8,
+      "end": 10.368,
+      "duration": 5.568,
+      "words": [
+        {
+          "word": "Sure.",
+          "start": 4.8,
+          "end": 5.3,
+          "local_start": 0.0,
+          "local_end": 0.5
+        },
+        {
+          "word": "Go",
+          "start": 5.76,
+          "end": 5.94,
+          "local_start": 0.96,
+          "local_end": 1.14
+        },
+        {
+          "word": "straight",
+          "start": 5.94,
+          "end": 6.22,
+          "local_start": 1.14,
+          "local_end": 1.42
+        },
+        {
+          "word": "ahead",
+          "start": 6.22,
+          "end": 6.48,
+          "local_start": 1.42,
+          "local_end": 1.68
+        },
+        {
+          "word": "along",
+          "start": 6.48,
+          "end": 6.74,
+          "local_start": 1.68,
+          "local_end": 1.94
+        },
+        {
+          "word": "this",
+          "start": 6.74,
+          "end": 7.0,
+          "local_start": 1.94,
+          "local_end": 2.2
+        },
+        {
+          "word": "road",
+          "start": 7.0,
+          "end": 7.14,
+          "local_start": 2.2,
+          "local_end": 2.34
+        },
+        {
+          "word": "for",
+          "start": 7.14,
+          "end": 7.32,
+          "local_start": 2.34,
+          "local_end": 2.52
+        },
+        {
+          "word": "about",
+          "start": 7.32,
+          "end": 7.58,
+          "local_start": 2.52,
+          "local_end": 2.78
+        },
+        {
+          "word": "two",
+          "start": 7.58,
+          "end": 7.8,
+          "local_start": 2.78,
+          "local_end": 3.0
+        },
+        {
+          "word": "blocks,",
+          "start": 7.8,
+          "end": 8.12,
+          "local_start": 3.0,
+          "local_end": 3.32
+        },
+        {
+          "word": "then",
+          "start": 8.56,
+          "end": 8.72,
+          "local_start": 3.76,
+          "local_end": 3.92
+        },
+        {
+          "word": "take",
+          "start": 8.72,
+          "end": 8.9,
+          "local_start": 3.92,
+          "local_end": 4.1
+        },
+        {
+          "word": "a",
+          "start": 8.9,
+          "end": 9.02,
+          "local_start": 4.1,
+          "local_end": 4.22
+        },
+        {
+          "word": "left",
+          "start": 9.02,
+          "end": 9.2,
+          "local_start": 4.22,
+          "local_end": 4.4
+        },
+        {
+          "word": "at",
+          "start": 9.2,
+          "end": 9.34,
+          "local_start": 4.4,
+          "local_end": 4.54
+        },
+        {
+          "word": "the",
+          "start": 9.34,
+          "end": 9.46,
+          "local_start": 4.54,
+          "local_end": 4.66
+        },
+        {
+          "word": "traffic",
+          "start": 9.46,
+          "end": 9.66,
+          "local_start": 4.66,
+          "local_end": 4.86
+        },
+        {
+          "word": "lights.",
+          "start": 9.66,
+          "end": 9.98,
+          "local_start": 4.86,
+          "local_end": 5.18
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "file": "03.mp3",
+      "text": "Okay—two blocks, then left. Is it within walking distance?",
+      "audio_sha256": "2c36d0dc61b1c4ed3a922e4cdb42be38db86a1e0e4fe07221c6a2c0f43e58478",
+      "start": 10.368,
+      "end": 14.88,
+      "duration": 4.512,
+      "words": [
+        {
+          "word": "Okay—two",
+          "start": 10.368,
+          "end": 11.408,
+          "local_start": 0.0,
+          "local_end": 1.04
+        },
+        {
+          "word": "blocks,",
+          "start": 11.408,
+          "end": 11.808,
+          "local_start": 1.04,
+          "local_end": 1.44
+        },
+        {
+          "word": "then",
+          "start": 12.168,
+          "end": 12.308,
+          "local_start": 1.8,
+          "local_end": 1.94
+        },
+        {
+          "word": "left.",
+          "start": 12.308,
+          "end": 12.628,
+          "local_start": 1.94,
+          "local_end": 2.26
+        },
+        {
+          "word": "Is",
+          "start": 13.088,
+          "end": 13.288,
+          "local_start": 2.72,
+          "local_end": 2.92
+        },
+        {
+          "word": "it",
+          "start": 13.288,
+          "end": 13.448,
+          "local_start": 2.92,
+          "local_end": 3.08
+        },
+        {
+          "word": "within",
+          "start": 13.448,
+          "end": 13.628,
+          "local_start": 3.08,
+          "local_end": 3.26
+        },
+        {
+          "word": "walking",
+          "start": 13.628,
+          "end": 13.928,
+          "local_start": 3.26,
+          "local_end": 3.56
+        },
+        {
+          "word": "distance?",
+          "start": 13.928,
+          "end": 14.348,
+          "local_start": 3.56,
+          "local_end": 3.98
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "file": "04.mp3",
+      "text": "Yes, it's only about a five-minute walk. After you turn, you'll see a small park on your right. The bookstore is just around the block from there—you can't miss it. There's a big green sign above the door.",
+      "audio_sha256": "ae0c1edc129f45d18e504662bea9eb4cba639314dbba2cd359dc5452cde614ee",
+      "start": 14.88,
+      "end": 25.632,
+      "duration": 10.752,
+      "words": [
+        {
+          "word": "Yes,",
+          "start": 14.88,
+          "end": 15.4,
+          "local_start": 0.0,
+          "local_end": 0.52
+        },
+        {
+          "word": "it's",
+          "start": 15.6,
+          "end": 15.94,
+          "local_start": 0.72,
+          "local_end": 1.06
+        },
+        {
+          "word": "only",
+          "start": 15.94,
+          "end": 16.2,
+          "local_start": 1.06,
+          "local_end": 1.32
+        },
+        {
+          "word": "about",
+          "start": 16.2,
+          "end": 16.38,
+          "local_start": 1.32,
+          "local_end": 1.5
+        },
+        {
+          "word": "a",
+          "start": 16.38,
+          "end": 16.54,
+          "local_start": 1.5,
+          "local_end": 1.66
+        },
+        {
+          "word": "five-minute",
+          "start": 16.54,
+          "end": 16.82,
+          "local_start": 1.66,
+          "local_end": 1.94
+        },
+        {
+          "word": "walk.",
+          "start": 16.82,
+          "end": 17.08,
+          "local_start": 1.94,
+          "local_end": 2.2
+        },
+        {
+          "word": "After",
+          "start": 17.8,
+          "end": 17.84,
+          "local_start": 2.92,
+          "local_end": 2.96
+        },
+        {
+          "word": "you",
+          "start": 17.84,
+          "end": 18.06,
+          "local_start": 2.96,
+          "local_end": 3.18
+        },
+        {
+          "word": "turn,",
+          "start": 18.06,
+          "end": 18.32,
+          "local_start": 3.18,
+          "local_end": 3.44
+        },
+        {
+          "word": "you'll",
+          "start": 18.72,
+          "end": 18.88,
+          "local_start": 3.84,
+          "local_end": 4.0
+        },
+        {
+          "word": "see",
+          "start": 18.88,
+          "end": 18.98,
+          "local_start": 4.0,
+          "local_end": 4.1
+        },
+        {
+          "word": "a",
+          "start": 18.98,
+          "end": 19.16,
+          "local_start": 4.1,
+          "local_end": 4.28
+        },
+        {
+          "word": "small",
+          "start": 19.16,
+          "end": 19.4,
+          "local_start": 4.28,
+          "local_end": 4.52
+        },
+        {
+          "word": "park",
+          "start": 19.4,
+          "end": 19.66,
+          "local_start": 4.52,
+          "local_end": 4.78
+        },
+        {
+          "word": "on",
+          "start": 19.66,
+          "end": 19.8,
+          "local_start": 4.78,
+          "local_end": 4.92
+        },
+        {
+          "word": "your",
+          "start": 19.8,
+          "end": 19.96,
+          "local_start": 4.92,
+          "local_end": 5.08
+        },
+        {
+          "word": "right.",
+          "start": 19.96,
+          "end": 20.14,
+          "local_start": 5.08,
+          "local_end": 5.26
+        },
+        {
+          "word": "The",
+          "start": 20.72,
+          "end": 20.84,
+          "local_start": 5.84,
+          "local_end": 5.96
+        },
+        {
+          "word": "bookstore",
+          "start": 20.84,
+          "end": 21.06,
+          "local_start": 5.96,
+          "local_end": 6.18
+        },
+        {
+          "word": "is",
+          "start": 21.06,
+          "end": 21.4,
+          "local_start": 6.18,
+          "local_end": 6.52
+        },
+        {
+          "word": "just",
+          "start": 21.4,
+          "end": 21.72,
+          "local_start": 6.52,
+          "local_end": 6.84
+        },
+        {
+          "word": "around",
+          "start": 21.72,
+          "end": 21.9,
+          "local_start": 6.84,
+          "local_end": 7.02
+        },
+        {
+          "word": "the",
+          "start": 21.9,
+          "end": 22.18,
+          "local_start": 7.02,
+          "local_end": 7.3
+        },
+        {
+          "word": "block",
+          "start": 22.18,
+          "end": 22.18,
+          "local_start": 7.3,
+          "local_end": 7.3
+        },
+        {
+          "word": "from",
+          "start": 22.18,
+          "end": 22.38,
+          "local_start": 7.3,
+          "local_end": 7.5
+        },
+        {
+          "word": "there—you",
+          "start": 22.38,
+          "end": 23.06,
+          "local_start": 7.5,
+          "local_end": 8.18
+        },
+        {
+          "word": "can't",
+          "start": 23.06,
+          "end": 23.44,
+          "local_start": 8.18,
+          "local_end": 8.56
+        },
+        {
+          "word": "miss",
+          "start": 23.44,
+          "end": 23.46,
+          "local_start": 8.56,
+          "local_end": 8.58
+        },
+        {
+          "word": "it.",
+          "start": 23.46,
+          "end": 23.74,
+          "local_start": 8.58,
+          "local_end": 8.86
+        },
+        {
+          "word": "There's",
+          "start": 24.08,
+          "end": 24.24,
+          "local_start": 9.2,
+          "local_end": 9.36
+        },
+        {
+          "word": "a",
+          "start": 24.24,
+          "end": 24.34,
+          "local_start": 9.36,
+          "local_end": 9.46
+        },
+        {
+          "word": "big",
+          "start": 24.34,
+          "end": 24.52,
+          "local_start": 9.46,
+          "local_end": 9.64
+        },
+        {
+          "word": "green",
+          "start": 24.52,
+          "end": 24.76,
+          "local_start": 9.64,
+          "local_end": 9.88
+        },
+        {
+          "word": "sign",
+          "start": 24.76,
+          "end": 24.98,
+          "local_start": 9.88,
+          "local_end": 10.1
+        },
+        {
+          "word": "above",
+          "start": 24.98,
+          "end": 25.16,
+          "local_start": 10.1,
+          "local_end": 10.28
+        },
+        {
+          "word": "the",
+          "start": 25.16,
+          "end": 25.48,
+          "local_start": 10.28,
+          "local_end": 10.6
+        },
+        {
+          "word": "door.",
+          "start": 25.48,
+          "end": 25.48,
+          "local_start": 10.6,
+          "local_end": 10.6
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "file": "05.mp3",
+      "text": "Got it. Thanks so much!",
+      "audio_sha256": "25959b1234adc8d58c737b9b6ce9bc977718b8b35ff0f8cb294dd5835a688f33",
+      "start": 25.632,
+      "end": 27.432,
+      "duration": 1.8,
+      "words": [
+        {
+          "word": "Got",
+          "start": 25.632,
+          "end": 25.892,
+          "local_start": 0.0,
+          "local_end": 0.26
+        },
+        {
+          "word": "it.",
+          "start": 25.892,
+          "end": 26.232,
+          "local_start": 0.26,
+          "local_end": 0.6
+        },
+        {
+          "word": "Thanks",
+          "start": 26.572,
+          "end": 26.712,
+          "local_start": 0.94,
+          "local_end": 1.08
+        },
+        {
+          "word": "so",
+          "start": 26.712,
+          "end": 26.912,
+          "local_start": 1.08,
+          "local_end": 1.28
+        },
+        {
+          "word": "much!",
+          "start": 26.912,
+          "end": 27.172,
+          "local_start": 1.28,
+          "local_end": 1.54
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "file": "06.mp3",
+      "text": "You're welcome. Enjoy your visit.",
+      "audio_sha256": "c9a6263856d7698f1ffadbdda06a2ce7eab1b0e483ed5a1d2649e23b7a2f1acd",
+      "start": 27.432,
+      "end": 29.544,
+      "duration": 2.112,
+      "words": [
+        {
+          "word": "You're",
+          "start": 27.432,
+          "end": 27.692,
+          "local_start": 0.0,
+          "local_end": 0.26
+        },
+        {
+          "word": "welcome.",
+          "start": 27.692,
+          "end": 27.952,
+          "local_start": 0.26,
+          "local_end": 0.52
+        },
+        {
+          "word": "Enjoy",
+          "start": 28.752,
+          "end": 28.952,
+          "local_start": 1.32,
+          "local_end": 1.52
+        },
+        {
+          "word": "your",
+          "start": 28.952,
+          "end": 29.152,
+          "local_start": 1.52,
+          "local_end": 1.72
+        },
+        {
+          "word": "visit.",
+          "start": 29.152,
+          "end": 29.272,
+          "local_start": 1.72,
+          "local_end": 1.84
+        }
+      ]
+    }
+  ]
+}

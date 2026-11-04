@@ -1,0 +1,69 @@
+{
+  "date": "2026-10-22",
+  "slug": "dialogue-haircut",
+  "title_en": "Getting a haircut",
+  "title_zh": "在理发店剪头发",
+  "roles": [
+    "Stylist",
+    "Customer"
+  ],
+  "voices": {
+    "Stylist": "marin",
+    "Customer": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Stylist",
+      "en": "Hi, come on in. What are we doing today?",
+      "zh": ""
+    },
+    {
+      "speaker": "Customer",
+      "en": "Just a trim, please. I'm trying to grow it out, so not too much.",
+      "zh": ""
+    },
+    {
+      "speaker": "Stylist",
+      "en": "Sure. How much should I take off? About an inch?",
+      "zh": ""
+    },
+    {
+      "speaker": "Customer",
+      "en": "Maybe a little less than that. And could you trim my bangs? They're getting in my eyes.",
+      "zh": ""
+    },
+    {
+      "speaker": "Stylist",
+      "en": "No problem. ... All done. How does that look?",
+      "zh": ""
+    },
+    {
+      "speaker": "Customer",
+      "en": "Perfect, thanks. That's $35, right? Here's forty. Keep the change.",
+      "zh": ""
+    }
+  ],
+  "expressions": [
+    {
+      "en": "just a trim",
+      "zh": "只修一修，稍微剪短一点。"
+    },
+    {
+      "en": "grow (something) out",
+      "zh": "把头发留长，先不剪。"
+    },
+    {
+      "en": "take (something) off",
+      "zh": "剪掉、去掉。理发时 *How much should I take off?* = 要剪掉多少？"
+    },
+    {
+      "en": "bangs / fringe",
+      "zh": "刘海（美式 bangs；英式 fringe）。"
+    },
+    {
+      "en": "Keep the change.",
+      "zh": "不用找零了（剩下的当小费）。"
+    }
+  ],
+  "kind": "dialogue"
+}

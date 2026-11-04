@@ -1,0 +1,69 @@
+{
+  "date": "2026-10-29",
+  "slug": "dialogue-library-renew",
+  "title_en": "Renewing library books",
+  "title_zh": "图书馆续借逾期图书并预约保留",
+  "roles": [
+    "Student",
+    "Librarian"
+  ],
+  "voices": {
+    "Student": "marin",
+    "Librarian": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Student",
+      "en": "Hi. I'd like to renew these two books, please. Are they overdue?",
+      "zh": ""
+    },
+    {
+      "speaker": "Librarian",
+      "en": "Let me check… Yes, one is three days overdue, so there'll be a small late fee. I can renew both for another two weeks, though.",
+      "zh": ""
+    },
+    {
+      "speaker": "Student",
+      "en": "That's fine. How much is the fine?",
+      "zh": ""
+    },
+    {
+      "speaker": "Librarian",
+      "en": "It's two dollars. Also, did you want me to put this title on reserve for you? Someone just returned a copy.",
+      "zh": ""
+    },
+    {
+      "speaker": "Student",
+      "en": "Yes, please. Can I check it out today?",
+      "zh": ""
+    },
+    {
+      "speaker": "Librarian",
+      "en": "Sure. Here's your receipt — the new due date is November 12th.",
+      "zh": ""
+    }
+  ],
+  "expressions": [
+    {
+      "en": "renew (a book / a loan)",
+      "zh": "续借；延长可用期限。"
+    },
+    {
+      "en": "overdue",
+      "zh": "过期未还／逾期。剑桥例句：*My library books are a week overdue.*"
+    },
+    {
+      "en": "late fee / fine",
+      "zh": "滞纳金／罚款。"
+    },
+    {
+      "en": "due date",
+      "zh": "到期日／应还日期。"
+    },
+    {
+      "en": "put something on reserve / check out (a book)",
+      "zh": "预约保留／从图书馆借出（书）。"
+    }
+  ],
+  "kind": "dialogue"
+}

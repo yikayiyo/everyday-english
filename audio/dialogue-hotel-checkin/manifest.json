@@ -1,0 +1,61 @@
+{
+  "model": "gpt-realtime-2.1-mini",
+  "instructions": "Speak in natural American English with clear pronunciation and conversational rhythm.",
+  "verification": "解码、请求关联及模型转写已检查；内容需逐句试听",
+  "lines": [
+    {
+      "index": 1,
+      "speaker": "Guest",
+      "voice": "marin",
+      "text_sha256": "2e0c67c0fa3adc6dfbd232144b991bd659bde4ca1ba17b4e052991ee971496ab",
+      "audio_sha256": "2560e566f23845fbebdde13516d40fe108c220f7dbea7ae91c9762c24fdd578a",
+      "file": "audio/01.mp3",
+      "transcript_check": "matched"
+    },
+    {
+      "index": 2,
+      "speaker": "Receptionist",
+      "voice": "cedar",
+      "text_sha256": "b54740068408c81b8d12d26ab51571bb3a420128b54658bb4580081e2e487385",
+      "audio_sha256": "a279b8732e5a32d1c4c35a6802e02d2e5715020c58f4aeffd685d0dd0c825681",
+      "file": "audio/02.mp3",
+      "transcript_check": "matched"
+    },
+    {
+      "index": 3,
+      "speaker": "Guest",
+      "voice": "marin",
+      "text_sha256": "890e06455a322f2beba466119553e6698045195f520e1d08a83d498ec794a314",
+      "audio_sha256": "4c003d072088165ceff4dff9bcffbbf57c848dbc580ce5017534d082fe9e1a23",
+      "file": "audio/03.mp3",
+      "transcript_check": "matched"
+    },
+    {
+      "index": 4,
+      "speaker": "Receptionist",
+      "voice": "cedar",
+      "text_sha256": "308797f65b9a3297b0159d5b20a2bc26870d568088055594eb197efe0d9261bf",
+      "audio_sha256": "f1db83fbe937d071b99dc34a6bcfb2263cf582487075c41b1c2dd7b8cd65c576",
+      "file": "audio/04.mp3",
+      "transcript_check": "matched"
+    },
+    {
+      "index": 5,
+      "speaker": "Guest",
+      "voice": "marin",
+      "text_sha256": "da068e3ead41d767f4bc0818034b57f4f9489d75ba2e5d9781ef2e1c85fdc0a1",
+      "audio_sha256": "1ee993432e46457df9dd48caa44a001ab0822844bb8a94fd16a052976a068698",
+      "file": "audio/05.mp3",
+      "transcript_check": "matched"
+    },
+    {
+      "index": 6,
+      "speaker": "Receptionist",
+      "voice": "cedar",
+      "text_sha256": "e0a7c943b6ebaa1a3956efeb96dd31fc97d33d70923b5dceb51689fc350963bc",
+      "audio_sha256": "1f6a20d916ecdad67651093cb33898599560a3c985fea32f2b22dd777b979f25",
+      "file": "audio/06.mp3",
+      "transcript_check": "matched"
+    }
+  ]
+}

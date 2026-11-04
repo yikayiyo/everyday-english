@@ -1,0 +1,70 @@
+{
+  "model": "gpt-realtime-2.1-mini",
+  "instructions": "Speak in natural American English with clear pronunciation and conversational rhythm.",
+  "verification": "解码、请求关联及模型转写已检查；内容需逐句试听",
+  "lines": [
+    {
+      "index": 1,
+      "speaker": "A",
+      "voice": "marin",
+      "text_sha256": "5140203fdf6c10c29faee59d6167c7059e5f5763b1c3355884fbcbd9999e8733",
+      "audio_sha256": "adcc7efe2246e22d36a8903131833e72d683ae3300a3da9eacf7058c226b80f1",
+      "file": "audio/01.mp3",
+      "transcript_check": "matched"
+    },
+    {
+      "index": 2,
+      "speaker": "B",
+      "voice": "cedar",
+      "text_sha256": "29102081becaeb23d02664e8901481e18bac3339462157c1807894c949cc6b34",
+      "audio_sha256": "e3a344a858b1147ed584c6d8d7b7c2d3996fcad977385bcde3c3c55a925a1d75",
+      "file": "audio/02.mp3",
+      "transcript_check": "matched"
+    },
+    {
+      "index": 3,
+      "speaker": "A",
+      "voice": "marin",
+      "text_sha256": "27f3a2705fe913a7f725dac8021ea4e03f59acf3caeb96e7dd438c6e62c30f15",
+      "audio_sha256": "3dad5e6062898558127296a6c3b38909a79b967ba872c1fecb22ec89f2943cbf",
+      "file": "audio/03.mp3",
+      "transcript_check": "matched"
+    },
+    {
+      "index": 4,
+      "speaker": "B",
+      "voice": "cedar",
+      "text_sha256": "28e8a64b4188d0233f5f129b9d6bdb65572cda705724b3e997377c3845edfa85",
+      "audio_sha256": "c67c69c2a66f4572eb6097f27941b6d89f4f2ced4b688e4f0c8d2fdc847790a9",
+      "file": "audio/04.mp3",
+      "transcript_check": "matched"
+    },
+    {
+      "index": 5,
+      "speaker": "A",
+      "voice": "marin",
+      "text_sha256": "7b0f13e1ce85cd91971c8cf4ad34e7364f28d7362fee22e861da25efdcb281bd",
+      "audio_sha256": "c2b7ce2f4ab7fb0015d548b3a740ab0d1ee73cc18855805f88899f9af1aa66e3",
+      "file": "audio/05.mp3",
+      "transcript_check": "matched"
+    },
+    {
+      "index": 6,
+      "speaker": "B",
+      "voice": "cedar",
+      "text_sha256": "0bf0e6d38035f473e0a1968ad327e9765e9c0f9274d23f0964dd94520e319089",
+      "audio_sha256": "95c3422a6e0881d2bfa2cb279e12fe8dcd813278f058dc97f325bbfb229be3e4",
+      "file": "audio/06.mp3",
+      "transcript_check": "matched"
+    },
+    {
+      "index": 7,
+      "speaker": "A",
+      "voice": "marin",
+      "text_sha256": "8d853f04ab484eb666ed9f2130b820f28ccb76be7daef6fb9d1a3b00576ef026",
+      "audio_sha256": "d0e85bc96f0925457486bde3d8038c660c801a2359bf7d2a0354d1ef61a53094",
+      "file": "audio/07.mp3",
+      "transcript_check": "matched"
+    }
+  ]
+}

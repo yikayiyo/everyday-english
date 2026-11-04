@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-20",
+  "slug": "dialogue-reschedule-meeting",
+  "title_en": "Rescheduling a meeting with a colleague",
+  "title_zh": "和同事改约会议时间",
+  "roles": [
+    "Lena",
+    "Tom"
+  ],
+  "voices": {
+    "Lena": "marin",
+    "Tom": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Lena",
+      "en": "Hi Tom, have you got a minute? It's about Thursday's project review.",
+      "zh": ""
+    },
+    {
+      "speaker": "Tom",
+      "en": "Sure, what's up?",
+      "zh": ""
+    },
+    {
+      "speaker": "Lena",
+      "en": "Something's come up with a client, and I won't be able to make the 2 p.m. slot. Would it be possible to push it back to Friday morning?",
+      "zh": ""
+    },
+    {
+      "speaker": "Tom",
+      "en": "Friday morning is a bit tight for me, but I could do 11. Does that work for you?",
+      "zh": ""
+    },
+    {
+      "speaker": "Lena",
+      "en": "11 works perfectly. I'll send out an updated invite to the team.",
+      "zh": ""
+    },
+    {
+      "speaker": "Tom",
+      "en": "Great. Could you also circulate the slides beforehand so everyone can take a look?",
+      "zh": ""
+    },
+    {
+      "speaker": "Lena",
+      "en": "Will do. I'll get them out by Thursday afternoon at the latest.",
+      "zh": ""
+    },
+    {
+      "speaker": "Tom",
+      "en": "Perfect. Thanks for the heads-up.",
+      "zh": ""
+    }
+  ],
+  "expressions": [
+    {
+      "en": "Something's come up.",
+      "zh": "「临时有事」。come up 指事情突然发生，用来委婉说明改期原因。"
+    },
+    {
+      "en": "make (the 2 p.m. slot)",
+      "zh": "「赶得上、能参加」；slot = 排好的时间段。"
+    },
+    {
+      "en": "push it back",
+      "zh": "把时间往后推、推迟（提前是 bring it forward）。"
+    },
+    {
+      "en": "Does that work for you?",
+      "zh": "「这个时间你方便吗」。"
+    },
+    {
+      "en": "Thanks for the heads-up.",
+      "zh": "「谢谢你提前告诉我」。heads-up = 提前打的招呼或提醒（口语）。"
+    }
+  ],
+  "kind": "dialogue"
+}

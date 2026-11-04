@@ -1,0 +1,69 @@
+{
+  "date": "2026-10-23",
+  "slug": "dialogue-hotel-checkin",
+  "title_en": "Hotel check-in",
+  "title_zh": "酒店前台办理入住",
+  "roles": [
+    "Guest",
+    "Receptionist"
+  ],
+  "voices": {
+    "Guest": "marin",
+    "Receptionist": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Guest",
+      "en": "Hi, I'd like to check in. I have a reservation in the name of Chen.",
+      "zh": ""
+    },
+    {
+      "speaker": "Receptionist",
+      "en": "Good afternoon. Yes, I can see your booking for two nights. I'm afraid your room isn't ready yet — check-in usually starts at three.",
+      "zh": ""
+    },
+    {
+      "speaker": "Guest",
+      "en": "Oh, okay. Would you mind holding my bags while I wait in the lobby?",
+      "zh": ""
+    },
+    {
+      "speaker": "Receptionist",
+      "en": "Of course. We'll store them for you. There's also complimentary coffee over there if you'd like some.",
+      "zh": ""
+    },
+    {
+      "speaker": "Guest",
+      "en": "That's great, thanks. Could I get the keycard as soon as the room is ready?",
+      "zh": ""
+    },
+    {
+      "speaker": "Receptionist",
+      "en": "Absolutely. I'll let you know as soon as it's available.",
+      "zh": ""
+    }
+  ],
+  "expressions": [
+    {
+      "en": "check in",
+      "zh": "到酒店报到、办理入住。"
+    },
+    {
+      "en": "in the name of someone",
+      "zh": "预订登记在某人名下。"
+    },
+    {
+      "en": "I'm afraid...",
+      "zh": "委婉说出不好的消息或不同意见。"
+    },
+    {
+      "en": "Would you mind + V-ing",
+      "zh": "礼貌请求别人做某事；后面用动名词。"
+    },
+    {
+      "en": "complimentary / keycard",
+      "zh": "（商家）免费赠送的；电子门卡。"
+    }
+  ],
+  "kind": "dialogue"
+}

@@ -1,0 +1,764 @@
+{
+  "model": "whisper-1",
+  "lesson": "dialogue-dentist-appointment",
+  "full_track": "dialogue-full.mp3",
+  "full_duration": 35.232,
+  "lines": [
+    {
+      "index": 1,
+      "file": "01.mp3",
+      "text": "Good afternoon, Bright Smile Dental. How can I help you?",
+      "audio_sha256": "85210b07682fa48c348c9f1af8f0f54d7125933f15ed3088a25193be47dc0e06",
+      "start": 0.0,
+      "end": 4.104,
+      "duration": 4.104,
+      "words": [
+        {
+          "word": "Good",
+          "start": 0.0,
+          "end": 0.42,
+          "local_start": 0.0,
+          "local_end": 0.42
+        },
+        {
+          "word": "afternoon,",
+          "start": 0.42,
+          "end": 1.16,
+          "local_start": 0.42,
+          "local_end": 1.16
+        },
+        {
+          "word": "Bright",
+          "start": 1.4,
+          "end": 1.68,
+          "local_start": 1.4,
+          "local_end": 1.68
+        },
+        {
+          "word": "Smile",
+          "start": 1.68,
+          "end": 2.0,
+          "local_start": 1.68,
+          "local_end": 2.0
+        },
+        {
+          "word": "Dental.",
+          "start": 2.0,
+          "end": 2.38,
+          "local_start": 2.0,
+          "local_end": 2.38
+        },
+        {
+          "word": "How",
+          "start": 3.08,
+          "end": 3.14,
+          "local_start": 3.08,
+          "local_end": 3.14
+        },
+        {
+          "word": "can",
+          "start": 3.14,
+          "end": 3.26,
+          "local_start": 3.14,
+          "local_end": 3.26
+        },
+        {
+          "word": "I",
+          "start": 3.26,
+          "end": 3.42,
+          "local_start": 3.26,
+          "local_end": 3.42
+        },
+        {
+          "word": "help",
+          "start": 3.42,
+          "end": 3.56,
+          "local_start": 3.42,
+          "local_end": 3.56
+        },
+        {
+          "word": "you?",
+          "start": 3.56,
+          "end": 3.74,
+          "local_start": 3.56,
+          "local_end": 3.74
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "file": "02.mp3",
+      "text": "Hi, I'd like to make an appointment for a checkup, please. I've had a toothache for a few days.",
+      "audio_sha256": "096eda39239b3c875450b7cf94dc33f6825a38d1e1268f2100becc4dcb8cdb51",
+      "start": 4.104,
+      "end": 9.672,
+      "duration": 5.568,
+      "words": [
+        {
+          "word": "Hi,",
+          "start": 4.104,
+          "end": 4.524,
+          "local_start": 0.0,
+          "local_end": 0.42
+        },
+        {
+          "word": "I'd",
+          "start": 4.544,
+          "end": 4.984,
+          "local_start": 0.44,
+          "local_end": 0.88
+        },
+        {
+          "word": "like",
+          "start": 4.984,
+          "end": 5.164,
+          "local_start": 0.88,
+          "local_end": 1.06
+        },
+        {
+          "word": "to",
+          "start": 5.164,
+          "end": 5.304,
+          "local_start": 1.06,
+          "local_end": 1.2
+        },
+        {
+          "word": "make",
+          "start": 5.304,
+          "end": 5.384,
+          "local_start": 1.2,
+          "local_end": 1.28
+        },
+        {
+          "word": "an",
+          "start": 5.384,
+          "end": 5.824,
+          "local_start": 1.28,
+          "local_end": 1.72
+        },
+        {
+          "word": "appointment",
+          "start": 5.824,
+          "end": 5.824,
+          "local_start": 1.72,
+          "local_end": 1.72
+        },
+        {
+          "word": "for",
+          "start": 5.824,
+          "end": 6.084,
+          "local_start": 1.72,
+          "local_end": 1.98
+        },
+        {
+          "word": "a",
+          "start": 6.084,
+          "end": 6.284,
+          "local_start": 1.98,
+          "local_end": 2.18
+        },
+        {
+          "word": "checkup,",
+          "start": 6.284,
+          "end": 6.504,
+          "local_start": 2.18,
+          "local_end": 2.4
+        },
+        {
+          "word": "please.",
+          "start": 6.764,
+          "end": 6.904,
+          "local_start": 2.66,
+          "local_end": 2.8
+        },
+        {
+          "word": "I've",
+          "start": 7.504,
+          "end": 7.704,
+          "local_start": 3.4,
+          "local_end": 3.6
+        },
+        {
+          "word": "had",
+          "start": 7.704,
+          "end": 7.804,
+          "local_start": 3.6,
+          "local_end": 3.7
+        },
+        {
+          "word": "a",
+          "start": 7.804,
+          "end": 8.004,
+          "local_start": 3.7,
+          "local_end": 3.9
+        },
+        {
+          "word": "toothache",
+          "start": 8.004,
+          "end": 8.284,
+          "local_start": 3.9,
+          "local_end": 4.18
+        },
+        {
+          "word": "for",
+          "start": 8.284,
+          "end": 8.644,
+          "local_start": 4.18,
+          "local_end": 4.54
+        },
+        {
+          "word": "a",
+          "start": 8.644,
+          "end": 8.784,
+          "local_start": 4.54,
+          "local_end": 4.68
+        },
+        {
+          "word": "few",
+          "start": 8.784,
+          "end": 8.864,
+          "local_start": 4.68,
+          "local_end": 4.76
+        },
+        {
+          "word": "days.",
+          "start": 8.864,
+          "end": 9.084,
+          "local_start": 4.76,
+          "local_end": 4.98
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "file": "03.mp3",
+      "text": "Of course. Are you an existing patient with us?",
+      "audio_sha256": "10309c54177fffb57bb058dbf55bda309eb26690ce4d763840424dff24a9513b",
+      "start": 9.672,
+      "end": 12.984,
+      "duration": 3.312,
+      "words": [
+        {
+          "word": "Of",
+          "start": 9.672,
+          "end": 9.972,
+          "local_start": 0.0,
+          "local_end": 0.3
+        },
+        {
+          "word": "course.",
+          "start": 9.972,
+          "end": 10.392,
+          "local_start": 0.3,
+          "local_end": 0.72
+        },
+        {
+          "word": "Are",
+          "start": 10.912,
+          "end": 11.092,
+          "local_start": 1.24,
+          "local_end": 1.42
+        },
+        {
+          "word": "you",
+          "start": 11.092,
+          "end": 11.252,
+          "local_start": 1.42,
+          "local_end": 1.58
+        },
+        {
+          "word": "an",
+          "start": 11.252,
+          "end": 11.532,
+          "local_start": 1.58,
+          "local_end": 1.86
+        },
+        {
+          "word": "existing",
+          "start": 11.532,
+          "end": 11.792,
+          "local_start": 1.86,
+          "local_end": 2.12
+        },
+        {
+          "word": "patient",
+          "start": 11.792,
+          "end": 12.172,
+          "local_start": 2.12,
+          "local_end": 2.5
+        },
+        {
+          "word": "with",
+          "start": 12.172,
+          "end": 12.392,
+          "local_start": 2.5,
+          "local_end": 2.72
+        },
+        {
+          "word": "us?",
+          "start": 12.392,
+          "end": 12.612,
+          "local_start": 2.72,
+          "local_end": 2.94
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "file": "04.mp3",
+      "text": "Yes — Alex Chen. I last came in about a year ago.",
+      "audio_sha256": "b24a75ae42236fa606ed99d6d3018096d3aa2cc0c419a0b3241c71394b2e14b3",
+      "start": 12.984,
+      "end": 16.8,
+      "duration": 3.816,
+      "words": [
+        {
+          "word": "Yes",
+          "start": 12.984,
+          "end": 13.384,
+          "local_start": 0.0,
+          "local_end": 0.4
+        },
+        {
+          "word": "—",
+          "start": 13.384,
+          "end": 13.924,
+          "local_start": 0.4,
+          "local_end": 0.94
+        },
+        {
+          "word": "Alex",
+          "start": 13.924,
+          "end": 14.204,
+          "local_start": 0.94,
+          "local_end": 1.22
+        },
+        {
+          "word": "Chen.",
+          "start": 14.204,
+          "end": 14.524,
+          "local_start": 1.22,
+          "local_end": 1.54
+        },
+        {
+          "word": "I",
+          "start": 15.124,
+          "end": 15.184,
+          "local_start": 2.14,
+          "local_end": 2.2
+        },
+        {
+          "word": "last",
+          "start": 15.184,
+          "end": 15.384,
+          "local_start": 2.2,
+          "local_end": 2.4
+        },
+        {
+          "word": "came",
+          "start": 15.384,
+          "end": 15.544,
+          "local_start": 2.4,
+          "local_end": 2.56
+        },
+        {
+          "word": "in",
+          "start": 15.544,
+          "end": 15.744,
+          "local_start": 2.56,
+          "local_end": 2.76
+        },
+        {
+          "word": "about",
+          "start": 15.744,
+          "end": 15.864,
+          "local_start": 2.76,
+          "local_end": 2.88
+        },
+        {
+          "word": "a",
+          "start": 15.864,
+          "end": 16.084,
+          "local_start": 2.88,
+          "local_end": 3.1
+        },
+        {
+          "word": "year",
+          "start": 16.084,
+          "end": 16.224,
+          "local_start": 3.1,
+          "local_end": 3.24
+        },
+        {
+          "word": "ago.",
+          "start": 16.224,
+          "end": 16.484,
+          "local_start": 3.24,
+          "local_end": 3.5
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "file": "05.mp3",
+      "text": "Thanks. We're pretty booked up this week, but I have Thursday at 3:30 or Friday at 10. Which works for you?",
+      "audio_sha256": "7083071fc2504d2f8c0a6486bfc0a5b8b6852c844e0a44546fa02dba369e5357",
+      "start": 16.8,
+      "end": 27.312,
+      "duration": 10.512,
+      "words": [
+        {
+          "word": "Thanks.",
+          "start": 18.5,
+          "end": 18.7,
+          "local_start": 1.7,
+          "local_end": 1.9
+        },
+        {
+          "word": "We're",
+          "start": 18.7,
+          "end": 19.22,
+          "local_start": 1.9,
+          "local_end": 2.42
+        },
+        {
+          "word": "pretty",
+          "start": 19.22,
+          "end": 19.74,
+          "local_start": 2.42,
+          "local_end": 2.94
+        },
+        {
+          "word": "booked",
+          "start": 19.74,
+          "end": 19.76,
+          "local_start": 2.94,
+          "local_end": 2.96
+        },
+        {
+          "word": "up",
+          "start": 19.76,
+          "end": 19.98,
+          "local_start": 2.96,
+          "local_end": 3.18
+        },
+        {
+          "word": "this",
+          "start": 19.98,
+          "end": 20.18,
+          "local_start": 3.18,
+          "local_end": 3.38
+        },
+        {
+          "word": "week,",
+          "start": 20.18,
+          "end": 20.36,
+          "local_start": 3.38,
+          "local_end": 3.56
+        },
+        {
+          "word": "but",
+          "start": 20.52,
+          "end": 20.96,
+          "local_start": 3.72,
+          "local_end": 4.16
+        },
+        {
+          "word": "I",
+          "start": 20.96,
+          "end": 21.08,
+          "local_start": 4.16,
+          "local_end": 4.28
+        },
+        {
+          "word": "have",
+          "start": 21.08,
+          "end": 21.4,
+          "local_start": 4.28,
+          "local_end": 4.6
+        },
+        {
+          "word": "Thursday",
+          "start": 21.4,
+          "end": 21.94,
+          "local_start": 4.6,
+          "local_end": 5.14
+        },
+        {
+          "word": "at",
+          "start": 21.94,
+          "end": 22.32,
+          "local_start": 5.14,
+          "local_end": 5.52
+        },
+        {
+          "word": "3:30",
+          "start": 22.32,
+          "end": 22.82,
+          "local_start": 5.52,
+          "local_end": 6.02
+        },
+        {
+          "word": "or",
+          "start": 22.82,
+          "end": 23.42,
+          "local_start": 6.02,
+          "local_end": 6.62
+        },
+        {
+          "word": "Friday",
+          "start": 23.42,
+          "end": 23.8,
+          "local_start": 6.62,
+          "local_end": 7.0
+        },
+        {
+          "word": "at",
+          "start": 23.8,
+          "end": 24.04,
+          "local_start": 7.0,
+          "local_end": 7.24
+        },
+        {
+          "word": "10.",
+          "start": 24.04,
+          "end": 24.32,
+          "local_start": 7.24,
+          "local_end": 7.52
+        },
+        {
+          "word": "Which",
+          "start": 24.98,
+          "end": 25.32,
+          "local_start": 8.18,
+          "local_end": 8.52
+        },
+        {
+          "word": "works",
+          "start": 25.32,
+          "end": 25.56,
+          "local_start": 8.52,
+          "local_end": 8.76
+        },
+        {
+          "word": "for",
+          "start": 25.56,
+          "end": 25.82,
+          "local_start": 8.76,
+          "local_end": 9.02
+        },
+        {
+          "word": "you?",
+          "start": 25.82,
+          "end": 25.98,
+          "local_start": 9.02,
+          "local_end": 9.18
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "file": "06.mp3",
+      "text": "Thursday at 3:30 works for me. Do I need to bring anything?",
+      "audio_sha256": "09d848c231d2ac1811d6b843c6d6007285ce9eab63fb177f1f0b20688a8f8403",
+      "start": 27.312,
+      "end": 31.272,
+      "duration": 3.96,
+      "words": [
+        {
+          "word": "Thursday",
+          "start": 27.312,
+          "end": 27.852,
+          "local_start": 0.0,
+          "local_end": 0.54
+        },
+        {
+          "word": "at",
+          "start": 27.852,
+          "end": 28.292,
+          "local_start": 0.54,
+          "local_end": 0.98
+        },
+        {
+          "word": "3:30",
+          "start": 28.292,
+          "end": 28.812,
+          "local_start": 0.98,
+          "local_end": 1.5
+        },
+        {
+          "word": "works",
+          "start": 28.812,
+          "end": 29.052,
+          "local_start": 1.5,
+          "local_end": 1.74
+        },
+        {
+          "word": "for",
+          "start": 29.052,
+          "end": 29.252,
+          "local_start": 1.74,
+          "local_end": 1.94
+        },
+        {
+          "word": "me.",
+          "start": 29.252,
+          "end": 29.432,
+          "local_start": 1.94,
+          "local_end": 2.12
+        },
+        {
+          "word": "Do",
+          "start": 30.152,
+          "end": 30.212,
+          "local_start": 2.84,
+          "local_end": 2.9
+        },
+        {
+          "word": "I",
+          "start": 30.212,
+          "end": 30.372,
+          "local_start": 2.9,
+          "local_end": 3.06
+        },
+        {
+          "word": "need",
+          "start": 30.372,
+          "end": 30.452,
+          "local_start": 3.06,
+          "local_end": 3.14
+        },
+        {
+          "word": "to",
+          "start": 30.452,
+          "end": 30.632,
+          "local_start": 3.14,
+          "local_end": 3.32
+        },
+        {
+          "word": "bring",
+          "start": 30.632,
+          "end": 30.732,
+          "local_start": 3.32,
+          "local_end": 3.42
+        },
+        {
+          "word": "anything?",
+          "start": 30.732,
+          "end": 31.032,
+          "local_start": 3.42,
+          "local_end": 3.72
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "file": "07.mp3",
+      "text": "Just your ID and insurance card if you have one. We'll see you then.",
+      "audio_sha256": "a80290afd117cf76bf094057d0036dbb5fe5b6c8438d5b3d9d7b154e0937975e",
+      "start": 31.272,
+      "end": 35.232,
+      "duration": 3.96,
+      "words": [
+        {
+          "word": "Just",
+          "start": 31.272,
+          "end": 31.592,
+          "local_start": 0.0,
+          "local_end": 0.32
+        },
+        {
+          "word": "your",
+          "start": 31.592,
+          "end": 31.812,
+          "local_start": 0.32,
+          "local_end": 0.54
+        },
+        {
+          "word": "ID",
+          "start": 31.812,
+          "end": 32.192,
+          "local_start": 0.54,
+          "local_end": 0.92
+        },
+        {
+          "word": "and",
+          "start": 32.192,
+          "end": 32.592,
+          "local_start": 0.92,
+          "local_end": 1.32
+        },
+        {
+          "word": "insurance",
+          "start": 32.592,
+          "end": 32.932,
+          "local_start": 1.32,
+          "local_end": 1.66
+        },
+        {
+          "word": "card",
+          "start": 32.932,
+          "end": 33.212,
+          "local_start": 1.66,
+          "local_end": 1.94
+        },
+        {
+          "word": "if",
+          "start": 33.212,
+          "end": 33.332,
+          "local_start": 1.94,
+          "local_end": 2.06
+        },
+        {
+          "word": "you",
+          "start": 33.332,
+          "end": 33.472,
+          "local_start": 2.06,
+          "local_end": 2.2
+        },
+        {
+          "word": "have",
+          "start": 33.472,
+          "end": 33.672,
+          "local_start": 2.2,
+          "local_end": 2.4
+        },
+        {
+          "word": "one.",
+          "start": 33.672,
+          "end": 33.912,
+          "local_start": 2.4,
+          "local_end": 2.64
+        },
+        {
+          "word": "We'll",
+          "start": 34.412,
+          "end": 34.592,
+          "local_start": 3.14,
+          "local_end": 3.32
+        },
+        {
+          "word": "see",
+          "start": 34.592,
+          "end": 34.732,
+          "local_start": 3.32,
+          "local_end": 3.46
+        },
+        {
+          "word": "you",
+          "start": 34.732,
+          "end": 34.872,
+          "local_start": 3.46,
+          "local_end": 3.6
+        },
+        {
+          "word": "then.",
+          "start": 34.872,
+          "end": 35.072,
+          "local_start": 3.6,
+          "local_end": 3.8
+        }
+      ]
+    }
+  ]
+}

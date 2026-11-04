@@ -1,0 +1,71 @@
+{
+  "model": "gpt-realtime-2.1-mini",
+  "instructions": "Speak in natural American English with clear pronunciation and conversational rhythm.",
+  "verification": "解码、请求关联及模型转写已检查；内容需逐句试听",
+  "lines": [
+    {
+      "index": 1,
+      "speaker": "Customer",
+      "voice": "marin",
+      "text_sha256": "5a96d62561ee348c9f13be666bdd7ead3c9fd63a9cd459070850e48c76894a28",
+      "audio_sha256": "38a1e97dca5acd95409a43c3e6fd764983d82bef7b0babd378f36e86dd8d5578",
+      "file": "audio/01.mp3",
+      "transcript_check": "matched"
+    },
+    {
+      "index": 2,
+      "speaker": "Pharmacist",
+      "voice": "cedar",
+      "text_sha256": "5057bad383de3d8547792220bb2cdad2f29e1b7ac50d905fabb5a23eb5f9249e",
+      "audio_sha256": "6ce9aec229e5c225617e012c616bc4f341082bc067111c2964ec3691b6bb79e8",
+      "file": "audio/02.mp3",
+      "transcript_check": "matched"
+    },
+    {
+      "index": 3,
+      "speaker": "Customer",
+      "voice": "marin",
+      "text_sha256": "0d2777e9593c6197cef4ffdc1ba94bc76a58594fce6dbe3388cbceeb433e71ef",
+      "audio_sha256": "85d74ed1ae98010e5b06a2278e8963307acfadaab2a6f0281d0f7643bf044eea",
+      "file": "audio/03.mp3",
+      "transcript_check": "matched"
+    },
+    {
+      "index": 4,
+      "speaker": "Pharmacist",
+      "voice": "cedar",
+      "text_sha256": "b9ae5c1fbc189c04dd960d474bfd51dbbcba96e169bb193d868274f3471a9158",
+      "audio_sha256": "531904b3c9975d59ecc260565a02b3c4614423d7572f8a330809e7caeafc10a5",
+      "file": "audio/04.mp3",
+      "transcript_check": "matched"
+    },
+    {
+      "index": 5,
+      "speaker": "Customer",
+      "voice": "marin",
+      "text_sha256": "63da5475dbc95f04accfc7a802bd62a5b039317480d14fbe243ebb4c968bfb0d",
+      "audio_sha256": "e17160e80899d2eee3f8202cd16085c8d207756aa4be207fec68aa1eed06d392",
+      "file": "audio/05.mp3",
+      "transcript_check": "matched",
+      "model": "gpt-realtime-2.1-mini"
+    },
+    {
+      "index": 6,
+      "speaker": "Pharmacist",
+      "voice": "cedar",
+      "text_sha256": "5358c462ae6deb6f285553c43832e2c54c4b12f1449e061cc631e83b94207752",
+      "audio_sha256": "7128750115ebefd52488d79adeaa1f20ce0a9f4bf1084e1201f690091d7189db",
+      "file": "audio/06.mp3",
+      "transcript_check": "matched"
+    },
+    {
+      "index": 7,
+      "speaker": "Customer",
+      "voice": "marin",
+      "text_sha256": "3a40c381bea0e17b5e6ed218e27fb48cdbd014ea0f9ea7ee76b394a2e1948df9",
+      "audio_sha256": "c63166c553a97f9821d3d1bb908e29d6cad4758c1cfc9c6d35d67ebb6bd94079",
+      "file": "audio/07.mp3",
+      "transcript_check": "matched"
+    }
+  ]
+}

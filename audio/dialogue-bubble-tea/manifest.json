@@ -1,0 +1,71 @@
+{
+  "model": "gpt-realtime-2.1-mini",
+  "instructions": "Speak in natural American English with clear pronunciation and conversational rhythm.",
+  "verification": "解码、请求关联及模型转写已检查；内容需逐句试听",
+  "lines": [
+    {
+      "index": 1,
+      "speaker": "Staff",
+      "voice": "marin",
+      "text_sha256": "cf6a3f570ff7d7d917407c11f757d36d47b984515563c27b4dfc6519e987433a",
+      "audio_sha256": "784347928592839c4ab04037f834ded4a7a131e02f0b2c21fb788e68b1769314",
+      "file": "audio/01.mp3",
+      "transcript_check": "matched"
+    },
+    {
+      "index": 2,
+      "speaker": "Customer",
+      "voice": "cedar",
+      "text_sha256": "60ce7af375ec298832f3cb8c873a08411c37520581c7764f664db1cd64fca65f",
+      "audio_sha256": "bf0f7950fbac7c9e2de453bd8c4def3d9fab8afd31310c76b486f8a7d9359618",
+      "file": "audio/02.mp3",
+      "transcript_check": "matched"
+    },
+    {
+      "index": 3,
+      "speaker": "Staff",
+      "voice": "marin",
+      "text_sha256": "b78ad20cb93c2f54698ccae8acde2ceae04bc8a01a56996f5b3da3ed6e77a3fa",
+      "audio_sha256": "221bf581ba23b4e266b921068b9d33d1a57adb96082b5f9c6909b830d81ab690",
+      "file": "audio/03.mp3",
+      "transcript_check": "matched",
+      "model": "gpt-realtime-2.1-mini"
+    },
+    {
+      "index": 4,
+      "speaker": "Customer",
+      "voice": "cedar",
+      "text_sha256": "39eb030296d95f6d64dfdfb4ed7c703205d81a14947c6f26865818ec870fa182",
+      "audio_sha256": "1bba3db81a6cbc7bb01403df31b7e9c470abd6fb05eae2b88cbc7dca69aab3e7",
+      "file": "audio/04.mp3",
+      "transcript_check": "matched"
+    },
+    {
+      "index": 5,
+      "speaker": "Staff",
+      "voice": "marin",
+      "text_sha256": "1e0b106c70bcc4c0af054e7f3c05d5d673b29668b62c0b9e8d424f7164968bd5",
+      "audio_sha256": "fb7504faa2a126fb36c1d006c31294c21ba6a363ec6649c9a844354a37968d21",
+      "file": "audio/05.mp3",
+      "transcript_check": "matched"
+    },
+    {
+      "index": 6,
+      "speaker": "Customer",
+      "voice": "cedar",
+      "text_sha256": "759f377ad41caae1b3091d6bc515b2672ce0c9f30d43b014fd314f2cdbd94f07",
+      "audio_sha256": "d3e8f65148e3cc8bf6f98952f3757f9799fb8851d8f7836ffaf6f48c3725d6a9",
+      "file": "audio/06.mp3",
+      "transcript_check": "matched"
+    },
+    {
+      "index": 7,
+      "speaker": "Staff",
+      "voice": "marin",
+      "text_sha256": "5e6876cc2df0665839800de34f15aedbc464bf222bdeb55a99f7e68bd892255f",
+      "audio_sha256": "be22f8ad615702e4b21c02f15afadddf685be4f9825b0024e4a49c171bb87389",
+      "file": "audio/07.mp3",
+      "transcript_check": "matched"
+    }
+  ]
+}

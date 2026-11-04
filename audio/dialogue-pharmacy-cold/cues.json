@@ -1,0 +1,771 @@
+{
+  "model": "whisper-1",
+  "lesson": "dialogue-pharmacy-cold",
+  "full_track": "dialogue-full.mp3",
+  "full_duration": 31.632,
+  "lines": [
+    {
+      "index": 1,
+      "file": "01.mp3",
+      "text": "Hi, I've got a bit of a cold. Could you recommend something for a sore throat and a runny nose?",
+      "audio_sha256": "38a1e97dca5acd95409a43c3e6fd764983d82bef7b0babd378f36e86dd8d5578",
+      "start": 0.0,
+      "end": 5.352,
+      "duration": 5.352,
+      "words": [
+        {
+          "word": "Hi,",
+          "start": 0.0,
+          "end": 0.36,
+          "local_start": 0.0,
+          "local_end": 0.36
+        },
+        {
+          "word": "I've",
+          "start": 0.82,
+          "end": 0.96,
+          "local_start": 0.82,
+          "local_end": 0.96
+        },
+        {
+          "word": "got",
+          "start": 0.96,
+          "end": 1.08,
+          "local_start": 0.96,
+          "local_end": 1.08
+        },
+        {
+          "word": "a",
+          "start": 1.08,
+          "end": 1.18,
+          "local_start": 1.08,
+          "local_end": 1.18
+        },
+        {
+          "word": "bit",
+          "start": 1.18,
+          "end": 1.26,
+          "local_start": 1.18,
+          "local_end": 1.26
+        },
+        {
+          "word": "of",
+          "start": 1.26,
+          "end": 1.42,
+          "local_start": 1.26,
+          "local_end": 1.42
+        },
+        {
+          "word": "a",
+          "start": 1.42,
+          "end": 1.62,
+          "local_start": 1.42,
+          "local_end": 1.62
+        },
+        {
+          "word": "cold.",
+          "start": 1.62,
+          "end": 1.78,
+          "local_start": 1.62,
+          "local_end": 1.78
+        },
+        {
+          "word": "Could",
+          "start": 2.26,
+          "end": 2.34,
+          "local_start": 2.26,
+          "local_end": 2.34
+        },
+        {
+          "word": "you",
+          "start": 2.34,
+          "end": 2.58,
+          "local_start": 2.34,
+          "local_end": 2.58
+        },
+        {
+          "word": "recommend",
+          "start": 2.58,
+          "end": 2.8,
+          "local_start": 2.58,
+          "local_end": 2.8
+        },
+        {
+          "word": "something",
+          "start": 2.8,
+          "end": 3.18,
+          "local_start": 2.8,
+          "local_end": 3.18
+        },
+        {
+          "word": "for",
+          "start": 3.18,
+          "end": 3.34,
+          "local_start": 3.18,
+          "local_end": 3.34
+        },
+        {
+          "word": "a",
+          "start": 3.34,
+          "end": 3.68,
+          "local_start": 3.34,
+          "local_end": 3.68
+        },
+        {
+          "word": "sore",
+          "start": 3.68,
+          "end": 3.76,
+          "local_start": 3.68,
+          "local_end": 3.76
+        },
+        {
+          "word": "throat",
+          "start": 3.76,
+          "end": 4.14,
+          "local_start": 3.76,
+          "local_end": 4.14
+        },
+        {
+          "word": "and",
+          "start": 4.14,
+          "end": 4.46,
+          "local_start": 4.14,
+          "local_end": 4.46
+        },
+        {
+          "word": "a",
+          "start": 4.46,
+          "end": 4.6,
+          "local_start": 4.46,
+          "local_end": 4.6
+        },
+        {
+          "word": "runny",
+          "start": 4.6,
+          "end": 4.72,
+          "local_start": 4.6,
+          "local_end": 4.72
+        },
+        {
+          "word": "nose?",
+          "start": 4.72,
+          "end": 4.98,
+          "local_start": 4.72,
+          "local_end": 4.98
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "file": "02.mp3",
+      "text": "Sure. Are you allergic to any medicines?",
+      "audio_sha256": "6ce9aec229e5c225617e012c616bc4f341082bc067111c2964ec3691b6bb79e8",
+      "start": 5.352,
+      "end": 7.872,
+      "duration": 2.52,
+      "words": [
+        {
+          "word": "Sure.",
+          "start": 5.352,
+          "end": 5.732,
+          "local_start": 0.0,
+          "local_end": 0.38
+        },
+        {
+          "word": "Are",
+          "start": 5.932,
+          "end": 6.332,
+          "local_start": 0.58,
+          "local_end": 0.98
+        },
+        {
+          "word": "you",
+          "start": 6.332,
+          "end": 6.532,
+          "local_start": 0.98,
+          "local_end": 1.18
+        },
+        {
+          "word": "allergic",
+          "start": 6.532,
+          "end": 6.712,
+          "local_start": 1.18,
+          "local_end": 1.36
+        },
+        {
+          "word": "to",
+          "start": 6.712,
+          "end": 7.012,
+          "local_start": 1.36,
+          "local_end": 1.66
+        },
+        {
+          "word": "any",
+          "start": 7.012,
+          "end": 7.212,
+          "local_start": 1.66,
+          "local_end": 1.86
+        },
+        {
+          "word": "medicines?",
+          "start": 7.212,
+          "end": 7.412,
+          "local_start": 1.86,
+          "local_end": 2.06
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "file": "03.mp3",
+      "text": "Not that I know of. And I'd prefer something that won't make me drowsy — I've got work later.",
+      "audio_sha256": "85d74ed1ae98010e5b06a2278e8963307acfadaab2a6f0281d0f7643bf044eea",
+      "start": 7.872,
+      "end": 13.32,
+      "duration": 5.448,
+      "words": [
+        {
+          "word": "Not",
+          "start": 10.712,
+          "end": 10.912,
+          "local_start": 2.84,
+          "local_end": 3.04
+        },
+        {
+          "word": "that",
+          "start": 10.912,
+          "end": 11.052,
+          "local_start": 3.04,
+          "local_end": 3.18
+        },
+        {
+          "word": "I",
+          "start": 12.372,
+          "end": 12.512,
+          "local_start": 4.5,
+          "local_end": 4.64
+        },
+        {
+          "word": "know",
+          "start": 12.512,
+          "end": 12.513,
+          "local_start": 4.64,
+          "local_end": 4.641
+        },
+        {
+          "word": "of.",
+          "start": 12.513,
+          "end": 12.514,
+          "local_start": 4.641,
+          "local_end": 4.642
+        },
+        {
+          "word": "And",
+          "start": 12.514,
+          "end": 12.514,
+          "local_start": 4.642,
+          "local_end": 4.642
+        },
+        {
+          "word": "I'd",
+          "start": 12.514,
+          "end": 12.515,
+          "local_start": 4.642,
+          "local_end": 4.643
+        },
+        {
+          "word": "prefer",
+          "start": 12.515,
+          "end": 12.516,
+          "local_start": 4.643,
+          "local_end": 4.644
+        },
+        {
+          "word": "something",
+          "start": 12.516,
+          "end": 12.517,
+          "local_start": 4.644,
+          "local_end": 4.645
+        },
+        {
+          "word": "that",
+          "start": 12.517,
+          "end": 12.517,
+          "local_start": 4.645,
+          "local_end": 4.645
+        },
+        {
+          "word": "won't",
+          "start": 12.517,
+          "end": 12.518,
+          "local_start": 4.645,
+          "local_end": 4.646
+        },
+        {
+          "word": "make",
+          "start": 12.518,
+          "end": 12.519,
+          "local_start": 4.646,
+          "local_end": 4.647
+        },
+        {
+          "word": "me",
+          "start": 12.519,
+          "end": 12.52,
+          "local_start": 4.647,
+          "local_end": 4.648
+        },
+        {
+          "word": "drowsy",
+          "start": 12.52,
+          "end": 12.52,
+          "local_start": 4.648,
+          "local_end": 4.648
+        },
+        {
+          "word": "—",
+          "start": 12.52,
+          "end": 12.521,
+          "local_start": 4.648,
+          "local_end": 4.649
+        },
+        {
+          "word": "I've",
+          "start": 12.521,
+          "end": 12.522,
+          "local_start": 4.649,
+          "local_end": 4.65
+        },
+        {
+          "word": "got",
+          "start": 12.512,
+          "end": 12.652,
+          "local_start": 4.64,
+          "local_end": 4.78
+        },
+        {
+          "word": "work",
+          "start": 12.652,
+          "end": 12.832,
+          "local_start": 4.78,
+          "local_end": 4.96
+        },
+        {
+          "word": "later.",
+          "start": 12.832,
+          "end": 13.092,
+          "local_start": 4.96,
+          "local_end": 5.22
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "file": "04.mp3",
+      "text": "In that case, these lozenges should help your throat, and this is a non-drowsy decongestant for the congestion. Take one tablet every six hours with water.",
+      "audio_sha256": "531904b3c9975d59ecc260565a02b3c4614423d7572f8a330809e7caeafc10a5",
+      "start": 13.32,
+      "end": 22.128,
+      "duration": 8.808,
+      "words": [
+        {
+          "word": "In",
+          "start": 13.32,
+          "end": 13.52,
+          "local_start": 0.0,
+          "local_end": 0.2
+        },
+        {
+          "word": "that",
+          "start": 13.52,
+          "end": 13.78,
+          "local_start": 0.2,
+          "local_end": 0.46
+        },
+        {
+          "word": "case,",
+          "start": 13.78,
+          "end": 14.12,
+          "local_start": 0.46,
+          "local_end": 0.8
+        },
+        {
+          "word": "these",
+          "start": 14.56,
+          "end": 14.64,
+          "local_start": 1.24,
+          "local_end": 1.32
+        },
+        {
+          "word": "lozenges",
+          "start": 14.64,
+          "end": 14.94,
+          "local_start": 1.32,
+          "local_end": 1.62
+        },
+        {
+          "word": "should",
+          "start": 14.94,
+          "end": 15.24,
+          "local_start": 1.62,
+          "local_end": 1.92
+        },
+        {
+          "word": "help",
+          "start": 15.24,
+          "end": 15.36,
+          "local_start": 1.92,
+          "local_end": 2.04
+        },
+        {
+          "word": "your",
+          "start": 15.36,
+          "end": 15.78,
+          "local_start": 2.04,
+          "local_end": 2.46
+        },
+        {
+          "word": "throat,",
+          "start": 15.78,
+          "end": 15.78,
+          "local_start": 2.46,
+          "local_end": 2.46
+        },
+        {
+          "word": "and",
+          "start": 16.22,
+          "end": 16.24,
+          "local_start": 2.9,
+          "local_end": 2.92
+        },
+        {
+          "word": "this",
+          "start": 16.24,
+          "end": 16.44,
+          "local_start": 2.92,
+          "local_end": 3.12
+        },
+        {
+          "word": "is",
+          "start": 16.44,
+          "end": 16.54,
+          "local_start": 3.12,
+          "local_end": 3.22
+        },
+        {
+          "word": "a",
+          "start": 16.54,
+          "end": 16.72,
+          "local_start": 3.22,
+          "local_end": 3.4
+        },
+        {
+          "word": "non-drowsy",
+          "start": 16.72,
+          "end": 17.5,
+          "local_start": 3.4,
+          "local_end": 4.18
+        },
+        {
+          "word": "decongestant",
+          "start": 17.5,
+          "end": 18.2,
+          "local_start": 4.18,
+          "local_end": 4.88
+        },
+        {
+          "word": "for",
+          "start": 18.2,
+          "end": 18.34,
+          "local_start": 4.88,
+          "local_end": 5.02
+        },
+        {
+          "word": "the",
+          "start": 18.34,
+          "end": 18.54,
+          "local_start": 5.02,
+          "local_end": 5.22
+        },
+        {
+          "word": "congestion.",
+          "start": 18.54,
+          "end": 18.82,
+          "local_start": 5.22,
+          "local_end": 5.5
+        },
+        {
+          "word": "Take",
+          "start": 19.84,
+          "end": 19.88,
+          "local_start": 6.52,
+          "local_end": 6.56
+        },
+        {
+          "word": "one",
+          "start": 19.88,
+          "end": 20.2,
+          "local_start": 6.56,
+          "local_end": 6.88
+        },
+        {
+          "word": "tablet",
+          "start": 20.2,
+          "end": 20.5,
+          "local_start": 6.88,
+          "local_end": 7.18
+        },
+        {
+          "word": "every",
+          "start": 20.5,
+          "end": 20.96,
+          "local_start": 7.18,
+          "local_end": 7.64
+        },
+        {
+          "word": "six",
+          "start": 20.96,
+          "end": 21.24,
+          "local_start": 7.64,
+          "local_end": 7.92
+        },
+        {
+          "word": "hours",
+          "start": 21.24,
+          "end": 21.44,
+          "local_start": 7.92,
+          "local_end": 8.12
+        },
+        {
+          "word": "with",
+          "start": 21.44,
+          "end": 21.7,
+          "local_start": 8.12,
+          "local_end": 8.38
+        },
+        {
+          "word": "water.",
+          "start": 21.7,
+          "end": 21.84,
+          "local_start": 8.38,
+          "local_end": 8.52
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "file": "05.mp3",
+      "text": "Great. Do I need a prescription for either of them?",
+      "audio_sha256": "e17160e80899d2eee3f8202cd16085c8d207756aa4be207fec68aa1eed06d392",
+      "start": 22.128,
+      "end": 25.176,
+      "duration": 3.048,
+      "words": [
+        {
+          "word": "Great.",
+          "start": 22.128,
+          "end": 22.708,
+          "local_start": 0.0,
+          "local_end": 0.58
+        },
+        {
+          "word": "Do",
+          "start": 23.108,
+          "end": 23.368,
+          "local_start": 0.98,
+          "local_end": 1.24
+        },
+        {
+          "word": "I",
+          "start": 23.368,
+          "end": 23.508,
+          "local_start": 1.24,
+          "local_end": 1.38
+        },
+        {
+          "word": "need",
+          "start": 23.508,
+          "end": 23.628,
+          "local_start": 1.38,
+          "local_end": 1.5
+        },
+        {
+          "word": "a",
+          "start": 23.628,
+          "end": 23.888,
+          "local_start": 1.5,
+          "local_end": 1.76
+        },
+        {
+          "word": "prescription",
+          "start": 23.888,
+          "end": 24.108,
+          "local_start": 1.76,
+          "local_end": 1.98
+        },
+        {
+          "word": "for",
+          "start": 24.108,
+          "end": 24.488,
+          "local_start": 1.98,
+          "local_end": 2.36
+        },
+        {
+          "word": "either",
+          "start": 24.488,
+          "end": 24.708,
+          "local_start": 2.36,
+          "local_end": 2.58
+        },
+        {
+          "word": "of",
+          "start": 24.708,
+          "end": 24.888,
+          "local_start": 2.58,
+          "local_end": 2.76
+        },
+        {
+          "word": "them?",
+          "start": 24.888,
+          "end": 24.968,
+          "local_start": 2.76,
+          "local_end": 2.84
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "file": "06.mp3",
+      "text": "No, they're both available over the counter. Anything else?",
+      "audio_sha256": "7128750115ebefd52488d79adeaa1f20ce0a9f4bf1084e1201f690091d7189db",
+      "start": 25.176,
+      "end": 28.776,
+      "duration": 3.6,
+      "words": [
+        {
+          "word": "No,",
+          "start": 25.176,
+          "end": 25.516,
+          "local_start": 0.0,
+          "local_end": 0.34
+        },
+        {
+          "word": "they're",
+          "start": 25.776,
+          "end": 25.956,
+          "local_start": 0.6,
+          "local_end": 0.78
+        },
+        {
+          "word": "both",
+          "start": 25.956,
+          "end": 26.256,
+          "local_start": 0.78,
+          "local_end": 1.08
+        },
+        {
+          "word": "available",
+          "start": 26.256,
+          "end": 26.536,
+          "local_start": 1.08,
+          "local_end": 1.36
+        },
+        {
+          "word": "over",
+          "start": 26.536,
+          "end": 26.796,
+          "local_start": 1.36,
+          "local_end": 1.62
+        },
+        {
+          "word": "the",
+          "start": 26.796,
+          "end": 26.956,
+          "local_start": 1.62,
+          "local_end": 1.78
+        },
+        {
+          "word": "counter.",
+          "start": 26.956,
+          "end": 27.196,
+          "local_start": 1.78,
+          "local_end": 2.02
+        },
+        {
+          "word": "Anything",
+          "start": 27.856,
+          "end": 28.056,
+          "local_start": 2.68,
+          "local_end": 2.88
+        },
+        {
+          "word": "else?",
+          "start": 28.056,
+          "end": 28.296,
+          "local_start": 2.88,
+          "local_end": 3.12
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "file": "07.mp3",
+      "text": "That's all, thanks. How much is that?",
+      "audio_sha256": "c63166c553a97f9821d3d1bb908e29d6cad4758c1cfc9c6d35d67ebb6bd94079",
+      "start": 28.776,
+      "end": 31.632,
+      "duration": 2.856,
+      "words": [
+        {
+          "word": "That's",
+          "start": 28.776,
+          "end": 29.216,
+          "local_start": 0.0,
+          "local_end": 0.44
+        },
+        {
+          "word": "all,",
+          "start": 29.216,
+          "end": 29.476,
+          "local_start": 0.44,
+          "local_end": 0.7
+        },
+        {
+          "word": "thanks.",
+          "start": 29.956,
+          "end": 30.156,
+          "local_start": 1.18,
+          "local_end": 1.38
+        },
+        {
+          "word": "How",
+          "start": 30.716,
+          "end": 30.876,
+          "local_start": 1.94,
+          "local_end": 2.1
+        },
+        {
+          "word": "much",
+          "start": 30.876,
+          "end": 31.016,
+          "local_start": 2.1,
+          "local_end": 2.24
+        },
+        {
+          "word": "is",
+          "start": 31.016,
+          "end": 31.196,
+          "local_start": 2.24,
+          "local_end": 2.42
+        },
+        {
+          "word": "that?",
+          "start": 31.196,
+          "end": 31.416,
+          "local_start": 2.42,
+          "local_end": 2.64
+        }
+      ]
+    }
+  ]
+}

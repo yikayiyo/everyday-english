@@ -1,0 +1,69 @@
+{
+  "date": "2026-10-26",
+  "slug": "dialogue-courier-delay",
+  "title_en": "Calling about a delayed package",
+  "title_zh": "打电话问快递延误",
+  "roles": [
+    "Customer",
+    "Agent"
+  ],
+  "voices": {
+    "Customer": "marin",
+    "Agent": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Customer",
+      "en": "Hi, I'm calling about a package that was supposed to arrive yesterday. My tracking number is AB123456789.",
+      "zh": ""
+    },
+    {
+      "speaker": "Agent",
+      "en": "Of course. Could you bear with me for a moment while I pull that up?",
+      "zh": ""
+    },
+    {
+      "speaker": "Customer",
+      "en": "Sure, no problem.",
+      "zh": ""
+    },
+    {
+      "speaker": "Agent",
+      "en": "Thanks for holding. It shows your order was out for delivery yesterday, but the driver couldn't leave it. I'll look into what went wrong.",
+      "zh": ""
+    },
+    {
+      "speaker": "Customer",
+      "en": "Okay. When can I expect it now?",
+      "zh": ""
+    },
+    {
+      "speaker": "Agent",
+      "en": "I'll sort this out and get back to you within the hour with a new delivery window.",
+      "zh": ""
+    }
+  ],
+  "expressions": [
+    {
+      "en": "bear with me",
+      "zh": "请稍等、耐心等我一下（常用于电话）。"
+    },
+    {
+      "en": "out for delivery",
+      "zh": "（包裹）已交由派送员、正在派送途中。"
+    },
+    {
+      "en": "look into something",
+      "zh": "调查、了解某事的原因。"
+    },
+    {
+      "en": "sort something out",
+      "zh": "把问题处理好、解决掉。"
+    },
+    {
+      "en": "get back to someone",
+      "zh": "稍后（通常打电话）再联系对方并告知信息。"
+    }
+  ],
+  "kind": "dialogue"
+}

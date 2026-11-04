@@ -1,0 +1,704 @@
+{
+  "model": "whisper-1",
+  "lesson": "dialogue-property-repair",
+  "full_track": "dialogue-full.mp3",
+  "full_duration": 33.504,
+  "lines": [
+    {
+      "index": 1,
+      "file": "01.mp3",
+      "text": "Hi, this is apartment 1203 in Building 5. My kitchen faucet has been dripping all night. Could someone come take a look?",
+      "audio_sha256": "e05d9580c8f56831e25127c027b764c443a25c07c703a4c58755dc2bce881c9d",
+      "start": 0.0,
+      "end": 7.608,
+      "duration": 7.608,
+      "words": [
+        {
+          "word": "Hi,",
+          "start": 0.0,
+          "end": 0.36,
+          "local_start": 0.0,
+          "local_end": 0.36
+        },
+        {
+          "word": "this",
+          "start": 0.48,
+          "end": 0.8,
+          "local_start": 0.48,
+          "local_end": 0.8
+        },
+        {
+          "word": "is",
+          "start": 0.8,
+          "end": 1.02,
+          "local_start": 0.8,
+          "local_end": 1.02
+        },
+        {
+          "word": "apartment",
+          "start": 1.02,
+          "end": 1.3,
+          "local_start": 1.02,
+          "local_end": 1.3
+        },
+        {
+          "word": "1203",
+          "start": 1.3,
+          "end": 2.08,
+          "local_start": 1.3,
+          "local_end": 2.08
+        },
+        {
+          "word": "in",
+          "start": 2.08,
+          "end": 2.4,
+          "local_start": 2.08,
+          "local_end": 2.4
+        },
+        {
+          "word": "Building",
+          "start": 2.4,
+          "end": 2.62,
+          "local_start": 2.4,
+          "local_end": 2.62
+        },
+        {
+          "word": "5.",
+          "start": 2.62,
+          "end": 3.0,
+          "local_start": 2.62,
+          "local_end": 3.0
+        },
+        {
+          "word": "My",
+          "start": 3.32,
+          "end": 3.44,
+          "local_start": 3.32,
+          "local_end": 3.44
+        },
+        {
+          "word": "kitchen",
+          "start": 3.44,
+          "end": 3.7,
+          "local_start": 3.44,
+          "local_end": 3.7
+        },
+        {
+          "word": "faucet",
+          "start": 3.7,
+          "end": 4.08,
+          "local_start": 3.7,
+          "local_end": 4.08
+        },
+        {
+          "word": "has",
+          "start": 4.08,
+          "end": 4.28,
+          "local_start": 4.08,
+          "local_end": 4.28
+        },
+        {
+          "word": "been",
+          "start": 4.28,
+          "end": 4.44,
+          "local_start": 4.28,
+          "local_end": 4.44
+        },
+        {
+          "word": "dripping",
+          "start": 4.44,
+          "end": 4.66,
+          "local_start": 4.44,
+          "local_end": 4.66
+        },
+        {
+          "word": "all",
+          "start": 4.66,
+          "end": 5.06,
+          "local_start": 4.66,
+          "local_end": 5.06
+        },
+        {
+          "word": "night.",
+          "start": 5.06,
+          "end": 5.32,
+          "local_start": 5.06,
+          "local_end": 5.32
+        },
+        {
+          "word": "Could",
+          "start": 6.02,
+          "end": 6.14,
+          "local_start": 6.02,
+          "local_end": 6.14
+        },
+        {
+          "word": "someone",
+          "start": 6.14,
+          "end": 6.48,
+          "local_start": 6.14,
+          "local_end": 6.48
+        },
+        {
+          "word": "come",
+          "start": 6.48,
+          "end": 6.76,
+          "local_start": 6.48,
+          "local_end": 6.76
+        },
+        {
+          "word": "take",
+          "start": 6.76,
+          "end": 6.94,
+          "local_start": 6.76,
+          "local_end": 6.94
+        },
+        {
+          "word": "a",
+          "start": 6.94,
+          "end": 7.22,
+          "local_start": 6.94,
+          "local_end": 7.22
+        },
+        {
+          "word": "look?",
+          "start": 7.22,
+          "end": 7.24,
+          "local_start": 7.22,
+          "local_end": 7.24
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "file": "02.mp3",
+      "text": "Of course. May I have your name and a callback number?",
+      "audio_sha256": "85e597086a7063ff1b2bf31bd5f739b71fd197222a3c631db9596583a20643cb",
+      "start": 7.608,
+      "end": 11.016,
+      "duration": 3.408,
+      "words": [
+        {
+          "word": "Of",
+          "start": 8.148,
+          "end": 8.548,
+          "local_start": 0.54,
+          "local_end": 0.94
+        },
+        {
+          "word": "course.",
+          "start": 8.548,
+          "end": 8.708,
+          "local_start": 0.94,
+          "local_end": 1.1
+        },
+        {
+          "word": "May",
+          "start": 8.908,
+          "end": 9.028,
+          "local_start": 1.3,
+          "local_end": 1.42
+        },
+        {
+          "word": "I",
+          "start": 9.028,
+          "end": 9.168,
+          "local_start": 1.42,
+          "local_end": 1.56
+        },
+        {
+          "word": "have",
+          "start": 9.168,
+          "end": 9.308,
+          "local_start": 1.56,
+          "local_end": 1.7
+        },
+        {
+          "word": "your",
+          "start": 9.308,
+          "end": 9.468,
+          "local_start": 1.7,
+          "local_end": 1.86
+        },
+        {
+          "word": "name",
+          "start": 9.468,
+          "end": 9.768,
+          "local_start": 1.86,
+          "local_end": 2.16
+        },
+        {
+          "word": "and",
+          "start": 9.768,
+          "end": 10.108,
+          "local_start": 2.16,
+          "local_end": 2.5
+        },
+        {
+          "word": "a",
+          "start": 10.108,
+          "end": 10.348,
+          "local_start": 2.5,
+          "local_end": 2.74
+        },
+        {
+          "word": "callback",
+          "start": 10.348,
+          "end": 10.568,
+          "local_start": 2.74,
+          "local_end": 2.96
+        },
+        {
+          "word": "number?",
+          "start": 10.568,
+          "end": 10.748,
+          "local_start": 2.96,
+          "local_end": 3.14
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "file": "03.mp3",
+      "text": "Sure — Li Wei, and my number is 138-0000-1234. What's the earliest slot you have?",
+      "audio_sha256": "74736230543fcc62e977c7bfd681c11e3c712ac987502af253aabcefecfc55cd",
+      "start": 11.016,
+      "end": 19.584,
+      "duration": 8.568,
+      "words": [
+        {
+          "word": "Sure",
+          "start": 11.016,
+          "end": 11.476,
+          "local_start": 0.0,
+          "local_end": 0.46
+        },
+        {
+          "word": "—",
+          "start": 11.476,
+          "end": 12.036,
+          "local_start": 0.46,
+          "local_end": 1.02
+        },
+        {
+          "word": "Li",
+          "start": 12.036,
+          "end": 12.156,
+          "local_start": 1.02,
+          "local_end": 1.14
+        },
+        {
+          "word": "Wei,",
+          "start": 12.156,
+          "end": 12.296,
+          "local_start": 1.14,
+          "local_end": 1.28
+        },
+        {
+          "word": "and",
+          "start": 12.976,
+          "end": 13.016,
+          "local_start": 1.96,
+          "local_end": 2.0
+        },
+        {
+          "word": "my",
+          "start": 13.016,
+          "end": 13.316,
+          "local_start": 2.0,
+          "local_end": 2.3
+        },
+        {
+          "word": "number",
+          "start": 13.316,
+          "end": 13.436,
+          "local_start": 2.3,
+          "local_end": 2.42
+        },
+        {
+          "word": "is",
+          "start": 13.436,
+          "end": 13.676,
+          "local_start": 2.42,
+          "local_end": 2.66
+        },
+        {
+          "word": "138-0000-1234.",
+          "start": 13.676,
+          "end": 17.936,
+          "local_start": 2.66,
+          "local_end": 6.92
+        },
+        {
+          "word": "What's",
+          "start": 17.936,
+          "end": 18.116,
+          "local_start": 6.92,
+          "local_end": 7.1
+        },
+        {
+          "word": "the",
+          "start": 18.116,
+          "end": 18.276,
+          "local_start": 7.1,
+          "local_end": 7.26
+        },
+        {
+          "word": "earliest",
+          "start": 18.276,
+          "end": 18.536,
+          "local_start": 7.26,
+          "local_end": 7.52
+        },
+        {
+          "word": "slot",
+          "start": 18.536,
+          "end": 18.756,
+          "local_start": 7.52,
+          "local_end": 7.74
+        },
+        {
+          "word": "you",
+          "start": 18.756,
+          "end": 18.876,
+          "local_start": 7.74,
+          "local_end": 7.86
+        },
+        {
+          "word": "have?",
+          "start": 18.876,
+          "end": 19.196,
+          "local_start": 7.86,
+          "local_end": 8.18
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "file": "04.mp3",
+      "text": "We can send a maintenance worker this afternoon around three. Does that work for you?",
+      "audio_sha256": "3940f7533b7a907c313e9485525177d59b832946472d068d857ab40dfe78d675",
+      "start": 19.584,
+      "end": 24.24,
+      "duration": 4.656,
+      "words": [
+        {
+          "word": "We",
+          "start": 19.584,
+          "end": 20.164,
+          "local_start": 0.0,
+          "local_end": 0.58
+        },
+        {
+          "word": "can",
+          "start": 20.164,
+          "end": 20.384,
+          "local_start": 0.58,
+          "local_end": 0.8
+        },
+        {
+          "word": "send",
+          "start": 20.384,
+          "end": 20.504,
+          "local_start": 0.8,
+          "local_end": 0.92
+        },
+        {
+          "word": "a",
+          "start": 20.504,
+          "end": 20.664,
+          "local_start": 0.92,
+          "local_end": 1.08
+        },
+        {
+          "word": "maintenance",
+          "start": 20.664,
+          "end": 20.924,
+          "local_start": 1.08,
+          "local_end": 1.34
+        },
+        {
+          "word": "worker",
+          "start": 20.924,
+          "end": 21.204,
+          "local_start": 1.34,
+          "local_end": 1.62
+        },
+        {
+          "word": "this",
+          "start": 21.204,
+          "end": 21.464,
+          "local_start": 1.62,
+          "local_end": 1.88
+        },
+        {
+          "word": "afternoon",
+          "start": 21.464,
+          "end": 21.844,
+          "local_start": 1.88,
+          "local_end": 2.26
+        },
+        {
+          "word": "around",
+          "start": 21.844,
+          "end": 22.164,
+          "local_start": 2.26,
+          "local_end": 2.58
+        },
+        {
+          "word": "three.",
+          "start": 22.164,
+          "end": 22.504,
+          "local_start": 2.58,
+          "local_end": 2.92
+        },
+        {
+          "word": "Does",
+          "start": 23.144,
+          "end": 23.264,
+          "local_start": 3.56,
+          "local_end": 3.68
+        },
+        {
+          "word": "that",
+          "start": 23.264,
+          "end": 23.484,
+          "local_start": 3.68,
+          "local_end": 3.9
+        },
+        {
+          "word": "work",
+          "start": 23.484,
+          "end": 23.624,
+          "local_start": 3.9,
+          "local_end": 4.04
+        },
+        {
+          "word": "for",
+          "start": 23.624,
+          "end": 23.804,
+          "local_start": 4.04,
+          "local_end": 4.22
+        },
+        {
+          "word": "you?",
+          "start": 23.804,
+          "end": 23.944,
+          "local_start": 4.22,
+          "local_end": 4.36
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "file": "05.mp3",
+      "text": "Three works. Will they call before they come, or should I leave the door unlocked?",
+      "audio_sha256": "0cd831cf3a5d55cd28c7c483efd22e9b5337889f831776daef0c75dd82d3f2ea",
+      "start": 24.24,
+      "end": 29.64,
+      "duration": 5.4,
+      "words": [
+        {
+          "word": "Three",
+          "start": 24.24,
+          "end": 24.56,
+          "local_start": 0.0,
+          "local_end": 0.32
+        },
+        {
+          "word": "works.",
+          "start": 24.56,
+          "end": 25.08,
+          "local_start": 0.32,
+          "local_end": 0.84
+        },
+        {
+          "word": "Will",
+          "start": 25.7,
+          "end": 25.78,
+          "local_start": 1.46,
+          "local_end": 1.54
+        },
+        {
+          "word": "they",
+          "start": 25.78,
+          "end": 26.0,
+          "local_start": 1.54,
+          "local_end": 1.76
+        },
+        {
+          "word": "call",
+          "start": 26.0,
+          "end": 26.16,
+          "local_start": 1.76,
+          "local_end": 1.92
+        },
+        {
+          "word": "before",
+          "start": 26.16,
+          "end": 26.4,
+          "local_start": 1.92,
+          "local_end": 2.16
+        },
+        {
+          "word": "they",
+          "start": 26.4,
+          "end": 26.64,
+          "local_start": 2.16,
+          "local_end": 2.4
+        },
+        {
+          "word": "come,",
+          "start": 26.64,
+          "end": 26.86,
+          "local_start": 2.4,
+          "local_end": 2.62
+        },
+        {
+          "word": "or",
+          "start": 27.22,
+          "end": 27.46,
+          "local_start": 2.98,
+          "local_end": 3.22
+        },
+        {
+          "word": "should",
+          "start": 27.46,
+          "end": 27.62,
+          "local_start": 3.22,
+          "local_end": 3.38
+        },
+        {
+          "word": "I",
+          "start": 27.62,
+          "end": 27.84,
+          "local_start": 3.38,
+          "local_end": 3.6
+        },
+        {
+          "word": "leave",
+          "start": 27.84,
+          "end": 27.92,
+          "local_start": 3.6,
+          "local_end": 3.68
+        },
+        {
+          "word": "the",
+          "start": 27.92,
+          "end": 28.38,
+          "local_start": 3.68,
+          "local_end": 4.14
+        },
+        {
+          "word": "door",
+          "start": 28.38,
+          "end": 28.38,
+          "local_start": 4.14,
+          "local_end": 4.14
+        },
+        {
+          "word": "unlocked?",
+          "start": 28.38,
+          "end": 28.78,
+          "local_start": 4.14,
+          "local_end": 4.54
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "file": "06.mp3",
+      "text": "We'll call about fifteen minutes ahead. Please make sure someone is home.",
+      "audio_sha256": "1737ab0a9bdb0c45f5257c94be843c5e43e538a33a82aab727e0c0bcdefd43bc",
+      "start": 29.64,
+      "end": 33.504,
+      "duration": 3.864,
+      "words": [
+        {
+          "word": "We'll",
+          "start": 29.64,
+          "end": 29.98,
+          "local_start": 0.0,
+          "local_end": 0.34
+        },
+        {
+          "word": "call",
+          "start": 29.98,
+          "end": 30.26,
+          "local_start": 0.34,
+          "local_end": 0.62
+        },
+        {
+          "word": "about",
+          "start": 30.26,
+          "end": 30.58,
+          "local_start": 0.62,
+          "local_end": 0.94
+        },
+        {
+          "word": "fifteen",
+          "start": 30.58,
+          "end": 30.94,
+          "local_start": 0.94,
+          "local_end": 1.3
+        },
+        {
+          "word": "minutes",
+          "start": 30.94,
+          "end": 31.2,
+          "local_start": 1.3,
+          "local_end": 1.56
+        },
+        {
+          "word": "ahead.",
+          "start": 31.2,
+          "end": 31.44,
+          "local_start": 1.56,
+          "local_end": 1.8
+        },
+        {
+          "word": "Please",
+          "start": 32.2,
+          "end": 32.24,
+          "local_start": 2.56,
+          "local_end": 2.6
+        },
+        {
+          "word": "make",
+          "start": 32.24,
+          "end": 32.44,
+          "local_start": 2.6,
+          "local_end": 2.8
+        },
+        {
+          "word": "sure",
+          "start": 32.44,
+          "end": 32.6,
+          "local_start": 2.8,
+          "local_end": 2.96
+        },
+        {
+          "word": "someone",
+          "start": 32.6,
+          "end": 32.84,
+          "local_start": 2.96,
+          "local_end": 3.2
+        },
+        {
+          "word": "is",
+          "start": 32.84,
+          "end": 33.06,
+          "local_start": 3.2,
+          "local_end": 3.42
+        },
+        {
+          "word": "home.",
+          "start": 33.06,
+          "end": 33.14,
+          "local_start": 3.42,
+          "local_end": 3.5
+        }
+      ]
+    }
+  ]
+}

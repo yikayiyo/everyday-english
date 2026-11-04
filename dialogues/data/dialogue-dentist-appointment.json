@@ -1,0 +1,70 @@
+{
+  "date": "2026-10-30",
+  "slug": "dialogue-dentist-appointment",
+  "title_en": "Booking a dental checkup",
+  "title_zh": "打电话预约牙医检查",
+  "roles": [
+    "Receptionist",
+    "You"
+  ],
+  "voices": {
+    "Receptionist": "marin",
+    "You": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Receptionist",
+      "en": "Good afternoon, Bright Smile Dental. How can I help you?",
+      "zh": ""
+    },
+    {
+      "speaker": "You",
+      "en": "Hi, I'd like to make an appointment for a checkup, please. I've had a toothache for a few days.",
+      "zh": ""
+    },
+    {
+      "speaker": "Receptionist",
+      "en": "Of course. Are you an existing patient with us?",
+      "zh": ""
+    },
+    {
+      "speaker": "You",
+      "en": "Yes — Alex Chen. I last came in about a year ago.",
+      "zh": ""
+    },
+    {
+      "speaker": "Receptionist",
+      "en": "Thanks. We're pretty booked up this week, but I have Thursday at 3:30 or Friday at 10. Which works for you?",
+      "zh": ""
+    },
+    {
+      "speaker": "You",
+      "en": "Thursday at 3:30 works for me. Do I need to bring anything?",
+      "zh": ""
+    },
+    {
+      "speaker": "Receptionist",
+      "en": "Just your ID and insurance card if you have one. We'll see you then.",
+      "zh": ""
+    }
+  ],
+  "expressions": [
+    {
+      "en": "make an appointment",
+      "zh": "预约（看病、会面等）。剑桥例句：*I'd like to make an appointment with Dr. Evans, please.*"
+    },
+    {
+      "en": "toothache",
+      "zh": "牙痛。剑桥常见说法：*I have terrible toothache.*"
+    },
+    {
+      "en": "booked up",
+      "zh": "已约满 / 没空档（活动、航班、诊所时段等）。"
+    },
+    {
+      "en": "works for me",
+      "zh": "（某个时间或安排）对我合适 / 行得通。"
+    }
+  ],
+  "kind": "dialogue"
+}

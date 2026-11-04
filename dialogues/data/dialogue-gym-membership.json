@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-25",
+  "slug": "dialogue-gym-membership",
+  "title_en": "Asking about a gym membership",
+  "title_zh": "健身房咨询办会员",
+  "roles": [
+    "Staff",
+    "You"
+  ],
+  "voices": {
+    "Staff": "marin",
+    "You": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Staff",
+      "en": "Hi there. Can I help you?",
+      "zh": ""
+    },
+    {
+      "speaker": "You",
+      "en": "Hi. I'm interested in joining — do you offer a free trial?",
+      "zh": ""
+    },
+    {
+      "speaker": "Staff",
+      "en": "We do. If you sign up today, you get a seven-day free trial with full access to the gym floor and group classes.",
+      "zh": ""
+    },
+    {
+      "speaker": "You",
+      "en": "That sounds good. Could you walk me through the membership options after the trial?",
+      "zh": ""
+    },
+    {
+      "speaker": "Staff",
+      "en": "Sure. After the trial, memberships are month-to-month. There's no long-term commitment.",
+      "zh": ""
+    },
+    {
+      "speaker": "You",
+      "en": "And can I cancel if it isn't a good fit?",
+      "zh": ""
+    },
+    {
+      "speaker": "Staff",
+      "en": "Yes. Just give us 14 days' notice and we'll cancel it for you.",
+      "zh": ""
+    }
+  ],
+  "expressions": [
+    {
+      "en": "sign up",
+      "zh": "报名、注册参加某个活动或组织。"
+    },
+    {
+      "en": "free trial",
+      "zh": "免费试用一段时间。"
+    },
+    {
+      "en": "walk someone through (something)",
+      "zh": "耐心地一步步讲解或演示怎么做。"
+    },
+    {
+      "en": "month-to-month",
+      "zh": "按月续约，没有很长的固定合同期。"
+    },
+    {
+      "en": "(a) good fit",
+      "zh": "很合适、匹配度高；取消时说 *give … days' notice*（提前若干天正式通知）。"
+    }
+  ],
+  "kind": "dialogue"
+}

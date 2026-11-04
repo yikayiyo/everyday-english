@@ -1,0 +1,70 @@
+{
+  "model": "gpt-realtime-2.1-mini",
+  "instructions": "Speak in natural American English with clear pronunciation and conversational rhythm.",
+  "verification": "解码、请求关联及模型转写已检查；内容需逐句试听",
+  "lines": [
+    {
+      "index": 1,
+      "speaker": "Receptionist",
+      "voice": "marin",
+      "text_sha256": "3a4d0ba0eeffe2c7248507ba2f058616f836a2e767e4f4240b4185da6ffcf994",
+      "audio_sha256": "85210b07682fa48c348c9f1af8f0f54d7125933f15ed3088a25193be47dc0e06",
+      "file": "audio/01.mp3",
+      "transcript_check": "matched"
+    },
+    {
+      "index": 2,
+      "speaker": "You",
+      "voice": "cedar",
+      "text_sha256": "7f1c61bcc1c0b17487835fe3e4aeddaeb060d1e65d51e967d6bd6da3d775ee24",
+      "audio_sha256": "096eda39239b3c875450b7cf94dc33f6825a38d1e1268f2100becc4dcb8cdb51",
+      "file": "audio/02.mp3",
+      "transcript_check": "matched"
+    },
+    {
+      "index": 3,
+      "speaker": "Receptionist",
+      "voice": "marin",
+      "text_sha256": "38423f0cf105d0d01d44be2c50dedc11686491a57788943b3ebcd17b793c6b0d",
+      "audio_sha256": "10309c54177fffb57bb058dbf55bda309eb26690ce4d763840424dff24a9513b",
+      "file": "audio/03.mp3",
+      "transcript_check": "matched"
+    },
+    {
+      "index": 4,
+      "speaker": "You",
+      "voice": "cedar",
+      "text_sha256": "20544e25ddeb700e31e6d99fd39ea397865bbb69b87fe492e3406ace45fa8ff1",
+      "audio_sha256": "b24a75ae42236fa606ed99d6d3018096d3aa2cc0c419a0b3241c71394b2e14b3",
+      "file": "audio/04.mp3",
+      "transcript_check": "matched"
+    },
+    {
+      "index": 5,
+      "speaker": "Receptionist",
+      "voice": "marin",
+      "text_sha256": "679f2371286f75bef64f340f85591b6e2cb2fb1309c613dd54d7f927d9384482",
+      "audio_sha256": "7083071fc2504d2f8c0a6486bfc0a5b8b6852c844e0a44546fa02dba369e5357",
+      "file": "audio/05.mp3",
+      "transcript_check": "matched"
+    },
+    {
+      "index": 6,
+      "speaker": "You",
+      "voice": "cedar",
+      "text_sha256": "3a1ee3ac5601779757f95965e0aaf8dd1c29c9933d821d1a55f998cd745fed31",
+      "audio_sha256": "09d848c231d2ac1811d6b843c6d6007285ce9eab63fb177f1f0b20688a8f8403",
+      "file": "audio/06.mp3",
+      "transcript_check": "matched"
+    },
+    {
+      "index": 7,
+      "speaker": "Receptionist",
+      "voice": "marin",
+      "text_sha256": "ac7259dd7f8412fe99524902fb23b0a087b0f6777b3b7d6d008b93414b514a8d",
+      "audio_sha256": "a80290afd117cf76bf094057d0036dbb5fe5b6c8438d5b3d9d7b154e0937975e",
+      "file": "audio/07.mp3",
+      "transcript_check": "matched"
+    }
+  ]
+}
