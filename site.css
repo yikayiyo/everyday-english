@@ -632,9 +632,23 @@ audio[hidden] { display: none; }
 .course-filters [aria-pressed="true"] { background: var(--ink); color: var(--surface); }
 #speaking { scroll-margin-top: 150px; }
 .writing { max-width: 900px; padding-top: 32px; }
-.writing .prose { max-width: none; }
-.writing-section { background: var(--surface); padding: 20px; margin-bottom: 20px; border-radius: var(--radius-md); box-shadow: var(--shadow-tight); }
-.writing-section h2 { margin-top: 0; font-family: inherit; font-size: 21px; }
+.writing .prose {
+  max-width: none;
+  font-size: 16px;
+  line-height: 1.6;
+}
+.writing-section {
+  background: var(--surface);
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-tight);
+  font-size: 16px;
+  line-height: 1.6;
+}
+.writing-section h2 { margin-top: 0; font-family: inherit; font-size: 21px; line-height: 1.35; }
+.writing-section p,
+.writing-section li { font-size: 16px; line-height: 1.6; }
 .writing-section li { margin-bottom: 8px; }
 .writing-badge { background: #e3edf4; color: #3e6079; display: inline-block; }
 .writing-pagination { display: flex; justify-content: space-between; gap: 20px; margin: 28px 0; }
