@@ -1,0 +1,1169 @@
+{
+  "model": "whisper-1",
+  "lesson": "bike-share",
+  "full_track": "full-dialogue.mp3",
+  "full_duration": 44.088,
+  "lines": [
+    {
+      "index": 1,
+      "file": "01.mp3",
+      "text": "Hey, can you show me how to rent one of these shared bikes?",
+      "audio_sha256": "6853213233849467880ddef2dd465489975099c98f7ec0a09e224497121f72cd",
+      "start": 0.0,
+      "end": 3.12,
+      "duration": 3.12,
+      "words": [
+        {
+          "word": "Hey,",
+          "start": 0.0,
+          "end": 0.38,
+          "local_start": 0.0,
+          "local_end": 0.38
+        },
+        {
+          "word": "can",
+          "start": 0.54,
+          "end": 0.84,
+          "local_start": 0.54,
+          "local_end": 0.84
+        },
+        {
+          "word": "you",
+          "start": 0.84,
+          "end": 1.04,
+          "local_start": 0.84,
+          "local_end": 1.04
+        },
+        {
+          "word": "show",
+          "start": 1.04,
+          "end": 1.16,
+          "local_start": 1.04,
+          "local_end": 1.16
+        },
+        {
+          "word": "me",
+          "start": 1.16,
+          "end": 1.3,
+          "local_start": 1.16,
+          "local_end": 1.3
+        },
+        {
+          "word": "how",
+          "start": 1.3,
+          "end": 1.38,
+          "local_start": 1.3,
+          "local_end": 1.38
+        },
+        {
+          "word": "to",
+          "start": 1.38,
+          "end": 1.7,
+          "local_start": 1.38,
+          "local_end": 1.7
+        },
+        {
+          "word": "rent",
+          "start": 1.7,
+          "end": 1.7,
+          "local_start": 1.7,
+          "local_end": 1.7
+        },
+        {
+          "word": "one",
+          "start": 1.7,
+          "end": 1.84,
+          "local_start": 1.7,
+          "local_end": 1.84
+        },
+        {
+          "word": "of",
+          "start": 1.84,
+          "end": 1.94,
+          "local_start": 1.84,
+          "local_end": 1.94
+        },
+        {
+          "word": "these",
+          "start": 1.94,
+          "end": 2.12,
+          "local_start": 1.94,
+          "local_end": 2.12
+        },
+        {
+          "word": "shared",
+          "start": 2.12,
+          "end": 2.38,
+          "local_start": 2.12,
+          "local_end": 2.38
+        },
+        {
+          "word": "bikes?",
+          "start": 2.38,
+          "end": 2.6,
+          "local_start": 2.38,
+          "local_end": 2.6
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "file": "02.mp3",
+      "text": "Sure. Open the app, then scan the QR code on the handlebar.",
+      "audio_sha256": "bceff75fc425630ec5c2362d1b9fe92b5abf28b1ec7d599a88e9060b8b9c66da",
+      "start": 3.12,
+      "end": 7.176,
+      "duration": 4.056,
+      "words": [
+        {
+          "word": "Sure.",
+          "start": 3.12,
+          "end": 3.54,
+          "local_start": 0.0,
+          "local_end": 0.42
+        },
+        {
+          "word": "Open",
+          "start": 4.08,
+          "end": 4.28,
+          "local_start": 0.96,
+          "local_end": 1.16
+        },
+        {
+          "word": "the",
+          "start": 4.28,
+          "end": 4.6,
+          "local_start": 1.16,
+          "local_end": 1.48
+        },
+        {
+          "word": "app,",
+          "start": 4.6,
+          "end": 4.64,
+          "local_start": 1.48,
+          "local_end": 1.52
+        },
+        {
+          "word": "then",
+          "start": 5.12,
+          "end": 5.38,
+          "local_start": 2.0,
+          "local_end": 2.26
+        },
+        {
+          "word": "scan",
+          "start": 5.38,
+          "end": 5.58,
+          "local_start": 2.26,
+          "local_end": 2.46
+        },
+        {
+          "word": "the",
+          "start": 5.58,
+          "end": 5.78,
+          "local_start": 2.46,
+          "local_end": 2.66
+        },
+        {
+          "word": "QR",
+          "start": 5.78,
+          "end": 6.0,
+          "local_start": 2.66,
+          "local_end": 2.88
+        },
+        {
+          "word": "code",
+          "start": 6.0,
+          "end": 6.28,
+          "local_start": 2.88,
+          "local_end": 3.16
+        },
+        {
+          "word": "on",
+          "start": 6.28,
+          "end": 6.44,
+          "local_start": 3.16,
+          "local_end": 3.32
+        },
+        {
+          "word": "the",
+          "start": 6.44,
+          "end": 6.58,
+          "local_start": 3.32,
+          "local_end": 3.46
+        },
+        {
+          "word": "handlebar.",
+          "start": 6.58,
+          "end": 6.96,
+          "local_start": 3.46,
+          "local_end": 3.84
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "file": "03.mp3",
+      "text": "Got it. Do I need to unlock anything else after scanning?",
+      "audio_sha256": "c6b04f9aebaf6495668d6b05586d55a7895058ab36ffa727f3636a6dd6cfc086",
+      "start": 7.176,
+      "end": 10.128,
+      "duration": 2.952,
+      "words": [
+        {
+          "word": "Got",
+          "start": 7.176,
+          "end": 7.436,
+          "local_start": 0.0,
+          "local_end": 0.26
+        },
+        {
+          "word": "it.",
+          "start": 7.436,
+          "end": 7.896,
+          "local_start": 0.26,
+          "local_end": 0.72
+        },
+        {
+          "word": "Do",
+          "start": 8.076,
+          "end": 8.136,
+          "local_start": 0.9,
+          "local_end": 0.96
+        },
+        {
+          "word": "I",
+          "start": 8.136,
+          "end": 8.316,
+          "local_start": 0.96,
+          "local_end": 1.14
+        },
+        {
+          "word": "need",
+          "start": 8.316,
+          "end": 8.416,
+          "local_start": 1.14,
+          "local_end": 1.24
+        },
+        {
+          "word": "to",
+          "start": 8.416,
+          "end": 8.856,
+          "local_start": 1.24,
+          "local_end": 1.68
+        },
+        {
+          "word": "unlock",
+          "start": 8.856,
+          "end": 8.856,
+          "local_start": 1.68,
+          "local_end": 1.68
+        },
+        {
+          "word": "anything",
+          "start": 8.856,
+          "end": 9.156,
+          "local_start": 1.68,
+          "local_end": 1.98
+        },
+        {
+          "word": "else",
+          "start": 9.156,
+          "end": 9.496,
+          "local_start": 1.98,
+          "local_end": 2.32
+        },
+        {
+          "word": "after",
+          "start": 9.496,
+          "end": 9.696,
+          "local_start": 2.32,
+          "local_end": 2.52
+        },
+        {
+          "word": "scanning?",
+          "start": 9.696,
+          "end": 9.956,
+          "local_start": 2.52,
+          "local_end": 2.78
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "file": "04.mp3",
+      "text": "The lock opens automatically. Just wait for the green light and pull the bike out.",
+      "audio_sha256": "b1503c4a99c52386d3f9244070605e39d611625f22860e61519a5931d82d9b5f",
+      "start": 10.128,
+      "end": 14.376,
+      "duration": 4.248,
+      "words": [
+        {
+          "word": "The",
+          "start": 10.128,
+          "end": 10.368,
+          "local_start": 0.0,
+          "local_end": 0.24
+        },
+        {
+          "word": "lock",
+          "start": 10.368,
+          "end": 10.548,
+          "local_start": 0.24,
+          "local_end": 0.42
+        },
+        {
+          "word": "opens",
+          "start": 10.548,
+          "end": 10.888,
+          "local_start": 0.42,
+          "local_end": 0.76
+        },
+        {
+          "word": "automatically.",
+          "start": 10.888,
+          "end": 11.448,
+          "local_start": 0.76,
+          "local_end": 1.32
+        },
+        {
+          "word": "Just",
+          "start": 12.108,
+          "end": 12.308,
+          "local_start": 1.98,
+          "local_end": 2.18
+        },
+        {
+          "word": "wait",
+          "start": 12.308,
+          "end": 12.508,
+          "local_start": 2.18,
+          "local_end": 2.38
+        },
+        {
+          "word": "for",
+          "start": 12.508,
+          "end": 12.648,
+          "local_start": 2.38,
+          "local_end": 2.52
+        },
+        {
+          "word": "the",
+          "start": 12.648,
+          "end": 12.768,
+          "local_start": 2.52,
+          "local_end": 2.64
+        },
+        {
+          "word": "green",
+          "start": 12.768,
+          "end": 12.948,
+          "local_start": 2.64,
+          "local_end": 2.82
+        },
+        {
+          "word": "light",
+          "start": 12.948,
+          "end": 13.148,
+          "local_start": 2.82,
+          "local_end": 3.02
+        },
+        {
+          "word": "and",
+          "start": 13.148,
+          "end": 13.548,
+          "local_start": 3.02,
+          "local_end": 3.42
+        },
+        {
+          "word": "pull",
+          "start": 13.548,
+          "end": 13.668,
+          "local_start": 3.42,
+          "local_end": 3.54
+        },
+        {
+          "word": "the",
+          "start": 13.668,
+          "end": 13.848,
+          "local_start": 3.54,
+          "local_end": 3.72
+        },
+        {
+          "word": "bike",
+          "start": 13.848,
+          "end": 13.928,
+          "local_start": 3.72,
+          "local_end": 3.8
+        },
+        {
+          "word": "out.",
+          "start": 13.928,
+          "end": 14.148,
+          "local_start": 3.8,
+          "local_end": 4.02
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "file": "05.mp3",
+      "text": "Nice. How much does it usually cost for a short ride?",
+      "audio_sha256": "902592127400651729ee94be290ae0c9d6e24f6736c9d9b1c416aba05950c8e5",
+      "start": 14.376,
+      "end": 17.64,
+      "duration": 3.264,
+      "words": [
+        {
+          "word": "Nice.",
+          "start": 14.656,
+          "end": 14.856,
+          "local_start": 0.28,
+          "local_end": 0.48
+        },
+        {
+          "word": "How",
+          "start": 14.856,
+          "end": 15.296,
+          "local_start": 0.48,
+          "local_end": 0.92
+        },
+        {
+          "word": "much",
+          "start": 15.296,
+          "end": 15.516,
+          "local_start": 0.92,
+          "local_end": 1.14
+        },
+        {
+          "word": "does",
+          "start": 15.516,
+          "end": 15.696,
+          "local_start": 1.14,
+          "local_end": 1.32
+        },
+        {
+          "word": "it",
+          "start": 15.696,
+          "end": 15.816,
+          "local_start": 1.32,
+          "local_end": 1.44
+        },
+        {
+          "word": "usually",
+          "start": 15.816,
+          "end": 16.176,
+          "local_start": 1.44,
+          "local_end": 1.8
+        },
+        {
+          "word": "cost",
+          "start": 16.176,
+          "end": 16.456,
+          "local_start": 1.8,
+          "local_end": 2.08
+        },
+        {
+          "word": "for",
+          "start": 16.456,
+          "end": 16.636,
+          "local_start": 2.08,
+          "local_end": 2.26
+        },
+        {
+          "word": "a",
+          "start": 16.636,
+          "end": 16.876,
+          "local_start": 2.26,
+          "local_end": 2.5
+        },
+        {
+          "word": "short",
+          "start": 16.876,
+          "end": 16.956,
+          "local_start": 2.5,
+          "local_end": 2.58
+        },
+        {
+          "word": "ride?",
+          "start": 16.956,
+          "end": 17.196,
+          "local_start": 2.58,
+          "local_end": 2.82
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "file": "06.mp3",
+      "text": "The first thirty minutes are cheap. After that, it charges by the minute.",
+      "audio_sha256": "333400abcb8788ac75c23db2a2e9a21f4c1cc432cf3e918d3b411bc653e17397",
+      "start": 17.64,
+      "end": 21.552,
+      "duration": 3.912,
+      "words": [
+        {
+          "word": "The",
+          "start": 17.64,
+          "end": 17.9,
+          "local_start": 0.0,
+          "local_end": 0.26
+        },
+        {
+          "word": "first",
+          "start": 17.9,
+          "end": 18.22,
+          "local_start": 0.26,
+          "local_end": 0.58
+        },
+        {
+          "word": "thirty",
+          "start": 18.22,
+          "end": 18.58,
+          "local_start": 0.58,
+          "local_end": 0.94
+        },
+        {
+          "word": "minutes",
+          "start": 18.58,
+          "end": 18.82,
+          "local_start": 0.94,
+          "local_end": 1.18
+        },
+        {
+          "word": "are",
+          "start": 18.82,
+          "end": 19.1,
+          "local_start": 1.18,
+          "local_end": 1.46
+        },
+        {
+          "word": "cheap.",
+          "start": 19.1,
+          "end": 19.42,
+          "local_start": 1.46,
+          "local_end": 1.78
+        },
+        {
+          "word": "After",
+          "start": 19.88,
+          "end": 20.02,
+          "local_start": 2.24,
+          "local_end": 2.38
+        },
+        {
+          "word": "that,",
+          "start": 20.02,
+          "end": 20.32,
+          "local_start": 2.38,
+          "local_end": 2.68
+        },
+        {
+          "word": "it",
+          "start": 20.44,
+          "end": 20.62,
+          "local_start": 2.8,
+          "local_end": 2.98
+        },
+        {
+          "word": "charges",
+          "start": 20.62,
+          "end": 20.8,
+          "local_start": 2.98,
+          "local_end": 3.16
+        },
+        {
+          "word": "by",
+          "start": 20.8,
+          "end": 21.02,
+          "local_start": 3.16,
+          "local_end": 3.38
+        },
+        {
+          "word": "the",
+          "start": 21.02,
+          "end": 21.18,
+          "local_start": 3.38,
+          "local_end": 3.54
+        },
+        {
+          "word": "minute.",
+          "start": 21.18,
+          "end": 21.34,
+          "local_start": 3.54,
+          "local_end": 3.7
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "file": "07.mp3",
+      "text": "Okay. Where should I leave it when I'm done?",
+      "audio_sha256": "715de13cdbe52cf066bd113bdc7a2f45068179138d244a1230bd1c8c7e0b11a4",
+      "start": 21.552,
+      "end": 23.856,
+      "duration": 2.304,
+      "words": [
+        {
+          "word": "Okay.",
+          "start": 21.992,
+          "end": 22.232,
+          "local_start": 0.44,
+          "local_end": 0.68
+        },
+        {
+          "word": "Where",
+          "start": 22.232,
+          "end": 22.472,
+          "local_start": 0.68,
+          "local_end": 0.92
+        },
+        {
+          "word": "should",
+          "start": 22.472,
+          "end": 22.592,
+          "local_start": 0.92,
+          "local_end": 1.04
+        },
+        {
+          "word": "I",
+          "start": 22.592,
+          "end": 22.792,
+          "local_start": 1.04,
+          "local_end": 1.24
+        },
+        {
+          "word": "leave",
+          "start": 22.792,
+          "end": 22.892,
+          "local_start": 1.24,
+          "local_end": 1.34
+        },
+        {
+          "word": "it",
+          "start": 22.892,
+          "end": 23.032,
+          "local_start": 1.34,
+          "local_end": 1.48
+        },
+        {
+          "word": "when",
+          "start": 23.032,
+          "end": 23.132,
+          "local_start": 1.48,
+          "local_end": 1.58
+        },
+        {
+          "word": "I'm",
+          "start": 23.132,
+          "end": 23.252,
+          "local_start": 1.58,
+          "local_end": 1.7
+        },
+        {
+          "word": "done?",
+          "start": 23.252,
+          "end": 23.472,
+          "local_start": 1.7,
+          "local_end": 1.92
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "file": "08.mp3",
+      "text": "Park it in a marked bike zone. The app will show nearby drop-off spots.",
+      "audio_sha256": "489715ccf96b06f6f193d323e257617fe0f3cd11b1e6800b14658e51c3dca5b8",
+      "start": 23.856,
+      "end": 28.56,
+      "duration": 4.704,
+      "words": [
+        {
+          "word": "Park",
+          "start": 23.856,
+          "end": 24.376,
+          "local_start": 0.0,
+          "local_end": 0.52
+        },
+        {
+          "word": "it",
+          "start": 24.376,
+          "end": 24.756,
+          "local_start": 0.52,
+          "local_end": 0.9
+        },
+        {
+          "word": "in",
+          "start": 24.756,
+          "end": 25.016,
+          "local_start": 0.9,
+          "local_end": 1.16
+        },
+        {
+          "word": "a",
+          "start": 25.016,
+          "end": 25.116,
+          "local_start": 1.16,
+          "local_end": 1.26
+        },
+        {
+          "word": "marked",
+          "start": 25.116,
+          "end": 25.316,
+          "local_start": 1.26,
+          "local_end": 1.46
+        },
+        {
+          "word": "bike",
+          "start": 25.316,
+          "end": 25.636,
+          "local_start": 1.46,
+          "local_end": 1.78
+        },
+        {
+          "word": "zone.",
+          "start": 25.636,
+          "end": 25.916,
+          "local_start": 1.78,
+          "local_end": 2.06
+        },
+        {
+          "word": "The",
+          "start": 26.296,
+          "end": 26.376,
+          "local_start": 2.44,
+          "local_end": 2.52
+        },
+        {
+          "word": "app",
+          "start": 26.376,
+          "end": 26.596,
+          "local_start": 2.52,
+          "local_end": 2.74
+        },
+        {
+          "word": "will",
+          "start": 26.596,
+          "end": 26.856,
+          "local_start": 2.74,
+          "local_end": 3.0
+        },
+        {
+          "word": "show",
+          "start": 26.856,
+          "end": 27.056,
+          "local_start": 3.0,
+          "local_end": 3.2
+        },
+        {
+          "word": "nearby",
+          "start": 27.056,
+          "end": 27.376,
+          "local_start": 3.2,
+          "local_end": 3.52
+        },
+        {
+          "word": "drop-off",
+          "start": 27.376,
+          "end": 27.876,
+          "local_start": 3.52,
+          "local_end": 4.02
+        },
+        {
+          "word": "spots.",
+          "start": 27.876,
+          "end": 28.156,
+          "local_start": 4.02,
+          "local_end": 4.3
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "file": "09.mp3",
+      "text": "What if there's no free space left in that zone?",
+      "audio_sha256": "13223998d468f1caadce7c00c40f201b569f74e794584bce170385df12a1bd0c",
+      "start": 28.56,
+      "end": 31.08,
+      "duration": 2.52,
+      "words": [
+        {
+          "word": "What",
+          "start": 28.56,
+          "end": 28.8,
+          "local_start": 0.0,
+          "local_end": 0.24
+        },
+        {
+          "word": "if",
+          "start": 28.8,
+          "end": 28.98,
+          "local_start": 0.24,
+          "local_end": 0.42
+        },
+        {
+          "word": "there's",
+          "start": 28.98,
+          "end": 29.2,
+          "local_start": 0.42,
+          "local_end": 0.64
+        },
+        {
+          "word": "no",
+          "start": 29.2,
+          "end": 29.38,
+          "local_start": 0.64,
+          "local_end": 0.82
+        },
+        {
+          "word": "free",
+          "start": 29.38,
+          "end": 29.72,
+          "local_start": 0.82,
+          "local_end": 1.16
+        },
+        {
+          "word": "space",
+          "start": 29.72,
+          "end": 30.0,
+          "local_start": 1.16,
+          "local_end": 1.44
+        },
+        {
+          "word": "left",
+          "start": 30.0,
+          "end": 30.24,
+          "local_start": 1.44,
+          "local_end": 1.68
+        },
+        {
+          "word": "in",
+          "start": 30.24,
+          "end": 30.34,
+          "local_start": 1.68,
+          "local_end": 1.78
+        },
+        {
+          "word": "that",
+          "start": 30.34,
+          "end": 30.5,
+          "local_start": 1.78,
+          "local_end": 1.94
+        },
+        {
+          "word": "zone?",
+          "start": 30.5,
+          "end": 30.74,
+          "local_start": 1.94,
+          "local_end": 2.18
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "file": "10.mp3",
+      "text": "Then find the next zone. Don't leave it on the sidewalk, or you'll get a fee.",
+      "audio_sha256": "8630cf98ef5a6b053bc7ee396a96d9e5f5d732adb6d0e50d6516c7fde40abe02",
+      "start": 31.08,
+      "end": 35.88,
+      "duration": 4.8,
+      "words": [
+        {
+          "word": "Then",
+          "start": 31.08,
+          "end": 31.46,
+          "local_start": 0.0,
+          "local_end": 0.38
+        },
+        {
+          "word": "find",
+          "start": 31.46,
+          "end": 31.92,
+          "local_start": 0.38,
+          "local_end": 0.84
+        },
+        {
+          "word": "the",
+          "start": 31.92,
+          "end": 32.18,
+          "local_start": 0.84,
+          "local_end": 1.1
+        },
+        {
+          "word": "next",
+          "start": 32.18,
+          "end": 32.44,
+          "local_start": 1.1,
+          "local_end": 1.36
+        },
+        {
+          "word": "zone.",
+          "start": 32.44,
+          "end": 32.76,
+          "local_start": 1.36,
+          "local_end": 1.68
+        },
+        {
+          "word": "Don't",
+          "start": 33.42,
+          "end": 33.52,
+          "local_start": 2.34,
+          "local_end": 2.44
+        },
+        {
+          "word": "leave",
+          "start": 33.52,
+          "end": 33.64,
+          "local_start": 2.44,
+          "local_end": 2.56
+        },
+        {
+          "word": "it",
+          "start": 33.64,
+          "end": 33.74,
+          "local_start": 2.56,
+          "local_end": 2.66
+        },
+        {
+          "word": "on",
+          "start": 33.74,
+          "end": 33.82,
+          "local_start": 2.66,
+          "local_end": 2.74
+        },
+        {
+          "word": "the",
+          "start": 33.82,
+          "end": 34.02,
+          "local_start": 2.74,
+          "local_end": 2.94
+        },
+        {
+          "word": "sidewalk,",
+          "start": 34.02,
+          "end": 34.4,
+          "local_start": 2.94,
+          "local_end": 3.32
+        },
+        {
+          "word": "or",
+          "start": 34.84,
+          "end": 35.02,
+          "local_start": 3.76,
+          "local_end": 3.94
+        },
+        {
+          "word": "you'll",
+          "start": 35.02,
+          "end": 35.16,
+          "local_start": 3.94,
+          "local_end": 4.08
+        },
+        {
+          "word": "get",
+          "start": 35.16,
+          "end": 35.3,
+          "local_start": 4.08,
+          "local_end": 4.22
+        },
+        {
+          "word": "a",
+          "start": 35.3,
+          "end": 35.54,
+          "local_start": 4.22,
+          "local_end": 4.46
+        },
+        {
+          "word": "fee.",
+          "start": 35.54,
+          "end": 35.68,
+          "local_start": 4.46,
+          "local_end": 4.6
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "file": "11.mp3",
+      "text": "Thanks. Should I wear a helmet, or is that optional?",
+      "audio_sha256": "fa0009dd919da9ee6726bde581d911a8e11b654494cf6eeb55bd19d33d57262c",
+      "start": 35.88,
+      "end": 39.336,
+      "duration": 3.456,
+      "words": [
+        {
+          "word": "Thanks.",
+          "start": 35.88,
+          "end": 36.36,
+          "local_start": 0.0,
+          "local_end": 0.48
+        },
+        {
+          "word": "Should",
+          "start": 36.88,
+          "end": 37.0,
+          "local_start": 1.0,
+          "local_end": 1.12
+        },
+        {
+          "word": "I",
+          "start": 37.0,
+          "end": 37.22,
+          "local_start": 1.12,
+          "local_end": 1.34
+        },
+        {
+          "word": "wear",
+          "start": 37.22,
+          "end": 37.3,
+          "local_start": 1.34,
+          "local_end": 1.42
+        },
+        {
+          "word": "a",
+          "start": 37.3,
+          "end": 37.76,
+          "local_start": 1.42,
+          "local_end": 1.88
+        },
+        {
+          "word": "helmet,",
+          "start": 37.76,
+          "end": 37.76,
+          "local_start": 1.88,
+          "local_end": 1.88
+        },
+        {
+          "word": "or",
+          "start": 38.06,
+          "end": 38.2,
+          "local_start": 2.18,
+          "local_end": 2.32
+        },
+        {
+          "word": "is",
+          "start": 38.2,
+          "end": 38.34,
+          "local_start": 2.32,
+          "local_end": 2.46
+        },
+        {
+          "word": "that",
+          "start": 38.34,
+          "end": 38.5,
+          "local_start": 2.46,
+          "local_end": 2.62
+        },
+        {
+          "word": "optional?",
+          "start": 38.5,
+          "end": 38.78,
+          "local_start": 2.62,
+          "local_end": 2.9
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "file": "12.mp3",
+      "text": "It's optional here, but I always wear one. Safety first on busy streets.",
+      "audio_sha256": "5ecde81af62bad48f6398d24f7066906531abab9687d1052c7c98cbcc27e0237",
+      "start": 39.336,
+      "end": 44.088,
+      "duration": 4.752,
+      "words": [
+        {
+          "word": "It's",
+          "start": 39.336,
+          "end": 39.696,
+          "local_start": 0.0,
+          "local_end": 0.36
+        },
+        {
+          "word": "optional",
+          "start": 39.696,
+          "end": 40.116,
+          "local_start": 0.36,
+          "local_end": 0.78
+        },
+        {
+          "word": "here,",
+          "start": 40.116,
+          "end": 40.616,
+          "local_start": 0.78,
+          "local_end": 1.28
+        },
+        {
+          "word": "but",
+          "start": 40.856,
+          "end": 41.136,
+          "local_start": 1.52,
+          "local_end": 1.8
+        },
+        {
+          "word": "I",
+          "start": 41.136,
+          "end": 41.256,
+          "local_start": 1.8,
+          "local_end": 1.92
+        },
+        {
+          "word": "always",
+          "start": 41.256,
+          "end": 41.556,
+          "local_start": 1.92,
+          "local_end": 2.22
+        },
+        {
+          "word": "wear",
+          "start": 41.556,
+          "end": 41.736,
+          "local_start": 2.22,
+          "local_end": 2.4
+        },
+        {
+          "word": "one.",
+          "start": 41.736,
+          "end": 42.056,
+          "local_start": 2.4,
+          "local_end": 2.72
+        },
+        {
+          "word": "Safety",
+          "start": 42.696,
+          "end": 42.816,
+          "local_start": 3.36,
+          "local_end": 3.48
+        },
+        {
+          "word": "first",
+          "start": 42.816,
+          "end": 43.136,
+          "local_start": 3.48,
+          "local_end": 3.8
+        },
+        {
+          "word": "on",
+          "start": 43.136,
+          "end": 43.336,
+          "local_start": 3.8,
+          "local_end": 4.0
+        },
+        {
+          "word": "busy",
+          "start": 43.336,
+          "end": 43.576,
+          "local_start": 4.0,
+          "local_end": 4.24
+        },
+        {
+          "word": "streets.",
+          "start": 43.576,
+          "end": 43.876,
+          "local_start": 4.24,
+          "local_end": 4.54
+        }
+      ]
+    }
+  ]
+}

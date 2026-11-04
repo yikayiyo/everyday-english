@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-04",
+  "slug": "bike-share",
+  "title": "Renting a Shared Bike",
+  "title_zh": "租一辆共享单车",
+  "context": "Chloe 第一次用共享单车 App，向朋友 Noah 请教怎么扫码解锁、计费方式和还车地点。",
+  "voices": {
+    "Chloe": "marin",
+    "Noah": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Chloe",
+      "en": "Hey, can you show me how to rent one of these shared bikes?",
+      "zh": "嘿，你能教我怎么租这些共享单车吗？"
+    },
+    {
+      "speaker": "Noah",
+      "en": "Sure. Open the app, then scan the QR code on the handlebar.",
+      "zh": "没问题。打开 App，然后扫描车把上的二维码。"
+    },
+    {
+      "speaker": "Chloe",
+      "en": "Got it. Do I need to unlock anything else after scanning?",
+      "zh": "明白了。扫完码之后还要再解锁别的东西吗？"
+    },
+    {
+      "speaker": "Noah",
+      "en": "The lock opens automatically. Just wait for the green light and pull the bike out.",
+      "zh": "锁会自动打开。等绿灯亮了，把车拉出来就行。"
+    },
+    {
+      "speaker": "Chloe",
+      "en": "Nice. How much does it usually cost for a short ride?",
+      "zh": "不错。短途一般要花多少钱？"
+    },
+    {
+      "speaker": "Noah",
+      "en": "The first thirty minutes are cheap. After that, it charges by the minute.",
+      "zh": "前三十分钟很便宜。之后就按分钟计费。"
+    },
+    {
+      "speaker": "Chloe",
+      "en": "Okay. Where should I leave it when I'm done?",
+      "zh": "好。骑完之后应该停在哪里？"
+    },
+    {
+      "speaker": "Noah",
+      "en": "Park it in a marked bike zone. The app will show nearby drop-off spots.",
+      "zh": "停在标好的停车区。App 会显示附近的还车点。"
+    },
+    {
+      "speaker": "Chloe",
+      "en": "What if there's no free space left in that zone?",
+      "zh": "要是那个停车区已经没有空位了怎么办？"
+    },
+    {
+      "speaker": "Noah",
+      "en": "Then find the next zone. Don't leave it on the sidewalk, or you'll get a fee.",
+      "zh": "那就找下一个停车区。别停在人行道上，否则会被收费。"
+    },
+    {
+      "speaker": "Chloe",
+      "en": "Thanks. Should I wear a helmet, or is that optional?",
+      "zh": "谢谢。我需要戴头盔吗，还是可戴可不戴？"
+    },
+    {
+      "speaker": "Noah",
+      "en": "It's optional here, but I always wear one. Safety first on busy streets.",
+      "zh": "这里可以不戴，但我每次都会戴。在繁忙街道上安全第一。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "Can you show me how to…?",
+      "zh": "你能教我怎么……吗？礼貌地请人演示步骤。",
+      "example": "Can you show me how to unlock the bike?"
+    },
+    {
+      "en": "Scan the QR code",
+      "zh": "扫描二维码。共享单车、支付和入场常用。",
+      "example": "Scan the QR code on the handlebar to start."
+    },
+    {
+      "en": "It charges by the minute",
+      "zh": "按分钟计费。说明计费方式。",
+      "example": "After the free time, it charges by the minute."
+    },
+    {
+      "en": "Drop-off spots",
+      "zh": "还车点/归还点。共享出行里指指定停放处。",
+      "example": "The app shows nearby drop-off spots."
+    },
+    {
+      "en": "Safety first",
+      "zh": "安全第一。提醒优先考虑安全。",
+      "example": "Wear a helmet—safety first."
+    }
+  ],
+  "pronunciation": "练习 shared bike 的连读，重音落在 BIKE。注意 QR code 读作 /ˌkjuːˈɑːr koʊd/，以及 thirty minutes 的弱读连读。",
+  "practice": [
+    {
+      "title": "Part 1 · Transport",
+      "prompt": "Do you often ride a bike in your city?",
+      "answer": "Yes, sometimes. I use shared bikes for short trips when the weather is nice. It's faster than walking and cheaper than a taxi."
+    },
+    {
+      "title": "Part 2 · A form of transport",
+      "prompt": "Describe a form of transport you use in daily life. Say what it is, when you use it, and why you like or dislike it.",
+      "answer": "I sometimes use shared bikes near my home. I unlock them with an app and ride to the subway station. I like them because they are flexible, but I dislike rainy days. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Shared mobility",
+      "prompt": "What are the advantages and disadvantages of shared bikes in cities?",
+      "answer": "Shared bikes can reduce traffic and make short trips easy. They are also cheaper than taxis. On the other hand, messy parking can block sidewalks, and bikes may be damaged or hard to find at busy times."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "先听完整对话，再逐句跟读。最后练习说明如何扫码解锁、如何计费，以及该把车停在哪里。",
+      "answer": "用 3–4 句说明你会怎么租车、怎么还车，以及你会不会戴头盔。"
+    }
+  ]
+}

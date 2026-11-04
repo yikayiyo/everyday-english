@@ -1,0 +1,103 @@
+{
+  "model": "gpt-realtime-2.1-mini",
+  "instructions": "Speak in natural American English with clear pronunciation and conversational rhythm.",
+  "verification": "解码、请求关联及模型转写已检查；内容需逐句试听",
+  "lines": [
+    {
+      "index": 1,
+      "speaker": "Chloe",
+      "voice": "marin",
+      "text_sha256": "f90e08505094ad6b84d8385ce35d433e9142b0ed45379a4ffea4b8bab2da5aae",
+      "audio_sha256": "6853213233849467880ddef2dd465489975099c98f7ec0a09e224497121f72cd",
+      "file": "audio/01.mp3"
+    },
+    {
+      "index": 2,
+      "speaker": "Noah",
+      "voice": "cedar",
+      "text_sha256": "15495f6514d0d99e88d65620d4a4db35c66f2e6f292c1464587a3f5627be741b",
+      "audio_sha256": "bceff75fc425630ec5c2362d1b9fe92b5abf28b1ec7d599a88e9060b8b9c66da",
+      "file": "audio/02.mp3"
+    },
+    {
+      "index": 3,
+      "speaker": "Chloe",
+      "voice": "marin",
+      "text_sha256": "074a3d095c94e7125cd3bfdbe5db2edb2799d3b7e5bffbfa56ad57db28582fa5",
+      "audio_sha256": "c6b04f9aebaf6495668d6b05586d55a7895058ab36ffa727f3636a6dd6cfc086",
+      "file": "audio/03.mp3"
+    },
+    {
+      "index": 4,
+      "speaker": "Noah",
+      "voice": "cedar",
+      "text_sha256": "dc04e1d3f0f62b3a43a040ecbe7b24203917adab5f27c18b950f1086c47ad712",
+      "audio_sha256": "b1503c4a99c52386d3f9244070605e39d611625f22860e61519a5931d82d9b5f",
+      "file": "audio/04.mp3"
+    },
+    {
+      "index": 5,
+      "speaker": "Chloe",
+      "voice": "marin",
+      "text_sha256": "2cf65a101e3c7be70e8ae8a69fda8ad5f2e03b3061b1039c894df6c56f4ad7f8",
+      "audio_sha256": "902592127400651729ee94be290ae0c9d6e24f6736c9d9b1c416aba05950c8e5",
+      "file": "audio/05.mp3"
+    },
+    {
+      "index": 6,
+      "speaker": "Noah",
+      "voice": "cedar",
+      "text_sha256": "3acd3ee4d324e04499cc285b8d9010066ae824b24385bd38c7fc303728817a7c",
+      "audio_sha256": "333400abcb8788ac75c23db2a2e9a21f4c1cc432cf3e918d3b411bc653e17397",
+      "file": "audio/06.mp3"
+    },
+    {
+      "index": 7,
+      "speaker": "Chloe",
+      "voice": "marin",
+      "text_sha256": "3f35f100bb2eb3174ef68dd282ffce4838e9c2cb6209ab8e5e9b28dc5fccd83a",
+      "audio_sha256": "715de13cdbe52cf066bd113bdc7a2f45068179138d244a1230bd1c8c7e0b11a4",
+      "file": "audio/07.mp3"
+    },
+    {
+      "index": 8,
+      "speaker": "Noah",
+      "voice": "cedar",
+      "text_sha256": "881d981e766908a9d2f44b204deee0022e65717982eb261bb8337fde1c284e84",
+      "audio_sha256": "489715ccf96b06f6f193d323e257617fe0f3cd11b1e6800b14658e51c3dca5b8",
+      "file": "audio/08.mp3"
+    },
+    {
+      "index": 9,
+      "speaker": "Chloe",
+      "voice": "marin",
+      "text_sha256": "5b509d690dc910473b622e50bf2ab9711da34c80e702d4512ec43e7fca0916e2",
+      "audio_sha256": "13223998d468f1caadce7c00c40f201b569f74e794584bce170385df12a1bd0c",
+      "file": "audio/09.mp3"
+    },
+    {
+      "index": 10,
+      "speaker": "Noah",
+      "voice": "cedar",
+      "text_sha256": "dc08af98ab6a9ab5437ae6c76022e7de32f20306d17aa3bb12209713d9769965",
+      "audio_sha256": "8630cf98ef5a6b053bc7ee396a96d9e5f5d732adb6d0e50d6516c7fde40abe02",
+      "file": "audio/10.mp3"
+    },
+    {
+      "index": 11,
+      "speaker": "Chloe",
+      "voice": "marin",
+      "text_sha256": "addf7c67d970a6dd5fa8842d7d67731db8f07b1d503e72cf7d38743214aa3450",
+      "audio_sha256": "fa0009dd919da9ee6726bde581d911a8e11b654494cf6eeb55bd19d33d57262c",
+      "file": "audio/11.mp3"
+    },
+    {
+      "index": 12,
+      "speaker": "Noah",
+      "voice": "cedar",
+      "text_sha256": "234aa1b8f614d06ce2f59a0b878cbcfe931090e84445c6b6417a035474b88195",
+      "audio_sha256": "5ecde81af62bad48f6398d24f7066906531abab9687d1052c7c98cbcc27e0237",
+      "file": "audio/12.mp3"
+    }
+  ]
+}
