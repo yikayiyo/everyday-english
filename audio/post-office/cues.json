@@ -1,0 +1,1036 @@
+{
+  "model": "whisper-1",
+  "lesson": "post-office",
+  "full_track": "dialogue-full.mp3",
+  "full_duration": 45.072,
+  "lines": [
+    {
+      "index": 1,
+      "file": "01.mp3",
+      "text": "Hi. I'd like to mail this package to a friend in Canada.",
+      "audio_sha256": "54ccc28fb1f36ca51db8883b8331897138078cf8e99a4762b19b3dc777cb663a",
+      "start": 0.0,
+      "end": 3.6,
+      "duration": 3.6,
+      "words": [
+        {
+          "word": "Hi.",
+          "start": 0.0,
+          "end": 0.42,
+          "local_start": 0.0,
+          "local_end": 0.42
+        },
+        {
+          "word": "I'd",
+          "start": 0.7,
+          "end": 0.94,
+          "local_start": 0.7,
+          "local_end": 0.94
+        },
+        {
+          "word": "like",
+          "start": 0.94,
+          "end": 1.14,
+          "local_start": 0.94,
+          "local_end": 1.14
+        },
+        {
+          "word": "to",
+          "start": 1.14,
+          "end": 1.44,
+          "local_start": 1.14,
+          "local_end": 1.44
+        },
+        {
+          "word": "mail",
+          "start": 1.44,
+          "end": 1.44,
+          "local_start": 1.44,
+          "local_end": 1.44
+        },
+        {
+          "word": "this",
+          "start": 1.44,
+          "end": 1.72,
+          "local_start": 1.44,
+          "local_end": 1.72
+        },
+        {
+          "word": "package",
+          "start": 1.72,
+          "end": 1.98,
+          "local_start": 1.72,
+          "local_end": 1.98
+        },
+        {
+          "word": "to",
+          "start": 1.98,
+          "end": 2.2,
+          "local_start": 1.98,
+          "local_end": 2.2
+        },
+        {
+          "word": "a",
+          "start": 2.2,
+          "end": 2.6,
+          "local_start": 2.2,
+          "local_end": 2.6
+        },
+        {
+          "word": "friend",
+          "start": 2.6,
+          "end": 2.6,
+          "local_start": 2.6,
+          "local_end": 2.6
+        },
+        {
+          "word": "in",
+          "start": 2.6,
+          "end": 2.98,
+          "local_start": 2.6,
+          "local_end": 2.98
+        },
+        {
+          "word": "Canada.",
+          "start": 2.98,
+          "end": 3.16,
+          "local_start": 2.98,
+          "local_end": 3.16
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "file": "02.mp3",
+      "text": "Sure. Is there anything fragile or liquid inside?",
+      "audio_sha256": "891c4bbe8f778ddb81170bad111ee45836a4ecf09914323ea92277f22dd21e9e",
+      "start": 3.6,
+      "end": 6.504,
+      "duration": 2.904,
+      "words": [
+        {
+          "word": "Sure.",
+          "start": 3.6,
+          "end": 4.02,
+          "local_start": 0.0,
+          "local_end": 0.42
+        },
+        {
+          "word": "Is",
+          "start": 4.36,
+          "end": 4.54,
+          "local_start": 0.76,
+          "local_end": 0.94
+        },
+        {
+          "word": "there",
+          "start": 4.54,
+          "end": 4.68,
+          "local_start": 0.94,
+          "local_end": 1.08
+        },
+        {
+          "word": "anything",
+          "start": 4.68,
+          "end": 5.02,
+          "local_start": 1.08,
+          "local_end": 1.42
+        },
+        {
+          "word": "fragile",
+          "start": 5.02,
+          "end": 5.4,
+          "local_start": 1.42,
+          "local_end": 1.8
+        },
+        {
+          "word": "or",
+          "start": 5.4,
+          "end": 5.66,
+          "local_start": 1.8,
+          "local_end": 2.06
+        },
+        {
+          "word": "liquid",
+          "start": 5.66,
+          "end": 5.86,
+          "local_start": 2.06,
+          "local_end": 2.26
+        },
+        {
+          "word": "inside?",
+          "start": 5.86,
+          "end": 6.18,
+          "local_start": 2.26,
+          "local_end": 2.58
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "file": "03.mp3",
+      "text": "Just a small ceramic mug and a card. No liquids.",
+      "audio_sha256": "9ff538c82141452fe0469ab6ac259681419f58a97f86d43940d78fe38dcd8c7e",
+      "start": 6.504,
+      "end": 10.416,
+      "duration": 3.912,
+      "words": [
+        {
+          "word": "Just",
+          "start": 6.504,
+          "end": 6.924,
+          "local_start": 0.0,
+          "local_end": 0.42
+        },
+        {
+          "word": "a",
+          "start": 6.924,
+          "end": 7.224,
+          "local_start": 0.42,
+          "local_end": 0.72
+        },
+        {
+          "word": "small",
+          "start": 7.224,
+          "end": 7.604,
+          "local_start": 0.72,
+          "local_end": 1.1
+        },
+        {
+          "word": "ceramic",
+          "start": 7.604,
+          "end": 7.984,
+          "local_start": 1.1,
+          "local_end": 1.48
+        },
+        {
+          "word": "mug",
+          "start": 7.984,
+          "end": 8.284,
+          "local_start": 1.48,
+          "local_end": 1.78
+        },
+        {
+          "word": "and",
+          "start": 8.284,
+          "end": 8.624,
+          "local_start": 1.78,
+          "local_end": 2.12
+        },
+        {
+          "word": "a",
+          "start": 8.624,
+          "end": 8.884,
+          "local_start": 2.12,
+          "local_end": 2.38
+        },
+        {
+          "word": "card.",
+          "start": 8.884,
+          "end": 8.944,
+          "local_start": 2.38,
+          "local_end": 2.44
+        },
+        {
+          "word": "No",
+          "start": 9.524,
+          "end": 9.664,
+          "local_start": 3.02,
+          "local_end": 3.16
+        },
+        {
+          "word": "liquids.",
+          "start": 9.664,
+          "end": 9.904,
+          "local_start": 3.16,
+          "local_end": 3.4
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "file": "04.mp3",
+      "text": "Okay. Wrap the mug in bubble wrap, then seal the box with packing tape.",
+      "audio_sha256": "002c4f2f353499cd86b2b6cc12113a95686b840781a7860313ae90cb6142ede7",
+      "start": 10.416,
+      "end": 14.928,
+      "duration": 4.512,
+      "words": [
+        {
+          "word": "Okay.",
+          "start": 11.116,
+          "end": 11.316,
+          "local_start": 0.7,
+          "local_end": 0.9
+        },
+        {
+          "word": "Wrap",
+          "start": 11.316,
+          "end": 11.716,
+          "local_start": 0.9,
+          "local_end": 1.3
+        },
+        {
+          "word": "the",
+          "start": 11.716,
+          "end": 11.916,
+          "local_start": 1.3,
+          "local_end": 1.5
+        },
+        {
+          "word": "mug",
+          "start": 11.916,
+          "end": 12.056,
+          "local_start": 1.5,
+          "local_end": 1.64
+        },
+        {
+          "word": "in",
+          "start": 12.056,
+          "end": 12.236,
+          "local_start": 1.64,
+          "local_end": 1.82
+        },
+        {
+          "word": "bubble",
+          "start": 12.236,
+          "end": 12.416,
+          "local_start": 1.82,
+          "local_end": 2.0
+        },
+        {
+          "word": "wrap,",
+          "start": 12.416,
+          "end": 12.696,
+          "local_start": 2.0,
+          "local_end": 2.28
+        },
+        {
+          "word": "then",
+          "start": 13.116,
+          "end": 13.356,
+          "local_start": 2.7,
+          "local_end": 2.94
+        },
+        {
+          "word": "seal",
+          "start": 13.356,
+          "end": 13.496,
+          "local_start": 2.94,
+          "local_end": 3.08
+        },
+        {
+          "word": "the",
+          "start": 13.496,
+          "end": 13.676,
+          "local_start": 3.08,
+          "local_end": 3.26
+        },
+        {
+          "word": "box",
+          "start": 13.676,
+          "end": 13.876,
+          "local_start": 3.26,
+          "local_end": 3.46
+        },
+        {
+          "word": "with",
+          "start": 13.876,
+          "end": 14.156,
+          "local_start": 3.46,
+          "local_end": 3.74
+        },
+        {
+          "word": "packing",
+          "start": 14.156,
+          "end": 14.356,
+          "local_start": 3.74,
+          "local_end": 3.94
+        },
+        {
+          "word": "tape.",
+          "start": 14.356,
+          "end": 14.616,
+          "local_start": 3.94,
+          "local_end": 4.2
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "file": "05.mp3",
+      "text": "Got it. How long will regular shipping take?",
+      "audio_sha256": "fa4ee2ce08ed9a711ca41e1c60e306c656e9c47cf10f7d2a5b932cb9fafe6c92",
+      "start": 14.928,
+      "end": 17.496,
+      "duration": 2.568,
+      "words": [
+        {
+          "word": "Got",
+          "start": 14.928,
+          "end": 15.208,
+          "local_start": 0.0,
+          "local_end": 0.28
+        },
+        {
+          "word": "it.",
+          "start": 15.208,
+          "end": 15.648,
+          "local_start": 0.28,
+          "local_end": 0.72
+        },
+        {
+          "word": "How",
+          "start": 15.728,
+          "end": 16.008,
+          "local_start": 0.8,
+          "local_end": 1.08
+        },
+        {
+          "word": "long",
+          "start": 16.008,
+          "end": 16.168,
+          "local_start": 1.08,
+          "local_end": 1.24
+        },
+        {
+          "word": "will",
+          "start": 16.168,
+          "end": 16.308,
+          "local_start": 1.24,
+          "local_end": 1.38
+        },
+        {
+          "word": "regular",
+          "start": 16.308,
+          "end": 16.608,
+          "local_start": 1.38,
+          "local_end": 1.68
+        },
+        {
+          "word": "shipping",
+          "start": 16.608,
+          "end": 16.868,
+          "local_start": 1.68,
+          "local_end": 1.94
+        },
+        {
+          "word": "take?",
+          "start": 16.868,
+          "end": 17.168,
+          "local_start": 1.94,
+          "local_end": 2.24
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "file": "06.mp3",
+      "text": "About seven to ten business days. Express usually takes three to five.",
+      "audio_sha256": "7bb89a653199a1122802a07ec36631575008973423f542fb91cc7c5eff979f86",
+      "start": 17.496,
+      "end": 21.864,
+      "duration": 4.368,
+      "words": [
+        {
+          "word": "About",
+          "start": 17.496,
+          "end": 17.856,
+          "local_start": 0.0,
+          "local_end": 0.36
+        },
+        {
+          "word": "seven",
+          "start": 17.856,
+          "end": 18.216,
+          "local_start": 0.36,
+          "local_end": 0.72
+        },
+        {
+          "word": "to",
+          "start": 18.216,
+          "end": 18.456,
+          "local_start": 0.72,
+          "local_end": 0.96
+        },
+        {
+          "word": "ten",
+          "start": 18.456,
+          "end": 18.756,
+          "local_start": 0.96,
+          "local_end": 1.26
+        },
+        {
+          "word": "business",
+          "start": 18.756,
+          "end": 19.096,
+          "local_start": 1.26,
+          "local_end": 1.6
+        },
+        {
+          "word": "days.",
+          "start": 19.096,
+          "end": 19.496,
+          "local_start": 1.6,
+          "local_end": 2.0
+        },
+        {
+          "word": "Express",
+          "start": 20.076,
+          "end": 20.356,
+          "local_start": 2.58,
+          "local_end": 2.86
+        },
+        {
+          "word": "usually",
+          "start": 20.356,
+          "end": 20.696,
+          "local_start": 2.86,
+          "local_end": 3.2
+        },
+        {
+          "word": "takes",
+          "start": 20.696,
+          "end": 20.936,
+          "local_start": 3.2,
+          "local_end": 3.44
+        },
+        {
+          "word": "three",
+          "start": 20.936,
+          "end": 21.176,
+          "local_start": 3.44,
+          "local_end": 3.68
+        },
+        {
+          "word": "to",
+          "start": 21.176,
+          "end": 21.336,
+          "local_start": 3.68,
+          "local_end": 3.84
+        },
+        {
+          "word": "five.",
+          "start": 21.336,
+          "end": 21.616,
+          "local_start": 3.84,
+          "local_end": 4.12
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "file": "07.mp3",
+      "text": "I'll take regular shipping. Do I need to fill out a customs form?",
+      "audio_sha256": "4d0ef5e768634da314d6a1377542e17c01d76c9a7b9af1e981324ed1190830b9",
+      "start": 21.864,
+      "end": 26.112,
+      "duration": 4.248,
+      "words": [
+        {
+          "word": "I'll",
+          "start": 21.864,
+          "end": 22.124,
+          "local_start": 0.0,
+          "local_end": 0.26
+        },
+        {
+          "word": "take",
+          "start": 22.124,
+          "end": 22.284,
+          "local_start": 0.26,
+          "local_end": 0.42
+        },
+        {
+          "word": "regular",
+          "start": 22.284,
+          "end": 22.704,
+          "local_start": 0.42,
+          "local_end": 0.84
+        },
+        {
+          "word": "shipping.",
+          "start": 22.704,
+          "end": 23.004,
+          "local_start": 0.84,
+          "local_end": 1.14
+        },
+        {
+          "word": "Do",
+          "start": 23.724,
+          "end": 23.864,
+          "local_start": 1.86,
+          "local_end": 2.0
+        },
+        {
+          "word": "I",
+          "start": 23.864,
+          "end": 24.084,
+          "local_start": 2.0,
+          "local_end": 2.22
+        },
+        {
+          "word": "need",
+          "start": 24.084,
+          "end": 24.264,
+          "local_start": 2.22,
+          "local_end": 2.4
+        },
+        {
+          "word": "to",
+          "start": 24.264,
+          "end": 24.424,
+          "local_start": 2.4,
+          "local_end": 2.56
+        },
+        {
+          "word": "fill",
+          "start": 24.424,
+          "end": 24.504,
+          "local_start": 2.56,
+          "local_end": 2.64
+        },
+        {
+          "word": "out",
+          "start": 24.504,
+          "end": 24.664,
+          "local_start": 2.64,
+          "local_end": 2.8
+        },
+        {
+          "word": "a",
+          "start": 24.664,
+          "end": 24.844,
+          "local_start": 2.8,
+          "local_end": 2.98
+        },
+        {
+          "word": "customs",
+          "start": 24.844,
+          "end": 25.044,
+          "local_start": 2.98,
+          "local_end": 3.18
+        },
+        {
+          "word": "form?",
+          "start": 25.044,
+          "end": 25.344,
+          "local_start": 3.18,
+          "local_end": 3.48
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "file": "08.mp3",
+      "text": "Yes. Write the contents and approximate value on this form.",
+      "audio_sha256": "5a44b8b071ab0d89b0f015968ef606da0f3ae158edf667ed7a9a69c90fb33c4a",
+      "start": 26.112,
+      "end": 29.976,
+      "duration": 3.864,
+      "words": [
+        {
+          "word": "Yes.",
+          "start": 26.112,
+          "end": 26.692,
+          "local_start": 0.0,
+          "local_end": 0.58
+        },
+        {
+          "word": "Write",
+          "start": 27.352,
+          "end": 27.392,
+          "local_start": 1.24,
+          "local_end": 1.28
+        },
+        {
+          "word": "the",
+          "start": 27.392,
+          "end": 27.532,
+          "local_start": 1.28,
+          "local_end": 1.42
+        },
+        {
+          "word": "contents",
+          "start": 27.532,
+          "end": 27.932,
+          "local_start": 1.42,
+          "local_end": 1.82
+        },
+        {
+          "word": "and",
+          "start": 27.932,
+          "end": 28.172,
+          "local_start": 1.82,
+          "local_end": 2.06
+        },
+        {
+          "word": "approximate",
+          "start": 28.172,
+          "end": 28.592,
+          "local_start": 2.06,
+          "local_end": 2.48
+        },
+        {
+          "word": "value",
+          "start": 28.592,
+          "end": 28.992,
+          "local_start": 2.48,
+          "local_end": 2.88
+        },
+        {
+          "word": "on",
+          "start": 28.992,
+          "end": 29.272,
+          "local_start": 2.88,
+          "local_end": 3.16
+        },
+        {
+          "word": "this",
+          "start": 29.272,
+          "end": 29.472,
+          "local_start": 3.16,
+          "local_end": 3.36
+        },
+        {
+          "word": "form.",
+          "start": 29.472,
+          "end": 29.712,
+          "local_start": 3.36,
+          "local_end": 3.6
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "file": "09.mp3",
+      "text": "Okay. How much will it cost for this size?",
+      "audio_sha256": "bc96359f2957c9356199ce743951532d4397d564fdc1ce5f96b07ca37e2a30f9",
+      "start": 29.976,
+      "end": 32.64,
+      "duration": 2.664,
+      "words": [
+        {
+          "word": "Okay.",
+          "start": 29.976,
+          "end": 30.536,
+          "local_start": 0.0,
+          "local_end": 0.56
+        },
+        {
+          "word": "How",
+          "start": 30.656,
+          "end": 30.956,
+          "local_start": 0.68,
+          "local_end": 0.98
+        },
+        {
+          "word": "much",
+          "start": 30.956,
+          "end": 31.096,
+          "local_start": 0.98,
+          "local_end": 1.12
+        },
+        {
+          "word": "will",
+          "start": 31.096,
+          "end": 31.236,
+          "local_start": 1.12,
+          "local_end": 1.26
+        },
+        {
+          "word": "it",
+          "start": 31.236,
+          "end": 31.416,
+          "local_start": 1.26,
+          "local_end": 1.44
+        },
+        {
+          "word": "cost",
+          "start": 31.416,
+          "end": 31.596,
+          "local_start": 1.44,
+          "local_end": 1.62
+        },
+        {
+          "word": "for",
+          "start": 31.596,
+          "end": 31.756,
+          "local_start": 1.62,
+          "local_end": 1.78
+        },
+        {
+          "word": "this",
+          "start": 31.756,
+          "end": 31.916,
+          "local_start": 1.78,
+          "local_end": 1.94
+        },
+        {
+          "word": "size?",
+          "start": 31.916,
+          "end": 32.256,
+          "local_start": 1.94,
+          "local_end": 2.28
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "file": "10.mp3",
+      "text": "Eighteen dollars, including tracking. Would you like insurance as well?",
+      "audio_sha256": "6a94ae83b1f07d0cf5ac467779c1aa792d58df5744fc6a1262ddeee798ccccc8",
+      "start": 32.64,
+      "end": 36.96,
+      "duration": 4.32,
+      "words": [
+        {
+          "word": "Eighteen",
+          "start": 32.64,
+          "end": 33.32,
+          "local_start": 0.0,
+          "local_end": 0.68
+        },
+        {
+          "word": "dollars,",
+          "start": 33.32,
+          "end": 33.76,
+          "local_start": 0.68,
+          "local_end": 1.12
+        },
+        {
+          "word": "including",
+          "start": 34.02,
+          "end": 34.26,
+          "local_start": 1.38,
+          "local_end": 1.62
+        },
+        {
+          "word": "tracking.",
+          "start": 34.26,
+          "end": 34.64,
+          "local_start": 1.62,
+          "local_end": 2.0
+        },
+        {
+          "word": "Would",
+          "start": 35.48,
+          "end": 35.52,
+          "local_start": 2.84,
+          "local_end": 2.88
+        },
+        {
+          "word": "you",
+          "start": 35.52,
+          "end": 35.64,
+          "local_start": 2.88,
+          "local_end": 3.0
+        },
+        {
+          "word": "like",
+          "start": 35.64,
+          "end": 35.82,
+          "local_start": 3.0,
+          "local_end": 3.18
+        },
+        {
+          "word": "insurance",
+          "start": 35.82,
+          "end": 36.2,
+          "local_start": 3.18,
+          "local_end": 3.56
+        },
+        {
+          "word": "as",
+          "start": 36.2,
+          "end": 36.42,
+          "local_start": 3.56,
+          "local_end": 3.78
+        },
+        {
+          "word": "well?",
+          "start": 36.42,
+          "end": 36.54,
+          "local_start": 3.78,
+          "local_end": 3.9
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "file": "11.mp3",
+      "text": "Yes, please add basic insurance. Can I pay by card?",
+      "audio_sha256": "16bd428ca812308b3c1979a1e35ed7bc28d16f2d67ae5f7eb174ff8c2feaeb6b",
+      "start": 36.96,
+      "end": 41.016,
+      "duration": 4.056,
+      "words": [
+        {
+          "word": "Yes,",
+          "start": 36.96,
+          "end": 37.46,
+          "local_start": 0.0,
+          "local_end": 0.5
+        },
+        {
+          "word": "please",
+          "start": 38.02,
+          "end": 38.26,
+          "local_start": 1.06,
+          "local_end": 1.3
+        },
+        {
+          "word": "add",
+          "start": 38.26,
+          "end": 38.54,
+          "local_start": 1.3,
+          "local_end": 1.58
+        },
+        {
+          "word": "basic",
+          "start": 38.54,
+          "end": 38.98,
+          "local_start": 1.58,
+          "local_end": 2.02
+        },
+        {
+          "word": "insurance.",
+          "start": 38.98,
+          "end": 39.44,
+          "local_start": 2.02,
+          "local_end": 2.48
+        },
+        {
+          "word": "Can",
+          "start": 39.98,
+          "end": 40.06,
+          "local_start": 3.02,
+          "local_end": 3.1
+        },
+        {
+          "word": "I",
+          "start": 40.06,
+          "end": 40.22,
+          "local_start": 3.1,
+          "local_end": 3.26
+        },
+        {
+          "word": "pay",
+          "start": 40.22,
+          "end": 40.3,
+          "local_start": 3.26,
+          "local_end": 3.34
+        },
+        {
+          "word": "by",
+          "start": 40.3,
+          "end": 40.6,
+          "local_start": 3.34,
+          "local_end": 3.64
+        },
+        {
+          "word": "card?",
+          "start": 40.6,
+          "end": 40.7,
+          "local_start": 3.64,
+          "local_end": 3.74
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "file": "12.mp3",
+      "text": "Of course. Here's your receipt and tracking number. Have a nice day!",
+      "audio_sha256": "b346289c7a80258122a8bae14eb37d79588159bdcd9768e889dc3fa355a85187",
+      "start": 41.016,
+      "end": 45.072,
+      "duration": 4.056,
+      "words": [
+        {
+          "word": "Of",
+          "start": 41.016,
+          "end": 41.296,
+          "local_start": 0.0,
+          "local_end": 0.28
+        },
+        {
+          "word": "course.",
+          "start": 41.296,
+          "end": 41.556,
+          "local_start": 0.28,
+          "local_end": 0.54
+        },
+        {
+          "word": "Here's",
+          "start": 42.136,
+          "end": 42.336,
+          "local_start": 1.12,
+          "local_end": 1.32
+        },
+        {
+          "word": "your",
+          "start": 42.336,
+          "end": 42.596,
+          "local_start": 1.32,
+          "local_end": 1.58
+        },
+        {
+          "word": "receipt",
+          "start": 42.596,
+          "end": 42.816,
+          "local_start": 1.58,
+          "local_end": 1.8
+        },
+        {
+          "word": "and",
+          "start": 42.816,
+          "end": 43.156,
+          "local_start": 1.8,
+          "local_end": 2.14
+        },
+        {
+          "word": "tracking",
+          "start": 43.156,
+          "end": 43.416,
+          "local_start": 2.14,
+          "local_end": 2.4
+        },
+        {
+          "word": "number.",
+          "start": 43.416,
+          "end": 43.956,
+          "local_start": 2.4,
+          "local_end": 2.94
+        },
+        {
+          "word": "Have",
+          "start": 44.356,
+          "end": 44.396,
+          "local_start": 3.34,
+          "local_end": 3.38
+        },
+        {
+          "word": "a",
+          "start": 44.396,
+          "end": 44.576,
+          "local_start": 3.38,
+          "local_end": 3.56
+        },
+        {
+          "word": "nice",
+          "start": 44.576,
+          "end": 44.576,
+          "local_start": 3.56,
+          "local_end": 3.56
+        },
+        {
+          "word": "day!",
+          "start": 44.576,
+          "end": 44.836,
+          "local_start": 3.56,
+          "local_end": 3.82
+        }
+      ]
+    }
+  ]
+}

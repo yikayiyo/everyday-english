@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-06",
+  "slug": "post-office",
+  "title": "Mailing a Package at the Post Office",
+  "title_zh": "在邮局寄包裹",
+  "context": "Nina 第一次去邮局给国外的朋友寄生日礼物，向柜员 Owen 询问包装要求、运输方式和运费。",
+  "voices": {
+    "Nina": "marin",
+    "Owen": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Nina",
+      "en": "Hi. I'd like to mail this package to a friend in Canada.",
+      "zh": "你好。我想把这个包裹寄给加拿大的一位朋友。"
+    },
+    {
+      "speaker": "Owen",
+      "en": "Sure. Is there anything fragile or liquid inside?",
+      "zh": "没问题。里面有易碎品或者液体吗？"
+    },
+    {
+      "speaker": "Nina",
+      "en": "Just a small ceramic mug and a card. No liquids.",
+      "zh": "只有一个小陶瓷杯子和一张卡片。没有液体。"
+    },
+    {
+      "speaker": "Owen",
+      "en": "Okay. Wrap the mug in bubble wrap, then seal the box with packing tape.",
+      "zh": "好。请先用气泡膜包好杯子，再用胶带把箱子封好。"
+    },
+    {
+      "speaker": "Nina",
+      "en": "Got it. How long will regular shipping take?",
+      "zh": "明白了。普通邮寄大概要多久？"
+    },
+    {
+      "speaker": "Owen",
+      "en": "About seven to ten business days. Express usually takes three to five.",
+      "zh": "大概七到十个工作日。快递一般三到五天。"
+    },
+    {
+      "speaker": "Nina",
+      "en": "I'll take regular shipping. Do I need to fill out a customs form?",
+      "zh": "我选普通邮寄。需要填海关申报单吗？"
+    },
+    {
+      "speaker": "Owen",
+      "en": "Yes. Write the contents and approximate value on this form.",
+      "zh": "需要。在这张表格上写明物品内容和大概价值。"
+    },
+    {
+      "speaker": "Nina",
+      "en": "Okay. How much will it cost for this size?",
+      "zh": "好。这个尺寸大概要多少钱？"
+    },
+    {
+      "speaker": "Owen",
+      "en": "Eighteen dollars, including tracking. Would you like insurance as well?",
+      "zh": "十八美元，含物流追踪。要不要顺便加保险？"
+    },
+    {
+      "speaker": "Nina",
+      "en": "Yes, please add basic insurance. Can I pay by card?",
+      "zh": "好，请加基础保险。可以刷卡吗？"
+    },
+    {
+      "speaker": "Owen",
+      "en": "Of course. Here's your receipt and tracking number. Have a nice day!",
+      "zh": "当然可以。这是您的收据和运单号。祝您今天愉快！"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "I'd like to mail this package",
+      "zh": "我想寄这个包裹。邮局、快递柜常用开场。",
+      "example": "I'd like to mail this package overseas."
+    },
+    {
+      "en": "Anything fragile inside?",
+      "zh": "里面有易碎品吗？柜员核对寄件内容时常用。",
+      "example": "Is there anything fragile or liquid inside?"
+    },
+    {
+      "en": "Business days",
+      "zh": "工作日。说时效时通常不含周末。",
+      "example": "It takes seven to ten business days."
+    },
+    {
+      "en": "Fill out a customs form",
+      "zh": "填写海关申报单。国际寄件必备。",
+      "example": "You'll need to fill out a customs form."
+    },
+    {
+      "en": "Tracking number",
+      "zh": "运单号/物流追踪号。查询包裹进度用。",
+      "example": "Keep your tracking number to check the delivery."
+    }
+  ],
+  "pronunciation": "练习 package 的重音在 PAC。注意 customs form 连读时 form 清晰送气，business days 里 business 的弱读 /ˈbɪznəs/，以及 tracking number 的节奏：TRACKing NUMber。",
+  "practice": [
+    {
+      "title": "Part 1 · Letters and packages",
+      "prompt": "Do you often send letters or packages?",
+      "answer": "Not very often. I mostly send packages for birthdays or holidays. For everyday messages, I just use my phone."
+    },
+    {
+      "title": "Part 2 · A time you sent something",
+      "prompt": "Describe a time you sent a letter or a package. Say what you sent, where it went, and how you felt about it.",
+      "answer": "Last year I mailed a birthday gift to my friend in Canada. I packed a mug carefully and chose regular shipping. I felt happy when she received it safely. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Online shopping and delivery",
+      "prompt": "How has online shopping changed the way people send and receive packages?",
+      "answer": "Online shopping has made delivery much more common. People expect fast shipping and tracking. On the other hand, more packages also mean more packaging waste and busy post offices."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "先听完整对话，再逐句跟读。最后练习说明包裹里有什么、选哪种运输，以及是否需要保险。",
+      "answer": "用 3–4 句说明你会怎么寄一个国际包裹：内容、包装、运输方式和付款。"
+    }
+  ]
+}
