@@ -3,13 +3,20 @@
 Personal mechanic demo of a die-cut / peek-through picture book in English.
 Inspired by the interaction pattern of Dan & Finn Ojari’s *Is This a Plum?* — **not** an official edition and **not** their published artwork.
 
+## Page structure (matches the physical book)
+
+Each **pair** is two sheets stacked:
+
+1. **Question sheet (on top)** — cream paper with an SVG evenodd **hole** (+ optional stem / spider legs drawn on the mask only) and the question text.
+2. **Answer sheet (underneath)** — full illustration. Through the hole you only see the “fake” local (plum / spider / …).
+
+**Advance** runs a CSS `rotateY` page-turn that swings the question sheet away. The hole does **not** fade on the same slide.
+
 ## How art is made
 
-- **Illustrations:** OpenAI Images model **`gpt-image-2.6-flare`** (1536×1024, crayon / colored-pencil children’s-book style with white space). Generated on Mac (`legao.local`) with the user’s API key; the Grok Bot box hits OpenAI geo `unsupported_country_region_territory`.
-- **Causal composition (core):** each reveal PNG is composed so a shaped hole over the **fake** local silhouette reads as the question word (plum / spider / spoon / house / goose / cat / kite / pear / cake); removing the mask shows the **true** subject (bum / tiger / moon / mouse / moose / bat / knight / bear / snake). No holes are painted into the PNGs — the hole is SVG only.
-- **Masks only:** SVG evenodd white overlays with shaped holes (optional decorative spider legs / stem / candle). No SVG character bodies as main art.
-- Previous `gpt-image-1.5` set kept under `assets/illustrations/_prev-gpt-image-1.5/`.
-- Original book scans are **not** used.
+- **Illustrations:** OpenAI Images model **`gpt-image-2.6-flare`** (1536×1024). Generated on Mac; box hits OpenAI geo 403.
+- **No holes painted into PNGs** — hole is SVG mask on the question sheet only.
+- Previous `gpt-image-1.5` set under `assets/illustrations/_prev-gpt-image-1.5/` when present.
 
 ## Open it
 
@@ -18,29 +25,32 @@ cd /workspace/is-this-a-plum-demo
 python3 -m http.server 8765
 ```
 
-Then open http://127.0.0.1:8765/
+http://127.0.0.1:8765/
+
+Preview (site branch `preview/plum-peek-through`): https://yikayiyo.github.io/everyday-english-site/plum/
 
 ## Controls
 
-- Click / tap, or **→ / Space / Enter** to advance (cover → peek → reveal → next)
-- **← / Backspace** go back
-- **Home** reset to cover
+- Click / tap / **→ / Space / Enter** — turn question sheet, then next pair
+- **← / Backspace** — un-turn, then previous pair
+- **Home** — reset
 
-## Spreads
+## Pairs
 
-| # | Question hole | Reveal art |
-|---|---------------|------------|
-| Cover | plum (centered on hippo rear) | cover.png |
-| 1 | plum | bum.png |
-| 2 | spider (+ SVG legs on tiger nose) | tiger.png |
-| 3 | spoon | moon.png |
-| 4 | house | mouse.png |
-| 5 | goose | moose.png |
-| 6 | cat | bat.png |
-| 7 | kite (shifted to shield) | knight.png |
-| 8 | pear | bear.png |
-| 9 | cake | snake.png |
+| # | Hole (question) | Answer art |
+|---|-----------------|------------|
+| 0 | plum → hippo butt | bum.png |
+| 1 | spider → tiger nose (+ SVG legs) | tiger.png |
+| 2 | spoon | moon.png |
+| 3 | house | mouse.png |
+| 4 | goose | moose.png |
+| 5 | cat | bat.png |
+| 6 | kite | knight.png |
+| 7 | pear | bear.png |
+| 8 | cake | snake.png |
 
-## Acceptance check
+## Acceptance (esp. pairs 0–1)
 
-For each spread: with mask on, does the hole look like the question word? After reveal, is the answer obvious and funny? If a hole misses the fake local, tweak only the SVG path in `index.html` for that `data-n` — leave PNGs as the art source.
+1. With question sheet down: hole reads as the question word; you see answer art *through* the hole only.
+2. After turn: full answer art, punchline, **no** hole / no mask fade on the same layer.
+3. If hole misses the fake local, tweak only the SVG path — leave PNGs alone.

@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <title>Is This a Plum? — interactive peek-through demo</title>
+  <title>Is This a Plum? — peek-through page turn</title>
   <link rel="stylesheet" href="css/book.css"/>
 </head>
 <body>
@@ -14,191 +14,167 @@
 
   <main class="book-shell" id="book-shell" role="region" aria-label="Picture book">
 
-    <section class="spread active" data-type="cover" data-n="0" aria-label="Cover">
-      <div class="layer art-layer">
-        <img src="assets/illustrations/cover.png" alt="" draggable="false"/>
+    <!-- Pair 0: cover / plum → bum (hole on question sheet, art on answer sheet) -->
+    <section class="spread pair active" data-type="pair" data-n="0" data-q="PLUM" data-a="BUM" aria-label="Is this a PLUM?">
+      <div class="answer-sheet">
+        <div class="art-layer">
+          <img src="assets/illustrations/bum.png" alt="" draggable="false"/>
+        </div>
+        <p class="a-caption punchline">No &ndash; it&rsquo;s a <span class="noun">BUM</span>!</p>
       </div>
-      <div class="layer mask-layer" aria-hidden="true">
+      <div class="question-sheet" aria-hidden="false">
         <svg class="diecut" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice">
-  <path fill="#f7f4ee" fill-rule="evenodd" d="M0 0H800V500H0Z M400 168c-58 0-100 48-100 102 0 72 62 138 100 176 38-38 100-104 100-176 0-54-42-102-100-102z"/>
-  <path d="M400 168c0-20 8-40 6-56" fill="none" stroke="#4a2f1a" stroke-width="7" stroke-linecap="round"/>
-  <ellipse cx="424" cy="108" rx="20" ry="11" fill="#3d6b3a" transform="rotate(-25 424 108)"/>
-</svg>
+          <!-- Plum hole aligned to hippo butt (~vb 379,222) -->
+          <path fill="#f7f4ee" fill-rule="evenodd" d="M0 0H800V500H0Z M379 118c-58 0-100 48-100 102 0 72 62 138 100 176 38-38 100-104 100-176 0-54-42-102-100-102z"/>
+          <path d="M379 118c0-20 8-40 6-56" fill="none" stroke="#4a2f1a" stroke-width="7" stroke-linecap="round"/>
+          <ellipse cx="403" cy="58" rx="20" ry="11" fill="#3d6b3a" transform="rotate(-25 403 58)"/>
+        </svg>
+        <div class="cover-titles">
+          <h1>Is this a <span class="noun">PLUM</span>?</h1>
+          <p class="credit">Peek-through page turn · hole on question sheet · gpt-image-2.6-flare · personal demo</p>
+        </div>
       </div>
-      <div class="cover-titles">
-        <h1>Is This a Plum?</h1>
-        <p class="credit">Interactive remake of the peek-through mechanic · gpt-image-2.6-flare · SVG hole masks only · personal demo, not published book art</p>
-      </div>
-      <button class="tap-zone cover-tap" type="button" aria-label="Open the book"></button>
+      <button class="tap-zone" type="button" aria-label="Turn the page"></button>
     </section>
-    <section class="spread" data-type="spread" data-n="1" aria-label="Is this a PLUM?">
-      <div class="layer art-layer">
-        <img src="assets/illustrations/bum.png" alt="" draggable="false"/>
+
+    <!-- Pair 1: spider → tiger -->
+    <section class="spread pair" data-type="pair" data-n="1" data-q="SPIDER" data-a="TIGER" aria-label="Is this a SPIDER?">
+      <div class="answer-sheet">
+        <div class="art-layer">
+          <img src="assets/illustrations/tiger.png" alt="" draggable="false"/>
+        </div>
+        <p class="a-caption punchline">No &ndash; it&rsquo;s a <span class="noun">TIGER</span>!</p>
       </div>
-      <div class="layer mask-layer" aria-hidden="true">
+      <div class="question-sheet">
         <svg class="diecut" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice">
-  <path fill="#f7f4ee" fill-rule="evenodd" d="M0 0H800V500H0Z M400 168c-58 0-100 48-100 102 0 72 62 138 100 176 38-38 100-104 100-176 0-54-42-102-100-102z"/>
-  <path d="M400 168c0-20 8-40 6-56" fill="none" stroke="#4a2f1a" stroke-width="7" stroke-linecap="round"/>
-  <ellipse cx="424" cy="108" rx="20" ry="11" fill="#3d6b3a" transform="rotate(-25 424 108)"/>
-</svg>
+          <!-- Spider body hole on tiger nose (~vb 397,206); legs SVG on mask only -->
+          <path fill="#f7f4ee" fill-rule="evenodd" d="M0 0H800V500H0Z M397 233c-42 0-70-28-70-55s28-52 70-52 70 25 70 52-28 55-70 55z"/>
+          <g fill="none" stroke="#1a1a1a" stroke-width="4.5" stroke-linecap="round" opacity="0.9">
+            <path d="M347 193 C317 168 292 153 267 138"/>
+            <path d="M342 218 C297 213 262 210 227 206"/>
+            <path d="M345 243 C302 253 272 268 242 288"/>
+            <path d="M352 260 C317 283 297 308 282 333"/>
+            <path d="M447 193 C477 168 502 153 527 138"/>
+            <path d="M452 218 C497 213 532 210 567 206"/>
+            <path d="M449 243 C492 253 522 268 552 288"/>
+            <path d="M442 260 C477 283 497 308 512 333"/>
+          </g>
+        </svg>
+        <p class="q-caption q-text">Is this a <span class="noun">SPIDER</span>?</p>
       </div>
-      <div class="layer caption-layer">
-        <p class="q-text">Is this a <span class="noun">PLUM</span>?</p>
-        <p class="punchline">No &ndash; it&rsquo;s a <span class="noun">BUM</span>!</p>
-      </div>
-      <button class="tap-zone question-tap" type="button" aria-label="Reveal the answer"></button>
-      <button class="tap-zone reveal-tap" type="button" aria-label="Next page"></button>
+      <button class="tap-zone" type="button" aria-label="Turn the page"></button>
     </section>
-    <section class="spread" data-type="spread" data-n="2" aria-label="Is this a SPIDER?">
-      <div class="layer art-layer">
-        <img src="assets/illustrations/tiger.png" alt="" draggable="false"/>
+
+    <!-- Remaining pairs: same page-turn structure (masks kept; polish later) -->
+    <section class="spread pair" data-type="pair" data-n="2" data-q="SPOON" data-a="MOON" aria-label="Is this a SPOON?">
+      <div class="answer-sheet">
+        <div class="art-layer"><img src="assets/illustrations/moon.png" alt="" draggable="false"/></div>
+        <p class="a-caption punchline">No &ndash; it&rsquo;s the <span class="noun">MOON</span>!</p>
       </div>
-      <div class="layer mask-layer" aria-hidden="true">
+      <div class="question-sheet">
         <svg class="diecut" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice">
-  <path fill="#f7f4ee" fill-rule="evenodd" d="M0 0H800V500H0Z M400 235c-42 0-70-28-70-55s28-52 70-52 70 25 70 52-28 55-70 55z"/>
-  <g fill="none" stroke="#1a1a1a" stroke-width="4.5" stroke-linecap="round" opacity="0.9">
-    <path d="M350 195 C320 170 295 155 270 140"/>
-    <path d="M345 220 C300 215 265 212 230 208"/>
-    <path d="M348 245 C305 255 275 270 245 290"/>
-    <path d="M355 262 C320 285 300 310 285 335"/>
-    <path d="M450 195 C480 170 505 155 530 140"/>
-    <path d="M455 220 C500 215 535 212 570 208"/>
-    <path d="M452 245 C495 255 525 270 555 290"/>
-    <path d="M445 262 C480 285 500 310 515 335"/>
-  </g>
-</svg>
+          <path fill="#f7f4ee" fill-rule="evenodd" d="M0 0H800V500H0Z M400 105c-52 0-92 45-92 100 0 42 26 76 62 92v120c0 15 13 28 30 28s30-13 30-28V297c36-16 62-50 62-92 0-55-40-100-92-100z"/>
+        </svg>
+        <p class="q-caption q-text">Is this a <span class="noun">SPOON</span>?</p>
       </div>
-      <div class="layer caption-layer">
-        <p class="q-text">Is this a <span class="noun">SPIDER</span>?</p>
-        <p class="punchline">No &ndash; it&rsquo;s a <span class="noun">TIGER</span>!</p>
-      </div>
-      <button class="tap-zone question-tap" type="button" aria-label="Reveal the answer"></button>
-      <button class="tap-zone reveal-tap" type="button" aria-label="Next page"></button>
+      <button class="tap-zone" type="button" aria-label="Turn the page"></button>
     </section>
-    <section class="spread" data-type="spread" data-n="3" aria-label="Is this a SPOON?">
-      <div class="layer art-layer">
-        <img src="assets/illustrations/moon.png" alt="" draggable="false"/>
+
+    <section class="spread pair" data-type="pair" data-n="3" data-q="HOUSE" data-a="MOUSE" aria-label="Is this a HOUSE?">
+      <div class="answer-sheet">
+        <div class="art-layer"><img src="assets/illustrations/mouse.png" alt="" draggable="false"/></div>
+        <p class="a-caption punchline">No &ndash; it&rsquo;s a <span class="noun">MOUSE</span>!</p>
       </div>
-      <div class="layer mask-layer" aria-hidden="true">
+      <div class="question-sheet">
         <svg class="diecut" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice">
-  <path fill="#f7f4ee" fill-rule="evenodd" d="M0 0H800V500H0Z M400 105c-52 0-92 45-92 100 0 42 26 76 62 92v120c0 15 13 28 30 28s30-13 30-28V297c36-16 62-50 62-92 0-55-40-100-92-100z"/>
-</svg>
+          <path fill="#f7f4ee" fill-rule="evenodd" d="M0 0H800V500H0Z M400 95 L510 195 V350 H290 V195 Z"/>
+        </svg>
+        <p class="q-caption q-text">Is this a <span class="noun">HOUSE</span>?</p>
       </div>
-      <div class="layer caption-layer">
-        <p class="q-text">Is this a <span class="noun">SPOON</span>?</p>
-        <p class="punchline">No &ndash; it&rsquo;s the <span class="noun">MOON</span>!</p>
-      </div>
-      <button class="tap-zone question-tap" type="button" aria-label="Reveal the answer"></button>
-      <button class="tap-zone reveal-tap" type="button" aria-label="Next page"></button>
+      <button class="tap-zone" type="button" aria-label="Turn the page"></button>
     </section>
-    <section class="spread" data-type="spread" data-n="4" aria-label="Is this a HOUSE?">
-      <div class="layer art-layer">
-        <img src="assets/illustrations/mouse.png" alt="" draggable="false"/>
+
+    <section class="spread pair" data-type="pair" data-n="4" data-q="GOOSE" data-a="MOOSE" aria-label="Is this a GOOSE?">
+      <div class="answer-sheet">
+        <div class="art-layer"><img src="assets/illustrations/moose.png" alt="" draggable="false"/></div>
+        <p class="a-caption punchline">No &ndash; it&rsquo;s a <span class="noun">MOOSE</span>!</p>
       </div>
-      <div class="layer mask-layer" aria-hidden="true">
+      <div class="question-sheet">
         <svg class="diecut" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice">
-  <path fill="#f7f4ee" fill-rule="evenodd" d="M0 0H800V500H0Z M400 95 L510 195 V350 H290 V195 Z"/>
-</svg>
+          <path fill="#f7f4ee" fill-rule="evenodd" d="M0 0H800V500H0Z M430 130c-28-6-68 12-86 52-12 26-8 52 10 72 8 9 10 20 5 30-22 52 14 105 68 105 40 0 76-30 82-72 8-52-18-105-48-140-10-12-20-34-31-47z"/>
+        </svg>
+        <p class="q-caption q-text">Is this a <span class="noun">GOOSE</span>?</p>
       </div>
-      <div class="layer caption-layer">
-        <p class="q-text">Is this a <span class="noun">HOUSE</span>?</p>
-        <p class="punchline">No &ndash; it&rsquo;s a <span class="noun">MOUSE</span>!</p>
-      </div>
-      <button class="tap-zone question-tap" type="button" aria-label="Reveal the answer"></button>
-      <button class="tap-zone reveal-tap" type="button" aria-label="Next page"></button>
+      <button class="tap-zone" type="button" aria-label="Turn the page"></button>
     </section>
-    <section class="spread" data-type="spread" data-n="5" aria-label="Is this a GOOSE?">
-      <div class="layer art-layer">
-        <img src="assets/illustrations/moose.png" alt="" draggable="false"/>
+
+    <section class="spread pair" data-type="pair" data-n="5" data-q="CAT" data-a="BAT" aria-label="Is this a CAT?">
+      <div class="answer-sheet">
+        <div class="art-layer"><img src="assets/illustrations/bat.png" alt="" draggable="false"/></div>
+        <p class="a-caption punchline">No &ndash; it&rsquo;s a <span class="noun">BAT</span>!</p>
       </div>
-      <div class="layer mask-layer" aria-hidden="true">
+      <div class="question-sheet">
         <svg class="diecut" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice">
-  <path fill="#f7f4ee" fill-rule="evenodd" d="M0 0H800V500H0Z M430 130c-28-6-68 12-86 52-12 26-8 52 10 72 8 9 10 20 5 30-22 52 14 105 68 105 40 0 76-30 82-72 8-52-18-105-48-140-10-12-20-34-31-47z"/>
-</svg>
+          <path fill="#f7f4ee" fill-rule="evenodd" d="M0 0H800V500H0Z M400 155 L448 112 458 175 C500 190 520 235 500 285 475 345 415 365 400 365 385 365 325 345 300 285 280 235 300 190 342 175 L352 112 Z"/>
+        </svg>
+        <p class="q-caption q-text">Is this a <span class="noun">CAT</span>?</p>
       </div>
-      <div class="layer caption-layer">
-        <p class="q-text">Is this a <span class="noun">GOOSE</span>?</p>
-        <p class="punchline">No &ndash; it&rsquo;s a <span class="noun">MOOSE</span>!</p>
-      </div>
-      <button class="tap-zone question-tap" type="button" aria-label="Reveal the answer"></button>
-      <button class="tap-zone reveal-tap" type="button" aria-label="Next page"></button>
+      <button class="tap-zone" type="button" aria-label="Turn the page"></button>
     </section>
-    <section class="spread" data-type="spread" data-n="6" aria-label="Is this a CAT?">
-      <div class="layer art-layer">
-        <img src="assets/illustrations/bat.png" alt="" draggable="false"/>
+
+    <section class="spread pair" data-type="pair" data-n="6" data-q="KITE" data-a="KNIGHT" aria-label="Is this a KITE?">
+      <div class="answer-sheet">
+        <div class="art-layer"><img src="assets/illustrations/knight.png" alt="" draggable="false"/></div>
+        <p class="a-caption punchline">No &ndash; it&rsquo;s a <span class="noun">KNIGHT</span>!</p>
       </div>
-      <div class="layer mask-layer" aria-hidden="true">
+      <div class="question-sheet">
         <svg class="diecut" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice">
-  <path fill="#f7f4ee" fill-rule="evenodd" d="M0 0H800V500H0Z M400 155 L448 112 458 175 C500 190 520 235 500 285 475 345 415 365 400 365 385 365 325 345 300 285 280 235 300 190 342 175 L352 112 Z"/>
-</svg>
+          <path fill="#f7f4ee" fill-rule="evenodd" d="M0 0H800V500H0Z M300 120 L395 255 300 390 205 255 Z"/>
+          <path d="M300 390 C318 425 340 455 365 480" fill="none" stroke="#4a2f1a" stroke-width="4" stroke-linecap="round"/>
+        </svg>
+        <p class="q-caption q-text">Is this a <span class="noun">KITE</span>?</p>
       </div>
-      <div class="layer caption-layer">
-        <p class="q-text">Is this a <span class="noun">CAT</span>?</p>
-        <p class="punchline">No &ndash; it&rsquo;s a <span class="noun">BAT</span>!</p>
-      </div>
-      <button class="tap-zone question-tap" type="button" aria-label="Reveal the answer"></button>
-      <button class="tap-zone reveal-tap" type="button" aria-label="Next page"></button>
+      <button class="tap-zone" type="button" aria-label="Turn the page"></button>
     </section>
-    <section class="spread" data-type="spread" data-n="7" aria-label="Is this a KITE?">
-      <div class="layer art-layer">
-        <img src="assets/illustrations/knight.png" alt="" draggable="false"/>
+
+    <section class="spread pair" data-type="pair" data-n="7" data-q="PEAR" data-a="BEAR" aria-label="Is this a PEAR?">
+      <div class="answer-sheet">
+        <div class="art-layer"><img src="assets/illustrations/bear.png" alt="" draggable="false"/></div>
+        <p class="a-caption punchline">No &ndash; it&rsquo;s a <span class="noun">BEAR</span>!</p>
       </div>
-      <div class="layer mask-layer" aria-hidden="true">
+      <div class="question-sheet">
         <svg class="diecut" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice">
-  <path fill="#f7f4ee" fill-rule="evenodd" d="M0 0H800V500H0Z M300 120 L395 255 300 390 205 255 Z"/>
-  <path d="M300 390 C318 425 340 455 365 480" fill="none" stroke="#4a2f1a" stroke-width="4" stroke-linecap="round"/>
-</svg>
+          <path fill="#f7f4ee" fill-rule="evenodd" d="M0 0H800V500H0Z M400 150c-30 0-52 24-56 54-6 42 10 74 10 74s-58 38-58 100c0 64 54 112 104 112s104-48 104-112c0-62-58-100-58-100s18-32 10-74c-4-30-26-54-56-54z"/>
+          <path d="M400 150c0-16 4-32 2-44" fill="none" stroke="#4a2f1a" stroke-width="6" stroke-linecap="round"/>
+          <ellipse cx="420" cy="100" rx="16" ry="9" fill="#3d6b3a" transform="rotate(-20 420 100)"/>
+        </svg>
+        <p class="q-caption q-text">Is this a <span class="noun">PEAR</span>?</p>
       </div>
-      <div class="layer caption-layer">
-        <p class="q-text">Is this a <span class="noun">KITE</span>?</p>
-        <p class="punchline">No &ndash; it&rsquo;s a <span class="noun">KNIGHT</span>!</p>
-      </div>
-      <button class="tap-zone question-tap" type="button" aria-label="Reveal the answer"></button>
-      <button class="tap-zone reveal-tap" type="button" aria-label="Next page"></button>
+      <button class="tap-zone" type="button" aria-label="Turn the page"></button>
     </section>
-    <section class="spread" data-type="spread" data-n="8" aria-label="Is this a PEAR?">
-      <div class="layer art-layer">
-        <img src="assets/illustrations/bear.png" alt="" draggable="false"/>
+
+    <section class="spread pair" data-type="pair" data-n="8" data-q="CAKE" data-a="SNAKE" aria-label="Is this a CAKE?">
+      <div class="answer-sheet">
+        <div class="art-layer"><img src="assets/illustrations/snake.png" alt="" draggable="false"/></div>
+        <p class="a-caption punchline">No &ndash; it&rsquo;s a <span class="noun">SNAKE</span>!</p>
       </div>
-      <div class="layer mask-layer" aria-hidden="true">
+      <div class="question-sheet">
         <svg class="diecut" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice">
-  <path fill="#f7f4ee" fill-rule="evenodd" d="M0 0H800V500H0Z M400 150c-30 0-52 24-56 54-6 42 10 74 10 74s-58 38-58 100c0 64 54 112 104 112s104-48 104-112c0-62-58-100-58-100s18-32 10-74c-4-30-26-54-56-54z"/>
-  <path d="M400 150c0-16 4-32 2-44" fill="none" stroke="#4a2f1a" stroke-width="6" stroke-linecap="round"/>
-  <ellipse cx="420" cy="100" rx="16" ry="9" fill="#3d6b3a" transform="rotate(-20 420 100)"/>
-</svg>
+          <path fill="#f7f4ee" fill-rule="evenodd" d="M0 0H800V500H0Z M270 230 H530 V355 Q530 380 505 380 H295 Q270 380 270 355 Z M315 230 C315 185 355 160 400 160 445 160 485 185 485 230 Z"/>
+          <g fill="#c45c26">
+            <rect x="386" y="115" width="8" height="48" rx="3"/>
+            <ellipse cx="390" cy="110" rx="10" ry="12"/>
+          </g>
+        </svg>
+        <p class="q-caption q-text">Is this a <span class="noun">CAKE</span>?</p>
       </div>
-      <div class="layer caption-layer">
-        <p class="q-text">Is this a <span class="noun">PEAR</span>?</p>
-        <p class="punchline">No &ndash; it&rsquo;s a <span class="noun">BEAR</span>!</p>
-      </div>
-      <button class="tap-zone question-tap" type="button" aria-label="Reveal the answer"></button>
-      <button class="tap-zone reveal-tap" type="button" aria-label="Next page"></button>
-    </section>
-    <section class="spread" data-type="spread" data-n="9" aria-label="Is this a CAKE?">
-      <div class="layer art-layer">
-        <img src="assets/illustrations/snake.png" alt="" draggable="false"/>
-      </div>
-      <div class="layer mask-layer" aria-hidden="true">
-        <svg class="diecut" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice">
-  <path fill="#f7f4ee" fill-rule="evenodd" d="M0 0H800V500H0Z M270 230 H530 V355 Q530 380 505 380 H295 Q270 380 270 355 Z M315 230 C315 185 355 160 400 160 445 160 485 185 485 230 Z"/>
-  <g fill="#c45c26">
-    <rect x="386" y="115" width="8" height="48" rx="3"/>
-    <ellipse cx="390" cy="110" rx="10" ry="12"/>
-  </g>
-</svg>
-      </div>
-      <div class="layer caption-layer">
-        <p class="q-text">Is this a <span class="noun">CAKE</span>?</p>
-        <p class="punchline">No &ndash; it&rsquo;s a <span class="noun">SNAKE</span>!</p>
-      </div>
-      <button class="tap-zone question-tap" type="button" aria-label="Reveal the answer"></button>
-      <button class="tap-zone reveal-tap" type="button" aria-label="Next page"></button>
+      <button class="tap-zone" type="button" aria-label="Turn the page"></button>
     </section>
   </main>
 
   <div class="controls">
     <button type="button" id="btn-prev">Back</button>
-    <button type="button" id="btn-action">Open book</button>
+    <button type="button" id="btn-action">Turn page</button>
     <button type="button" id="btn-next">Next</button>
   </div>
 
