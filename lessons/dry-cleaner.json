@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-07",
+  "slug": "dry-cleaner",
+  "title": "Dropping Off Clothes at a Dry Cleaner",
+  "title_zh": "在干洗店送洗衣服",
+  "context": "Lena 把一件沾了红酒渍的外套送到干洗店，向店员 Chris 询问能否去渍、取件时间和价格。",
+  "voices": {
+    "Lena": "marin",
+    "Chris": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Lena",
+      "en": "Hi. I'd like to drop off this coat for dry cleaning.",
+      "zh": "你好。我想把这件外套送去干洗。"
+    },
+    {
+      "speaker": "Chris",
+      "en": "Sure. Is there a stain you'd like us to treat?",
+      "zh": "没问题。有什么污渍需要我们处理吗？"
+    },
+    {
+      "speaker": "Lena",
+      "en": "Yes, there's a red wine stain on the right sleeve.",
+      "zh": "有的，右袖上有一块红酒渍。"
+    },
+    {
+      "speaker": "Chris",
+      "en": "Got it. We'll pretreat the stain before we clean the coat.",
+      "zh": "明白了。我们会先预处理污渍，再干洗这件外套。"
+    },
+    {
+      "speaker": "Lena",
+      "en": "Great. How long will it usually take?",
+      "zh": "太好了。一般要多久能取？"
+    },
+    {
+      "speaker": "Chris",
+      "en": "Regular service is two days. Same-day pickup is available until three.",
+      "zh": "普通服务两天。当天取件可以，最晚三点前。"
+    },
+    {
+      "speaker": "Lena",
+      "en": "Two days is fine. Do I need to leave a phone number?",
+      "zh": "两天可以。需要留电话号码吗？"
+    },
+    {
+      "speaker": "Chris",
+      "en": "Yes, please. We'll text you when it's ready for pickup.",
+      "zh": "需要。衣服好了我们会发短信通知你来取。"
+    },
+    {
+      "speaker": "Lena",
+      "en": "Okay. How much will the coat cost?",
+      "zh": "好。这件外套大概多少钱？"
+    },
+    {
+      "speaker": "Chris",
+      "en": "Eighteen dollars, including stain treatment.",
+      "zh": "十八美元，含去渍处理。"
+    },
+    {
+      "speaker": "Lena",
+      "en": "Perfect. Can I pay when I pick it up?",
+      "zh": "很好。我可以取件的时候再付款吗？"
+    },
+    {
+      "speaker": "Chris",
+      "en": "Of course. Here's your claim ticket. See you in two days!",
+      "zh": "当然可以。这是您的取件单。两天后见！"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "Drop off for dry cleaning",
+      "zh": "送去干洗。把衣物交给干洗店时常用。",
+      "example": "I'd like to drop off this coat for dry cleaning."
+    },
+    {
+      "en": "Treat a stain",
+      "zh": "处理污渍。去渍、预处理时常用。",
+      "example": "Can you treat the red wine stain on the sleeve?"
+    },
+    {
+      "en": "Same-day pickup",
+      "zh": "当天取件。加急服务常用说法。",
+      "example": "Is same-day pickup available for this dress?"
+    },
+    {
+      "en": "Ready for pickup",
+      "zh": "可以取件了。店家通知顾客时常用。",
+      "example": "We'll text you when it's ready for pickup."
+    },
+    {
+      "en": "Claim ticket",
+      "zh": "取件单/取衣凭条。取衣服时出示。",
+      "example": "Please bring your claim ticket when you pick it up."
+    }
+  ],
+  "pronunciation": "练习 dry cleaning 的节奏：DRY CLEANing。注意 stain 的长元音 /steɪn/，pretreat 重音在后：pre-TREAT，以及 claim ticket 的清晰爆破音：CLAIM TICket。",
+  "practice": [
+    {
+      "title": "Part 1 · Clothes and cleaning",
+      "prompt": "Do you usually wash clothes at home, or do you use a laundry or dry cleaner?",
+      "answer": "I wash most clothes at home. For coats and formal clothes, I sometimes use a dry cleaner, especially if there is a stain."
+    },
+    {
+      "title": "Part 2 · A time you cleaned something carefully",
+      "prompt": "Describe a time you took something to be cleaned. Say what it was, why it needed cleaning, and what happened.",
+      "answer": "Last month I took my coat to a dry cleaner because of a wine stain. They pretreated it and I picked it up two days later. I was relieved it looked almost new. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Services in daily life",
+      "prompt": "Why do some people prefer professional cleaning services instead of washing everything at home?",
+      "answer": "Professional cleaners can remove difficult stains and care for delicate fabrics. They also save time for busy people. However, the service costs more than washing at home."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "先听完整对话，再逐句跟读。最后练习说明衣服上的污渍、需要几天取件，以及是否当天取件。",
+      "answer": "用 3–4 句说明你会怎么送一件衣服去干洗：污渍、服务时效、价格和取件方式。"
+    }
+  ]
+}

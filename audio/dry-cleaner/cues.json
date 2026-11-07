@@ -1,0 +1,938 @@
+{
+  "model": "whisper-1",
+  "lesson": "dry-cleaner",
+  "full_track": "dialogue-full.mp3",
+  "full_duration": 39.384,
+  "lines": [
+    {
+      "index": 1,
+      "file": "01.mp3",
+      "text": "Hi. I'd like to drop off this coat for dry cleaning.",
+      "audio_sha256": "aad3f16371d112539f19961068f80d578932f2e26e15841d2087796226e5f969",
+      "start": 0.0,
+      "end": 4.056,
+      "duration": 4.056,
+      "words": [
+        {
+          "word": "Hi.",
+          "start": 0.0,
+          "end": 0.44,
+          "local_start": 0.0,
+          "local_end": 0.44
+        },
+        {
+          "word": "I'd",
+          "start": 0.54,
+          "end": 1.14,
+          "local_start": 0.54,
+          "local_end": 1.14
+        },
+        {
+          "word": "like",
+          "start": 1.14,
+          "end": 1.32,
+          "local_start": 1.14,
+          "local_end": 1.32
+        },
+        {
+          "word": "to",
+          "start": 1.32,
+          "end": 1.62,
+          "local_start": 1.32,
+          "local_end": 1.62
+        },
+        {
+          "word": "drop",
+          "start": 1.62,
+          "end": 1.62,
+          "local_start": 1.62,
+          "local_end": 1.62
+        },
+        {
+          "word": "off",
+          "start": 1.62,
+          "end": 1.84,
+          "local_start": 1.62,
+          "local_end": 1.84
+        },
+        {
+          "word": "this",
+          "start": 1.84,
+          "end": 2.06,
+          "local_start": 1.84,
+          "local_end": 2.06
+        },
+        {
+          "word": "coat",
+          "start": 2.06,
+          "end": 2.28,
+          "local_start": 2.06,
+          "local_end": 2.28
+        },
+        {
+          "word": "for",
+          "start": 2.28,
+          "end": 2.64,
+          "local_start": 2.28,
+          "local_end": 2.64
+        },
+        {
+          "word": "dry",
+          "start": 2.64,
+          "end": 2.86,
+          "local_start": 2.64,
+          "local_end": 2.86
+        },
+        {
+          "word": "cleaning.",
+          "start": 2.86,
+          "end": 3.1,
+          "local_start": 2.86,
+          "local_end": 3.1
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "file": "02.mp3",
+      "text": "Sure. Is there a stain you'd like us to treat?",
+      "audio_sha256": "3bb068d3157eb24da7ad30af39b3add90e07b6aebf74149d5b428c1c1e3f5e7c",
+      "start": 4.056,
+      "end": 7.056,
+      "duration": 3.0,
+      "words": [
+        {
+          "word": "Sure.",
+          "start": 4.056,
+          "end": 4.516,
+          "local_start": 0.0,
+          "local_end": 0.46
+        },
+        {
+          "word": "Is",
+          "start": 4.936,
+          "end": 5.336,
+          "local_start": 0.88,
+          "local_end": 1.28
+        },
+        {
+          "word": "there",
+          "start": 5.336,
+          "end": 5.536,
+          "local_start": 1.28,
+          "local_end": 1.48
+        },
+        {
+          "word": "a",
+          "start": 5.536,
+          "end": 5.736,
+          "local_start": 1.48,
+          "local_end": 1.68
+        },
+        {
+          "word": "stain",
+          "start": 5.736,
+          "end": 5.976,
+          "local_start": 1.68,
+          "local_end": 1.92
+        },
+        {
+          "word": "you'd",
+          "start": 5.976,
+          "end": 6.216,
+          "local_start": 1.92,
+          "local_end": 2.16
+        },
+        {
+          "word": "like",
+          "start": 6.216,
+          "end": 6.376,
+          "local_start": 2.16,
+          "local_end": 2.32
+        },
+        {
+          "word": "us",
+          "start": 6.376,
+          "end": 6.516,
+          "local_start": 2.32,
+          "local_end": 2.46
+        },
+        {
+          "word": "to",
+          "start": 6.516,
+          "end": 6.796,
+          "local_start": 2.46,
+          "local_end": 2.74
+        },
+        {
+          "word": "treat?",
+          "start": 6.796,
+          "end": 6.796,
+          "local_start": 2.74,
+          "local_end": 2.74
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "file": "03.mp3",
+      "text": "Yes, there's a red wine stain on the right sleeve.",
+      "audio_sha256": "ecc1185204b7fd87e0b1277ae85e4ea97a5326a2a031137f4586172eb4c1211c",
+      "start": 7.056,
+      "end": 10.368,
+      "duration": 3.312,
+      "words": [
+        {
+          "word": "Yes,",
+          "start": 7.056,
+          "end": 7.556,
+          "local_start": 0.0,
+          "local_end": 0.5
+        },
+        {
+          "word": "there's",
+          "start": 7.716,
+          "end": 7.916,
+          "local_start": 0.66,
+          "local_end": 0.86
+        },
+        {
+          "word": "a",
+          "start": 7.916,
+          "end": 8.156,
+          "local_start": 0.86,
+          "local_end": 1.1
+        },
+        {
+          "word": "red",
+          "start": 8.156,
+          "end": 8.216,
+          "local_start": 1.1,
+          "local_end": 1.16
+        },
+        {
+          "word": "wine",
+          "start": 8.216,
+          "end": 8.516,
+          "local_start": 1.16,
+          "local_end": 1.46
+        },
+        {
+          "word": "stain",
+          "start": 8.516,
+          "end": 8.776,
+          "local_start": 1.46,
+          "local_end": 1.72
+        },
+        {
+          "word": "on",
+          "start": 8.776,
+          "end": 8.956,
+          "local_start": 1.72,
+          "local_end": 1.9
+        },
+        {
+          "word": "the",
+          "start": 8.956,
+          "end": 9.136,
+          "local_start": 1.9,
+          "local_end": 2.08
+        },
+        {
+          "word": "right",
+          "start": 9.136,
+          "end": 9.396,
+          "local_start": 2.08,
+          "local_end": 2.34
+        },
+        {
+          "word": "sleeve.",
+          "start": 9.396,
+          "end": 9.636,
+          "local_start": 2.34,
+          "local_end": 2.58
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "file": "04.mp3",
+      "text": "Got it. We'll pretreat the stain before we clean the coat.",
+      "audio_sha256": "7ad0f5afe13da78ccb62fc3ede5ec46d98b8f0ce16fe6407ae5694cbb0ed376c",
+      "start": 10.368,
+      "end": 14.016,
+      "duration": 3.648,
+      "words": [
+        {
+          "word": "Got",
+          "start": 10.368,
+          "end": 10.608,
+          "local_start": 0.0,
+          "local_end": 0.24
+        },
+        {
+          "word": "it.",
+          "start": 10.608,
+          "end": 11.108,
+          "local_start": 0.24,
+          "local_end": 0.74
+        },
+        {
+          "word": "We'll",
+          "start": 11.688,
+          "end": 11.848,
+          "local_start": 1.32,
+          "local_end": 1.48
+        },
+        {
+          "word": "pretreat",
+          "start": 11.848,
+          "end": 12.048,
+          "local_start": 1.48,
+          "local_end": 1.68
+        },
+        {
+          "word": "the",
+          "start": 12.048,
+          "end": 12.288,
+          "local_start": 1.68,
+          "local_end": 1.92
+        },
+        {
+          "word": "stain",
+          "start": 12.288,
+          "end": 12.488,
+          "local_start": 1.92,
+          "local_end": 2.12
+        },
+        {
+          "word": "before",
+          "start": 12.488,
+          "end": 12.928,
+          "local_start": 2.12,
+          "local_end": 2.56
+        },
+        {
+          "word": "we",
+          "start": 12.928,
+          "end": 13.128,
+          "local_start": 2.56,
+          "local_end": 2.76
+        },
+        {
+          "word": "clean",
+          "start": 13.128,
+          "end": 13.268,
+          "local_start": 2.76,
+          "local_end": 2.9
+        },
+        {
+          "word": "the",
+          "start": 13.268,
+          "end": 13.588,
+          "local_start": 2.9,
+          "local_end": 3.22
+        },
+        {
+          "word": "coat.",
+          "start": 13.588,
+          "end": 13.588,
+          "local_start": 3.22,
+          "local_end": 3.22
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "file": "05.mp3",
+      "text": "Great. How long will it usually take?",
+      "audio_sha256": "a41f2b180c2fb188cdbe9fd9fba81a5dea9de4880e3b4dcf22a0168cd49f26f6",
+      "start": 14.016,
+      "end": 16.464,
+      "duration": 2.448,
+      "words": [
+        {
+          "word": "Great.",
+          "start": 14.016,
+          "end": 14.436,
+          "local_start": 0.0,
+          "local_end": 0.42
+        },
+        {
+          "word": "How",
+          "start": 14.876,
+          "end": 15.196,
+          "local_start": 0.86,
+          "local_end": 1.18
+        },
+        {
+          "word": "long",
+          "start": 15.196,
+          "end": 15.356,
+          "local_start": 1.18,
+          "local_end": 1.34
+        },
+        {
+          "word": "will",
+          "start": 15.356,
+          "end": 15.516,
+          "local_start": 1.34,
+          "local_end": 1.5
+        },
+        {
+          "word": "it",
+          "start": 15.516,
+          "end": 15.656,
+          "local_start": 1.5,
+          "local_end": 1.64
+        },
+        {
+          "word": "usually",
+          "start": 15.656,
+          "end": 15.916,
+          "local_start": 1.64,
+          "local_end": 1.9
+        },
+        {
+          "word": "take?",
+          "start": 15.916,
+          "end": 16.216,
+          "local_start": 1.9,
+          "local_end": 2.2
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "file": "06.mp3",
+      "text": "Regular service is two days. Same-day pickup is available until three.",
+      "audio_sha256": "a73bc1c199682f9dde1e86cbeae30eafb334bd55b16ad2b3a7822f8d73d80405",
+      "start": 16.464,
+      "end": 20.712,
+      "duration": 4.248,
+      "words": [
+        {
+          "word": "Regular",
+          "start": 16.464,
+          "end": 16.924,
+          "local_start": 0.0,
+          "local_end": 0.46
+        },
+        {
+          "word": "service",
+          "start": 16.924,
+          "end": 17.224,
+          "local_start": 0.46,
+          "local_end": 0.76
+        },
+        {
+          "word": "is",
+          "start": 17.224,
+          "end": 17.484,
+          "local_start": 0.76,
+          "local_end": 1.02
+        },
+        {
+          "word": "two",
+          "start": 17.484,
+          "end": 17.664,
+          "local_start": 1.02,
+          "local_end": 1.2
+        },
+        {
+          "word": "days.",
+          "start": 17.664,
+          "end": 17.964,
+          "local_start": 1.2,
+          "local_end": 1.5
+        },
+        {
+          "word": "Same-day",
+          "start": 17.964,
+          "end": 18.844,
+          "local_start": 1.5,
+          "local_end": 2.38
+        },
+        {
+          "word": "pickup",
+          "start": 18.844,
+          "end": 19.084,
+          "local_start": 2.38,
+          "local_end": 2.62
+        },
+        {
+          "word": "is",
+          "start": 19.084,
+          "end": 19.364,
+          "local_start": 2.62,
+          "local_end": 2.9
+        },
+        {
+          "word": "available",
+          "start": 19.364,
+          "end": 19.704,
+          "local_start": 2.9,
+          "local_end": 3.24
+        },
+        {
+          "word": "until",
+          "start": 19.704,
+          "end": 19.984,
+          "local_start": 3.24,
+          "local_end": 3.52
+        },
+        {
+          "word": "three.",
+          "start": 19.984,
+          "end": 20.264,
+          "local_start": 3.52,
+          "local_end": 3.8
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "file": "07.mp3",
+      "text": "Two days is fine. Do I need to leave a phone number?",
+      "audio_sha256": "db1143e509f19041627b9104f68c37f7490c5d403cb083acc832a58b5c8fe657",
+      "start": 20.712,
+      "end": 24.432,
+      "duration": 3.72,
+      "words": [
+        {
+          "word": "Two",
+          "start": 20.712,
+          "end": 21.012,
+          "local_start": 0.0,
+          "local_end": 0.3
+        },
+        {
+          "word": "days",
+          "start": 21.012,
+          "end": 21.372,
+          "local_start": 0.3,
+          "local_end": 0.66
+        },
+        {
+          "word": "is",
+          "start": 21.372,
+          "end": 21.652,
+          "local_start": 0.66,
+          "local_end": 0.94
+        },
+        {
+          "word": "fine.",
+          "start": 21.652,
+          "end": 22.072,
+          "local_start": 0.94,
+          "local_end": 1.36
+        },
+        {
+          "word": "Do",
+          "start": 22.592,
+          "end": 22.712,
+          "local_start": 1.88,
+          "local_end": 2.0
+        },
+        {
+          "word": "I",
+          "start": 22.712,
+          "end": 22.892,
+          "local_start": 2.0,
+          "local_end": 2.18
+        },
+        {
+          "word": "need",
+          "start": 22.892,
+          "end": 23.052,
+          "local_start": 2.18,
+          "local_end": 2.34
+        },
+        {
+          "word": "to",
+          "start": 23.052,
+          "end": 23.252,
+          "local_start": 2.34,
+          "local_end": 2.54
+        },
+        {
+          "word": "leave",
+          "start": 23.252,
+          "end": 23.432,
+          "local_start": 2.54,
+          "local_end": 2.72
+        },
+        {
+          "word": "a",
+          "start": 23.432,
+          "end": 23.672,
+          "local_start": 2.72,
+          "local_end": 2.96
+        },
+        {
+          "word": "phone",
+          "start": 23.672,
+          "end": 23.792,
+          "local_start": 2.96,
+          "local_end": 3.08
+        },
+        {
+          "word": "number?",
+          "start": 23.792,
+          "end": 24.012,
+          "local_start": 3.08,
+          "local_end": 3.3
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "file": "08.mp3",
+      "text": "Yes, please. We'll text you when it's ready for pickup.",
+      "audio_sha256": "c51ab39b9ade71ae171e142ffbe577d64ee0c22a9abc27319eeaeef386b3405f",
+      "start": 24.432,
+      "end": 27.48,
+      "duration": 3.048,
+      "words": [
+        {
+          "word": "Yes,",
+          "start": 24.432,
+          "end": 24.852,
+          "local_start": 0.0,
+          "local_end": 0.42
+        },
+        {
+          "word": "please.",
+          "start": 25.092,
+          "end": 25.432,
+          "local_start": 0.66,
+          "local_end": 1.0
+        },
+        {
+          "word": "We'll",
+          "start": 25.992,
+          "end": 26.092,
+          "local_start": 1.56,
+          "local_end": 1.66
+        },
+        {
+          "word": "text",
+          "start": 26.092,
+          "end": 26.312,
+          "local_start": 1.66,
+          "local_end": 1.88
+        },
+        {
+          "word": "you",
+          "start": 26.312,
+          "end": 26.452,
+          "local_start": 1.88,
+          "local_end": 2.02
+        },
+        {
+          "word": "when",
+          "start": 26.452,
+          "end": 26.592,
+          "local_start": 2.02,
+          "local_end": 2.16
+        },
+        {
+          "word": "it's",
+          "start": 26.592,
+          "end": 26.752,
+          "local_start": 2.16,
+          "local_end": 2.32
+        },
+        {
+          "word": "ready",
+          "start": 26.752,
+          "end": 26.892,
+          "local_start": 2.32,
+          "local_end": 2.46
+        },
+        {
+          "word": "for",
+          "start": 26.892,
+          "end": 27.092,
+          "local_start": 2.46,
+          "local_end": 2.66
+        },
+        {
+          "word": "pickup.",
+          "start": 27.092,
+          "end": 27.212,
+          "local_start": 2.66,
+          "local_end": 2.78
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "file": "09.mp3",
+      "text": "Okay. How much will the coat cost?",
+      "audio_sha256": "2e55650f0dd9873a7068249b34f1f11772b69d4f02387ffdbdd337b94b84af20",
+      "start": 27.48,
+      "end": 30.288,
+      "duration": 2.808,
+      "words": [
+        {
+          "word": "Okay.",
+          "start": 27.48,
+          "end": 28.02,
+          "local_start": 0.0,
+          "local_end": 0.54
+        },
+        {
+          "word": "How",
+          "start": 28.38,
+          "end": 28.68,
+          "local_start": 0.9,
+          "local_end": 1.2
+        },
+        {
+          "word": "much",
+          "start": 28.68,
+          "end": 28.88,
+          "local_start": 1.2,
+          "local_end": 1.4
+        },
+        {
+          "word": "will",
+          "start": 28.88,
+          "end": 29.1,
+          "local_start": 1.4,
+          "local_end": 1.62
+        },
+        {
+          "word": "the",
+          "start": 29.1,
+          "end": 29.42,
+          "local_start": 1.62,
+          "local_end": 1.94
+        },
+        {
+          "word": "coat",
+          "start": 29.42,
+          "end": 29.5,
+          "local_start": 1.94,
+          "local_end": 2.02
+        },
+        {
+          "word": "cost?",
+          "start": 29.5,
+          "end": 29.9,
+          "local_start": 2.02,
+          "local_end": 2.42
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "file": "10.mp3",
+      "text": "Eighteen dollars, including stain treatment.",
+      "audio_sha256": "2ae281c7cf40e807d8f503bc4e8d342963b41014e4fa1abc4421746243c7c124",
+      "start": 30.288,
+      "end": 33.288,
+      "duration": 3.0,
+      "words": [
+        {
+          "word": "Eighteen",
+          "start": 30.288,
+          "end": 30.888,
+          "local_start": 0.0,
+          "local_end": 0.6
+        },
+        {
+          "word": "dollars,",
+          "start": 30.888,
+          "end": 31.368,
+          "local_start": 0.6,
+          "local_end": 1.08
+        },
+        {
+          "word": "including",
+          "start": 31.768,
+          "end": 32.108,
+          "local_start": 1.48,
+          "local_end": 1.82
+        },
+        {
+          "word": "stain",
+          "start": 32.108,
+          "end": 32.588,
+          "local_start": 1.82,
+          "local_end": 2.3
+        },
+        {
+          "word": "treatment.",
+          "start": 32.588,
+          "end": 32.848,
+          "local_start": 2.3,
+          "local_end": 2.56
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "file": "11.mp3",
+      "text": "Perfect. Can I pay when I pick it up?",
+      "audio_sha256": "0102d6273cad63ba569122170f5a4799fa0a02dc17fa2d057f47883ae916a76c",
+      "start": 33.288,
+      "end": 35.736,
+      "duration": 2.448,
+      "words": [
+        {
+          "word": "Perfect.",
+          "start": 33.288,
+          "end": 33.788,
+          "local_start": 0.0,
+          "local_end": 0.5
+        },
+        {
+          "word": "Can",
+          "start": 34.028,
+          "end": 34.348,
+          "local_start": 0.74,
+          "local_end": 1.06
+        },
+        {
+          "word": "I",
+          "start": 34.348,
+          "end": 34.568,
+          "local_start": 1.06,
+          "local_end": 1.28
+        },
+        {
+          "word": "pay",
+          "start": 34.568,
+          "end": 34.688,
+          "local_start": 1.28,
+          "local_end": 1.4
+        },
+        {
+          "word": "when",
+          "start": 34.688,
+          "end": 34.888,
+          "local_start": 1.4,
+          "local_end": 1.6
+        },
+        {
+          "word": "I",
+          "start": 34.888,
+          "end": 35.008,
+          "local_start": 1.6,
+          "local_end": 1.72
+        },
+        {
+          "word": "pick",
+          "start": 35.008,
+          "end": 35.108,
+          "local_start": 1.72,
+          "local_end": 1.82
+        },
+        {
+          "word": "it",
+          "start": 35.108,
+          "end": 35.228,
+          "local_start": 1.82,
+          "local_end": 1.94
+        },
+        {
+          "word": "up?",
+          "start": 35.228,
+          "end": 35.388,
+          "local_start": 1.94,
+          "local_end": 2.1
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "file": "12.mp3",
+      "text": "Of course. Here's your claim ticket. See you in two days!",
+      "audio_sha256": "d788d778d8a8c7ddb9f9e45ebf28dc58d333eb2b05e594e1ba505bec5349575c",
+      "start": 35.736,
+      "end": 39.384,
+      "duration": 3.648,
+      "words": [
+        {
+          "word": "Of",
+          "start": 35.736,
+          "end": 35.996,
+          "local_start": 0.0,
+          "local_end": 0.26
+        },
+        {
+          "word": "course.",
+          "start": 35.996,
+          "end": 36.436,
+          "local_start": 0.26,
+          "local_end": 0.7
+        },
+        {
+          "word": "Here's",
+          "start": 36.976,
+          "end": 37.096,
+          "local_start": 1.24,
+          "local_end": 1.36
+        },
+        {
+          "word": "your",
+          "start": 37.096,
+          "end": 37.216,
+          "local_start": 1.36,
+          "local_end": 1.48
+        },
+        {
+          "word": "claim",
+          "start": 37.216,
+          "end": 37.456,
+          "local_start": 1.48,
+          "local_end": 1.72
+        },
+        {
+          "word": "ticket.",
+          "start": 37.456,
+          "end": 37.716,
+          "local_start": 1.72,
+          "local_end": 1.98
+        },
+        {
+          "word": "See",
+          "start": 38.536,
+          "end": 38.596,
+          "local_start": 2.8,
+          "local_end": 2.86
+        },
+        {
+          "word": "you",
+          "start": 38.596,
+          "end": 38.656,
+          "local_start": 2.86,
+          "local_end": 2.92
+        },
+        {
+          "word": "in",
+          "start": 38.656,
+          "end": 38.776,
+          "local_start": 2.92,
+          "local_end": 3.04
+        },
+        {
+          "word": "two",
+          "start": 38.776,
+          "end": 38.896,
+          "local_start": 3.04,
+          "local_end": 3.16
+        },
+        {
+          "word": "days!",
+          "start": 38.896,
+          "end": 39.056,
+          "local_start": 3.16,
+          "local_end": 3.32
+        }
+      ]
+    }
+  ]
+}
