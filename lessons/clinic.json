@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-09",
+  "slug": "clinic",
+  "title": "Seeing a Doctor at a Clinic",
+  "title_zh": "在诊所看医生",
+  "context": "Maya 因为从周二开始喉咙痛，走进诊所看医生；她向 Owen 医生说明症状、有没有发烧或咳嗽、药物过敏，并询问用药方法和是否需要复诊。",
+  "voices": {
+    "Maya": "marin",
+    "Owen": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Maya",
+      "en": "Hi. I'd like to see a doctor about a sore throat. It started on Tuesday.",
+      "zh": "你好。我想看医生，因为喉咙痛。从周二就开始了。"
+    },
+    {
+      "speaker": "Owen",
+      "en": "Sure. Besides the sore throat, have you noticed any other symptoms?",
+      "zh": "没问题。除了喉咙痛，你还注意到其他症状吗？"
+    },
+    {
+      "speaker": "Maya",
+      "en": "Yes, I also have a headache, and it's a little hard to swallow.",
+      "zh": "有的，我还有点头疼，而且吞咽有点困难。"
+    },
+    {
+      "speaker": "Owen",
+      "en": "I see. Have you had a fever or a cough?",
+      "zh": "明白了。你有发烧或咳嗽吗？"
+    },
+    {
+      "speaker": "Maya",
+      "en": "I felt a bit warm last night, but I don't have a cough.",
+      "zh": "昨晚我觉得有点发热，但没有咳嗽。"
+    },
+    {
+      "speaker": "Owen",
+      "en": "Okay. Are you allergic to any medicine?",
+      "zh": "好的。你对什么药物过敏吗？"
+    },
+    {
+      "speaker": "Maya",
+      "en": "Not that I know of. I haven't had any problems before.",
+      "zh": "据我所知没有。以前也没出过什么问题。"
+    },
+    {
+      "speaker": "Owen",
+      "en": "Good. I'll prescribe some lozenges and a short course of medicine.",
+      "zh": "很好。我会给你开一些含片和一个短期疗程的药。"
+    },
+    {
+      "speaker": "Maya",
+      "en": "Thank you. How often should I take the medicine?",
+      "zh": "谢谢。这个药应该多久吃一次？"
+    },
+    {
+      "speaker": "Owen",
+      "en": "Take it twice a day after meals for five days.",
+      "zh": "每天两次，饭后服用，连吃五天。"
+    },
+    {
+      "speaker": "Maya",
+      "en": "Got it. Should I come back if it doesn't get better?",
+      "zh": "明白了。如果没有好转，我需要再来复诊吗？"
+    },
+    {
+      "speaker": "Owen",
+      "en": "Yes. If it lasts more than a week, come in again.",
+      "zh": "需要。如果持续一周以上，请再来一趟。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "See a doctor about",
+      "zh": "因某症状去看医生。说明看病原因时常用。",
+      "example": "I'd like to see a doctor about a sore throat."
+    },
+    {
+      "en": "Notice any other symptoms",
+      "zh": "注意到其他症状。医生询问病情时常用。",
+      "example": "Besides the sore throat, have you noticed any other symptoms?"
+    },
+    {
+      "en": "Allergic to any medicine",
+      "zh": "对药物过敏。开药前医生常会确认。",
+      "example": "Are you allergic to any medicine?"
+    },
+    {
+      "en": "Prescribe a short course of medicine",
+      "zh": "开一个短期疗程的药。医生说明用药安排时常用。",
+      "example": "I'll prescribe some lozenges and a short course of medicine."
+    },
+    {
+      "en": "Come back if it doesn't get better",
+      "zh": "如果没有好转就再来复诊。询问或建议复诊时常用。",
+      "example": "Should I come back if it doesn't get better?"
+    }
+  ],
+  "pronunciation": "练习 sore throat 的节奏：SORE THROAT。注意 swallow 的重音在前：SWALlow，allergic 重音在第二音节：a-LLER-gic，以及 prescribe 的重音在后：pre-SCRIBE。",
+  "practice": [
+    {
+      "title": "Part 1 · Health and seeing a doctor",
+      "prompt": "Do you usually see a doctor when you feel unwell, or do you wait and rest at home?",
+      "answer": "I usually rest at home if I just have a mild cold. But if I have a sore throat or a fever for several days, I see a doctor at a clinic."
+    },
+    {
+      "title": "Part 2 · A time you visited a clinic",
+      "prompt": "Describe a time you went to see a doctor. Say why you went, what the doctor asked you, and what happened afterwards.",
+      "answer": "Last winter I went to a clinic because of a sore throat. The doctor asked about my symptoms and medicine allergies, then prescribed lozenges and a short course of medicine. I felt better after a few days. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Health care in daily life",
+      "prompt": "Why do some people delay seeing a doctor even when they feel unwell?",
+      "answer": "Some people think the illness will go away by itself, or they are too busy to visit a clinic. Others may worry about the cost or about taking medicine. However, seeing a doctor early can prevent a small problem from becoming worse."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "先听完整对话，再逐句跟读。最后练习说明自己的症状、有没有药物过敏，以及如何按时吃药和是否需要复诊。",
+      "answer": "用 3–4 句说明你会怎么在诊所看病：症状、药物过敏、用药方法和是否需要复诊。"
+    }
+  ]
+}

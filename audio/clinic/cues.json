@@ -1,0 +1,1064 @@
+{
+  "model": "whisper-1",
+  "lesson": "clinic",
+  "full_track": "dialogue-full.mp3",
+  "full_duration": 41.76,
+  "lines": [
+    {
+      "index": 1,
+      "file": "01.mp3",
+      "text": "Hi. I'd like to see a doctor about a sore throat. It started on Tuesday.",
+      "audio_sha256": "d95480cd8ff0b9984e0776eab30dfa07ac99bcd3e45d4ce5b040c27d4e3a6c8c",
+      "start": 0.0,
+      "end": 4.104,
+      "duration": 4.104,
+      "words": [
+        {
+          "word": "Hi.",
+          "start": 0.0,
+          "end": 0.44,
+          "local_start": 0.0,
+          "local_end": 0.44
+        },
+        {
+          "word": "I'd",
+          "start": 0.7,
+          "end": 0.82,
+          "local_start": 0.7,
+          "local_end": 0.82
+        },
+        {
+          "word": "like",
+          "start": 0.82,
+          "end": 0.98,
+          "local_start": 0.82,
+          "local_end": 0.98
+        },
+        {
+          "word": "to",
+          "start": 0.98,
+          "end": 1.14,
+          "local_start": 0.98,
+          "local_end": 1.14
+        },
+        {
+          "word": "see",
+          "start": 1.14,
+          "end": 1.2,
+          "local_start": 1.14,
+          "local_end": 1.2
+        },
+        {
+          "word": "a",
+          "start": 1.2,
+          "end": 1.38,
+          "local_start": 1.2,
+          "local_end": 1.38
+        },
+        {
+          "word": "doctor",
+          "start": 1.38,
+          "end": 1.6,
+          "local_start": 1.38,
+          "local_end": 1.6
+        },
+        {
+          "word": "about",
+          "start": 1.6,
+          "end": 1.84,
+          "local_start": 1.6,
+          "local_end": 1.84
+        },
+        {
+          "word": "a",
+          "start": 1.84,
+          "end": 2.14,
+          "local_start": 1.84,
+          "local_end": 2.14
+        },
+        {
+          "word": "sore",
+          "start": 2.14,
+          "end": 2.2,
+          "local_start": 2.14,
+          "local_end": 2.2
+        },
+        {
+          "word": "throat.",
+          "start": 2.2,
+          "end": 2.5,
+          "local_start": 2.2,
+          "local_end": 2.5
+        },
+        {
+          "word": "It",
+          "start": 3.0,
+          "end": 3.08,
+          "local_start": 3.0,
+          "local_end": 3.08
+        },
+        {
+          "word": "started",
+          "start": 3.08,
+          "end": 3.36,
+          "local_start": 3.08,
+          "local_end": 3.36
+        },
+        {
+          "word": "on",
+          "start": 3.36,
+          "end": 3.58,
+          "local_start": 3.36,
+          "local_end": 3.58
+        },
+        {
+          "word": "Tuesday.",
+          "start": 3.58,
+          "end": 3.86,
+          "local_start": 3.58,
+          "local_end": 3.86
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "file": "02.mp3",
+      "text": "Sure. Besides the sore throat, have you noticed any other symptoms?",
+      "audio_sha256": "ba5a09598b45e478fd8cfd0853bdf561667e3b4381042da45a5f7190a6a30460",
+      "start": 4.104,
+      "end": 8.424,
+      "duration": 4.32,
+      "words": [
+        {
+          "word": "Sure.",
+          "start": 4.104,
+          "end": 4.744,
+          "local_start": 0.0,
+          "local_end": 0.64
+        },
+        {
+          "word": "Besides",
+          "start": 5.284,
+          "end": 5.684,
+          "local_start": 1.18,
+          "local_end": 1.58
+        },
+        {
+          "word": "the",
+          "start": 5.684,
+          "end": 6.024,
+          "local_start": 1.58,
+          "local_end": 1.92
+        },
+        {
+          "word": "sore",
+          "start": 6.024,
+          "end": 6.164,
+          "local_start": 1.92,
+          "local_end": 2.06
+        },
+        {
+          "word": "throat,",
+          "start": 6.164,
+          "end": 6.424,
+          "local_start": 2.06,
+          "local_end": 2.32
+        },
+        {
+          "word": "have",
+          "start": 6.844,
+          "end": 6.924,
+          "local_start": 2.74,
+          "local_end": 2.82
+        },
+        {
+          "word": "you",
+          "start": 6.924,
+          "end": 7.104,
+          "local_start": 2.82,
+          "local_end": 3.0
+        },
+        {
+          "word": "noticed",
+          "start": 7.104,
+          "end": 7.264,
+          "local_start": 3.0,
+          "local_end": 3.16
+        },
+        {
+          "word": "any",
+          "start": 7.264,
+          "end": 7.564,
+          "local_start": 3.16,
+          "local_end": 3.46
+        },
+        {
+          "word": "other",
+          "start": 7.564,
+          "end": 7.784,
+          "local_start": 3.46,
+          "local_end": 3.68
+        },
+        {
+          "word": "symptoms?",
+          "start": 7.784,
+          "end": 7.944,
+          "local_start": 3.68,
+          "local_end": 3.84
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "file": "03.mp3",
+      "text": "Yes, I also have a headache, and it's a little hard to swallow.",
+      "audio_sha256": "527ee4f1501981c60826ca0311e49364b2f87123cf57af52c7e6aac0f807ebc6",
+      "start": 8.424,
+      "end": 11.928,
+      "duration": 3.504,
+      "words": [
+        {
+          "word": "Yes,",
+          "start": 8.424,
+          "end": 8.904,
+          "local_start": 0.0,
+          "local_end": 0.48
+        },
+        {
+          "word": "I",
+          "start": 8.964,
+          "end": 9.084,
+          "local_start": 0.54,
+          "local_end": 0.66
+        },
+        {
+          "word": "also",
+          "start": 9.084,
+          "end": 9.404,
+          "local_start": 0.66,
+          "local_end": 0.98
+        },
+        {
+          "word": "have",
+          "start": 9.404,
+          "end": 9.584,
+          "local_start": 0.98,
+          "local_end": 1.16
+        },
+        {
+          "word": "a",
+          "start": 9.584,
+          "end": 9.724,
+          "local_start": 1.16,
+          "local_end": 1.3
+        },
+        {
+          "word": "headache,",
+          "start": 9.724,
+          "end": 9.984,
+          "local_start": 1.3,
+          "local_end": 1.56
+        },
+        {
+          "word": "and",
+          "start": 10.364,
+          "end": 10.444,
+          "local_start": 1.94,
+          "local_end": 2.02
+        },
+        {
+          "word": "it's",
+          "start": 10.444,
+          "end": 10.564,
+          "local_start": 2.02,
+          "local_end": 2.14
+        },
+        {
+          "word": "a",
+          "start": 10.564,
+          "end": 10.704,
+          "local_start": 2.14,
+          "local_end": 2.28
+        },
+        {
+          "word": "little",
+          "start": 10.704,
+          "end": 10.844,
+          "local_start": 2.28,
+          "local_end": 2.42
+        },
+        {
+          "word": "hard",
+          "start": 10.844,
+          "end": 11.064,
+          "local_start": 2.42,
+          "local_end": 2.64
+        },
+        {
+          "word": "to",
+          "start": 11.064,
+          "end": 11.464,
+          "local_start": 2.64,
+          "local_end": 3.04
+        },
+        {
+          "word": "swallow.",
+          "start": 11.464,
+          "end": 11.464,
+          "local_start": 3.04,
+          "local_end": 3.04
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "file": "04.mp3",
+      "text": "I see. Have you had a fever or a cough?",
+      "audio_sha256": "fa7fd7b40fe4ab0603cba63641e3143c603baeec6a759e2dbc771a9f1c152ba0",
+      "start": 11.928,
+      "end": 14.736,
+      "duration": 2.808,
+      "words": [
+        {
+          "word": "I",
+          "start": 11.928,
+          "end": 12.188,
+          "local_start": 0.0,
+          "local_end": 0.26
+        },
+        {
+          "word": "see.",
+          "start": 12.188,
+          "end": 12.548,
+          "local_start": 0.26,
+          "local_end": 0.62
+        },
+        {
+          "word": "Have",
+          "start": 12.768,
+          "end": 13.288,
+          "local_start": 0.84,
+          "local_end": 1.36
+        },
+        {
+          "word": "you",
+          "start": 13.288,
+          "end": 13.408,
+          "local_start": 1.36,
+          "local_end": 1.48
+        },
+        {
+          "word": "had",
+          "start": 13.408,
+          "end": 13.508,
+          "local_start": 1.48,
+          "local_end": 1.58
+        },
+        {
+          "word": "a",
+          "start": 13.508,
+          "end": 13.848,
+          "local_start": 1.58,
+          "local_end": 1.92
+        },
+        {
+          "word": "fever",
+          "start": 13.848,
+          "end": 13.908,
+          "local_start": 1.92,
+          "local_end": 1.98
+        },
+        {
+          "word": "or",
+          "start": 13.908,
+          "end": 14.228,
+          "local_start": 1.98,
+          "local_end": 2.3
+        },
+        {
+          "word": "a",
+          "start": 14.228,
+          "end": 14.508,
+          "local_start": 2.3,
+          "local_end": 2.58
+        },
+        {
+          "word": "cough?",
+          "start": 14.508,
+          "end": 14.508,
+          "local_start": 2.58,
+          "local_end": 2.58
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "file": "05.mp3",
+      "text": "I felt a bit warm last night, but I don't have a cough.",
+      "audio_sha256": "35edc09ebb89621dfdbfe9702d00791357fe33a6d86e032199c75d7e2e1eae83",
+      "start": 14.736,
+      "end": 18.792,
+      "duration": 4.056,
+      "words": [
+        {
+          "word": "I",
+          "start": 14.736,
+          "end": 15.236,
+          "local_start": 0.0,
+          "local_end": 0.5
+        },
+        {
+          "word": "felt",
+          "start": 15.236,
+          "end": 15.496,
+          "local_start": 0.5,
+          "local_end": 0.76
+        },
+        {
+          "word": "a",
+          "start": 15.496,
+          "end": 15.876,
+          "local_start": 0.76,
+          "local_end": 1.14
+        },
+        {
+          "word": "bit",
+          "start": 15.876,
+          "end": 16.216,
+          "local_start": 1.14,
+          "local_end": 1.48
+        },
+        {
+          "word": "warm",
+          "start": 16.216,
+          "end": 16.516,
+          "local_start": 1.48,
+          "local_end": 1.78
+        },
+        {
+          "word": "last",
+          "start": 16.516,
+          "end": 16.836,
+          "local_start": 1.78,
+          "local_end": 2.1
+        },
+        {
+          "word": "night,",
+          "start": 16.836,
+          "end": 17.116,
+          "local_start": 2.1,
+          "local_end": 2.38
+        },
+        {
+          "word": "but",
+          "start": 17.416,
+          "end": 17.496,
+          "local_start": 2.68,
+          "local_end": 2.76
+        },
+        {
+          "word": "I",
+          "start": 17.496,
+          "end": 17.756,
+          "local_start": 2.76,
+          "local_end": 3.02
+        },
+        {
+          "word": "don't",
+          "start": 17.756,
+          "end": 17.936,
+          "local_start": 3.02,
+          "local_end": 3.2
+        },
+        {
+          "word": "have",
+          "start": 17.936,
+          "end": 18.156,
+          "local_start": 3.2,
+          "local_end": 3.42
+        },
+        {
+          "word": "a",
+          "start": 18.156,
+          "end": 18.496,
+          "local_start": 3.42,
+          "local_end": 3.76
+        },
+        {
+          "word": "cough.",
+          "start": 18.496,
+          "end": 18.516,
+          "local_start": 3.76,
+          "local_end": 3.78
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "file": "06.mp3",
+      "text": "Okay. Are you allergic to any medicine?",
+      "audio_sha256": "b7c19f5534f39de5960a321ed07cdb24ae73a40a8e1ff8e107bf2841db51ecf7",
+      "start": 18.792,
+      "end": 21.456,
+      "duration": 2.664,
+      "words": [
+        {
+          "word": "Okay.",
+          "start": 19.232,
+          "end": 19.432,
+          "local_start": 0.44,
+          "local_end": 0.64
+        },
+        {
+          "word": "Are",
+          "start": 19.432,
+          "end": 19.912,
+          "local_start": 0.64,
+          "local_end": 1.12
+        },
+        {
+          "word": "you",
+          "start": 19.912,
+          "end": 20.152,
+          "local_start": 1.12,
+          "local_end": 1.36
+        },
+        {
+          "word": "allergic",
+          "start": 20.152,
+          "end": 20.392,
+          "local_start": 1.36,
+          "local_end": 1.6
+        },
+        {
+          "word": "to",
+          "start": 20.392,
+          "end": 20.672,
+          "local_start": 1.6,
+          "local_end": 1.88
+        },
+        {
+          "word": "any",
+          "start": 20.672,
+          "end": 20.892,
+          "local_start": 1.88,
+          "local_end": 2.1
+        },
+        {
+          "word": "medicine?",
+          "start": 20.892,
+          "end": 21.092,
+          "local_start": 2.1,
+          "local_end": 2.3
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "file": "07.mp3",
+      "text": "Not that I know of. I haven't had any problems before.",
+      "audio_sha256": "da5d8f42c50791cb95061a08acbe80d5d7b03ffc989730782f3cc8e92ea18ad0",
+      "start": 21.456,
+      "end": 24.96,
+      "duration": 3.504,
+      "words": [
+        {
+          "word": "Not",
+          "start": 21.456,
+          "end": 21.856,
+          "local_start": 0.0,
+          "local_end": 0.4
+        },
+        {
+          "word": "that",
+          "start": 21.856,
+          "end": 22.016,
+          "local_start": 0.4,
+          "local_end": 0.56
+        },
+        {
+          "word": "I",
+          "start": 22.016,
+          "end": 22.216,
+          "local_start": 0.56,
+          "local_end": 0.76
+        },
+        {
+          "word": "know",
+          "start": 22.216,
+          "end": 22.336,
+          "local_start": 0.76,
+          "local_end": 0.88
+        },
+        {
+          "word": "of.",
+          "start": 22.336,
+          "end": 22.676,
+          "local_start": 0.88,
+          "local_end": 1.22
+        },
+        {
+          "word": "I",
+          "start": 23.216,
+          "end": 23.376,
+          "local_start": 1.76,
+          "local_end": 1.92
+        },
+        {
+          "word": "haven't",
+          "start": 23.376,
+          "end": 23.556,
+          "local_start": 1.92,
+          "local_end": 2.1
+        },
+        {
+          "word": "had",
+          "start": 23.556,
+          "end": 23.716,
+          "local_start": 2.1,
+          "local_end": 2.26
+        },
+        {
+          "word": "any",
+          "start": 23.716,
+          "end": 24.016,
+          "local_start": 2.26,
+          "local_end": 2.56
+        },
+        {
+          "word": "problems",
+          "start": 24.016,
+          "end": 24.316,
+          "local_start": 2.56,
+          "local_end": 2.86
+        },
+        {
+          "word": "before.",
+          "start": 24.316,
+          "end": 24.676,
+          "local_start": 2.86,
+          "local_end": 3.22
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "file": "08.mp3",
+      "text": "Good. I'll prescribe some lozenges and a short course of medicine.",
+      "audio_sha256": "68c6ce2ce476099aa83a09f393980138f914f32a3c171751ec27f92d4bf77f02",
+      "start": 24.96,
+      "end": 29.208,
+      "duration": 4.248,
+      "words": [
+        {
+          "word": "Good.",
+          "start": 24.96,
+          "end": 25.62,
+          "local_start": 0.0,
+          "local_end": 0.66
+        },
+        {
+          "word": "I'll",
+          "start": 26.18,
+          "end": 26.3,
+          "local_start": 1.22,
+          "local_end": 1.34
+        },
+        {
+          "word": "prescribe",
+          "start": 26.3,
+          "end": 26.6,
+          "local_start": 1.34,
+          "local_end": 1.64
+        },
+        {
+          "word": "some",
+          "start": 26.6,
+          "end": 26.96,
+          "local_start": 1.64,
+          "local_end": 2.0
+        },
+        {
+          "word": "lozenges",
+          "start": 26.96,
+          "end": 27.22,
+          "local_start": 2.0,
+          "local_end": 2.26
+        },
+        {
+          "word": "and",
+          "start": 27.22,
+          "end": 27.9,
+          "local_start": 2.26,
+          "local_end": 2.94
+        },
+        {
+          "word": "a",
+          "start": 27.9,
+          "end": 28.06,
+          "local_start": 2.94,
+          "local_end": 3.1
+        },
+        {
+          "word": "short",
+          "start": 28.06,
+          "end": 28.22,
+          "local_start": 3.1,
+          "local_end": 3.26
+        },
+        {
+          "word": "course",
+          "start": 28.22,
+          "end": 28.42,
+          "local_start": 3.26,
+          "local_end": 3.46
+        },
+        {
+          "word": "of",
+          "start": 28.42,
+          "end": 28.82,
+          "local_start": 3.46,
+          "local_end": 3.86
+        },
+        {
+          "word": "medicine.",
+          "start": 28.82,
+          "end": 28.82,
+          "local_start": 3.86,
+          "local_end": 3.86
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "file": "09.mp3",
+      "text": "Thank you. How often should I take the medicine?",
+      "audio_sha256": "f7a464bfc9c24846c117abcd1bdf01a1d80aac6bf72f00886c563a737d5794f5",
+      "start": 29.208,
+      "end": 31.824,
+      "duration": 2.616,
+      "words": [
+        {
+          "word": "Thank",
+          "start": 29.208,
+          "end": 29.448,
+          "local_start": 0.0,
+          "local_end": 0.24
+        },
+        {
+          "word": "you.",
+          "start": 29.448,
+          "end": 29.948,
+          "local_start": 0.24,
+          "local_end": 0.74
+        },
+        {
+          "word": "How",
+          "start": 30.148,
+          "end": 30.288,
+          "local_start": 0.94,
+          "local_end": 1.08
+        },
+        {
+          "word": "often",
+          "start": 30.288,
+          "end": 30.528,
+          "local_start": 1.08,
+          "local_end": 1.32
+        },
+        {
+          "word": "should",
+          "start": 30.528,
+          "end": 30.748,
+          "local_start": 1.32,
+          "local_end": 1.54
+        },
+        {
+          "word": "I",
+          "start": 30.748,
+          "end": 30.888,
+          "local_start": 1.54,
+          "local_end": 1.68
+        },
+        {
+          "word": "take",
+          "start": 30.888,
+          "end": 31.048,
+          "local_start": 1.68,
+          "local_end": 1.84
+        },
+        {
+          "word": "the",
+          "start": 31.048,
+          "end": 31.228,
+          "local_start": 1.84,
+          "local_end": 2.02
+        },
+        {
+          "word": "medicine?",
+          "start": 31.228,
+          "end": 31.468,
+          "local_start": 2.02,
+          "local_end": 2.26
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "file": "10.mp3",
+      "text": "Take it twice a day after meals for five days.",
+      "audio_sha256": "af5e9f6b9325e8f99e6d650cb239d5f02c6c4f17183a655a472e7f64f418e107",
+      "start": 31.824,
+      "end": 35.64,
+      "duration": 3.816,
+      "words": [
+        {
+          "word": "Take",
+          "start": 31.824,
+          "end": 32.104,
+          "local_start": 0.0,
+          "local_end": 0.28
+        },
+        {
+          "word": "it",
+          "start": 32.104,
+          "end": 32.344,
+          "local_start": 0.28,
+          "local_end": 0.52
+        },
+        {
+          "word": "twice",
+          "start": 32.344,
+          "end": 32.764,
+          "local_start": 0.52,
+          "local_end": 0.94
+        },
+        {
+          "word": "a",
+          "start": 32.764,
+          "end": 32.984,
+          "local_start": 0.94,
+          "local_end": 1.16
+        },
+        {
+          "word": "day",
+          "start": 32.984,
+          "end": 33.464,
+          "local_start": 1.16,
+          "local_end": 1.64
+        },
+        {
+          "word": "after",
+          "start": 33.464,
+          "end": 33.844,
+          "local_start": 1.64,
+          "local_end": 2.02
+        },
+        {
+          "word": "meals",
+          "start": 33.844,
+          "end": 34.244,
+          "local_start": 2.02,
+          "local_end": 2.42
+        },
+        {
+          "word": "for",
+          "start": 34.244,
+          "end": 34.804,
+          "local_start": 2.42,
+          "local_end": 2.98
+        },
+        {
+          "word": "five",
+          "start": 34.804,
+          "end": 35.104,
+          "local_start": 2.98,
+          "local_end": 3.28
+        },
+        {
+          "word": "days.",
+          "start": 35.104,
+          "end": 35.364,
+          "local_start": 3.28,
+          "local_end": 3.54
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "file": "11.mp3",
+      "text": "Got it. Should I come back if it doesn't get better?",
+      "audio_sha256": "2c6ec1eb3445e390adf846b038278d6a5ce7ae618ca84034886ee07eb97896c8",
+      "start": 35.64,
+      "end": 38.304,
+      "duration": 2.664,
+      "words": [
+        {
+          "word": "Got",
+          "start": 35.64,
+          "end": 35.88,
+          "local_start": 0.0,
+          "local_end": 0.24
+        },
+        {
+          "word": "it.",
+          "start": 35.88,
+          "end": 36.3,
+          "local_start": 0.24,
+          "local_end": 0.66
+        },
+        {
+          "word": "Should",
+          "start": 36.56,
+          "end": 36.64,
+          "local_start": 0.92,
+          "local_end": 1.0
+        },
+        {
+          "word": "I",
+          "start": 36.64,
+          "end": 36.84,
+          "local_start": 1.0,
+          "local_end": 1.2
+        },
+        {
+          "word": "come",
+          "start": 36.84,
+          "end": 36.98,
+          "local_start": 1.2,
+          "local_end": 1.34
+        },
+        {
+          "word": "back",
+          "start": 36.98,
+          "end": 37.26,
+          "local_start": 1.34,
+          "local_end": 1.62
+        },
+        {
+          "word": "if",
+          "start": 37.26,
+          "end": 37.36,
+          "local_start": 1.62,
+          "local_end": 1.72
+        },
+        {
+          "word": "it",
+          "start": 37.36,
+          "end": 37.54,
+          "local_start": 1.72,
+          "local_end": 1.9
+        },
+        {
+          "word": "doesn't",
+          "start": 37.54,
+          "end": 37.7,
+          "local_start": 1.9,
+          "local_end": 2.06
+        },
+        {
+          "word": "get",
+          "start": 37.7,
+          "end": 37.84,
+          "local_start": 2.06,
+          "local_end": 2.2
+        },
+        {
+          "word": "better?",
+          "start": 37.84,
+          "end": 38.0,
+          "local_start": 2.2,
+          "local_end": 2.36
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "file": "12.mp3",
+      "text": "Yes. If it lasts more than a week, come in again.",
+      "audio_sha256": "9ea4eac710a1744ec480e6fdcb9b226370becbd6f9dd88978ecd855fcf53898e",
+      "start": 38.304,
+      "end": 41.76,
+      "duration": 3.456,
+      "words": [
+        {
+          "word": "Yes.",
+          "start": 38.304,
+          "end": 38.304,
+          "local_start": 0.0,
+          "local_end": 0.0
+        },
+        {
+          "word": "If",
+          "start": 38.304,
+          "end": 38.824,
+          "local_start": 0.0,
+          "local_end": 0.52
+        },
+        {
+          "word": "it",
+          "start": 38.824,
+          "end": 39.564,
+          "local_start": 0.52,
+          "local_end": 1.26
+        },
+        {
+          "word": "lasts",
+          "start": 39.564,
+          "end": 39.764,
+          "local_start": 1.26,
+          "local_end": 1.46
+        },
+        {
+          "word": "more",
+          "start": 39.764,
+          "end": 39.984,
+          "local_start": 1.46,
+          "local_end": 1.68
+        },
+        {
+          "word": "than",
+          "start": 39.984,
+          "end": 40.124,
+          "local_start": 1.68,
+          "local_end": 1.82
+        },
+        {
+          "word": "a",
+          "start": 40.124,
+          "end": 40.324,
+          "local_start": 1.82,
+          "local_end": 2.02
+        },
+        {
+          "word": "week,",
+          "start": 40.324,
+          "end": 40.404,
+          "local_start": 2.02,
+          "local_end": 2.1
+        },
+        {
+          "word": "come",
+          "start": 41.024,
+          "end": 41.104,
+          "local_start": 2.72,
+          "local_end": 2.8
+        },
+        {
+          "word": "in",
+          "start": 41.104,
+          "end": 41.264,
+          "local_start": 2.8,
+          "local_end": 2.96
+        },
+        {
+          "word": "again.",
+          "start": 41.264,
+          "end": 41.424,
+          "local_start": 2.96,
+          "local_end": 3.12
+        }
+      ]
+    }
+  ]
+}
