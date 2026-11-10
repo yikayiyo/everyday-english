@@ -1,0 +1,1085 @@
+{
+  "model": "whisper-1",
+  "lesson": "bank-account",
+  "full_track": "dialogue-full.mp3",
+  "full_duration": 45.144,
+  "lines": [
+    {
+      "index": 1,
+      "file": "01.mp3",
+      "text": "Hi. I'd like to open a checking account, please.",
+      "audio_sha256": "d16c73a97e1d81e4e6669310f9fb8d86719b76fd2b8d9c11da1d63ccb9d5bde4",
+      "start": 0.0,
+      "end": 3.216,
+      "duration": 3.216,
+      "words": [
+        {
+          "word": "Hi.",
+          "start": 0.46,
+          "end": 0.66,
+          "local_start": 0.46,
+          "local_end": 0.66
+        },
+        {
+          "word": "I'd",
+          "start": 0.66,
+          "end": 1.08,
+          "local_start": 0.66,
+          "local_end": 1.08
+        },
+        {
+          "word": "like",
+          "start": 1.08,
+          "end": 1.26,
+          "local_start": 1.08,
+          "local_end": 1.26
+        },
+        {
+          "word": "to",
+          "start": 1.26,
+          "end": 1.5,
+          "local_start": 1.26,
+          "local_end": 1.5
+        },
+        {
+          "word": "open",
+          "start": 1.5,
+          "end": 1.62,
+          "local_start": 1.5,
+          "local_end": 1.62
+        },
+        {
+          "word": "a",
+          "start": 1.62,
+          "end": 1.86,
+          "local_start": 1.62,
+          "local_end": 1.86
+        },
+        {
+          "word": "checking",
+          "start": 1.86,
+          "end": 2.04,
+          "local_start": 1.86,
+          "local_end": 2.04
+        },
+        {
+          "word": "account,",
+          "start": 2.04,
+          "end": 2.36,
+          "local_start": 2.04,
+          "local_end": 2.36
+        },
+        {
+          "word": "please.",
+          "start": 2.72,
+          "end": 2.82,
+          "local_start": 2.72,
+          "local_end": 2.82
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "file": "02.mp3",
+      "text": "Of course. Have you banked with us before?",
+      "audio_sha256": "fe5d713abc1d94dd7366325893f2419f06a68a59eab7ce98f20b70aa5b9eace9",
+      "start": 3.216,
+      "end": 5.616,
+      "duration": 2.4,
+      "words": [
+        {
+          "word": "Of",
+          "start": 3.216,
+          "end": 3.436,
+          "local_start": 0.0,
+          "local_end": 0.22
+        },
+        {
+          "word": "course.",
+          "start": 3.436,
+          "end": 3.716,
+          "local_start": 0.22,
+          "local_end": 0.5
+        },
+        {
+          "word": "Have",
+          "start": 4.236,
+          "end": 4.336,
+          "local_start": 1.02,
+          "local_end": 1.12
+        },
+        {
+          "word": "you",
+          "start": 4.336,
+          "end": 4.476,
+          "local_start": 1.12,
+          "local_end": 1.26
+        },
+        {
+          "word": "banked",
+          "start": 4.476,
+          "end": 4.796,
+          "local_start": 1.26,
+          "local_end": 1.58
+        },
+        {
+          "word": "with",
+          "start": 4.796,
+          "end": 4.916,
+          "local_start": 1.58,
+          "local_end": 1.7
+        },
+        {
+          "word": "us",
+          "start": 4.916,
+          "end": 5.096,
+          "local_start": 1.7,
+          "local_end": 1.88
+        },
+        {
+          "word": "before?",
+          "start": 5.096,
+          "end": 5.336,
+          "local_start": 1.88,
+          "local_end": 2.12
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "file": "03.mp3",
+      "text": "No, this is my first time. I just moved to the neighborhood.",
+      "audio_sha256": "5adc9ca0df3800e9e18826f263a89a75c61a8c147b301352a43ea0fd5e49da2e",
+      "start": 5.616,
+      "end": 9.672,
+      "duration": 4.056,
+      "words": [
+        {
+          "word": "No,",
+          "start": 5.616,
+          "end": 6.096,
+          "local_start": 0.0,
+          "local_end": 0.48
+        },
+        {
+          "word": "this",
+          "start": 6.476,
+          "end": 6.756,
+          "local_start": 0.86,
+          "local_end": 1.14
+        },
+        {
+          "word": "is",
+          "start": 6.756,
+          "end": 6.896,
+          "local_start": 1.14,
+          "local_end": 1.28
+        },
+        {
+          "word": "my",
+          "start": 6.896,
+          "end": 7.096,
+          "local_start": 1.28,
+          "local_end": 1.48
+        },
+        {
+          "word": "first",
+          "start": 7.096,
+          "end": 7.376,
+          "local_start": 1.48,
+          "local_end": 1.76
+        },
+        {
+          "word": "time.",
+          "start": 7.376,
+          "end": 7.756,
+          "local_start": 1.76,
+          "local_end": 2.14
+        },
+        {
+          "word": "I",
+          "start": 8.056,
+          "end": 8.256,
+          "local_start": 2.44,
+          "local_end": 2.64
+        },
+        {
+          "word": "just",
+          "start": 8.256,
+          "end": 8.476,
+          "local_start": 2.64,
+          "local_end": 2.86
+        },
+        {
+          "word": "moved",
+          "start": 8.476,
+          "end": 8.676,
+          "local_start": 2.86,
+          "local_end": 3.06
+        },
+        {
+          "word": "to",
+          "start": 8.676,
+          "end": 8.836,
+          "local_start": 3.06,
+          "local_end": 3.22
+        },
+        {
+          "word": "the",
+          "start": 8.836,
+          "end": 8.976,
+          "local_start": 3.22,
+          "local_end": 3.36
+        },
+        {
+          "word": "neighborhood.",
+          "start": 8.976,
+          "end": 9.176,
+          "local_start": 3.36,
+          "local_end": 3.56
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "file": "04.mp3",
+      "text": "Welcome. I'll need a photo ID and proof of your current address.",
+      "audio_sha256": "55ebb95adb2fe0937987a97aee5a2b06fa45bdef4de0544e3db4963f7875fd05",
+      "start": 9.672,
+      "end": 13.872,
+      "duration": 4.2,
+      "words": [
+        {
+          "word": "Welcome.",
+          "start": 9.672,
+          "end": 10.232,
+          "local_start": 0.0,
+          "local_end": 0.56
+        },
+        {
+          "word": "I'll",
+          "start": 10.492,
+          "end": 10.892,
+          "local_start": 0.82,
+          "local_end": 1.22
+        },
+        {
+          "word": "need",
+          "start": 10.892,
+          "end": 11.092,
+          "local_start": 1.22,
+          "local_end": 1.42
+        },
+        {
+          "word": "a",
+          "start": 11.092,
+          "end": 11.312,
+          "local_start": 1.42,
+          "local_end": 1.64
+        },
+        {
+          "word": "photo",
+          "start": 11.312,
+          "end": 11.492,
+          "local_start": 1.64,
+          "local_end": 1.82
+        },
+        {
+          "word": "ID",
+          "start": 11.492,
+          "end": 11.832,
+          "local_start": 1.82,
+          "local_end": 2.16
+        },
+        {
+          "word": "and",
+          "start": 11.832,
+          "end": 12.452,
+          "local_start": 2.16,
+          "local_end": 2.78
+        },
+        {
+          "word": "proof",
+          "start": 12.452,
+          "end": 12.632,
+          "local_start": 2.78,
+          "local_end": 2.96
+        },
+        {
+          "word": "of",
+          "start": 12.632,
+          "end": 12.772,
+          "local_start": 2.96,
+          "local_end": 3.1
+        },
+        {
+          "word": "your",
+          "start": 12.772,
+          "end": 12.932,
+          "local_start": 3.1,
+          "local_end": 3.26
+        },
+        {
+          "word": "current",
+          "start": 12.932,
+          "end": 13.132,
+          "local_start": 3.26,
+          "local_end": 3.46
+        },
+        {
+          "word": "address.",
+          "start": 13.132,
+          "end": 13.452,
+          "local_start": 3.46,
+          "local_end": 3.78
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "file": "05.mp3",
+      "text": "Sure. I have my driver's license and a utility bill.",
+      "audio_sha256": "6f8deb6ea7357b1b19158aca9ce9ef15a28329262d719344f3906e45f95786d2",
+      "start": 13.872,
+      "end": 17.52,
+      "duration": 3.648,
+      "words": [
+        {
+          "word": "Sure.",
+          "start": 13.872,
+          "end": 14.292,
+          "local_start": 0.0,
+          "local_end": 0.42
+        },
+        {
+          "word": "I",
+          "start": 14.592,
+          "end": 14.812,
+          "local_start": 0.72,
+          "local_end": 0.94
+        },
+        {
+          "word": "have",
+          "start": 14.812,
+          "end": 14.992,
+          "local_start": 0.94,
+          "local_end": 1.12
+        },
+        {
+          "word": "my",
+          "start": 14.992,
+          "end": 15.192,
+          "local_start": 1.12,
+          "local_end": 1.32
+        },
+        {
+          "word": "driver's",
+          "start": 15.192,
+          "end": 15.612,
+          "local_start": 1.32,
+          "local_end": 1.74
+        },
+        {
+          "word": "license",
+          "start": 15.612,
+          "end": 16.012,
+          "local_start": 1.74,
+          "local_end": 2.14
+        },
+        {
+          "word": "and",
+          "start": 16.012,
+          "end": 16.452,
+          "local_start": 2.14,
+          "local_end": 2.58
+        },
+        {
+          "word": "a",
+          "start": 16.452,
+          "end": 16.932,
+          "local_start": 2.58,
+          "local_end": 3.06
+        },
+        {
+          "word": "utility",
+          "start": 16.932,
+          "end": 16.932,
+          "local_start": 3.06,
+          "local_end": 3.06
+        },
+        {
+          "word": "bill.",
+          "start": 16.932,
+          "end": 17.172,
+          "local_start": 3.06,
+          "local_end": 3.3
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "file": "06.mp3",
+      "text": "That's perfect. There's no monthly fee if you set up direct deposit.",
+      "audio_sha256": "3675a223067b4f9b5d0050c7a2a65f29467135088e3b489079eb6b58387d0176",
+      "start": 17.52,
+      "end": 21.528,
+      "duration": 4.008,
+      "words": [
+        {
+          "word": "That's",
+          "start": 17.52,
+          "end": 17.9,
+          "local_start": 0.0,
+          "local_end": 0.38
+        },
+        {
+          "word": "perfect.",
+          "start": 17.9,
+          "end": 18.28,
+          "local_start": 0.38,
+          "local_end": 0.76
+        },
+        {
+          "word": "There's",
+          "start": 18.72,
+          "end": 18.86,
+          "local_start": 1.2,
+          "local_end": 1.34
+        },
+        {
+          "word": "no",
+          "start": 18.86,
+          "end": 19.18,
+          "local_start": 1.34,
+          "local_end": 1.66
+        },
+        {
+          "word": "monthly",
+          "start": 19.18,
+          "end": 19.48,
+          "local_start": 1.66,
+          "local_end": 1.96
+        },
+        {
+          "word": "fee",
+          "start": 19.48,
+          "end": 19.78,
+          "local_start": 1.96,
+          "local_end": 2.26
+        },
+        {
+          "word": "if",
+          "start": 19.78,
+          "end": 20.0,
+          "local_start": 2.26,
+          "local_end": 2.48
+        },
+        {
+          "word": "you",
+          "start": 20.0,
+          "end": 20.16,
+          "local_start": 2.48,
+          "local_end": 2.64
+        },
+        {
+          "word": "set",
+          "start": 20.16,
+          "end": 20.28,
+          "local_start": 2.64,
+          "local_end": 2.76
+        },
+        {
+          "word": "up",
+          "start": 20.28,
+          "end": 20.42,
+          "local_start": 2.76,
+          "local_end": 2.9
+        },
+        {
+          "word": "direct",
+          "start": 20.42,
+          "end": 20.72,
+          "local_start": 2.9,
+          "local_end": 3.2
+        },
+        {
+          "word": "deposit.",
+          "start": 20.72,
+          "end": 21.02,
+          "local_start": 3.2,
+          "local_end": 3.5
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "file": "07.mp3",
+      "text": "That works for me. Can I get a debit card today?",
+      "audio_sha256": "db60e88ea552aef78b953db9d8ad3bb58aea59cc5f9ead88874207ef30074e5f",
+      "start": 21.528,
+      "end": 24.792,
+      "duration": 3.264,
+      "words": [
+        {
+          "word": "That",
+          "start": 21.528,
+          "end": 21.948,
+          "local_start": 0.0,
+          "local_end": 0.42
+        },
+        {
+          "word": "works",
+          "start": 21.948,
+          "end": 22.168,
+          "local_start": 0.42,
+          "local_end": 0.64
+        },
+        {
+          "word": "for",
+          "start": 22.168,
+          "end": 22.388,
+          "local_start": 0.64,
+          "local_end": 0.86
+        },
+        {
+          "word": "me.",
+          "start": 22.388,
+          "end": 22.668,
+          "local_start": 0.86,
+          "local_end": 1.14
+        },
+        {
+          "word": "Can",
+          "start": 23.148,
+          "end": 23.228,
+          "local_start": 1.62,
+          "local_end": 1.7
+        },
+        {
+          "word": "I",
+          "start": 23.228,
+          "end": 23.368,
+          "local_start": 1.7,
+          "local_end": 1.84
+        },
+        {
+          "word": "get",
+          "start": 23.368,
+          "end": 23.468,
+          "local_start": 1.84,
+          "local_end": 1.94
+        },
+        {
+          "word": "a",
+          "start": 23.468,
+          "end": 23.728,
+          "local_start": 1.94,
+          "local_end": 2.2
+        },
+        {
+          "word": "debit",
+          "start": 23.728,
+          "end": 23.808,
+          "local_start": 2.2,
+          "local_end": 2.28
+        },
+        {
+          "word": "card",
+          "start": 23.808,
+          "end": 24.048,
+          "local_start": 2.28,
+          "local_end": 2.52
+        },
+        {
+          "word": "today?",
+          "start": 24.048,
+          "end": 24.328,
+          "local_start": 2.52,
+          "local_end": 2.8
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "file": "08.mp3",
+      "text": "The card will be mailed in five to seven days. You can use it as soon as it arrives.",
+      "audio_sha256": "2da5932f5f82dd682b42f610c223b84f6b1c37e0cf6f478eaf105f65402fb000",
+      "start": 24.792,
+      "end": 30.792,
+      "duration": 6.0,
+      "words": [
+        {
+          "word": "The",
+          "start": 24.792,
+          "end": 25.272,
+          "local_start": 0.0,
+          "local_end": 0.48
+        },
+        {
+          "word": "card",
+          "start": 25.272,
+          "end": 25.352,
+          "local_start": 0.48,
+          "local_end": 0.56
+        },
+        {
+          "word": "will",
+          "start": 25.352,
+          "end": 25.652,
+          "local_start": 0.56,
+          "local_end": 0.86
+        },
+        {
+          "word": "be",
+          "start": 25.652,
+          "end": 26.112,
+          "local_start": 0.86,
+          "local_end": 1.32
+        },
+        {
+          "word": "mailed",
+          "start": 26.112,
+          "end": 26.112,
+          "local_start": 1.32,
+          "local_end": 1.32
+        },
+        {
+          "word": "in",
+          "start": 26.112,
+          "end": 26.472,
+          "local_start": 1.32,
+          "local_end": 1.68
+        },
+        {
+          "word": "five",
+          "start": 26.472,
+          "end": 26.792,
+          "local_start": 1.68,
+          "local_end": 2.0
+        },
+        {
+          "word": "to",
+          "start": 26.792,
+          "end": 27.052,
+          "local_start": 2.0,
+          "local_end": 2.26
+        },
+        {
+          "word": "seven",
+          "start": 27.052,
+          "end": 27.232,
+          "local_start": 2.26,
+          "local_end": 2.44
+        },
+        {
+          "word": "days.",
+          "start": 27.232,
+          "end": 27.552,
+          "local_start": 2.44,
+          "local_end": 2.76
+        },
+        {
+          "word": "You",
+          "start": 28.392,
+          "end": 28.492,
+          "local_start": 3.6,
+          "local_end": 3.7
+        },
+        {
+          "word": "can",
+          "start": 28.492,
+          "end": 28.692,
+          "local_start": 3.7,
+          "local_end": 3.9
+        },
+        {
+          "word": "use",
+          "start": 28.692,
+          "end": 28.892,
+          "local_start": 3.9,
+          "local_end": 4.1
+        },
+        {
+          "word": "it",
+          "start": 28.892,
+          "end": 29.092,
+          "local_start": 4.1,
+          "local_end": 4.3
+        },
+        {
+          "word": "as",
+          "start": 29.092,
+          "end": 29.572,
+          "local_start": 4.3,
+          "local_end": 4.78
+        },
+        {
+          "word": "soon",
+          "start": 29.572,
+          "end": 29.672,
+          "local_start": 4.78,
+          "local_end": 4.88
+        },
+        {
+          "word": "as",
+          "start": 29.672,
+          "end": 29.832,
+          "local_start": 4.88,
+          "local_end": 5.04
+        },
+        {
+          "word": "it",
+          "start": 29.832,
+          "end": 30.012,
+          "local_start": 5.04,
+          "local_end": 5.22
+        },
+        {
+          "word": "arrives.",
+          "start": 30.012,
+          "end": 30.272,
+          "local_start": 5.22,
+          "local_end": 5.48
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "file": "09.mp3",
+      "text": "Okay. Is there a minimum deposit to open the account?",
+      "audio_sha256": "9f41269f32e93ba3808e5803a556a08c01939a79e94fabb024f320ae9703f354",
+      "start": 30.792,
+      "end": 33.96,
+      "duration": 3.168,
+      "words": [
+        {
+          "word": "Okay.",
+          "start": 30.792,
+          "end": 31.332,
+          "local_start": 0.0,
+          "local_end": 0.54
+        },
+        {
+          "word": "Is",
+          "start": 31.592,
+          "end": 31.792,
+          "local_start": 0.8,
+          "local_end": 1.0
+        },
+        {
+          "word": "there",
+          "start": 31.792,
+          "end": 31.932,
+          "local_start": 1.0,
+          "local_end": 1.14
+        },
+        {
+          "word": "a",
+          "start": 31.932,
+          "end": 32.092,
+          "local_start": 1.14,
+          "local_end": 1.3
+        },
+        {
+          "word": "minimum",
+          "start": 32.092,
+          "end": 32.312,
+          "local_start": 1.3,
+          "local_end": 1.52
+        },
+        {
+          "word": "deposit",
+          "start": 32.312,
+          "end": 32.692,
+          "local_start": 1.52,
+          "local_end": 1.9
+        },
+        {
+          "word": "to",
+          "start": 32.692,
+          "end": 32.972,
+          "local_start": 1.9,
+          "local_end": 2.18
+        },
+        {
+          "word": "open",
+          "start": 32.972,
+          "end": 33.152,
+          "local_start": 2.18,
+          "local_end": 2.36
+        },
+        {
+          "word": "the",
+          "start": 33.152,
+          "end": 33.432,
+          "local_start": 2.36,
+          "local_end": 2.64
+        },
+        {
+          "word": "account?",
+          "start": 33.432,
+          "end": 33.552,
+          "local_start": 2.64,
+          "local_end": 2.76
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "file": "10.mp3",
+      "text": "Yes. You can start with twenty-five dollars today.",
+      "audio_sha256": "372db7388a00b28954b377710f88c491fdae610b2b916abbcc933545e79b1f07",
+      "start": 33.96,
+      "end": 37.008,
+      "duration": 3.048,
+      "words": [
+        {
+          "word": "Yes.",
+          "start": 33.96,
+          "end": 34.58,
+          "local_start": 0.0,
+          "local_end": 0.62
+        },
+        {
+          "word": "You",
+          "start": 35.02,
+          "end": 35.14,
+          "local_start": 1.06,
+          "local_end": 1.18
+        },
+        {
+          "word": "can",
+          "start": 35.14,
+          "end": 35.36,
+          "local_start": 1.18,
+          "local_end": 1.4
+        },
+        {
+          "word": "start",
+          "start": 35.36,
+          "end": 35.58,
+          "local_start": 1.4,
+          "local_end": 1.62
+        },
+        {
+          "word": "with",
+          "start": 35.58,
+          "end": 35.76,
+          "local_start": 1.62,
+          "local_end": 1.8
+        },
+        {
+          "word": "twenty-five",
+          "start": 35.76,
+          "end": 36.26,
+          "local_start": 1.8,
+          "local_end": 2.3
+        },
+        {
+          "word": "dollars",
+          "start": 36.26,
+          "end": 36.6,
+          "local_start": 2.3,
+          "local_end": 2.64
+        },
+        {
+          "word": "today.",
+          "start": 36.6,
+          "end": 36.82,
+          "local_start": 2.64,
+          "local_end": 2.86
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "file": "11.mp3",
+      "text": "Great. I'll deposit that now. How do I check my balance later?",
+      "audio_sha256": "eb9d0e9f0f167a390b4229d463c8ac86f0abff342400c25e15e686679239d394",
+      "start": 37.008,
+      "end": 41.328,
+      "duration": 4.32,
+      "words": [
+        {
+          "word": "Great.",
+          "start": 37.008,
+          "end": 37.468,
+          "local_start": 0.0,
+          "local_end": 0.46
+        },
+        {
+          "word": "I'll",
+          "start": 37.688,
+          "end": 38.208,
+          "local_start": 0.68,
+          "local_end": 1.2
+        },
+        {
+          "word": "deposit",
+          "start": 38.208,
+          "end": 38.468,
+          "local_start": 1.2,
+          "local_end": 1.46
+        },
+        {
+          "word": "that",
+          "start": 38.468,
+          "end": 38.728,
+          "local_start": 1.46,
+          "local_end": 1.72
+        },
+        {
+          "word": "now.",
+          "start": 38.728,
+          "end": 39.148,
+          "local_start": 1.72,
+          "local_end": 2.14
+        },
+        {
+          "word": "How",
+          "start": 39.588,
+          "end": 39.688,
+          "local_start": 2.58,
+          "local_end": 2.68
+        },
+        {
+          "word": "do",
+          "start": 39.688,
+          "end": 39.768,
+          "local_start": 2.68,
+          "local_end": 2.76
+        },
+        {
+          "word": "I",
+          "start": 39.768,
+          "end": 39.968,
+          "local_start": 2.76,
+          "local_end": 2.96
+        },
+        {
+          "word": "check",
+          "start": 39.968,
+          "end": 40.068,
+          "local_start": 2.96,
+          "local_end": 3.06
+        },
+        {
+          "word": "my",
+          "start": 40.068,
+          "end": 40.348,
+          "local_start": 3.06,
+          "local_end": 3.34
+        },
+        {
+          "word": "balance",
+          "start": 40.348,
+          "end": 40.548,
+          "local_start": 3.34,
+          "local_end": 3.54
+        },
+        {
+          "word": "later?",
+          "start": 40.548,
+          "end": 40.868,
+          "local_start": 3.54,
+          "local_end": 3.86
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "file": "12.mp3",
+      "text": "You can use our mobile app, or check at an ATM anytime.",
+      "audio_sha256": "7e12421f6fd164c6717e781c7763b74d9a7811527718f74971f32fa8a5448662",
+      "start": 41.328,
+      "end": 45.144,
+      "duration": 3.816,
+      "words": [
+        {
+          "word": "You",
+          "start": 41.328,
+          "end": 41.508,
+          "local_start": 0.0,
+          "local_end": 0.18
+        },
+        {
+          "word": "can",
+          "start": 41.508,
+          "end": 41.708,
+          "local_start": 0.18,
+          "local_end": 0.38
+        },
+        {
+          "word": "use",
+          "start": 41.708,
+          "end": 41.848,
+          "local_start": 0.38,
+          "local_end": 0.52
+        },
+        {
+          "word": "our",
+          "start": 41.848,
+          "end": 42.108,
+          "local_start": 0.52,
+          "local_end": 0.78
+        },
+        {
+          "word": "mobile",
+          "start": 42.108,
+          "end": 42.408,
+          "local_start": 0.78,
+          "local_end": 1.08
+        },
+        {
+          "word": "app,",
+          "start": 42.408,
+          "end": 42.788,
+          "local_start": 1.08,
+          "local_end": 1.46
+        },
+        {
+          "word": "or",
+          "start": 43.228,
+          "end": 43.328,
+          "local_start": 1.9,
+          "local_end": 2.0
+        },
+        {
+          "word": "check",
+          "start": 43.328,
+          "end": 43.528,
+          "local_start": 2.0,
+          "local_end": 2.2
+        },
+        {
+          "word": "at",
+          "start": 43.528,
+          "end": 43.668,
+          "local_start": 2.2,
+          "local_end": 2.34
+        },
+        {
+          "word": "an",
+          "start": 43.668,
+          "end": 43.848,
+          "local_start": 2.34,
+          "local_end": 2.52
+        },
+        {
+          "word": "ATM",
+          "start": 43.848,
+          "end": 44.188,
+          "local_start": 2.52,
+          "local_end": 2.86
+        },
+        {
+          "word": "anytime.",
+          "start": 44.188,
+          "end": 44.768,
+          "local_start": 2.86,
+          "local_end": 3.44
+        }
+      ]
+    }
+  ]
+}
