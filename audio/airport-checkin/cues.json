@@ -1,0 +1,1099 @@
+{
+  "model": "whisper-1",
+  "lesson": "2026-11-11-airport-checkin",
+  "full_track": "full-dialogue.mp3",
+  "full_duration": 45.48,
+  "lines": [
+    {
+      "index": 1,
+      "file": "01.mp3",
+      "text": "Hi. I'd like to check in for the flight to Chicago, please.",
+      "audio_sha256": "a648f4407c0e8e81716e746757c09ffd3a7d8689bde5f47fb2c314e8e919e405",
+      "start": 0.0,
+      "end": 3.72,
+      "duration": 3.72,
+      "words": [
+        {
+          "word": "Hi.",
+          "start": 0.0,
+          "end": 0.4,
+          "local_start": 0.0,
+          "local_end": 0.4
+        },
+        {
+          "word": "I'd",
+          "start": 0.7,
+          "end": 1.08,
+          "local_start": 0.7,
+          "local_end": 1.08
+        },
+        {
+          "word": "like",
+          "start": 1.08,
+          "end": 1.3,
+          "local_start": 1.08,
+          "local_end": 1.3
+        },
+        {
+          "word": "to",
+          "start": 1.3,
+          "end": 1.48,
+          "local_start": 1.3,
+          "local_end": 1.48
+        },
+        {
+          "word": "check",
+          "start": 1.48,
+          "end": 1.6,
+          "local_start": 1.48,
+          "local_end": 1.6
+        },
+        {
+          "word": "in",
+          "start": 1.6,
+          "end": 1.8,
+          "local_start": 1.6,
+          "local_end": 1.8
+        },
+        {
+          "word": "for",
+          "start": 1.8,
+          "end": 1.94,
+          "local_start": 1.8,
+          "local_end": 1.94
+        },
+        {
+          "word": "the",
+          "start": 1.94,
+          "end": 2.08,
+          "local_start": 1.94,
+          "local_end": 2.08
+        },
+        {
+          "word": "flight",
+          "start": 2.08,
+          "end": 2.26,
+          "local_start": 2.08,
+          "local_end": 2.26
+        },
+        {
+          "word": "to",
+          "start": 2.26,
+          "end": 2.8,
+          "local_start": 2.26,
+          "local_end": 2.8
+        },
+        {
+          "word": "Chicago,",
+          "start": 2.8,
+          "end": 2.8,
+          "local_start": 2.8,
+          "local_end": 2.8
+        },
+        {
+          "word": "please.",
+          "start": 3.12,
+          "end": 3.22,
+          "local_start": 3.12,
+          "local_end": 3.22
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "file": "02.mp3",
+      "text": "Of course. May I see your passport and booking confirmation?",
+      "audio_sha256": "9eff239d3e75e8d89a1c3d78647acfd4011bd91a8d855d5f74176e81ee2bbbcc",
+      "start": 3.72,
+      "end": 6.624,
+      "duration": 2.904,
+      "words": [
+        {
+          "word": "Of",
+          "start": 3.72,
+          "end": 3.92,
+          "local_start": 0.0,
+          "local_end": 0.2
+        },
+        {
+          "word": "course.",
+          "start": 3.92,
+          "end": 4.24,
+          "local_start": 0.2,
+          "local_end": 0.52
+        },
+        {
+          "word": "May",
+          "start": 4.66,
+          "end": 4.74,
+          "local_start": 0.94,
+          "local_end": 1.02
+        },
+        {
+          "word": "I",
+          "start": 4.74,
+          "end": 4.9,
+          "local_start": 1.02,
+          "local_end": 1.18
+        },
+        {
+          "word": "see",
+          "start": 4.9,
+          "end": 5.0,
+          "local_start": 1.18,
+          "local_end": 1.28
+        },
+        {
+          "word": "your",
+          "start": 5.0,
+          "end": 5.18,
+          "local_start": 1.28,
+          "local_end": 1.46
+        },
+        {
+          "word": "passport",
+          "start": 5.18,
+          "end": 5.44,
+          "local_start": 1.46,
+          "local_end": 1.72
+        },
+        {
+          "word": "and",
+          "start": 5.44,
+          "end": 5.76,
+          "local_start": 1.72,
+          "local_end": 2.04
+        },
+        {
+          "word": "booking",
+          "start": 5.76,
+          "end": 5.9,
+          "local_start": 2.04,
+          "local_end": 2.18
+        },
+        {
+          "word": "confirmation?",
+          "start": 5.9,
+          "end": 6.32,
+          "local_start": 2.18,
+          "local_end": 2.6
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "file": "03.mp3",
+      "text": "Sure. Here they are. I'm on the three-forty flight.",
+      "audio_sha256": "0dab7f1536b07ed499df8f838ec53763cf7691c4f010e39fdf74684a23e5c121",
+      "start": 6.624,
+      "end": 10.176,
+      "duration": 3.552,
+      "words": [
+        {
+          "word": "Sure.",
+          "start": 6.624,
+          "end": 7.084,
+          "local_start": 0.0,
+          "local_end": 0.46
+        },
+        {
+          "word": "Here",
+          "start": 7.404,
+          "end": 7.684,
+          "local_start": 0.78,
+          "local_end": 1.06
+        },
+        {
+          "word": "they",
+          "start": 7.684,
+          "end": 7.804,
+          "local_start": 1.06,
+          "local_end": 1.18
+        },
+        {
+          "word": "are.",
+          "start": 7.804,
+          "end": 8.084,
+          "local_start": 1.18,
+          "local_end": 1.46
+        },
+        {
+          "word": "I'm",
+          "start": 8.484,
+          "end": 8.604,
+          "local_start": 1.86,
+          "local_end": 1.98
+        },
+        {
+          "word": "on",
+          "start": 8.604,
+          "end": 8.744,
+          "local_start": 1.98,
+          "local_end": 2.12
+        },
+        {
+          "word": "the",
+          "start": 8.744,
+          "end": 8.904,
+          "local_start": 2.12,
+          "local_end": 2.28
+        },
+        {
+          "word": "three-forty",
+          "start": 8.904,
+          "end": 9.444,
+          "local_start": 2.28,
+          "local_end": 2.82
+        },
+        {
+          "word": "flight.",
+          "start": 9.444,
+          "end": 9.704,
+          "local_start": 2.82,
+          "local_end": 3.08
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "file": "04.mp3",
+      "text": "Thank you. How many bags are you checking today?",
+      "audio_sha256": "eea99f7375d21a4dbe7dd58f22e0884cfc8129bcbdaf2857c5860195e5360b75",
+      "start": 10.176,
+      "end": 13.44,
+      "duration": 3.264,
+      "words": [
+        {
+          "word": "Thank",
+          "start": 10.176,
+          "end": 10.436,
+          "local_start": 0.0,
+          "local_end": 0.26
+        },
+        {
+          "word": "you.",
+          "start": 10.436,
+          "end": 10.956,
+          "local_start": 0.26,
+          "local_end": 0.78
+        },
+        {
+          "word": "How",
+          "start": 11.236,
+          "end": 11.356,
+          "local_start": 1.06,
+          "local_end": 1.18
+        },
+        {
+          "word": "many",
+          "start": 11.356,
+          "end": 11.576,
+          "local_start": 1.18,
+          "local_end": 1.4
+        },
+        {
+          "word": "bags",
+          "start": 11.576,
+          "end": 11.816,
+          "local_start": 1.4,
+          "local_end": 1.64
+        },
+        {
+          "word": "are",
+          "start": 11.816,
+          "end": 11.976,
+          "local_start": 1.64,
+          "local_end": 1.8
+        },
+        {
+          "word": "you",
+          "start": 11.976,
+          "end": 12.156,
+          "local_start": 1.8,
+          "local_end": 1.98
+        },
+        {
+          "word": "checking",
+          "start": 12.156,
+          "end": 12.276,
+          "local_start": 1.98,
+          "local_end": 2.1
+        },
+        {
+          "word": "today?",
+          "start": 12.276,
+          "end": 12.636,
+          "local_start": 2.1,
+          "local_end": 2.46
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "file": "05.mp3",
+      "text": "Just one suitcase. I'd also like to carry on this backpack.",
+      "audio_sha256": "6ccd689baeb2f1822ca584bcb838f2780dddd8c0cb5e1c4da6a3c3dfa02cc4ec",
+      "start": 13.44,
+      "end": 17.688,
+      "duration": 4.248,
+      "words": [
+        {
+          "word": "Just",
+          "start": 13.44,
+          "end": 13.84,
+          "local_start": 0.0,
+          "local_end": 0.4
+        },
+        {
+          "word": "one",
+          "start": 13.84,
+          "end": 14.28,
+          "local_start": 0.4,
+          "local_end": 0.84
+        },
+        {
+          "word": "suitcase.",
+          "start": 14.28,
+          "end": 14.78,
+          "local_start": 0.84,
+          "local_end": 1.34
+        },
+        {
+          "word": "I'd",
+          "start": 15.32,
+          "end": 15.46,
+          "local_start": 1.88,
+          "local_end": 2.02
+        },
+        {
+          "word": "also",
+          "start": 15.46,
+          "end": 15.86,
+          "local_start": 2.02,
+          "local_end": 2.42
+        },
+        {
+          "word": "like",
+          "start": 15.86,
+          "end": 16.02,
+          "local_start": 2.42,
+          "local_end": 2.58
+        },
+        {
+          "word": "to",
+          "start": 16.02,
+          "end": 16.36,
+          "local_start": 2.58,
+          "local_end": 2.92
+        },
+        {
+          "word": "carry",
+          "start": 16.36,
+          "end": 16.36,
+          "local_start": 2.92,
+          "local_end": 2.92
+        },
+        {
+          "word": "on",
+          "start": 16.36,
+          "end": 16.6,
+          "local_start": 2.92,
+          "local_end": 3.16
+        },
+        {
+          "word": "this",
+          "start": 16.6,
+          "end": 16.86,
+          "local_start": 3.16,
+          "local_end": 3.42
+        },
+        {
+          "word": "backpack.",
+          "start": 16.86,
+          "end": 17.1,
+          "local_start": 3.42,
+          "local_end": 3.66
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "file": "06.mp3",
+      "text": "That's fine. Would you prefer a window seat or an aisle seat?",
+      "audio_sha256": "734d6c870f9121848c7b19e995d879315170f14ab693cea8ae693a84c6a95b44",
+      "start": 17.688,
+      "end": 21.048,
+      "duration": 3.36,
+      "words": [
+        {
+          "word": "That's",
+          "start": 17.688,
+          "end": 18.008,
+          "local_start": 0.0,
+          "local_end": 0.32
+        },
+        {
+          "word": "fine.",
+          "start": 18.008,
+          "end": 18.348,
+          "local_start": 0.32,
+          "local_end": 0.66
+        },
+        {
+          "word": "Would",
+          "start": 18.968,
+          "end": 19.028,
+          "local_start": 1.28,
+          "local_end": 1.34
+        },
+        {
+          "word": "you",
+          "start": 19.028,
+          "end": 19.188,
+          "local_start": 1.34,
+          "local_end": 1.5
+        },
+        {
+          "word": "prefer",
+          "start": 19.188,
+          "end": 19.328,
+          "local_start": 1.5,
+          "local_end": 1.64
+        },
+        {
+          "word": "a",
+          "start": 19.328,
+          "end": 19.568,
+          "local_start": 1.64,
+          "local_end": 1.88
+        },
+        {
+          "word": "window",
+          "start": 19.568,
+          "end": 19.748,
+          "local_start": 1.88,
+          "local_end": 2.06
+        },
+        {
+          "word": "seat",
+          "start": 19.748,
+          "end": 19.988,
+          "local_start": 2.06,
+          "local_end": 2.3
+        },
+        {
+          "word": "or",
+          "start": 19.988,
+          "end": 20.208,
+          "local_start": 2.3,
+          "local_end": 2.52
+        },
+        {
+          "word": "an",
+          "start": 20.208,
+          "end": 20.488,
+          "local_start": 2.52,
+          "local_end": 2.8
+        },
+        {
+          "word": "aisle",
+          "start": 20.488,
+          "end": 20.488,
+          "local_start": 2.8,
+          "local_end": 2.8
+        },
+        {
+          "word": "seat?",
+          "start": 20.488,
+          "end": 20.728,
+          "local_start": 2.8,
+          "local_end": 3.04
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "file": "07.mp3",
+      "text": "A window seat, please, if one is still available.",
+      "audio_sha256": "0850fe8180ec6af467f299b1bce929bf8e01acd5a817f8dc038d2c3e4883bd4a",
+      "start": 21.048,
+      "end": 24.408,
+      "duration": 3.36,
+      "words": [
+        {
+          "word": "A",
+          "start": 21.048,
+          "end": 21.308,
+          "local_start": 0.0,
+          "local_end": 0.26
+        },
+        {
+          "word": "window",
+          "start": 21.308,
+          "end": 21.508,
+          "local_start": 0.26,
+          "local_end": 0.46
+        },
+        {
+          "word": "seat,",
+          "start": 21.508,
+          "end": 21.768,
+          "local_start": 0.46,
+          "local_end": 0.72
+        },
+        {
+          "word": "please,",
+          "start": 22.248,
+          "end": 22.408,
+          "local_start": 1.2,
+          "local_end": 1.36
+        },
+        {
+          "word": "if",
+          "start": 22.668,
+          "end": 22.948,
+          "local_start": 1.62,
+          "local_end": 1.9
+        },
+        {
+          "word": "one",
+          "start": 22.948,
+          "end": 23.068,
+          "local_start": 1.9,
+          "local_end": 2.02
+        },
+        {
+          "word": "is",
+          "start": 23.068,
+          "end": 23.228,
+          "local_start": 2.02,
+          "local_end": 2.18
+        },
+        {
+          "word": "still",
+          "start": 23.228,
+          "end": 23.448,
+          "local_start": 2.18,
+          "local_end": 2.4
+        },
+        {
+          "word": "available.",
+          "start": 23.448,
+          "end": 23.688,
+          "local_start": 2.4,
+          "local_end": 2.64
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "file": "08.mp3",
+      "text": "I can give you a window seat near the front. Your bag is just under the weight limit.",
+      "audio_sha256": "a38616ba34bb2ad56d531033dbee14ed507814895da71670b3f3a0f33f6d6df7",
+      "start": 24.408,
+      "end": 29.568,
+      "duration": 5.16,
+      "words": [
+        {
+          "word": "I",
+          "start": 24.408,
+          "end": 24.608,
+          "local_start": 0.0,
+          "local_end": 0.2
+        },
+        {
+          "word": "can",
+          "start": 24.608,
+          "end": 24.848,
+          "local_start": 0.2,
+          "local_end": 0.44
+        },
+        {
+          "word": "give",
+          "start": 24.848,
+          "end": 25.188,
+          "local_start": 0.44,
+          "local_end": 0.78
+        },
+        {
+          "word": "you",
+          "start": 25.188,
+          "end": 25.508,
+          "local_start": 0.78,
+          "local_end": 1.1
+        },
+        {
+          "word": "a",
+          "start": 25.508,
+          "end": 25.808,
+          "local_start": 1.1,
+          "local_end": 1.4
+        },
+        {
+          "word": "window",
+          "start": 25.808,
+          "end": 26.048,
+          "local_start": 1.4,
+          "local_end": 1.64
+        },
+        {
+          "word": "seat",
+          "start": 26.048,
+          "end": 26.428,
+          "local_start": 1.64,
+          "local_end": 2.02
+        },
+        {
+          "word": "near",
+          "start": 26.428,
+          "end": 26.728,
+          "local_start": 2.02,
+          "local_end": 2.32
+        },
+        {
+          "word": "the",
+          "start": 26.728,
+          "end": 27.148,
+          "local_start": 2.32,
+          "local_end": 2.74
+        },
+        {
+          "word": "front.",
+          "start": 27.148,
+          "end": 27.148,
+          "local_start": 2.74,
+          "local_end": 2.74
+        },
+        {
+          "word": "Your",
+          "start": 27.828,
+          "end": 27.968,
+          "local_start": 3.42,
+          "local_end": 3.56
+        },
+        {
+          "word": "bag",
+          "start": 27.968,
+          "end": 28.228,
+          "local_start": 3.56,
+          "local_end": 3.82
+        },
+        {
+          "word": "is",
+          "start": 28.228,
+          "end": 28.488,
+          "local_start": 3.82,
+          "local_end": 4.08
+        },
+        {
+          "word": "just",
+          "start": 28.488,
+          "end": 28.808,
+          "local_start": 4.08,
+          "local_end": 4.4
+        },
+        {
+          "word": "under",
+          "start": 28.808,
+          "end": 28.948,
+          "local_start": 4.4,
+          "local_end": 4.54
+        },
+        {
+          "word": "the",
+          "start": 28.948,
+          "end": 29.128,
+          "local_start": 4.54,
+          "local_end": 4.72
+        },
+        {
+          "word": "weight",
+          "start": 29.128,
+          "end": 29.228,
+          "local_start": 4.72,
+          "local_end": 4.82
+        },
+        {
+          "word": "limit.",
+          "start": 29.228,
+          "end": 29.368,
+          "local_start": 4.82,
+          "local_end": 4.96
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "file": "09.mp3",
+      "text": "Great. Do I need to go through security right away?",
+      "audio_sha256": "fa3bca81e8115b058b92f75fe2a11d490b39488655f227438704b5543c9d0925",
+      "start": 29.568,
+      "end": 32.736,
+      "duration": 3.168,
+      "words": [
+        {
+          "word": "Great.",
+          "start": 29.568,
+          "end": 30.168,
+          "local_start": 0.0,
+          "local_end": 0.6
+        },
+        {
+          "word": "Do",
+          "start": 30.788,
+          "end": 30.908,
+          "local_start": 1.22,
+          "local_end": 1.34
+        },
+        {
+          "word": "I",
+          "start": 30.908,
+          "end": 31.068,
+          "local_start": 1.34,
+          "local_end": 1.5
+        },
+        {
+          "word": "need",
+          "start": 31.068,
+          "end": 31.228,
+          "local_start": 1.5,
+          "local_end": 1.66
+        },
+        {
+          "word": "to",
+          "start": 31.228,
+          "end": 31.308,
+          "local_start": 1.66,
+          "local_end": 1.74
+        },
+        {
+          "word": "go",
+          "start": 31.308,
+          "end": 31.448,
+          "local_start": 1.74,
+          "local_end": 1.88
+        },
+        {
+          "word": "through",
+          "start": 31.448,
+          "end": 31.648,
+          "local_start": 1.88,
+          "local_end": 2.08
+        },
+        {
+          "word": "security",
+          "start": 31.648,
+          "end": 31.988,
+          "local_start": 2.08,
+          "local_end": 2.42
+        },
+        {
+          "word": "right",
+          "start": 31.988,
+          "end": 32.268,
+          "local_start": 2.42,
+          "local_end": 2.7
+        },
+        {
+          "word": "away?",
+          "start": 32.268,
+          "end": 32.468,
+          "local_start": 2.7,
+          "local_end": 2.9
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "file": "10.mp3",
+      "text": "Yes. Security is down the hall to your left. Boarding starts at three o'clock.",
+      "audio_sha256": "1fe4096e56a604a58d25f7d1581404c17db41a2fec2cce031d364061d3831804",
+      "start": 32.736,
+      "end": 37.8,
+      "duration": 5.064,
+      "words": [
+        {
+          "word": "Yes.",
+          "start": 32.736,
+          "end": 33.376,
+          "local_start": 0.0,
+          "local_end": 0.64
+        },
+        {
+          "word": "Security",
+          "start": 33.996,
+          "end": 34.336,
+          "local_start": 1.26,
+          "local_end": 1.6
+        },
+        {
+          "word": "is",
+          "start": 34.336,
+          "end": 34.556,
+          "local_start": 1.6,
+          "local_end": 1.82
+        },
+        {
+          "word": "down",
+          "start": 34.556,
+          "end": 34.776,
+          "local_start": 1.82,
+          "local_end": 2.04
+        },
+        {
+          "word": "the",
+          "start": 34.776,
+          "end": 34.936,
+          "local_start": 2.04,
+          "local_end": 2.2
+        },
+        {
+          "word": "hall",
+          "start": 34.936,
+          "end": 35.036,
+          "local_start": 2.2,
+          "local_end": 2.3
+        },
+        {
+          "word": "to",
+          "start": 35.036,
+          "end": 35.176,
+          "local_start": 2.3,
+          "local_end": 2.44
+        },
+        {
+          "word": "your",
+          "start": 35.176,
+          "end": 35.336,
+          "local_start": 2.44,
+          "local_end": 2.6
+        },
+        {
+          "word": "left.",
+          "start": 35.336,
+          "end": 35.596,
+          "local_start": 2.6,
+          "local_end": 2.86
+        },
+        {
+          "word": "Boarding",
+          "start": 36.336,
+          "end": 36.536,
+          "local_start": 3.6,
+          "local_end": 3.8
+        },
+        {
+          "word": "starts",
+          "start": 36.536,
+          "end": 36.776,
+          "local_start": 3.8,
+          "local_end": 4.04
+        },
+        {
+          "word": "at",
+          "start": 36.776,
+          "end": 36.996,
+          "local_start": 4.04,
+          "local_end": 4.26
+        },
+        {
+          "word": "three",
+          "start": 36.996,
+          "end": 37.176,
+          "local_start": 4.26,
+          "local_end": 4.44
+        },
+        {
+          "word": "o'clock.",
+          "start": 37.176,
+          "end": 37.376,
+          "local_start": 4.44,
+          "local_end": 4.64
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "file": "11.mp3",
+      "text": "Okay. Where can I find the gate number?",
+      "audio_sha256": "45c94ee2bc42115c326ece9d397f6e39d6bb2af5b786f2d79716622f705d6567",
+      "start": 37.8,
+      "end": 40.464,
+      "duration": 2.664,
+      "words": [
+        {
+          "word": "Okay.",
+          "start": 37.8,
+          "end": 38.42,
+          "local_start": 0.0,
+          "local_end": 0.62
+        },
+        {
+          "word": "Where",
+          "start": 38.64,
+          "end": 38.98,
+          "local_start": 0.84,
+          "local_end": 1.18
+        },
+        {
+          "word": "can",
+          "start": 38.98,
+          "end": 39.12,
+          "local_start": 1.18,
+          "local_end": 1.32
+        },
+        {
+          "word": "I",
+          "start": 39.12,
+          "end": 39.26,
+          "local_start": 1.32,
+          "local_end": 1.46
+        },
+        {
+          "word": "find",
+          "start": 39.26,
+          "end": 39.42,
+          "local_start": 1.46,
+          "local_end": 1.62
+        },
+        {
+          "word": "the",
+          "start": 39.42,
+          "end": 39.62,
+          "local_start": 1.62,
+          "local_end": 1.82
+        },
+        {
+          "word": "gate",
+          "start": 39.62,
+          "end": 39.76,
+          "local_start": 1.82,
+          "local_end": 1.96
+        },
+        {
+          "word": "number?",
+          "start": 39.76,
+          "end": 39.96,
+          "local_start": 1.96,
+          "local_end": 2.16
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "file": "12.mp3",
+      "text": "It's printed on your boarding pass. You're at Gate B fourteen. Have a good flight!",
+      "audio_sha256": "d9f0cc20117541ab42cc256c6ad736adb9121a3cb26f17426443a7f14983cdc4",
+      "start": 40.464,
+      "end": 45.48,
+      "duration": 5.016,
+      "words": [
+        {
+          "word": "It's",
+          "start": 40.464,
+          "end": 41.184,
+          "local_start": 0.0,
+          "local_end": 0.72
+        },
+        {
+          "word": "printed",
+          "start": 41.184,
+          "end": 41.424,
+          "local_start": 0.72,
+          "local_end": 0.96
+        },
+        {
+          "word": "on",
+          "start": 41.424,
+          "end": 41.684,
+          "local_start": 0.96,
+          "local_end": 1.22
+        },
+        {
+          "word": "your",
+          "start": 41.684,
+          "end": 41.844,
+          "local_start": 1.22,
+          "local_end": 1.38
+        },
+        {
+          "word": "boarding",
+          "start": 41.844,
+          "end": 42.064,
+          "local_start": 1.38,
+          "local_end": 1.6
+        },
+        {
+          "word": "pass.",
+          "start": 42.064,
+          "end": 42.464,
+          "local_start": 1.6,
+          "local_end": 2.0
+        },
+        {
+          "word": "You're",
+          "start": 43.004,
+          "end": 43.124,
+          "local_start": 2.54,
+          "local_end": 2.66
+        },
+        {
+          "word": "at",
+          "start": 43.124,
+          "end": 43.324,
+          "local_start": 2.66,
+          "local_end": 2.86
+        },
+        {
+          "word": "Gate",
+          "start": 43.324,
+          "end": 43.444,
+          "local_start": 2.86,
+          "local_end": 2.98
+        },
+        {
+          "word": "B",
+          "start": 43.444,
+          "end": 43.684,
+          "local_start": 2.98,
+          "local_end": 3.22
+        },
+        {
+          "word": "fourteen.",
+          "start": 43.684,
+          "end": 44.104,
+          "local_start": 3.22,
+          "local_end": 3.64
+        },
+        {
+          "word": "Have",
+          "start": 44.664,
+          "end": 44.744,
+          "local_start": 4.2,
+          "local_end": 4.28
+        },
+        {
+          "word": "a",
+          "start": 44.744,
+          "end": 44.864,
+          "local_start": 4.28,
+          "local_end": 4.4
+        },
+        {
+          "word": "good",
+          "start": 44.864,
+          "end": 44.944,
+          "local_start": 4.4,
+          "local_end": 4.48
+        },
+        {
+          "word": "flight!",
+          "start": 44.944,
+          "end": 45.144,
+          "local_start": 4.48,
+          "local_end": 4.68
+        }
+      ]
+    }
+  ]
+}

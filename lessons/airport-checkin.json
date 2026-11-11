@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-11",
+  "slug": "airport-checkin",
+  "title": "Checking in at the Airport",
+  "title_zh": "在机场办理登机",
+  "context": "Nina 要飞往芝加哥，来到航空公司柜台办理登机。她向工作人员 Cole 出示护照和订票确认，托运一个行李箱并随身带背包，选择靠窗座位，并询问安检位置、登机时间和登机口。",
+  "voices": {
+    "Nina": "marin",
+    "Cole": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Nina",
+      "en": "Hi. I'd like to check in for the flight to Chicago, please.",
+      "zh": "你好。我想办理飞往芝加哥的航班登机手续。"
+    },
+    {
+      "speaker": "Cole",
+      "en": "Of course. May I see your passport and booking confirmation?",
+      "zh": "当然可以。我可以看一下你的护照和订票确认吗？"
+    },
+    {
+      "speaker": "Nina",
+      "en": "Sure. Here they are. I'm on the three-forty flight.",
+      "zh": "好的。都在这里。我订的是三点四十的航班。"
+    },
+    {
+      "speaker": "Cole",
+      "en": "Thank you. How many bags are you checking today?",
+      "zh": "谢谢。今天要托运几个行李？"
+    },
+    {
+      "speaker": "Nina",
+      "en": "Just one suitcase. I'd also like to carry on this backpack.",
+      "zh": "就一个行李箱。这个背包我想随身携带。"
+    },
+    {
+      "speaker": "Cole",
+      "en": "That's fine. Would you prefer a window seat or an aisle seat?",
+      "zh": "没问题。你想要靠窗的座位，还是靠过道的座位？"
+    },
+    {
+      "speaker": "Nina",
+      "en": "A window seat, please, if one is still available.",
+      "zh": "请给我靠窗的座位，如果还有的话。"
+    },
+    {
+      "speaker": "Cole",
+      "en": "I can give you a window seat near the front. Your bag is just under the weight limit.",
+      "zh": "我可以给你一个靠近前排的靠窗座位。你的行李刚好在重量限制以内。"
+    },
+    {
+      "speaker": "Nina",
+      "en": "Great. Do I need to go through security right away?",
+      "zh": "太好了。我需要马上过安检吗？"
+    },
+    {
+      "speaker": "Cole",
+      "en": "Yes. Security is down the hall to your left. Boarding starts at three o'clock.",
+      "zh": "是的。安检就在走廊左边。三点开始登机。"
+    },
+    {
+      "speaker": "Nina",
+      "en": "Okay. Where can I find the gate number?",
+      "zh": "好的。我在哪里可以看到登机口号码？"
+    },
+    {
+      "speaker": "Cole",
+      "en": "It's printed on your boarding pass. You're at Gate B fourteen. Have a good flight!",
+      "zh": "印在你的登机牌上。你在 B 十四号登机口。祝你飞行愉快！"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "Check in for the flight",
+      "zh": "办理航班登机手续。在机场柜台说明来意时常用。",
+      "example": "I'd like to check in for the flight to Chicago, please."
+    },
+    {
+      "en": "Booking confirmation",
+      "zh": "订票确认。办理登机时通常要出示护照和订票确认。",
+      "example": "May I see your passport and booking confirmation?"
+    },
+    {
+      "en": "Check a bag / carry on",
+      "zh": "托运行李 / 随身携带。说明哪些行李托运、哪些带上飞机时常用。",
+      "example": "Just one suitcase. I'd also like to carry on this backpack."
+    },
+    {
+      "en": "A window seat or an aisle seat",
+      "zh": "靠窗座位还是靠过道座位。选择座位时常用。注意 aisle 读作 /aɪl/。",
+      "example": "Would you prefer a window seat or an aisle seat?"
+    },
+    {
+      "en": "Boarding pass",
+      "zh": "登机牌。上面有航班、座位和登机口等信息。",
+      "example": "It's printed on your boarding pass. You're at Gate B fourteen."
+    }
+  ],
+  "pronunciation": "练习 aisle 的发音：它读作 I'll，/aɪl/，中间的 s 不发音。注意 check in 的节奏：CHECK in，boarding pass 的重音在前：BOAR-ding pass，以及 confirmation 的重音在第三音节：con-fir-MA-tion。",
+  "practice": [
+    {
+      "title": "Part 1 · Air travel",
+      "prompt": "Do you like traveling by plane? Why or why not?",
+      "answer": "I quite like traveling by plane because it is fast, and I can get to another city in a few hours. I don't like the long lines at security, but a window seat makes the flight more enjoyable."
+    },
+    {
+      "title": "Part 2 · A time you were at an airport",
+      "prompt": "Describe a time you were at an airport. Say where you were going, what you did at check-in, and how you felt.",
+      "answer": "Last summer I went to the airport to fly to Chicago. At check-in I showed my passport, checked one suitcase, and asked for a window seat. The agent gave me a boarding pass for Gate B fourteen, and I went through security early. I felt a little nervous, but everything went smoothly. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Travel and airports",
+      "prompt": "Why do some people prefer to check in online instead of at the airport counter?",
+      "answer": "Online check-in can save time, especially when the airport is busy. People can choose a seat earlier and go straight to the bag drop or security. Some travelers still use the counter if they have questions, extra bags, or a problem with their booking."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "先听完整对话，再逐句跟读。最后练习说明你要去哪里、托运什么行李、想坐什么座位，以及如何找到登机口。",
+      "answer": "用 3–4 句说明你会怎么在机场办理登机：目的地、护照和订票确认、行李和座位，以及登机牌上的登机口。"
+    }
+  ]
+}
