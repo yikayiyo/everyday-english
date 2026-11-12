@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-12",
+  "slug": "restaurant-reservation",
+  "title": "Making a Reservation at a Restaurant",
+  "title_zh": "在餐厅预订座位",
+  "context": "Maya 打电话给 Harvest Table 餐厅，向工作人员 Drew 预订周六四人桌。七点半已满，她改订八点的室内安静座位，说明是朋友生日，询问是否可以自带蛋糕，并确认留位时间和停车信息。",
+  "voices": {
+    "Maya": "marin",
+    "Drew": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Drew",
+      "en": "Good evening, Harvest Table. This is Drew. How can I help you?",
+      "zh": "晚上好，这里是 Harvest Table。我是 Drew。有什么可以帮您？"
+    },
+    {
+      "speaker": "Maya",
+      "en": "Hi. I'd like to make a reservation, please.",
+      "zh": "你好。我想预订一个位子。"
+    },
+    {
+      "speaker": "Drew",
+      "en": "Of course. For how many people, and which day?",
+      "zh": "当然可以。几位，哪一天？"
+    },
+    {
+      "speaker": "Maya",
+      "en": "A table for four, this Saturday.",
+      "zh": "周六，四个人。"
+    },
+    {
+      "speaker": "Drew",
+      "en": "Saturday is pretty busy. What time were you hoping for?",
+      "zh": "周六会比较忙。你希望大概几点呢？"
+    },
+    {
+      "speaker": "Maya",
+      "en": "Around seven-thirty, if that's possible.",
+      "zh": "如果可以的话，大概七点半。"
+    },
+    {
+      "speaker": "Drew",
+      "en": "Seven-thirty is fully booked, but I still have a table at eight. Would you like indoor or patio seating?",
+      "zh": "七点半已经订满了，不过八点还有一张桌子。你想坐室内，还是露台？"
+    },
+    {
+      "speaker": "Maya",
+      "en": "Eight o'clock indoors, please. It's my friend's birthday, so a quieter table would be great.",
+      "zh": "请给我八点的室内座位。这是我朋友的生日，所以安静一点的位子会更好。"
+    },
+    {
+      "speaker": "Drew",
+      "en": "I can note that and put you in a corner booth. May I have your name and a callback number?",
+      "zh": "我可以记下来，并给你们安排一个靠角落的卡座。可以告诉我你的名字和回拨电话吗？"
+    },
+    {
+      "speaker": "Maya",
+      "en": "It's Maya Chen, and you can reach me at this number. Can we bring a small cake?",
+      "zh": "我叫 Maya Chen，用这个号码联系我就行。我们可以自带一个小蛋糕吗？"
+    },
+    {
+      "speaker": "Drew",
+      "en": "Yes, you're welcome to bring a cake. We hold the table for fifteen minutes, and there's street parking out front.",
+      "zh": "可以，欢迎你们自带蛋糕。座位会为你们保留十五分钟，门口有路边停车位。"
+    },
+    {
+      "speaker": "Maya",
+      "en": "Perfect. Thank you so much. We'll see you Saturday at eight.",
+      "zh": "太好了。非常感谢。那我们周六八点见。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "Make a reservation",
+      "zh": "预订座位。打电话或在餐厅说明来意时常用。",
+      "example": "I'd like to make a reservation, please."
+    },
+    {
+      "en": "A table for four",
+      "zh": "四个人的桌子。预订时要说明人数和日期。",
+      "example": "A table for four, this Saturday."
+    },
+    {
+      "en": "Fully booked",
+      "zh": "已经订满。某个时间没有空位时常用，后面常接可改订的时间。",
+      "example": "Seven-thirty is fully booked, but I still have a table at eight."
+    },
+    {
+      "en": "Indoor or patio seating",
+      "zh": "室内座位还是露台座位。选择用餐位置时常用。patio 指室外或半室外的露台。",
+      "example": "Would you like indoor or patio seating?"
+    },
+    {
+      "en": "Hold the table",
+      "zh": "为客人保留座位。餐厅通常会说明最长等待时间。",
+      "example": "We hold the table for fifteen minutes, and there's street parking out front."
+    }
+  ],
+  "pronunciation": "练习 reservation 的重音：它落在第三音节，读作 re-ser-VA-tion。注意 patio 读作 /ˈpæti.oʊ/，booth 读作 /buːθ/，以及 fully booked 的连读：FUL-ly booked。",
+  "practice": [
+    {
+      "title": "Part 1 · Eating out",
+      "prompt": "Do you often eat at restaurants? Why or why not?",
+      "answer": "I eat at restaurants once or twice a week, usually on weekends. It's a nice way to catch up with friends, and I don't have to cook. On busy weekdays I prefer to eat at home because it is cheaper and faster."
+    },
+    {
+      "title": "Part 2 · A restaurant reservation",
+      "prompt": "Describe a time you made a reservation at a restaurant. Say why you booked the table, how you made the reservation, and how it went.",
+      "answer": "Last month I called a restaurant to book a table for my friend's birthday. I wanted seven-thirty, but that time was fully booked, so I took an indoor table at eight. I asked for a quieter corner booth and brought a small cake. The dinner went really well, and my friend was happy. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Reservations and dining",
+      "prompt": "Why do some people prefer to reserve a table instead of walking in?",
+      "answer": "Reserving a table can save time, especially on weekends when popular restaurants get busy. People may also want a special seat, such as a quiet booth for a birthday. Some diners still walk in if they are flexible or if the restaurant usually has empty tables."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "先听完整对话，再逐句跟读。最后练习打电话订位：说明人数和日期、想要的时间、室内还是露台，以及有没有特殊安排。",
+      "answer": "用 3–4 句说明你会怎么预订餐厅：人数和日期、时间、座位偏好，以及是否需要保留座位或自带蛋糕。"
+    }
+  ]
+}
