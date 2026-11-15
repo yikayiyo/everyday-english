@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-15",
+  "slug": "apartment-viewing",
+  "title": "Viewing an Apartment",
+  "title_zh": "看房租公寓",
+  "context": "Maya 来到 Oak Street Apartments，由租房经纪人 Sam 带她看三楼的一室公寓。她询问租金是否含水电、是否有室内洗衣机、租约和押金，以及停车方式，并表示如果决定申请，本周就可以提交材料。",
+  "voices": {
+    "Maya": "marin",
+    "Sam": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Sam",
+      "en": "Hi, you must be Maya. I'm Sam, the leasing agent. Welcome to Oak Street Apartments.",
+      "zh": "你好，你一定是 Maya。我是租房经纪人 Sam。欢迎来到 Oak Street Apartments。"
+    },
+    {
+      "speaker": "Maya",
+      "en": "Hi, Sam. Thanks for showing me around. I'm here to see the one-bedroom on the third floor.",
+      "zh": "你好，Sam。谢谢你带我看房。我是来看三楼这套一室公寓的。"
+    },
+    {
+      "speaker": "Sam",
+      "en": "Of course. Right this way. The unit is unfurnished, and the rent is eighteen hundred a month.",
+      "zh": "当然。这边请。这套公寓是空房，不带家具，租金是每月一千八百美元。"
+    },
+    {
+      "speaker": "Maya",
+      "en": "Does that include utilities?",
+      "zh": "这个价格含水电等杂费吗？"
+    },
+    {
+      "speaker": "Sam",
+      "en": "Water and trash are included, but you'd pay for electricity and internet yourself.",
+      "zh": "水和垃圾费已经包含在内，不过电费和网费需要你自己付。"
+    },
+    {
+      "speaker": "Maya",
+      "en": "That works for me. Is there in-unit laundry, or do residents share machines?",
+      "zh": "这对我来说没问题。公寓里有洗衣机和烘干机吗，还是住户共用？"
+    },
+    {
+      "speaker": "Sam",
+      "en": "There's a washer and dryer in the apartment, and the building has a small gym on the first floor.",
+      "zh": "公寓里有洗衣机和烘干机，大楼一楼还有一个小健身房。"
+    },
+    {
+      "speaker": "Maya",
+      "en": "That's convenient. How long is the lease, and do I need to put down a security deposit?",
+      "zh": "很方便。租约是多长时间，需要交押金吗？"
+    },
+    {
+      "speaker": "Sam",
+      "en": "It's a twelve-month lease, and the deposit is one month's rent. I'd also need proof of income.",
+      "zh": "是十二个月的租约，押金为一个月租金。我还需要你提供收入证明。"
+    },
+    {
+      "speaker": "Maya",
+      "en": "I can provide that. Is parking included, or is there a garage?",
+      "zh": "这个我可以提供。停车包含在内吗，还是有车库？"
+    },
+    {
+      "speaker": "Sam",
+      "en": "A garage space is an extra seventy-five a month, or you can try street parking after six.",
+      "zh": "车库车位每个月额外七十五美元，或者你可以在六点以后试试路边停车。"
+    },
+    {
+      "speaker": "Maya",
+      "en": "I'll take the garage if I apply. Could I fill out an application this week?",
+      "zh": "如果我申请的话，我会要车库车位。我这周可以填写申请表吗？"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "Unfurnished",
+      "zh": "不带家具的空房。看房时要先问清楚公寓是否配家具。",
+      "example": "The unit is unfurnished, and the rent is eighteen hundred a month."
+    },
+    {
+      "en": "Does that include utilities?",
+      "zh": "这个价格含水电等杂费吗？utilities 通常指水、电、燃气、垃圾费等。",
+      "example": "Does that include utilities?"
+    },
+    {
+      "en": "In-unit laundry",
+      "zh": "公寓内部的洗衣设备，相对楼内公用洗衣房。",
+      "example": "Is there in-unit laundry, or do residents share machines?"
+    },
+    {
+      "en": "Security deposit",
+      "zh": "租房押金。美国常见为一到两个月租金，退房时按约定退还。",
+      "example": "How long is the lease, and do I need to put down a security deposit?"
+    },
+    {
+      "en": "Proof of income",
+      "zh": "收入证明。申请租房时，房东或经纪人常会要求提供。",
+      "example": "It's a twelve-month lease, and the deposit is one month's rent. I'd also need proof of income."
+    }
+  ],
+  "pronunciation": "练习 utilities 的重音：它落在第二音节，读作 yu-TIL-i-tees /juːˈtɪlətiz/。deposit 的重音也在第二音节，读作 de-POS-it /dɪˈpɑːzɪt/。unfurnished 读作 /ʌnˈfɜːrnɪʃt/，lease 读作 /liːs/。美式英语里 garage 常读作 /ɡəˈrɑːʒ/。",
+  "practice": [
+    {
+      "title": "Part 1 · Housing",
+      "prompt": "Do you live in a house or an apartment? What do you like about it?",
+      "answer": "I live in a one-bedroom apartment near my office. I like it because it's quiet and close to the subway, so I don't need a car. The building also has a small gym, which is convenient after work."
+    },
+    {
+      "title": "Part 2 · Viewing a place to live",
+      "prompt": "Describe a time you looked at an apartment or a house. Say why you went to see it, what you asked about, and whether you decided to take it.",
+      "answer": "Last month I visited a one-bedroom apartment on Oak Street. The unit was unfurnished, and the rent was eighteen hundred a month, with water and trash included. I asked about the lease, the security deposit, and parking, and I liked that it had in-unit laundry. I decided to apply that week and paid for a garage space. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Choosing a place to live",
+      "prompt": "What do people usually consider when they choose a place to live?",
+      "answer": "People usually think about the rent, the location, and whether utilities are included. Many also care about parking, laundry, and how long the lease is. Some renters look for a quiet building or a gym, while others just want a place that is close to work or school."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "先听完整对话，再逐句跟读。最后练习看房时提问：租金是否含水电、有没有室内洗衣设备、租约和押金，以及停车怎么安排。",
+      "answer": "用 3–4 句说明你会怎么看一套公寓：你要看几室、关心哪些费用和设施，以及你会不会申请。"
+    }
+  ]
+}

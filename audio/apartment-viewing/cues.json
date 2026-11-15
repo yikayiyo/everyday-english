@@ -1,0 +1,1372 @@
+{
+  "model": "whisper-1",
+  "lesson": "2026-11-15-apartment-viewing",
+  "full_track": "full-dialogue.mp3",
+  "full_duration": 54.72,
+  "lines": [
+    {
+      "index": 1,
+      "file": "01.mp3",
+      "text": "Hi, you must be Maya. I'm Sam, the leasing agent. Welcome to Oak Street Apartments.",
+      "audio_sha256": "2d1b5daae753a6e80740616c3466fdc9826957b70001df7028e44f326255fe49",
+      "start": 0.0,
+      "end": 5.304,
+      "duration": 5.304,
+      "words": [
+        {
+          "word": "Hi,",
+          "start": 0.0,
+          "end": 0.44,
+          "local_start": 0.0,
+          "local_end": 0.44
+        },
+        {
+          "word": "you",
+          "start": 0.52,
+          "end": 1.04,
+          "local_start": 0.52,
+          "local_end": 1.04
+        },
+        {
+          "word": "must",
+          "start": 1.04,
+          "end": 1.18,
+          "local_start": 1.04,
+          "local_end": 1.18
+        },
+        {
+          "word": "be",
+          "start": 1.18,
+          "end": 1.48,
+          "local_start": 1.18,
+          "local_end": 1.48
+        },
+        {
+          "word": "Maya.",
+          "start": 1.48,
+          "end": 1.6,
+          "local_start": 1.48,
+          "local_end": 1.6
+        },
+        {
+          "word": "I'm",
+          "start": 2.32,
+          "end": 2.36,
+          "local_start": 2.32,
+          "local_end": 2.36
+        },
+        {
+          "word": "Sam,",
+          "start": 2.36,
+          "end": 2.58,
+          "local_start": 2.36,
+          "local_end": 2.58
+        },
+        {
+          "word": "the",
+          "start": 2.9,
+          "end": 2.98,
+          "local_start": 2.9,
+          "local_end": 2.98
+        },
+        {
+          "word": "leasing",
+          "start": 2.98,
+          "end": 2.98,
+          "local_start": 2.98,
+          "local_end": 2.98
+        },
+        {
+          "word": "agent.",
+          "start": 2.98,
+          "end": 3.32,
+          "local_start": 2.98,
+          "local_end": 3.32
+        },
+        {
+          "word": "Welcome",
+          "start": 3.98,
+          "end": 4.04,
+          "local_start": 3.98,
+          "local_end": 4.04
+        },
+        {
+          "word": "to",
+          "start": 4.04,
+          "end": 4.26,
+          "local_start": 4.04,
+          "local_end": 4.26
+        },
+        {
+          "word": "Oak",
+          "start": 4.26,
+          "end": 4.42,
+          "local_start": 4.26,
+          "local_end": 4.42
+        },
+        {
+          "word": "Street",
+          "start": 4.42,
+          "end": 4.58,
+          "local_start": 4.42,
+          "local_end": 4.58
+        },
+        {
+          "word": "Apartments.",
+          "start": 4.58,
+          "end": 5.0,
+          "local_start": 4.58,
+          "local_end": 5.0
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "file": "02.mp3",
+      "text": "Hi, Sam. Thanks for showing me around. I'm here to see the one-bedroom on the third floor.",
+      "audio_sha256": "586bf85d7e116ea4fe061bcd36e0df8b364fc6bcd7efb7b858c1912f1e4a70d5",
+      "start": 5.304,
+      "end": 10.464,
+      "duration": 5.16,
+      "words": [
+        {
+          "word": "Hi,",
+          "start": 5.304,
+          "end": 5.624,
+          "local_start": 0.0,
+          "local_end": 0.32
+        },
+        {
+          "word": "Sam.",
+          "start": 5.804,
+          "end": 6.064,
+          "local_start": 0.5,
+          "local_end": 0.76
+        },
+        {
+          "word": "Thanks",
+          "start": 6.444,
+          "end": 6.564,
+          "local_start": 1.14,
+          "local_end": 1.26
+        },
+        {
+          "word": "for",
+          "start": 6.564,
+          "end": 6.744,
+          "local_start": 1.26,
+          "local_end": 1.44
+        },
+        {
+          "word": "showing",
+          "start": 6.744,
+          "end": 6.924,
+          "local_start": 1.44,
+          "local_end": 1.62
+        },
+        {
+          "word": "me",
+          "start": 6.924,
+          "end": 7.124,
+          "local_start": 1.62,
+          "local_end": 1.82
+        },
+        {
+          "word": "around.",
+          "start": 7.124,
+          "end": 7.464,
+          "local_start": 1.82,
+          "local_end": 2.16
+        },
+        {
+          "word": "I'm",
+          "start": 7.884,
+          "end": 8.104,
+          "local_start": 2.58,
+          "local_end": 2.8
+        },
+        {
+          "word": "here",
+          "start": 8.104,
+          "end": 8.264,
+          "local_start": 2.8,
+          "local_end": 2.96
+        },
+        {
+          "word": "to",
+          "start": 8.264,
+          "end": 8.364,
+          "local_start": 2.96,
+          "local_end": 3.06
+        },
+        {
+          "word": "see",
+          "start": 8.364,
+          "end": 8.504,
+          "local_start": 3.06,
+          "local_end": 3.2
+        },
+        {
+          "word": "the",
+          "start": 8.504,
+          "end": 8.704,
+          "local_start": 3.2,
+          "local_end": 3.4
+        },
+        {
+          "word": "one-bedroom",
+          "start": 8.704,
+          "end": 8.714,
+          "local_start": 3.4,
+          "local_end": 3.41
+        },
+        {
+          "word": "on",
+          "start": 8.704,
+          "end": 8.944,
+          "local_start": 3.4,
+          "local_end": 3.64
+        },
+        {
+          "word": "the",
+          "start": 9.504,
+          "end": 9.784,
+          "local_start": 4.2,
+          "local_end": 4.48
+        },
+        {
+          "word": "third",
+          "start": 9.784,
+          "end": 9.904,
+          "local_start": 4.48,
+          "local_end": 4.6
+        },
+        {
+          "word": "floor.",
+          "start": 9.904,
+          "end": 10.124,
+          "local_start": 4.6,
+          "local_end": 4.82
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "file": "03.mp3",
+      "text": "Of course. Right this way. The unit is unfurnished, and the rent is eighteen hundred a month.",
+      "audio_sha256": "53d07bb131d8b361741c18cb62b9584d062a2d9cdcb32050306dc12ba6e794b0",
+      "start": 10.464,
+      "end": 16.08,
+      "duration": 5.616,
+      "words": [
+        {
+          "word": "Of",
+          "start": 10.464,
+          "end": 10.724,
+          "local_start": 0.0,
+          "local_end": 0.26
+        },
+        {
+          "word": "course.",
+          "start": 10.724,
+          "end": 11.004,
+          "local_start": 0.26,
+          "local_end": 0.54
+        },
+        {
+          "word": "Right",
+          "start": 11.604,
+          "end": 11.704,
+          "local_start": 1.14,
+          "local_end": 1.24
+        },
+        {
+          "word": "this",
+          "start": 11.704,
+          "end": 11.924,
+          "local_start": 1.24,
+          "local_end": 1.46
+        },
+        {
+          "word": "way.",
+          "start": 11.924,
+          "end": 12.164,
+          "local_start": 1.46,
+          "local_end": 1.7
+        },
+        {
+          "word": "The",
+          "start": 12.684,
+          "end": 12.824,
+          "local_start": 2.22,
+          "local_end": 2.36
+        },
+        {
+          "word": "unit",
+          "start": 12.824,
+          "end": 12.944,
+          "local_start": 2.36,
+          "local_end": 2.48
+        },
+        {
+          "word": "is",
+          "start": 12.944,
+          "end": 13.204,
+          "local_start": 2.48,
+          "local_end": 2.74
+        },
+        {
+          "word": "unfurnished,",
+          "start": 13.204,
+          "end": 13.664,
+          "local_start": 2.74,
+          "local_end": 3.2
+        },
+        {
+          "word": "and",
+          "start": 14.084,
+          "end": 14.124,
+          "local_start": 3.62,
+          "local_end": 3.66
+        },
+        {
+          "word": "the",
+          "start": 14.124,
+          "end": 14.364,
+          "local_start": 3.66,
+          "local_end": 3.9
+        },
+        {
+          "word": "rent",
+          "start": 14.364,
+          "end": 14.424,
+          "local_start": 3.9,
+          "local_end": 3.96
+        },
+        {
+          "word": "is",
+          "start": 14.424,
+          "end": 14.724,
+          "local_start": 3.96,
+          "local_end": 4.26
+        },
+        {
+          "word": "eighteen",
+          "start": 14.724,
+          "end": 15.124,
+          "local_start": 4.26,
+          "local_end": 4.66
+        },
+        {
+          "word": "hundred",
+          "start": 15.124,
+          "end": 15.344,
+          "local_start": 4.66,
+          "local_end": 4.88
+        },
+        {
+          "word": "a",
+          "start": 15.344,
+          "end": 15.664,
+          "local_start": 4.88,
+          "local_end": 5.2
+        },
+        {
+          "word": "month.",
+          "start": 15.664,
+          "end": 15.704,
+          "local_start": 5.2,
+          "local_end": 5.24
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "file": "04.mp3",
+      "text": "Does that include utilities?",
+      "audio_sha256": "ec75aa19aae8bd6a45c2766fe414ac0e9f10715898ec7a7e4033d38cc6df698e",
+      "start": 16.08,
+      "end": 17.64,
+      "duration": 1.56,
+      "words": [
+        {
+          "word": "Does",
+          "start": 16.08,
+          "end": 16.38,
+          "local_start": 0.0,
+          "local_end": 0.3
+        },
+        {
+          "word": "that",
+          "start": 16.38,
+          "end": 16.58,
+          "local_start": 0.3,
+          "local_end": 0.5
+        },
+        {
+          "word": "include",
+          "start": 16.58,
+          "end": 16.9,
+          "local_start": 0.5,
+          "local_end": 0.82
+        },
+        {
+          "word": "utilities?",
+          "start": 16.9,
+          "end": 17.32,
+          "local_start": 0.82,
+          "local_end": 1.24
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "file": "05.mp3",
+      "text": "Water and trash are included, but you'd pay for electricity and internet yourself.",
+      "audio_sha256": "2e4b47775d2bcdf6c414f9c16d3f6d02ce15dfc87ea57f8ac928bc3d856a407b",
+      "start": 17.64,
+      "end": 22.44,
+      "duration": 4.8,
+      "words": [
+        {
+          "word": "Water",
+          "start": 17.64,
+          "end": 18.06,
+          "local_start": 0.0,
+          "local_end": 0.42
+        },
+        {
+          "word": "and",
+          "start": 18.06,
+          "end": 18.22,
+          "local_start": 0.42,
+          "local_end": 0.58
+        },
+        {
+          "word": "trash",
+          "start": 18.22,
+          "end": 18.48,
+          "local_start": 0.58,
+          "local_end": 0.84
+        },
+        {
+          "word": "are",
+          "start": 18.48,
+          "end": 18.72,
+          "local_start": 0.84,
+          "local_end": 1.08
+        },
+        {
+          "word": "included,",
+          "start": 18.72,
+          "end": 19.06,
+          "local_start": 1.08,
+          "local_end": 1.42
+        },
+        {
+          "word": "but",
+          "start": 19.56,
+          "end": 19.7,
+          "local_start": 1.92,
+          "local_end": 2.06
+        },
+        {
+          "word": "you'd",
+          "start": 19.7,
+          "end": 19.94,
+          "local_start": 2.06,
+          "local_end": 2.3
+        },
+        {
+          "word": "pay",
+          "start": 19.94,
+          "end": 20.04,
+          "local_start": 2.3,
+          "local_end": 2.4
+        },
+        {
+          "word": "for",
+          "start": 20.04,
+          "end": 20.22,
+          "local_start": 2.4,
+          "local_end": 2.58
+        },
+        {
+          "word": "electricity",
+          "start": 20.22,
+          "end": 20.72,
+          "local_start": 2.58,
+          "local_end": 3.08
+        },
+        {
+          "word": "and",
+          "start": 20.72,
+          "end": 21.24,
+          "local_start": 3.08,
+          "local_end": 3.6
+        },
+        {
+          "word": "internet",
+          "start": 21.24,
+          "end": 21.58,
+          "local_start": 3.6,
+          "local_end": 3.94
+        },
+        {
+          "word": "yourself.",
+          "start": 21.58,
+          "end": 21.98,
+          "local_start": 3.94,
+          "local_end": 4.34
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "file": "06.mp3",
+      "text": "That works for me. Is there in-unit laundry, or do residents share machines?",
+      "audio_sha256": "ef6779a5cb1831ce6a88dc50b31e976e1c2f5c12bf7fd4f25c54d5aa5dbb447c",
+      "start": 22.44,
+      "end": 26.952,
+      "duration": 4.512,
+      "words": [
+        {
+          "word": "That",
+          "start": 22.44,
+          "end": 22.72,
+          "local_start": 0.0,
+          "local_end": 0.28
+        },
+        {
+          "word": "works",
+          "start": 22.72,
+          "end": 22.92,
+          "local_start": 0.28,
+          "local_end": 0.48
+        },
+        {
+          "word": "for",
+          "start": 22.92,
+          "end": 23.14,
+          "local_start": 0.48,
+          "local_end": 0.7
+        },
+        {
+          "word": "me.",
+          "start": 23.14,
+          "end": 23.4,
+          "local_start": 0.7,
+          "local_end": 0.96
+        },
+        {
+          "word": "Is",
+          "start": 23.94,
+          "end": 24.02,
+          "local_start": 1.5,
+          "local_end": 1.58
+        },
+        {
+          "word": "there",
+          "start": 24.02,
+          "end": 24.2,
+          "local_start": 1.58,
+          "local_end": 1.76
+        },
+        {
+          "word": "in-unit",
+          "start": 24.2,
+          "end": 24.64,
+          "local_start": 1.76,
+          "local_end": 2.2
+        },
+        {
+          "word": "laundry,",
+          "start": 24.64,
+          "end": 24.86,
+          "local_start": 2.2,
+          "local_end": 2.42
+        },
+        {
+          "word": "or",
+          "start": 25.18,
+          "end": 25.34,
+          "local_start": 2.74,
+          "local_end": 2.9
+        },
+        {
+          "word": "do",
+          "start": 25.34,
+          "end": 25.58,
+          "local_start": 2.9,
+          "local_end": 3.14
+        },
+        {
+          "word": "residents",
+          "start": 25.58,
+          "end": 25.86,
+          "local_start": 3.14,
+          "local_end": 3.42
+        },
+        {
+          "word": "share",
+          "start": 25.86,
+          "end": 26.14,
+          "local_start": 3.42,
+          "local_end": 3.7
+        },
+        {
+          "word": "machines?",
+          "start": 26.14,
+          "end": 26.42,
+          "local_start": 3.7,
+          "local_end": 3.98
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "file": "07.mp3",
+      "text": "There's a washer and dryer in the apartment, and the building has a small gym on the first floor.",
+      "audio_sha256": "7afb6f92366bcf4f1abcf78db910be7d22592ae0bed0ca98b56db82e30f96cdd",
+      "start": 26.952,
+      "end": 32.16,
+      "duration": 5.208,
+      "words": [
+        {
+          "word": "There's",
+          "start": 26.952,
+          "end": 27.272,
+          "local_start": 0.0,
+          "local_end": 0.32
+        },
+        {
+          "word": "a",
+          "start": 27.272,
+          "end": 27.572,
+          "local_start": 0.32,
+          "local_end": 0.62
+        },
+        {
+          "word": "washer",
+          "start": 27.572,
+          "end": 27.732,
+          "local_start": 0.62,
+          "local_end": 0.78
+        },
+        {
+          "word": "and",
+          "start": 27.732,
+          "end": 28.312,
+          "local_start": 0.78,
+          "local_end": 1.36
+        },
+        {
+          "word": "dryer",
+          "start": 28.312,
+          "end": 28.312,
+          "local_start": 1.36,
+          "local_end": 1.36
+        },
+        {
+          "word": "in",
+          "start": 28.312,
+          "end": 28.532,
+          "local_start": 1.36,
+          "local_end": 1.58
+        },
+        {
+          "word": "the",
+          "start": 28.532,
+          "end": 28.692,
+          "local_start": 1.58,
+          "local_end": 1.74
+        },
+        {
+          "word": "apartment,",
+          "start": 28.692,
+          "end": 29.032,
+          "local_start": 1.74,
+          "local_end": 2.08
+        },
+        {
+          "word": "and",
+          "start": 29.492,
+          "end": 29.592,
+          "local_start": 2.54,
+          "local_end": 2.64
+        },
+        {
+          "word": "the",
+          "start": 29.592,
+          "end": 29.752,
+          "local_start": 2.64,
+          "local_end": 2.8
+        },
+        {
+          "word": "building",
+          "start": 29.752,
+          "end": 29.972,
+          "local_start": 2.8,
+          "local_end": 3.02
+        },
+        {
+          "word": "has",
+          "start": 29.972,
+          "end": 30.232,
+          "local_start": 3.02,
+          "local_end": 3.28
+        },
+        {
+          "word": "a",
+          "start": 30.232,
+          "end": 30.372,
+          "local_start": 3.28,
+          "local_end": 3.42
+        },
+        {
+          "word": "small",
+          "start": 30.372,
+          "end": 30.672,
+          "local_start": 3.42,
+          "local_end": 3.72
+        },
+        {
+          "word": "gym",
+          "start": 30.672,
+          "end": 30.932,
+          "local_start": 3.72,
+          "local_end": 3.98
+        },
+        {
+          "word": "on",
+          "start": 30.932,
+          "end": 31.232,
+          "local_start": 3.98,
+          "local_end": 4.28
+        },
+        {
+          "word": "the",
+          "start": 31.232,
+          "end": 31.372,
+          "local_start": 4.28,
+          "local_end": 4.42
+        },
+        {
+          "word": "first",
+          "start": 31.372,
+          "end": 31.632,
+          "local_start": 4.42,
+          "local_end": 4.68
+        },
+        {
+          "word": "floor.",
+          "start": 31.632,
+          "end": 31.852,
+          "local_start": 4.68,
+          "local_end": 4.9
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "file": "08.mp3",
+      "text": "That's convenient. How long is the lease, and do I need to put down a security deposit?",
+      "audio_sha256": "9f22b75a20a99ed6a009bdf9c8c46f11b736a9ce74edc9c9bc1e11caebce4be7",
+      "start": 32.16,
+      "end": 37.368,
+      "duration": 5.208,
+      "words": [
+        {
+          "word": "That's",
+          "start": 32.16,
+          "end": 32.74,
+          "local_start": 0.0,
+          "local_end": 0.58
+        },
+        {
+          "word": "convenient.",
+          "start": 32.74,
+          "end": 33.28,
+          "local_start": 0.58,
+          "local_end": 1.12
+        },
+        {
+          "word": "How",
+          "start": 33.92,
+          "end": 34.1,
+          "local_start": 1.76,
+          "local_end": 1.94
+        },
+        {
+          "word": "long",
+          "start": 34.1,
+          "end": 34.32,
+          "local_start": 1.94,
+          "local_end": 2.16
+        },
+        {
+          "word": "is",
+          "start": 34.32,
+          "end": 34.5,
+          "local_start": 2.16,
+          "local_end": 2.34
+        },
+        {
+          "word": "the",
+          "start": 34.5,
+          "end": 34.68,
+          "local_start": 2.34,
+          "local_end": 2.52
+        },
+        {
+          "word": "lease,",
+          "start": 34.68,
+          "end": 34.96,
+          "local_start": 2.52,
+          "local_end": 2.8
+        },
+        {
+          "word": "and",
+          "start": 35.28,
+          "end": 35.38,
+          "local_start": 3.12,
+          "local_end": 3.22
+        },
+        {
+          "word": "do",
+          "start": 35.38,
+          "end": 35.46,
+          "local_start": 3.22,
+          "local_end": 3.3
+        },
+        {
+          "word": "I",
+          "start": 35.46,
+          "end": 35.62,
+          "local_start": 3.3,
+          "local_end": 3.46
+        },
+        {
+          "word": "need",
+          "start": 35.62,
+          "end": 35.74,
+          "local_start": 3.46,
+          "local_end": 3.58
+        },
+        {
+          "word": "to",
+          "start": 35.74,
+          "end": 35.92,
+          "local_start": 3.58,
+          "local_end": 3.76
+        },
+        {
+          "word": "put",
+          "start": 35.92,
+          "end": 36.0,
+          "local_start": 3.76,
+          "local_end": 3.84
+        },
+        {
+          "word": "down",
+          "start": 36.0,
+          "end": 36.2,
+          "local_start": 3.84,
+          "local_end": 4.04
+        },
+        {
+          "word": "a",
+          "start": 36.2,
+          "end": 36.4,
+          "local_start": 4.04,
+          "local_end": 4.24
+        },
+        {
+          "word": "security",
+          "start": 36.4,
+          "end": 36.72,
+          "local_start": 4.24,
+          "local_end": 4.56
+        },
+        {
+          "word": "deposit?",
+          "start": 36.72,
+          "end": 37.04,
+          "local_start": 4.56,
+          "local_end": 4.88
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "file": "09.mp3",
+      "text": "It's a twelve-month lease, and the deposit is one month's rent. I'd also need proof of income.",
+      "audio_sha256": "0cd6c1ab490cecbc61c5feb69feb77239eb0c371ca5844532f09bef569743a31",
+      "start": 37.368,
+      "end": 42.624,
+      "duration": 5.256,
+      "words": [
+        {
+          "word": "It's",
+          "start": 37.368,
+          "end": 37.628,
+          "local_start": 0.0,
+          "local_end": 0.26
+        },
+        {
+          "word": "a",
+          "start": 37.628,
+          "end": 37.988,
+          "local_start": 0.26,
+          "local_end": 0.62
+        },
+        {
+          "word": "twelve-month",
+          "start": 37.988,
+          "end": 38.408,
+          "local_start": 0.62,
+          "local_end": 1.04
+        },
+        {
+          "word": "lease,",
+          "start": 38.408,
+          "end": 38.748,
+          "local_start": 1.04,
+          "local_end": 1.38
+        },
+        {
+          "word": "and",
+          "start": 38.988,
+          "end": 39.088,
+          "local_start": 1.62,
+          "local_end": 1.72
+        },
+        {
+          "word": "the",
+          "start": 39.088,
+          "end": 39.208,
+          "local_start": 1.72,
+          "local_end": 1.84
+        },
+        {
+          "word": "deposit",
+          "start": 39.208,
+          "end": 39.488,
+          "local_start": 1.84,
+          "local_end": 2.12
+        },
+        {
+          "word": "is",
+          "start": 39.488,
+          "end": 39.748,
+          "local_start": 2.12,
+          "local_end": 2.38
+        },
+        {
+          "word": "one",
+          "start": 39.748,
+          "end": 39.968,
+          "local_start": 2.38,
+          "local_end": 2.6
+        },
+        {
+          "word": "month's",
+          "start": 39.968,
+          "end": 40.368,
+          "local_start": 2.6,
+          "local_end": 3.0
+        },
+        {
+          "word": "rent.",
+          "start": 40.368,
+          "end": 40.488,
+          "local_start": 3.0,
+          "local_end": 3.12
+        },
+        {
+          "word": "I'd",
+          "start": 41.128,
+          "end": 41.328,
+          "local_start": 3.76,
+          "local_end": 3.96
+        },
+        {
+          "word": "also",
+          "start": 41.328,
+          "end": 41.568,
+          "local_start": 3.96,
+          "local_end": 4.2
+        },
+        {
+          "word": "need",
+          "start": 41.568,
+          "end": 41.808,
+          "local_start": 4.2,
+          "local_end": 4.44
+        },
+        {
+          "word": "proof",
+          "start": 41.808,
+          "end": 42.028,
+          "local_start": 4.44,
+          "local_end": 4.66
+        },
+        {
+          "word": "of",
+          "start": 42.028,
+          "end": 42.428,
+          "local_start": 4.66,
+          "local_end": 5.06
+        },
+        {
+          "word": "income.",
+          "start": 42.428,
+          "end": 42.428,
+          "local_start": 5.06,
+          "local_end": 5.06
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "file": "10.mp3",
+      "text": "I can provide that. Is parking included, or is there a garage?",
+      "audio_sha256": "5f3f6b9e8d7ea7cd70e10573bc24c795e85125717ff2b4629c28e61b647a7ced",
+      "start": 42.624,
+      "end": 46.032,
+      "duration": 3.408,
+      "words": [
+        {
+          "word": "I",
+          "start": 42.624,
+          "end": 42.824,
+          "local_start": 0.0,
+          "local_end": 0.2
+        },
+        {
+          "word": "can",
+          "start": 42.824,
+          "end": 43.004,
+          "local_start": 0.2,
+          "local_end": 0.38
+        },
+        {
+          "word": "provide",
+          "start": 43.004,
+          "end": 43.324,
+          "local_start": 0.38,
+          "local_end": 0.7
+        },
+        {
+          "word": "that.",
+          "start": 43.324,
+          "end": 43.644,
+          "local_start": 0.7,
+          "local_end": 1.02
+        },
+        {
+          "word": "Is",
+          "start": 43.924,
+          "end": 44.044,
+          "local_start": 1.3,
+          "local_end": 1.42
+        },
+        {
+          "word": "parking",
+          "start": 44.044,
+          "end": 44.304,
+          "local_start": 1.42,
+          "local_end": 1.68
+        },
+        {
+          "word": "included,",
+          "start": 44.304,
+          "end": 44.764,
+          "local_start": 1.68,
+          "local_end": 2.14
+        },
+        {
+          "word": "or",
+          "start": 44.944,
+          "end": 45.064,
+          "local_start": 2.32,
+          "local_end": 2.44
+        },
+        {
+          "word": "is",
+          "start": 45.064,
+          "end": 45.184,
+          "local_start": 2.44,
+          "local_end": 2.56
+        },
+        {
+          "word": "there",
+          "start": 45.184,
+          "end": 45.324,
+          "local_start": 2.56,
+          "local_end": 2.7
+        },
+        {
+          "word": "a",
+          "start": 45.324,
+          "end": 45.464,
+          "local_start": 2.7,
+          "local_end": 2.84
+        },
+        {
+          "word": "garage?",
+          "start": 45.464,
+          "end": 45.564,
+          "local_start": 2.84,
+          "local_end": 2.94
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "file": "11.mp3",
+      "text": "A garage space is an extra seventy-five a month, or you can try street parking after six.",
+      "audio_sha256": "5b00e6d5bcb39e7139b9cf7f87a5cc7fe6bdf6c5c91014a3b29b255c5cf803b5",
+      "start": 46.032,
+      "end": 51.0,
+      "duration": 4.968,
+      "words": [
+        {
+          "word": "A",
+          "start": 46.032,
+          "end": 46.512,
+          "local_start": 0.0,
+          "local_end": 0.48
+        },
+        {
+          "word": "garage",
+          "start": 46.512,
+          "end": 46.552,
+          "local_start": 0.48,
+          "local_end": 0.52
+        },
+        {
+          "word": "space",
+          "start": 46.552,
+          "end": 46.932,
+          "local_start": 0.52,
+          "local_end": 0.9
+        },
+        {
+          "word": "is",
+          "start": 46.932,
+          "end": 47.112,
+          "local_start": 0.9,
+          "local_end": 1.08
+        },
+        {
+          "word": "an",
+          "start": 47.112,
+          "end": 47.312,
+          "local_start": 1.08,
+          "local_end": 1.28
+        },
+        {
+          "word": "extra",
+          "start": 47.312,
+          "end": 47.492,
+          "local_start": 1.28,
+          "local_end": 1.46
+        },
+        {
+          "word": "seventy-five",
+          "start": 47.492,
+          "end": 48.232,
+          "local_start": 1.46,
+          "local_end": 2.2
+        },
+        {
+          "word": "a",
+          "start": 48.232,
+          "end": 48.412,
+          "local_start": 2.2,
+          "local_end": 2.38
+        },
+        {
+          "word": "month,",
+          "start": 48.412,
+          "end": 48.612,
+          "local_start": 2.38,
+          "local_end": 2.58
+        },
+        {
+          "word": "or",
+          "start": 49.012,
+          "end": 49.272,
+          "local_start": 2.98,
+          "local_end": 3.24
+        },
+        {
+          "word": "you",
+          "start": 49.272,
+          "end": 49.312,
+          "local_start": 3.24,
+          "local_end": 3.28
+        },
+        {
+          "word": "can",
+          "start": 49.312,
+          "end": 49.552,
+          "local_start": 3.28,
+          "local_end": 3.52
+        },
+        {
+          "word": "try",
+          "start": 49.552,
+          "end": 49.692,
+          "local_start": 3.52,
+          "local_end": 3.66
+        },
+        {
+          "word": "street",
+          "start": 49.692,
+          "end": 49.972,
+          "local_start": 3.66,
+          "local_end": 3.94
+        },
+        {
+          "word": "parking",
+          "start": 49.972,
+          "end": 50.172,
+          "local_start": 3.94,
+          "local_end": 4.14
+        },
+        {
+          "word": "after",
+          "start": 50.172,
+          "end": 50.452,
+          "local_start": 4.14,
+          "local_end": 4.42
+        },
+        {
+          "word": "six.",
+          "start": 50.452,
+          "end": 50.812,
+          "local_start": 4.42,
+          "local_end": 4.78
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "file": "12.mp3",
+      "text": "I'll take the garage if I apply. Could I fill out an application this week?",
+      "audio_sha256": "7fbd14462cf63501cec794abb914cd61a2ed9b0da5cf6b5d270b74655423ab2f",
+      "start": 51.0,
+      "end": 54.72,
+      "duration": 3.72,
+      "words": [
+        {
+          "word": "I'll",
+          "start": 51.0,
+          "end": 51.22,
+          "local_start": 0.0,
+          "local_end": 0.22
+        },
+        {
+          "word": "take",
+          "start": 51.22,
+          "end": 51.42,
+          "local_start": 0.22,
+          "local_end": 0.42
+        },
+        {
+          "word": "the",
+          "start": 51.42,
+          "end": 51.58,
+          "local_start": 0.42,
+          "local_end": 0.58
+        },
+        {
+          "word": "garage",
+          "start": 51.58,
+          "end": 51.8,
+          "local_start": 0.58,
+          "local_end": 0.8
+        },
+        {
+          "word": "if",
+          "start": 51.8,
+          "end": 52.02,
+          "local_start": 0.8,
+          "local_end": 1.02
+        },
+        {
+          "word": "I",
+          "start": 52.02,
+          "end": 52.16,
+          "local_start": 1.02,
+          "local_end": 1.16
+        },
+        {
+          "word": "apply.",
+          "start": 52.16,
+          "end": 52.4,
+          "local_start": 1.16,
+          "local_end": 1.4
+        },
+        {
+          "word": "Could",
+          "start": 52.96,
+          "end": 53.04,
+          "local_start": 1.96,
+          "local_end": 2.04
+        },
+        {
+          "word": "I",
+          "start": 53.04,
+          "end": 53.3,
+          "local_start": 2.04,
+          "local_end": 2.3
+        },
+        {
+          "word": "fill",
+          "start": 53.3,
+          "end": 53.32,
+          "local_start": 2.3,
+          "local_end": 2.32
+        },
+        {
+          "word": "out",
+          "start": 53.32,
+          "end": 53.46,
+          "local_start": 2.32,
+          "local_end": 2.46
+        },
+        {
+          "word": "an",
+          "start": 53.46,
+          "end": 53.64,
+          "local_start": 2.46,
+          "local_end": 2.64
+        },
+        {
+          "word": "application",
+          "start": 53.64,
+          "end": 53.98,
+          "local_start": 2.64,
+          "local_end": 2.98
+        },
+        {
+          "word": "this",
+          "start": 53.98,
+          "end": 54.28,
+          "local_start": 2.98,
+          "local_end": 3.28
+        },
+        {
+          "word": "week?",
+          "start": 54.28,
+          "end": 54.46,
+          "local_start": 3.28,
+          "local_end": 3.46
+        }
+      ]
+    }
+  ]
+}
