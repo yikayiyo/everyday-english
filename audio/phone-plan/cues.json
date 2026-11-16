@@ -1,0 +1,1365 @@
+{
+  "model": "whisper-1",
+  "lesson": "2026-11-16-phone-plan",
+  "full_track": "full-dialogue.mp3",
+  "full_duration": 58.44,
+  "lines": [
+    {
+      "index": 1,
+      "file": "01.mp3",
+      "text": "Hi, welcome in. How can I help you today?",
+      "audio_sha256": "032a16a6a2531cab1c81a89ba40aeb9579b1a75a1d9ec4548d8599a4ff0c5819",
+      "start": 0.0,
+      "end": 3.0,
+      "duration": 3.0,
+      "words": [
+        {
+          "word": "Hi,",
+          "start": 0.0,
+          "end": 0.56,
+          "local_start": 0.0,
+          "local_end": 0.56
+        },
+        {
+          "word": "welcome",
+          "start": 0.96,
+          "end": 1.22,
+          "local_start": 0.96,
+          "local_end": 1.22
+        },
+        {
+          "word": "in.",
+          "start": 1.22,
+          "end": 1.58,
+          "local_start": 1.22,
+          "local_end": 1.58
+        },
+        {
+          "word": "How",
+          "start": 2.04,
+          "end": 2.16,
+          "local_start": 2.04,
+          "local_end": 2.16
+        },
+        {
+          "word": "can",
+          "start": 2.16,
+          "end": 2.24,
+          "local_start": 2.16,
+          "local_end": 2.24
+        },
+        {
+          "word": "I",
+          "start": 2.24,
+          "end": 2.38,
+          "local_start": 2.24,
+          "local_end": 2.38
+        },
+        {
+          "word": "help",
+          "start": 2.38,
+          "end": 2.48,
+          "local_start": 2.38,
+          "local_end": 2.48
+        },
+        {
+          "word": "you",
+          "start": 2.48,
+          "end": 2.64,
+          "local_start": 2.48,
+          "local_end": 2.64
+        },
+        {
+          "word": "today?",
+          "start": 2.64,
+          "end": 2.8,
+          "local_start": 2.64,
+          "local_end": 2.8
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "file": "02.mp3",
+      "text": "Hi. I just moved here, and I need a phone plan for my own phone.",
+      "audio_sha256": "afe7161c338b136e1e9d3a2fe542373d20ca09e66b11ea2e4bb7589dbc3d8d07",
+      "start": 3.0,
+      "end": 7.8,
+      "duration": 4.8,
+      "words": [
+        {
+          "word": "Hi.",
+          "start": 3.0,
+          "end": 3.42,
+          "local_start": 0.0,
+          "local_end": 0.42
+        },
+        {
+          "word": "I",
+          "start": 3.78,
+          "end": 4.12,
+          "local_start": 0.78,
+          "local_end": 1.12
+        },
+        {
+          "word": "just",
+          "start": 4.12,
+          "end": 4.38,
+          "local_start": 1.12,
+          "local_end": 1.38
+        },
+        {
+          "word": "moved",
+          "start": 4.38,
+          "end": 4.64,
+          "local_start": 1.38,
+          "local_end": 1.64
+        },
+        {
+          "word": "here,",
+          "start": 4.64,
+          "end": 4.96,
+          "local_start": 1.64,
+          "local_end": 1.96
+        },
+        {
+          "word": "and",
+          "start": 5.22,
+          "end": 5.42,
+          "local_start": 2.22,
+          "local_end": 2.42
+        },
+        {
+          "word": "I",
+          "start": 5.42,
+          "end": 5.68,
+          "local_start": 2.42,
+          "local_end": 2.68
+        },
+        {
+          "word": "need",
+          "start": 5.68,
+          "end": 5.74,
+          "local_start": 2.68,
+          "local_end": 2.74
+        },
+        {
+          "word": "a",
+          "start": 5.74,
+          "end": 6.02,
+          "local_start": 2.74,
+          "local_end": 3.02
+        },
+        {
+          "word": "phone",
+          "start": 6.02,
+          "end": 6.14,
+          "local_start": 3.02,
+          "local_end": 3.14
+        },
+        {
+          "word": "plan",
+          "start": 6.14,
+          "end": 6.42,
+          "local_start": 3.14,
+          "local_end": 3.42
+        },
+        {
+          "word": "for",
+          "start": 6.42,
+          "end": 6.64,
+          "local_start": 3.42,
+          "local_end": 3.64
+        },
+        {
+          "word": "my",
+          "start": 6.64,
+          "end": 6.78,
+          "local_start": 3.64,
+          "local_end": 3.78
+        },
+        {
+          "word": "own",
+          "start": 6.78,
+          "end": 7.02,
+          "local_start": 3.78,
+          "local_end": 4.02
+        },
+        {
+          "word": "phone.",
+          "start": 7.02,
+          "end": 7.24,
+          "local_start": 4.02,
+          "local_end": 4.24
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "file": "03.mp3",
+      "text": "No problem. Is your phone unlocked? If it is, we can set you up with an eSIM today.",
+      "audio_sha256": "d495e84023ee9551870d3b988792f0912e5e20e7978b57d2f9200e423af43b6c",
+      "start": 7.8,
+      "end": 13.656,
+      "duration": 5.856,
+      "words": [
+        {
+          "word": "No",
+          "start": 7.8,
+          "end": 8.14,
+          "local_start": 0.0,
+          "local_end": 0.34
+        },
+        {
+          "word": "problem.",
+          "start": 8.14,
+          "end": 8.52,
+          "local_start": 0.34,
+          "local_end": 0.72
+        },
+        {
+          "word": "Is",
+          "start": 8.94,
+          "end": 9.06,
+          "local_start": 1.14,
+          "local_end": 1.26
+        },
+        {
+          "word": "your",
+          "start": 9.06,
+          "end": 9.26,
+          "local_start": 1.26,
+          "local_end": 1.46
+        },
+        {
+          "word": "phone",
+          "start": 9.26,
+          "end": 9.5,
+          "local_start": 1.46,
+          "local_end": 1.7
+        },
+        {
+          "word": "unlocked?",
+          "start": 9.5,
+          "end": 9.96,
+          "local_start": 1.7,
+          "local_end": 2.16
+        },
+        {
+          "word": "If",
+          "start": 10.64,
+          "end": 10.74,
+          "local_start": 2.84,
+          "local_end": 2.94
+        },
+        {
+          "word": "it",
+          "start": 10.74,
+          "end": 10.86,
+          "local_start": 2.94,
+          "local_end": 3.06
+        },
+        {
+          "word": "is,",
+          "start": 10.86,
+          "end": 11.16,
+          "local_start": 3.06,
+          "local_end": 3.36
+        },
+        {
+          "word": "we",
+          "start": 11.68,
+          "end": 11.76,
+          "local_start": 3.88,
+          "local_end": 3.96
+        },
+        {
+          "word": "can",
+          "start": 11.76,
+          "end": 11.96,
+          "local_start": 3.96,
+          "local_end": 4.16
+        },
+        {
+          "word": "set",
+          "start": 11.96,
+          "end": 12.08,
+          "local_start": 4.16,
+          "local_end": 4.28
+        },
+        {
+          "word": "you",
+          "start": 12.08,
+          "end": 12.22,
+          "local_start": 4.28,
+          "local_end": 4.42
+        },
+        {
+          "word": "up",
+          "start": 12.22,
+          "end": 12.38,
+          "local_start": 4.42,
+          "local_end": 4.58
+        },
+        {
+          "word": "with",
+          "start": 12.38,
+          "end": 12.56,
+          "local_start": 4.58,
+          "local_end": 4.76
+        },
+        {
+          "word": "an",
+          "start": 12.56,
+          "end": 12.78,
+          "local_start": 4.76,
+          "local_end": 4.98
+        },
+        {
+          "word": "eSIM",
+          "start": 12.78,
+          "end": 13.02,
+          "local_start": 4.98,
+          "local_end": 5.22
+        },
+        {
+          "word": "today.",
+          "start": 13.02,
+          "end": 13.4,
+          "local_start": 5.22,
+          "local_end": 5.6
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "file": "04.mp3",
+      "text": "Yes, it's unlocked. I'm looking for a monthly plan with enough data for maps and video calls.",
+      "audio_sha256": "dd6da2406957a488a3dc590e6947a765ba4f12def8e2ec1eb520fd2c1622becf",
+      "start": 13.656,
+      "end": 19.464,
+      "duration": 5.808,
+      "words": [
+        {
+          "word": "Yes,",
+          "start": 13.656,
+          "end": 14.196,
+          "local_start": 0.0,
+          "local_end": 0.54
+        },
+        {
+          "word": "it's",
+          "start": 14.536,
+          "end": 14.836,
+          "local_start": 0.88,
+          "local_end": 1.18
+        },
+        {
+          "word": "unlocked.",
+          "start": 14.836,
+          "end": 15.156,
+          "local_start": 1.18,
+          "local_end": 1.5
+        },
+        {
+          "word": "I'm",
+          "start": 15.556,
+          "end": 15.736,
+          "local_start": 1.9,
+          "local_end": 2.08
+        },
+        {
+          "word": "looking",
+          "start": 15.736,
+          "end": 15.856,
+          "local_start": 2.08,
+          "local_end": 2.2
+        },
+        {
+          "word": "for",
+          "start": 15.856,
+          "end": 16.096,
+          "local_start": 2.2,
+          "local_end": 2.44
+        },
+        {
+          "word": "a",
+          "start": 16.096,
+          "end": 16.276,
+          "local_start": 2.44,
+          "local_end": 2.62
+        },
+        {
+          "word": "monthly",
+          "start": 16.276,
+          "end": 16.516,
+          "local_start": 2.62,
+          "local_end": 2.86
+        },
+        {
+          "word": "plan",
+          "start": 16.516,
+          "end": 16.816,
+          "local_start": 2.86,
+          "local_end": 3.16
+        },
+        {
+          "word": "with",
+          "start": 16.816,
+          "end": 17.056,
+          "local_start": 3.16,
+          "local_end": 3.4
+        },
+        {
+          "word": "enough",
+          "start": 17.056,
+          "end": 17.376,
+          "local_start": 3.4,
+          "local_end": 3.72
+        },
+        {
+          "word": "data",
+          "start": 17.376,
+          "end": 17.656,
+          "local_start": 3.72,
+          "local_end": 4.0
+        },
+        {
+          "word": "for",
+          "start": 17.656,
+          "end": 18.076,
+          "local_start": 4.0,
+          "local_end": 4.42
+        },
+        {
+          "word": "maps",
+          "start": 18.076,
+          "end": 18.316,
+          "local_start": 4.42,
+          "local_end": 4.66
+        },
+        {
+          "word": "and",
+          "start": 18.316,
+          "end": 18.616,
+          "local_start": 4.66,
+          "local_end": 4.96
+        },
+        {
+          "word": "video",
+          "start": 18.616,
+          "end": 18.876,
+          "local_start": 4.96,
+          "local_end": 5.22
+        },
+        {
+          "word": "calls.",
+          "start": 18.876,
+          "end": 19.176,
+          "local_start": 5.22,
+          "local_end": 5.52
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "file": "05.mp3",
+      "text": "The most popular plan is fifty dollars a month. You get unlimited talk and text, plus thirty gigabytes of high-speed data.",
+      "audio_sha256": "aa6944d60386165fd9acbf6a8c6b6c358f952d56ba026802ffcc2e3c4c607c5f",
+      "start": 19.464,
+      "end": 27.216,
+      "duration": 7.752,
+      "words": [
+        {
+          "word": "The",
+          "start": 19.464,
+          "end": 19.724,
+          "local_start": 0.0,
+          "local_end": 0.26
+        },
+        {
+          "word": "most",
+          "start": 19.724,
+          "end": 20.024,
+          "local_start": 0.26,
+          "local_end": 0.56
+        },
+        {
+          "word": "popular",
+          "start": 20.024,
+          "end": 20.484,
+          "local_start": 0.56,
+          "local_end": 1.02
+        },
+        {
+          "word": "plan",
+          "start": 20.484,
+          "end": 20.924,
+          "local_start": 1.02,
+          "local_end": 1.46
+        },
+        {
+          "word": "is",
+          "start": 20.924,
+          "end": 21.284,
+          "local_start": 1.46,
+          "local_end": 1.82
+        },
+        {
+          "word": "fifty",
+          "start": 21.284,
+          "end": 21.584,
+          "local_start": 1.82,
+          "local_end": 2.12
+        },
+        {
+          "word": "dollars",
+          "start": 21.584,
+          "end": 21.904,
+          "local_start": 2.12,
+          "local_end": 2.44
+        },
+        {
+          "word": "a",
+          "start": 21.904,
+          "end": 22.224,
+          "local_start": 2.44,
+          "local_end": 2.76
+        },
+        {
+          "word": "month.",
+          "start": 22.224,
+          "end": 22.264,
+          "local_start": 2.76,
+          "local_end": 2.8
+        },
+        {
+          "word": "You",
+          "start": 22.924,
+          "end": 22.924,
+          "local_start": 3.46,
+          "local_end": 3.46
+        },
+        {
+          "word": "get",
+          "start": 22.924,
+          "end": 23.164,
+          "local_start": 3.46,
+          "local_end": 3.7
+        },
+        {
+          "word": "unlimited",
+          "start": 23.164,
+          "end": 23.644,
+          "local_start": 3.7,
+          "local_end": 4.18
+        },
+        {
+          "word": "talk",
+          "start": 23.644,
+          "end": 23.984,
+          "local_start": 4.18,
+          "local_end": 4.52
+        },
+        {
+          "word": "and",
+          "start": 23.984,
+          "end": 24.184,
+          "local_start": 4.52,
+          "local_end": 4.72
+        },
+        {
+          "word": "text,",
+          "start": 24.184,
+          "end": 24.404,
+          "local_start": 4.72,
+          "local_end": 4.94
+        },
+        {
+          "word": "plus",
+          "start": 25.004,
+          "end": 25.124,
+          "local_start": 5.54,
+          "local_end": 5.66
+        },
+        {
+          "word": "thirty",
+          "start": 25.124,
+          "end": 25.644,
+          "local_start": 5.66,
+          "local_end": 6.18
+        },
+        {
+          "word": "gigabytes",
+          "start": 25.644,
+          "end": 26.004,
+          "local_start": 6.18,
+          "local_end": 6.54
+        },
+        {
+          "word": "of",
+          "start": 26.004,
+          "end": 26.364,
+          "local_start": 6.54,
+          "local_end": 6.9
+        },
+        {
+          "word": "high-speed",
+          "start": 26.364,
+          "end": 26.744,
+          "local_start": 6.9,
+          "local_end": 7.28
+        },
+        {
+          "word": "data.",
+          "start": 26.744,
+          "end": 27.004,
+          "local_start": 7.28,
+          "local_end": 7.54
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "file": "06.mp3",
+      "text": "What happens if I go over thirty gigabytes?",
+      "audio_sha256": "4dd5e9b4edeee6861412c6596c9508e9119fe521fb876faed214633f15a678b7",
+      "start": 27.216,
+      "end": 30.336,
+      "duration": 3.12,
+      "words": [
+        {
+          "word": "What",
+          "start": 27.216,
+          "end": 27.636,
+          "local_start": 0.0,
+          "local_end": 0.42
+        },
+        {
+          "word": "happens",
+          "start": 27.636,
+          "end": 28.136,
+          "local_start": 0.42,
+          "local_end": 0.92
+        },
+        {
+          "word": "if",
+          "start": 28.136,
+          "end": 28.356,
+          "local_start": 0.92,
+          "local_end": 1.14
+        },
+        {
+          "word": "I",
+          "start": 28.356,
+          "end": 28.576,
+          "local_start": 1.14,
+          "local_end": 1.36
+        },
+        {
+          "word": "go",
+          "start": 28.576,
+          "end": 28.696,
+          "local_start": 1.36,
+          "local_end": 1.48
+        },
+        {
+          "word": "over",
+          "start": 28.696,
+          "end": 28.956,
+          "local_start": 1.48,
+          "local_end": 1.74
+        },
+        {
+          "word": "thirty",
+          "start": 28.956,
+          "end": 29.496,
+          "local_start": 1.74,
+          "local_end": 2.28
+        },
+        {
+          "word": "gigabytes?",
+          "start": 29.496,
+          "end": 29.916,
+          "local_start": 2.28,
+          "local_end": 2.7
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "file": "07.mp3",
+      "text": "Your speed would slow down, but you wouldn't be charged extra. You can also add a hotspot for ten dollars more.",
+      "audio_sha256": "741196ca8cf254fc78e08f752572c38fbad1b47df3412411957346394e8259dd",
+      "start": 30.336,
+      "end": 37.152,
+      "duration": 6.816,
+      "words": [
+        {
+          "word": "Your",
+          "start": 30.336,
+          "end": 30.676,
+          "local_start": 0.0,
+          "local_end": 0.34
+        },
+        {
+          "word": "speed",
+          "start": 30.676,
+          "end": 31.036,
+          "local_start": 0.34,
+          "local_end": 0.7
+        },
+        {
+          "word": "would",
+          "start": 31.036,
+          "end": 31.336,
+          "local_start": 0.7,
+          "local_end": 1.0
+        },
+        {
+          "word": "slow",
+          "start": 31.336,
+          "end": 31.516,
+          "local_start": 1.0,
+          "local_end": 1.18
+        },
+        {
+          "word": "down,",
+          "start": 31.516,
+          "end": 31.896,
+          "local_start": 1.18,
+          "local_end": 1.56
+        },
+        {
+          "word": "but",
+          "start": 32.216,
+          "end": 32.336,
+          "local_start": 1.88,
+          "local_end": 2.0
+        },
+        {
+          "word": "you",
+          "start": 32.336,
+          "end": 32.516,
+          "local_start": 2.0,
+          "local_end": 2.18
+        },
+        {
+          "word": "wouldn't",
+          "start": 32.516,
+          "end": 32.756,
+          "local_start": 2.18,
+          "local_end": 2.42
+        },
+        {
+          "word": "be",
+          "start": 32.756,
+          "end": 33.056,
+          "local_start": 2.42,
+          "local_end": 2.72
+        },
+        {
+          "word": "charged",
+          "start": 33.056,
+          "end": 33.236,
+          "local_start": 2.72,
+          "local_end": 2.9
+        },
+        {
+          "word": "extra.",
+          "start": 33.236,
+          "end": 33.656,
+          "local_start": 2.9,
+          "local_end": 3.32
+        },
+        {
+          "word": "You",
+          "start": 34.556,
+          "end": 34.596,
+          "local_start": 4.22,
+          "local_end": 4.26
+        },
+        {
+          "word": "can",
+          "start": 34.596,
+          "end": 34.756,
+          "local_start": 4.26,
+          "local_end": 4.42
+        },
+        {
+          "word": "also",
+          "start": 34.756,
+          "end": 34.956,
+          "local_start": 4.42,
+          "local_end": 4.62
+        },
+        {
+          "word": "add",
+          "start": 34.956,
+          "end": 35.136,
+          "local_start": 4.62,
+          "local_end": 4.8
+        },
+        {
+          "word": "a",
+          "start": 35.136,
+          "end": 35.296,
+          "local_start": 4.8,
+          "local_end": 4.96
+        },
+        {
+          "word": "hotspot",
+          "start": 35.296,
+          "end": 35.636,
+          "local_start": 4.96,
+          "local_end": 5.3
+        },
+        {
+          "word": "for",
+          "start": 35.636,
+          "end": 35.956,
+          "local_start": 5.3,
+          "local_end": 5.62
+        },
+        {
+          "word": "ten",
+          "start": 35.956,
+          "end": 36.196,
+          "local_start": 5.62,
+          "local_end": 5.86
+        },
+        {
+          "word": "dollars",
+          "start": 36.196,
+          "end": 36.496,
+          "local_start": 5.86,
+          "local_end": 6.16
+        },
+        {
+          "word": "more.",
+          "start": 36.496,
+          "end": 36.736,
+          "local_start": 6.16,
+          "local_end": 6.4
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "file": "08.mp3",
+      "text": "I'll skip the hotspot for now. Do I need to sign a contract?",
+      "audio_sha256": "8f4bd7de02833f51ef6161b06a37f80d1a59a271c324014b6ae1d28e9f9a0e29",
+      "start": 37.152,
+      "end": 41.16,
+      "duration": 4.008,
+      "words": [
+        {
+          "word": "I'll",
+          "start": 37.152,
+          "end": 37.912,
+          "local_start": 0.0,
+          "local_end": 0.76
+        },
+        {
+          "word": "skip",
+          "start": 37.912,
+          "end": 38.072,
+          "local_start": 0.76,
+          "local_end": 0.92
+        },
+        {
+          "word": "the",
+          "start": 38.072,
+          "end": 38.312,
+          "local_start": 0.92,
+          "local_end": 1.16
+        },
+        {
+          "word": "hotspot",
+          "start": 38.312,
+          "end": 38.652,
+          "local_start": 1.16,
+          "local_end": 1.5
+        },
+        {
+          "word": "for",
+          "start": 38.652,
+          "end": 38.872,
+          "local_start": 1.5,
+          "local_end": 1.72
+        },
+        {
+          "word": "now.",
+          "start": 38.872,
+          "end": 39.132,
+          "local_start": 1.72,
+          "local_end": 1.98
+        },
+        {
+          "word": "Do",
+          "start": 39.672,
+          "end": 39.752,
+          "local_start": 2.52,
+          "local_end": 2.6
+        },
+        {
+          "word": "I",
+          "start": 39.752,
+          "end": 39.912,
+          "local_start": 2.6,
+          "local_end": 2.76
+        },
+        {
+          "word": "need",
+          "start": 39.912,
+          "end": 40.012,
+          "local_start": 2.76,
+          "local_end": 2.86
+        },
+        {
+          "word": "to",
+          "start": 40.012,
+          "end": 40.272,
+          "local_start": 2.86,
+          "local_end": 3.12
+        },
+        {
+          "word": "sign",
+          "start": 40.272,
+          "end": 40.272,
+          "local_start": 3.12,
+          "local_end": 3.12
+        },
+        {
+          "word": "a",
+          "start": 40.272,
+          "end": 40.532,
+          "local_start": 3.12,
+          "local_end": 3.38
+        },
+        {
+          "word": "contract?",
+          "start": 40.532,
+          "end": 40.612,
+          "local_start": 3.38,
+          "local_end": 3.46
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "file": "09.mp3",
+      "text": "No contract. You can cancel anytime, but I'd need a photo ID and a credit or debit card.",
+      "audio_sha256": "189153844dd153d3c54c988ff9c6c5357922711fe6fe1caef504ca1cdc85984c",
+      "start": 41.16,
+      "end": 47.016,
+      "duration": 5.856,
+      "words": [
+        {
+          "word": "No",
+          "start": 41.16,
+          "end": 41.58,
+          "local_start": 0.0,
+          "local_end": 0.42
+        },
+        {
+          "word": "contract.",
+          "start": 41.58,
+          "end": 42.12,
+          "local_start": 0.42,
+          "local_end": 0.96
+        },
+        {
+          "word": "You",
+          "start": 42.44,
+          "end": 42.5,
+          "local_start": 1.28,
+          "local_end": 1.34
+        },
+        {
+          "word": "can",
+          "start": 42.5,
+          "end": 42.7,
+          "local_start": 1.34,
+          "local_end": 1.54
+        },
+        {
+          "word": "cancel",
+          "start": 42.7,
+          "end": 42.98,
+          "local_start": 1.54,
+          "local_end": 1.82
+        },
+        {
+          "word": "anytime,",
+          "start": 42.98,
+          "end": 43.68,
+          "local_start": 1.82,
+          "local_end": 2.52
+        },
+        {
+          "word": "but",
+          "start": 44.2,
+          "end": 44.24,
+          "local_start": 3.04,
+          "local_end": 3.08
+        },
+        {
+          "word": "I'd",
+          "start": 44.24,
+          "end": 44.46,
+          "local_start": 3.08,
+          "local_end": 3.3
+        },
+        {
+          "word": "need",
+          "start": 44.46,
+          "end": 44.6,
+          "local_start": 3.3,
+          "local_end": 3.44
+        },
+        {
+          "word": "a",
+          "start": 44.6,
+          "end": 44.78,
+          "local_start": 3.44,
+          "local_end": 3.62
+        },
+        {
+          "word": "photo",
+          "start": 44.78,
+          "end": 45.02,
+          "local_start": 3.62,
+          "local_end": 3.86
+        },
+        {
+          "word": "ID",
+          "start": 45.02,
+          "end": 45.38,
+          "local_start": 3.86,
+          "local_end": 4.22
+        },
+        {
+          "word": "and",
+          "start": 45.38,
+          "end": 45.7,
+          "local_start": 4.22,
+          "local_end": 4.54
+        },
+        {
+          "word": "a",
+          "start": 45.7,
+          "end": 46.08,
+          "local_start": 4.54,
+          "local_end": 4.92
+        },
+        {
+          "word": "credit",
+          "start": 46.08,
+          "end": 46.08,
+          "local_start": 4.92,
+          "local_end": 4.92
+        },
+        {
+          "word": "or",
+          "start": 46.08,
+          "end": 46.34,
+          "local_start": 4.92,
+          "local_end": 5.18
+        },
+        {
+          "word": "debit",
+          "start": 46.34,
+          "end": 46.48,
+          "local_start": 5.18,
+          "local_end": 5.32
+        },
+        {
+          "word": "card.",
+          "start": 46.48,
+          "end": 46.72,
+          "local_start": 5.32,
+          "local_end": 5.56
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "file": "10.mp3",
+      "text": "I have both with me. Can I keep my current number?",
+      "audio_sha256": "63b15b383ab69f503f7bce2416119d470653a6f960d642e97a547f041c115f86",
+      "start": 47.016,
+      "end": 50.016,
+      "duration": 3.0,
+      "words": [
+        {
+          "word": "I",
+          "start": 47.016,
+          "end": 47.216,
+          "local_start": 0.0,
+          "local_end": 0.2
+        },
+        {
+          "word": "have",
+          "start": 47.216,
+          "end": 47.376,
+          "local_start": 0.2,
+          "local_end": 0.36
+        },
+        {
+          "word": "both",
+          "start": 47.376,
+          "end": 47.656,
+          "local_start": 0.36,
+          "local_end": 0.64
+        },
+        {
+          "word": "with",
+          "start": 47.656,
+          "end": 47.836,
+          "local_start": 0.64,
+          "local_end": 0.82
+        },
+        {
+          "word": "me.",
+          "start": 47.836,
+          "end": 48.196,
+          "local_start": 0.82,
+          "local_end": 1.18
+        },
+        {
+          "word": "Can",
+          "start": 48.536,
+          "end": 48.656,
+          "local_start": 1.52,
+          "local_end": 1.64
+        },
+        {
+          "word": "I",
+          "start": 48.656,
+          "end": 48.816,
+          "local_start": 1.64,
+          "local_end": 1.8
+        },
+        {
+          "word": "keep",
+          "start": 48.816,
+          "end": 48.916,
+          "local_start": 1.8,
+          "local_end": 1.9
+        },
+        {
+          "word": "my",
+          "start": 48.916,
+          "end": 49.176,
+          "local_start": 1.9,
+          "local_end": 2.16
+        },
+        {
+          "word": "current",
+          "start": 49.176,
+          "end": 49.356,
+          "local_start": 2.16,
+          "local_end": 2.34
+        },
+        {
+          "word": "number?",
+          "start": 49.356,
+          "end": 49.616,
+          "local_start": 2.34,
+          "local_end": 2.6
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "file": "11.mp3",
+      "text": "Yes, we can transfer it. It usually takes about twenty minutes to activate.",
+      "audio_sha256": "6cea54e8431e2502303484bcef89401388473471156d97bf567a469cf4851843",
+      "start": 50.016,
+      "end": 54.528,
+      "duration": 4.512,
+      "words": [
+        {
+          "word": "Yes,",
+          "start": 50.016,
+          "end": 50.396,
+          "local_start": 0.0,
+          "local_end": 0.38
+        },
+        {
+          "word": "we",
+          "start": 50.836,
+          "end": 50.976,
+          "local_start": 0.82,
+          "local_end": 0.96
+        },
+        {
+          "word": "can",
+          "start": 50.976,
+          "end": 51.136,
+          "local_start": 0.96,
+          "local_end": 1.12
+        },
+        {
+          "word": "transfer",
+          "start": 51.136,
+          "end": 51.376,
+          "local_start": 1.12,
+          "local_end": 1.36
+        },
+        {
+          "word": "it.",
+          "start": 51.376,
+          "end": 51.656,
+          "local_start": 1.36,
+          "local_end": 1.64
+        },
+        {
+          "word": "It",
+          "start": 52.016,
+          "end": 52.196,
+          "local_start": 2.0,
+          "local_end": 2.18
+        },
+        {
+          "word": "usually",
+          "start": 52.196,
+          "end": 52.456,
+          "local_start": 2.18,
+          "local_end": 2.44
+        },
+        {
+          "word": "takes",
+          "start": 52.456,
+          "end": 52.676,
+          "local_start": 2.44,
+          "local_end": 2.66
+        },
+        {
+          "word": "about",
+          "start": 52.676,
+          "end": 52.996,
+          "local_start": 2.66,
+          "local_end": 2.98
+        },
+        {
+          "word": "twenty",
+          "start": 52.996,
+          "end": 53.376,
+          "local_start": 2.98,
+          "local_end": 3.36
+        },
+        {
+          "word": "minutes",
+          "start": 53.376,
+          "end": 53.656,
+          "local_start": 3.36,
+          "local_end": 3.64
+        },
+        {
+          "word": "to",
+          "start": 53.656,
+          "end": 54.016,
+          "local_start": 3.64,
+          "local_end": 4.0
+        },
+        {
+          "word": "activate.",
+          "start": 54.016,
+          "end": 54.236,
+          "local_start": 4.0,
+          "local_end": 4.22
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "file": "12.mp3",
+      "text": "Perfect. Let's go with the fifty-dollar plan and transfer my number.",
+      "audio_sha256": "ae2f57a82866579030fa25ac28c0418838de6214f1ad9a6d5f462aba2cc1a524",
+      "start": 54.528,
+      "end": 58.44,
+      "duration": 3.912,
+      "words": [
+        {
+          "word": "Perfect.",
+          "start": 54.528,
+          "end": 55.028,
+          "local_start": 0.0,
+          "local_end": 0.5
+        },
+        {
+          "word": "Let's",
+          "start": 55.668,
+          "end": 55.948,
+          "local_start": 1.14,
+          "local_end": 1.42
+        },
+        {
+          "word": "go",
+          "start": 55.948,
+          "end": 56.048,
+          "local_start": 1.42,
+          "local_end": 1.52
+        },
+        {
+          "word": "with",
+          "start": 56.048,
+          "end": 56.208,
+          "local_start": 1.52,
+          "local_end": 1.68
+        },
+        {
+          "word": "the",
+          "start": 56.208,
+          "end": 56.308,
+          "local_start": 1.68,
+          "local_end": 1.78
+        },
+        {
+          "word": "fifty-dollar",
+          "start": 56.308,
+          "end": 56.788,
+          "local_start": 1.78,
+          "local_end": 2.26
+        },
+        {
+          "word": "plan",
+          "start": 56.788,
+          "end": 57.148,
+          "local_start": 2.26,
+          "local_end": 2.62
+        },
+        {
+          "word": "and",
+          "start": 57.148,
+          "end": 57.488,
+          "local_start": 2.62,
+          "local_end": 2.96
+        },
+        {
+          "word": "transfer",
+          "start": 57.488,
+          "end": 57.808,
+          "local_start": 2.96,
+          "local_end": 3.28
+        },
+        {
+          "word": "my",
+          "start": 57.808,
+          "end": 58.008,
+          "local_start": 3.28,
+          "local_end": 3.48
+        },
+        {
+          "word": "number.",
+          "start": 58.008,
+          "end": 58.148,
+          "local_start": 3.48,
+          "local_end": 3.62
+        }
+      ]
+    }
+  ]
+}

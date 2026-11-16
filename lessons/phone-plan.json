@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-16",
+  "slug": "phone-plan",
+  "title": "Getting a Phone Plan",
+  "title_zh": "在手机店办理套餐",
+  "context": "Emma 刚搬到这座城市，走进一家手机店，想用自己已解锁的手机办理月付套餐。店员 Jake 向她介绍流量、热点、是否需要合约，以及能否把原来的号码转过来。",
+  "voices": {
+    "Emma": "marin",
+    "Jake": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Jake",
+      "en": "Hi, welcome in. How can I help you today?",
+      "zh": "你好，欢迎光临。今天有什么可以帮你的？"
+    },
+    {
+      "speaker": "Emma",
+      "en": "Hi. I just moved here, and I need a phone plan for my own phone.",
+      "zh": "你好。我刚搬到这里，想给我自己的手机办一个套餐。"
+    },
+    {
+      "speaker": "Jake",
+      "en": "No problem. Is your phone unlocked? If it is, we can set you up with an eSIM today.",
+      "zh": "没问题。你的手机是解锁的吗？如果是的话，我们今天就可以帮你开通 eSIM。"
+    },
+    {
+      "speaker": "Emma",
+      "en": "Yes, it's unlocked. I'm looking for a monthly plan with enough data for maps and video calls.",
+      "zh": "是的，已经解锁了。我想办一个月付套餐，流量要够用地图和视频通话。"
+    },
+    {
+      "speaker": "Jake",
+      "en": "The most popular plan is fifty dollars a month. You get unlimited talk and text, plus thirty gigabytes of high-speed data.",
+      "zh": "最受欢迎的套餐是每月五十美元。包含不限量通话和短信，外加三十吉字节的高速流量。"
+    },
+    {
+      "speaker": "Emma",
+      "en": "What happens if I go over thirty gigabytes?",
+      "zh": "如果我用超了三十吉字节，会怎么样？"
+    },
+    {
+      "speaker": "Jake",
+      "en": "Your speed would slow down, but you wouldn't be charged extra. You can also add a hotspot for ten dollars more.",
+      "zh": "网速会变慢，但不会额外收费。你也可以再加十美元开通热点。"
+    },
+    {
+      "speaker": "Emma",
+      "en": "I'll skip the hotspot for now. Do I need to sign a contract?",
+      "zh": "热点我暂时先不加。我需要签合约吗？"
+    },
+    {
+      "speaker": "Jake",
+      "en": "No contract. You can cancel anytime, but I'd need a photo ID and a credit or debit card.",
+      "zh": "不用签合约，可以随时取消。不过我需要你的带照片证件，以及一张信用卡或借记卡。"
+    },
+    {
+      "speaker": "Emma",
+      "en": "I have both with me. Can I keep my current number?",
+      "zh": "这两样我都带了。我能保留现在的号码吗？"
+    },
+    {
+      "speaker": "Jake",
+      "en": "Yes, we can transfer it. It usually takes about twenty minutes to activate.",
+      "zh": "可以，我们能把号码转过来。一般二十分钟左右就能激活。"
+    },
+    {
+      "speaker": "Emma",
+      "en": "Perfect. Let's go with the fifty-dollar plan and transfer my number.",
+      "zh": "太好了。那就办这个五十美元的套餐，并把我的号码转过来吧。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "Unlocked phone",
+      "zh": "已解锁的手机。只有解锁后，才可以在别的运营商办理套餐或使用 eSIM。",
+      "example": "Is your phone unlocked? If it is, we can set you up with an eSIM today."
+    },
+    {
+      "en": "Unlimited talk and text",
+      "zh": "不限量通话和短信。套餐说明里常和数据流量分开写。",
+      "example": "You get unlimited talk and text, plus thirty gigabytes of high-speed data."
+    },
+    {
+      "en": "Go over",
+      "zh": "超出（额度）。这里指用超套餐里的高速流量。",
+      "example": "What happens if I go over thirty gigabytes?"
+    },
+    {
+      "en": "No contract",
+      "zh": "不用签长期合约，通常可以按月付、随时取消。",
+      "example": "No contract. You can cancel anytime, but I'd need a photo ID and a credit or debit card."
+    },
+    {
+      "en": "Transfer my number",
+      "zh": "把现有号码转到新套餐，也常说 keep my number。正式说法是 port my number。",
+      "example": "Let's go with the fifty-dollar plan and transfer my number."
+    }
+  ],
+  "pronunciation": "练习 gigabytes 的重音：它落在第一音节，读作 GIG-uh-bytes /ˈɡɪɡəbaɪts/。unlimited 的重音在第二音节，读作 un-LIM-i-tid /ʌnˈlɪmɪtɪd/。eSIM 读作 /ˈiːsɪm/。activate 的重音在第一音节，读作 AK-tuh-vayt /ˈæktɪveɪt/。",
+  "practice": [
+    {
+      "title": "Part 1 · Phones",
+      "prompt": "How often do you use your phone each day? What do you use it for?",
+      "answer": "I use my phone a lot, especially for maps, messages, and video calls with my family. I also listen to music on it when I commute. I try not to scroll too much at night, but during the day it's hard to put down."
+    },
+    {
+      "title": "Part 2 · Getting a phone plan",
+      "prompt": "Describe a time you bought a phone plan or a SIM card. Say why you needed it, what you asked about, and whether you were happy with the plan.",
+      "answer": "When I moved to a new city, I went to a phone store and asked for a monthly plan for my own unlocked phone. The assistant offered a fifty-dollar plan with unlimited talk and text and thirty gigabytes of data. I asked what would happen if I went over the data, and I skipped the hotspot. I transferred my old number and activated an eSIM that day, which was convenient. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Choosing a phone plan",
+      "prompt": "What do people usually consider when they choose a phone plan?",
+      "answer": "People usually think about the price, the amount of data, and whether they can keep their number. Many also care if there is a contract, and if the plan works with their own phone. Some people want a hotspot or cheaper roaming, while others just want a simple monthly plan they can cancel anytime."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "先听完整对话，再逐句跟读。最后练习在手机店咨询：手机是否已解锁、套餐多少钱、流量用超了怎么办、要不要签合约，以及能不能保留原来的号码。",
+      "answer": "用 3–4 句说明你会怎么选套餐：你要月付还是预付、需要多少流量，以及会不会把旧号码转过来。"
+    }
+  ]
+}
