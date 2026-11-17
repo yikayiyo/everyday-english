@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-17",
+  "slug": "getting-glasses",
+  "title": "Getting Glasses",
+  "title_zh": "在眼镜店配眼镜",
+  "context": "Maya 最近上课看不清黑板，带着上周的验光单走进一家眼镜店。店员 Chris 帮她挑选日常镜框、介绍防反光镀膜和制作时间，并说明价格和学生折扣。",
+  "voices": {
+    "Maya": "marin",
+    "Chris": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Chris",
+      "en": "Hi, welcome in. How can I help you today?",
+      "zh": "你好，欢迎光临。今天有什么可以帮你的？"
+    },
+    {
+      "speaker": "Maya",
+      "en": "Hi. I think I need a new pair of glasses. I've been having trouble seeing the board in class.",
+      "zh": "你好。我觉得我需要配一副新眼镜。最近上课看黑板有点吃力。"
+    },
+    {
+      "speaker": "Chris",
+      "en": "We can take care of that. Do you already have a recent eye exam and prescription?",
+      "zh": "我们能帮你处理。你最近做过验光，也有处方单了吗？"
+    },
+    {
+      "speaker": "Maya",
+      "en": "I had an exam last week. Here's my prescription.",
+      "zh": "我上周验过光了。这是我的处方单。"
+    },
+    {
+      "speaker": "Chris",
+      "en": "Great. Are you looking for glasses you can wear every day, or just for reading?",
+      "zh": "很好。你是想配一副日常戴的眼镜，还是只用来看书？"
+    },
+    {
+      "speaker": "Maya",
+      "en": "Everyday glasses, please. I'd like light frames that don't slip down.",
+      "zh": "日常戴的就好。我想要轻一点、又不容易往下滑的镜框。"
+    },
+    {
+      "speaker": "Chris",
+      "en": "Let's try these thin metal frames. You can look in the mirror, and I'll adjust the fit.",
+      "zh": "那试试这副细金属框吧。你可以照照镜子，我再帮你调一下松紧。"
+    },
+    {
+      "speaker": "Maya",
+      "en": "These feel comfortable. How long would the lenses take?",
+      "zh": "这副戴起来挺舒服的。镜片大概要多久能做好？"
+    },
+    {
+      "speaker": "Chris",
+      "en": "If you choose the anti-glare coating, they should be ready in about three days.",
+      "zh": "如果你选择防反光镀膜，大概三天就能做好。"
+    },
+    {
+      "speaker": "Maya",
+      "en": "That works. How much will the frames and lenses cost?",
+      "zh": "可以。镜框加镜片一共多少钱？"
+    },
+    {
+      "speaker": "Chris",
+      "en": "This pair would be one hundred twenty dollars, including the coating. We also have a student discount.",
+      "zh": "这一副是一百二十美元，已经包含镀膜。我们还有学生折扣。"
+    },
+    {
+      "speaker": "Maya",
+      "en": "Perfect. I'll take this pair, and I'll pick them up on Friday.",
+      "zh": "太好了。我就要这副，周五再来取。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "Prescription",
+      "zh": "验光处方单。配镜前通常要先做 eye exam，再凭 prescription 选镜框和镜片。",
+      "example": "Do you already have a recent eye exam and prescription?"
+    },
+    {
+      "en": "Everyday glasses",
+      "zh": "日常佩戴的眼镜，和只用来看书的 reading glasses 相对。",
+      "example": "Are you looking for glasses you can wear every day, or just for reading?"
+    },
+    {
+      "en": "Slip down",
+      "zh": "（镜框）往下滑。挑选镜框时常用来说明是否贴合、会不会松。",
+      "example": "I'd like light frames that don't slip down."
+    },
+    {
+      "en": "Anti-glare coating",
+      "zh": "防反光镀膜，能减少灯光和屏幕反光，让镜片更清晰。",
+      "example": "If you choose the anti-glare coating, they should be ready in about three days."
+    },
+    {
+      "en": "Student discount",
+      "zh": "学生折扣。结账时可以主动询问是否有这项优惠。",
+      "example": "This pair would be one hundred twenty dollars, including the coating. We also have a student discount."
+    }
+  ],
+  "pronunciation": "练习 prescription 的重音：它落在第二音节，读作 pruh-SKRIP-shun /prɪˈskrɪpʃn/。lenses 的第一个音节是短元音，读作 LEN-ziz /ˈlenzɪz/。coating 的重音在第一音节，读作 COAT-ing /ˈkoʊtɪŋ/。anti-glare 里的 glare 读作 /ɡler/。",
+  "practice": [
+    {
+      "title": "Part 1 · Glasses and eyesight",
+      "prompt": "Do you wear glasses? When do you usually wear them?",
+      "answer": "Yes, I wear glasses most days, especially in class and when I use a computer. I don't always wear them at home, but I need them to see things clearly at a distance. I've had the same pair for a while, so I should probably get my eyes checked again."
+    },
+    {
+      "title": "Part 2 · Getting a new pair of glasses",
+      "prompt": "Describe a time you got a new pair of glasses or had an eye exam. Say why you needed them, what you chose, and how you felt about the result.",
+      "answer": "I went to an optical store after I started having trouble seeing the board in class. I already had a prescription from an eye exam, so the assistant helped me try on light metal frames that wouldn't slip down. I chose an anti-glare coating, and the glasses were ready in three days. They felt comfortable, and the student discount made the price more reasonable. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Eyesight and daily life",
+      "prompt": "Why do many people wear glasses or contact lenses nowadays?",
+      "answer": "I think many people spend a lot of time on screens, which can make their eyes tired. Glasses also help with reading, driving, and studying. Some people prefer contact lenses for sports or for how they look, but glasses are often easier and cheaper to take care of."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "先听完整对话，再逐句跟读。最后练习在眼镜店咨询：有没有验光单、要日常眼镜还是阅读眼镜、镜框会不会下滑、镀膜要多久，以及价格和学生折扣。",
+      "answer": "用 4–6 句说明你为什么要配眼镜、想要什么样的镜框，并询问制作时间和费用。"
+    }
+  ]
+}

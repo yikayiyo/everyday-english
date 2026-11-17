@@ -1,0 +1,1246 @@
+{
+  "model": "whisper-1",
+  "lesson": "2026-11-17-getting-glasses",
+  "full_track": "full-dialogue.mp3",
+  "full_duration": 49.848,
+  "lines": [
+    {
+      "index": 1,
+      "file": "01.mp3",
+      "text": "Hi, welcome in. How can I help you today?",
+      "audio_sha256": "d06e279673e62d5f1c1d0db2f540ea283902a734b3a4b2e614e536e8e812009a",
+      "start": 0.0,
+      "end": 3.048,
+      "duration": 3.048,
+      "words": [
+        {
+          "word": "Hi,",
+          "start": 0.26,
+          "end": 0.5,
+          "local_start": 0.26,
+          "local_end": 0.5
+        },
+        {
+          "word": "welcome",
+          "start": 0.82,
+          "end": 0.94,
+          "local_start": 0.82,
+          "local_end": 0.94
+        },
+        {
+          "word": "in.",
+          "start": 0.94,
+          "end": 1.32,
+          "local_start": 0.94,
+          "local_end": 1.32
+        },
+        {
+          "word": "How",
+          "start": 1.82,
+          "end": 1.92,
+          "local_start": 1.82,
+          "local_end": 1.92
+        },
+        {
+          "word": "can",
+          "start": 1.92,
+          "end": 2.02,
+          "local_start": 1.92,
+          "local_end": 2.02
+        },
+        {
+          "word": "I",
+          "start": 2.02,
+          "end": 2.14,
+          "local_start": 2.02,
+          "local_end": 2.14
+        },
+        {
+          "word": "help",
+          "start": 2.14,
+          "end": 2.24,
+          "local_start": 2.14,
+          "local_end": 2.24
+        },
+        {
+          "word": "you",
+          "start": 2.24,
+          "end": 2.36,
+          "local_start": 2.24,
+          "local_end": 2.36
+        },
+        {
+          "word": "today?",
+          "start": 2.36,
+          "end": 2.54,
+          "local_start": 2.36,
+          "local_end": 2.54
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "file": "02.mp3",
+      "text": "Hi. I think I need a new pair of glasses. I've been having trouble seeing the board in class.",
+      "audio_sha256": "399c44ad9d2650bf38c7fb0902610ad3abcc762ab4fbd11a5bbb2623ec1835fa",
+      "start": 3.048,
+      "end": 8.76,
+      "duration": 5.712,
+      "words": [
+        {
+          "word": "Hi.",
+          "start": 3.048,
+          "end": 3.408,
+          "local_start": 0.0,
+          "local_end": 0.36
+        },
+        {
+          "word": "I",
+          "start": 3.408,
+          "end": 4.048,
+          "local_start": 0.36,
+          "local_end": 1.0
+        },
+        {
+          "word": "think",
+          "start": 4.048,
+          "end": 4.168,
+          "local_start": 1.0,
+          "local_end": 1.12
+        },
+        {
+          "word": "I",
+          "start": 4.168,
+          "end": 4.448,
+          "local_start": 1.12,
+          "local_end": 1.4
+        },
+        {
+          "word": "need",
+          "start": 4.448,
+          "end": 4.448,
+          "local_start": 1.4,
+          "local_end": 1.4
+        },
+        {
+          "word": "a",
+          "start": 4.448,
+          "end": 4.608,
+          "local_start": 1.4,
+          "local_end": 1.56
+        },
+        {
+          "word": "new",
+          "start": 4.608,
+          "end": 4.808,
+          "local_start": 1.56,
+          "local_end": 1.76
+        },
+        {
+          "word": "pair",
+          "start": 4.808,
+          "end": 4.908,
+          "local_start": 1.76,
+          "local_end": 1.86
+        },
+        {
+          "word": "of",
+          "start": 4.908,
+          "end": 5.548,
+          "local_start": 1.86,
+          "local_end": 2.5
+        },
+        {
+          "word": "glasses.",
+          "start": 5.548,
+          "end": 5.548,
+          "local_start": 2.5,
+          "local_end": 2.5
+        },
+        {
+          "word": "I've",
+          "start": 6.128,
+          "end": 6.308,
+          "local_start": 3.08,
+          "local_end": 3.26
+        },
+        {
+          "word": "been",
+          "start": 6.308,
+          "end": 6.428,
+          "local_start": 3.26,
+          "local_end": 3.38
+        },
+        {
+          "word": "having",
+          "start": 6.428,
+          "end": 6.568,
+          "local_start": 3.38,
+          "local_end": 3.52
+        },
+        {
+          "word": "trouble",
+          "start": 6.568,
+          "end": 6.948,
+          "local_start": 3.52,
+          "local_end": 3.9
+        },
+        {
+          "word": "seeing",
+          "start": 6.948,
+          "end": 7.168,
+          "local_start": 3.9,
+          "local_end": 4.12
+        },
+        {
+          "word": "the",
+          "start": 7.168,
+          "end": 7.528,
+          "local_start": 4.12,
+          "local_end": 4.48
+        },
+        {
+          "word": "board",
+          "start": 7.528,
+          "end": 7.608,
+          "local_start": 4.48,
+          "local_end": 4.56
+        },
+        {
+          "word": "in",
+          "start": 7.608,
+          "end": 7.868,
+          "local_start": 4.56,
+          "local_end": 4.82
+        },
+        {
+          "word": "class.",
+          "start": 7.868,
+          "end": 8.168,
+          "local_start": 4.82,
+          "local_end": 5.12
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "file": "03.mp3",
+      "text": "We can take care of that. Do you already have a recent eye exam and prescription?",
+      "audio_sha256": "08954d4ab4f84122fa2ebf3ce29d22144a133df904141c79fe5e1213bc2f72ea",
+      "start": 8.76,
+      "end": 13.272,
+      "duration": 4.512,
+      "words": [
+        {
+          "word": "We",
+          "start": 8.76,
+          "end": 9.3,
+          "local_start": 0.0,
+          "local_end": 0.54
+        },
+        {
+          "word": "can",
+          "start": 9.3,
+          "end": 9.44,
+          "local_start": 0.54,
+          "local_end": 0.68
+        },
+        {
+          "word": "take",
+          "start": 9.44,
+          "end": 9.58,
+          "local_start": 0.68,
+          "local_end": 0.82
+        },
+        {
+          "word": "care",
+          "start": 9.58,
+          "end": 9.72,
+          "local_start": 0.82,
+          "local_end": 0.96
+        },
+        {
+          "word": "of",
+          "start": 9.72,
+          "end": 9.9,
+          "local_start": 0.96,
+          "local_end": 1.14
+        },
+        {
+          "word": "that.",
+          "start": 9.9,
+          "end": 10.14,
+          "local_start": 1.14,
+          "local_end": 1.38
+        },
+        {
+          "word": "Do",
+          "start": 10.22,
+          "end": 10.7,
+          "local_start": 1.46,
+          "local_end": 1.94
+        },
+        {
+          "word": "you",
+          "start": 10.7,
+          "end": 10.84,
+          "local_start": 1.94,
+          "local_end": 2.08
+        },
+        {
+          "word": "already",
+          "start": 10.84,
+          "end": 11.14,
+          "local_start": 2.08,
+          "local_end": 2.38
+        },
+        {
+          "word": "have",
+          "start": 11.14,
+          "end": 11.28,
+          "local_start": 2.38,
+          "local_end": 2.52
+        },
+        {
+          "word": "a",
+          "start": 11.28,
+          "end": 11.4,
+          "local_start": 2.52,
+          "local_end": 2.64
+        },
+        {
+          "word": "recent",
+          "start": 11.4,
+          "end": 11.7,
+          "local_start": 2.64,
+          "local_end": 2.94
+        },
+        {
+          "word": "eye",
+          "start": 11.7,
+          "end": 12.04,
+          "local_start": 2.94,
+          "local_end": 3.28
+        },
+        {
+          "word": "exam",
+          "start": 12.04,
+          "end": 12.3,
+          "local_start": 3.28,
+          "local_end": 3.54
+        },
+        {
+          "word": "and",
+          "start": 12.3,
+          "end": 12.6,
+          "local_start": 3.54,
+          "local_end": 3.84
+        },
+        {
+          "word": "prescription?",
+          "start": 12.6,
+          "end": 12.86,
+          "local_start": 3.84,
+          "local_end": 4.1
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "file": "04.mp3",
+      "text": "I had an exam last week. Here's my prescription.",
+      "audio_sha256": "99e7e71451449a5361a39cf802357679746fca0148dc1b09e0077ccc8f8aaec1",
+      "start": 13.272,
+      "end": 16.128,
+      "duration": 2.856,
+      "words": [
+        {
+          "word": "I",
+          "start": 13.272,
+          "end": 13.492,
+          "local_start": 0.0,
+          "local_end": 0.22
+        },
+        {
+          "word": "had",
+          "start": 13.492,
+          "end": 13.692,
+          "local_start": 0.22,
+          "local_end": 0.42
+        },
+        {
+          "word": "an",
+          "start": 13.692,
+          "end": 13.872,
+          "local_start": 0.42,
+          "local_end": 0.6
+        },
+        {
+          "word": "exam",
+          "start": 13.872,
+          "end": 14.112,
+          "local_start": 0.6,
+          "local_end": 0.84
+        },
+        {
+          "word": "last",
+          "start": 14.112,
+          "end": 14.412,
+          "local_start": 0.84,
+          "local_end": 1.14
+        },
+        {
+          "word": "week.",
+          "start": 14.412,
+          "end": 14.692,
+          "local_start": 1.14,
+          "local_end": 1.42
+        },
+        {
+          "word": "Here's",
+          "start": 15.052,
+          "end": 15.272,
+          "local_start": 1.78,
+          "local_end": 2.0
+        },
+        {
+          "word": "my",
+          "start": 15.272,
+          "end": 15.432,
+          "local_start": 2.0,
+          "local_end": 2.16
+        },
+        {
+          "word": "prescription.",
+          "start": 15.432,
+          "end": 15.752,
+          "local_start": 2.16,
+          "local_end": 2.48
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "file": "05.mp3",
+      "text": "Great. Are you looking for glasses you can wear every day, or just for reading?",
+      "audio_sha256": "cf229a533cd5c4f6e3f898d26043d9603ba4f0ecde97c699bd397979f97b6098",
+      "start": 16.128,
+      "end": 20.04,
+      "duration": 3.912,
+      "words": [
+        {
+          "word": "Great.",
+          "start": 16.128,
+          "end": 16.508,
+          "local_start": 0.0,
+          "local_end": 0.38
+        },
+        {
+          "word": "Are",
+          "start": 16.848,
+          "end": 17.168,
+          "local_start": 0.72,
+          "local_end": 1.04
+        },
+        {
+          "word": "you",
+          "start": 17.168,
+          "end": 17.328,
+          "local_start": 1.04,
+          "local_end": 1.2
+        },
+        {
+          "word": "looking",
+          "start": 17.328,
+          "end": 17.428,
+          "local_start": 1.2,
+          "local_end": 1.3
+        },
+        {
+          "word": "for",
+          "start": 17.428,
+          "end": 17.948,
+          "local_start": 1.3,
+          "local_end": 1.82
+        },
+        {
+          "word": "glasses",
+          "start": 17.948,
+          "end": 17.948,
+          "local_start": 1.82,
+          "local_end": 1.82
+        },
+        {
+          "word": "you",
+          "start": 17.948,
+          "end": 18.088,
+          "local_start": 1.82,
+          "local_end": 1.96
+        },
+        {
+          "word": "can",
+          "start": 18.088,
+          "end": 18.248,
+          "local_start": 1.96,
+          "local_end": 2.12
+        },
+        {
+          "word": "wear",
+          "start": 18.248,
+          "end": 18.348,
+          "local_start": 2.12,
+          "local_end": 2.22
+        },
+        {
+          "word": "every",
+          "start": 18.348,
+          "end": 18.608,
+          "local_start": 2.22,
+          "local_end": 2.48
+        },
+        {
+          "word": "day,",
+          "start": 18.608,
+          "end": 18.888,
+          "local_start": 2.48,
+          "local_end": 2.76
+        },
+        {
+          "word": "or",
+          "start": 19.028,
+          "end": 19.188,
+          "local_start": 2.9,
+          "local_end": 3.06
+        },
+        {
+          "word": "just",
+          "start": 19.188,
+          "end": 19.388,
+          "local_start": 3.06,
+          "local_end": 3.26
+        },
+        {
+          "word": "for",
+          "start": 19.388,
+          "end": 19.588,
+          "local_start": 3.26,
+          "local_end": 3.46
+        },
+        {
+          "word": "reading?",
+          "start": 19.588,
+          "end": 19.708,
+          "local_start": 3.46,
+          "local_end": 3.58
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "file": "06.mp3",
+      "text": "Everyday glasses, please. I'd like light frames that don't slip down.",
+      "audio_sha256": "2b50b47f959e88624a15fbfbe84d830fb167ff6821ec55f78658af6efdb0f6c5",
+      "start": 20.04,
+      "end": 24.504,
+      "duration": 4.464,
+      "words": [
+        {
+          "word": "Everyday",
+          "start": 20.04,
+          "end": 20.56,
+          "local_start": 0.0,
+          "local_end": 0.52
+        },
+        {
+          "word": "glasses,",
+          "start": 20.56,
+          "end": 21.0,
+          "local_start": 0.52,
+          "local_end": 0.96
+        },
+        {
+          "word": "please.",
+          "start": 21.6,
+          "end": 21.6,
+          "local_start": 1.56,
+          "local_end": 1.56
+        },
+        {
+          "word": "I'd",
+          "start": 21.96,
+          "end": 22.14,
+          "local_start": 1.92,
+          "local_end": 2.1
+        },
+        {
+          "word": "like",
+          "start": 22.14,
+          "end": 22.32,
+          "local_start": 2.1,
+          "local_end": 2.28
+        },
+        {
+          "word": "light",
+          "start": 22.32,
+          "end": 22.72,
+          "local_start": 2.28,
+          "local_end": 2.68
+        },
+        {
+          "word": "frames",
+          "start": 22.72,
+          "end": 23.06,
+          "local_start": 2.68,
+          "local_end": 3.02
+        },
+        {
+          "word": "that",
+          "start": 23.06,
+          "end": 23.36,
+          "local_start": 3.02,
+          "local_end": 3.32
+        },
+        {
+          "word": "don't",
+          "start": 23.36,
+          "end": 23.68,
+          "local_start": 3.32,
+          "local_end": 3.64
+        },
+        {
+          "word": "slip",
+          "start": 23.68,
+          "end": 23.88,
+          "local_start": 3.64,
+          "local_end": 3.84
+        },
+        {
+          "word": "down.",
+          "start": 23.88,
+          "end": 24.2,
+          "local_start": 3.84,
+          "local_end": 4.16
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "file": "07.mp3",
+      "text": "Let's try these thin metal frames. You can look in the mirror, and I'll adjust the fit.",
+      "audio_sha256": "9e4f1568969c2af773d269062bc5f78350f5dcf3707977373f29dc077b071151",
+      "start": 24.504,
+      "end": 29.16,
+      "duration": 4.656,
+      "words": [
+        {
+          "word": "Let's",
+          "start": 24.504,
+          "end": 24.864,
+          "local_start": 0.0,
+          "local_end": 0.36
+        },
+        {
+          "word": "try",
+          "start": 24.864,
+          "end": 25.024,
+          "local_start": 0.36,
+          "local_end": 0.52
+        },
+        {
+          "word": "these",
+          "start": 25.024,
+          "end": 25.324,
+          "local_start": 0.52,
+          "local_end": 0.82
+        },
+        {
+          "word": "thin",
+          "start": 25.324,
+          "end": 25.604,
+          "local_start": 0.82,
+          "local_end": 1.1
+        },
+        {
+          "word": "metal",
+          "start": 25.604,
+          "end": 25.864,
+          "local_start": 1.1,
+          "local_end": 1.36
+        },
+        {
+          "word": "frames.",
+          "start": 25.864,
+          "end": 26.204,
+          "local_start": 1.36,
+          "local_end": 1.7
+        },
+        {
+          "word": "You",
+          "start": 26.824,
+          "end": 26.884,
+          "local_start": 2.32,
+          "local_end": 2.38
+        },
+        {
+          "word": "can",
+          "start": 26.884,
+          "end": 27.064,
+          "local_start": 2.38,
+          "local_end": 2.56
+        },
+        {
+          "word": "look",
+          "start": 27.064,
+          "end": 27.144,
+          "local_start": 2.56,
+          "local_end": 2.64
+        },
+        {
+          "word": "in",
+          "start": 27.144,
+          "end": 27.244,
+          "local_start": 2.64,
+          "local_end": 2.74
+        },
+        {
+          "word": "the",
+          "start": 27.244,
+          "end": 27.564,
+          "local_start": 2.74,
+          "local_end": 3.06
+        },
+        {
+          "word": "mirror,",
+          "start": 27.564,
+          "end": 27.564,
+          "local_start": 3.06,
+          "local_end": 3.06
+        },
+        {
+          "word": "and",
+          "start": 27.844,
+          "end": 28.024,
+          "local_start": 3.34,
+          "local_end": 3.52
+        },
+        {
+          "word": "I'll",
+          "start": 28.024,
+          "end": 28.264,
+          "local_start": 3.52,
+          "local_end": 3.76
+        },
+        {
+          "word": "adjust",
+          "start": 28.264,
+          "end": 28.524,
+          "local_start": 3.76,
+          "local_end": 4.02
+        },
+        {
+          "word": "the",
+          "start": 28.524,
+          "end": 28.684,
+          "local_start": 4.02,
+          "local_end": 4.18
+        },
+        {
+          "word": "fit.",
+          "start": 28.684,
+          "end": 28.864,
+          "local_start": 4.18,
+          "local_end": 4.36
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "file": "08.mp3",
+      "text": "These feel comfortable. How long would the lenses take?",
+      "audio_sha256": "fca58ef4d149f5ec90b5296ebd4b9a341f506bbf4c0b28abd63f31c3c4f190f8",
+      "start": 29.16,
+      "end": 32.16,
+      "duration": 3.0,
+      "words": [
+        {
+          "word": "These",
+          "start": 29.16,
+          "end": 29.46,
+          "local_start": 0.0,
+          "local_end": 0.3
+        },
+        {
+          "word": "feel",
+          "start": 29.46,
+          "end": 29.72,
+          "local_start": 0.3,
+          "local_end": 0.56
+        },
+        {
+          "word": "comfortable.",
+          "start": 29.72,
+          "end": 30.16,
+          "local_start": 0.56,
+          "local_end": 1.0
+        },
+        {
+          "word": "How",
+          "start": 30.78,
+          "end": 30.88,
+          "local_start": 1.62,
+          "local_end": 1.72
+        },
+        {
+          "word": "long",
+          "start": 30.88,
+          "end": 31.04,
+          "local_start": 1.72,
+          "local_end": 1.88
+        },
+        {
+          "word": "would",
+          "start": 31.04,
+          "end": 31.16,
+          "local_start": 1.88,
+          "local_end": 2.0
+        },
+        {
+          "word": "the",
+          "start": 31.16,
+          "end": 31.3,
+          "local_start": 2.0,
+          "local_end": 2.14
+        },
+        {
+          "word": "lenses",
+          "start": 31.3,
+          "end": 31.5,
+          "local_start": 2.14,
+          "local_end": 2.34
+        },
+        {
+          "word": "take?",
+          "start": 31.5,
+          "end": 31.84,
+          "local_start": 2.34,
+          "local_end": 2.68
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "file": "09.mp3",
+      "text": "If you choose the anti-glare coating, they should be ready in about three days.",
+      "audio_sha256": "fcdfe7bca9f591ee9bf4dfb6d094532a8ecc8a9161516c4a8955952a302d2c7f",
+      "start": 32.16,
+      "end": 36.312,
+      "duration": 4.152,
+      "words": [
+        {
+          "word": "If",
+          "start": 32.16,
+          "end": 32.38,
+          "local_start": 0.0,
+          "local_end": 0.22
+        },
+        {
+          "word": "you",
+          "start": 32.38,
+          "end": 32.56,
+          "local_start": 0.22,
+          "local_end": 0.4
+        },
+        {
+          "word": "choose",
+          "start": 32.56,
+          "end": 32.98,
+          "local_start": 0.4,
+          "local_end": 0.82
+        },
+        {
+          "word": "the",
+          "start": 32.98,
+          "end": 33.38,
+          "local_start": 0.82,
+          "local_end": 1.22
+        },
+        {
+          "word": "anti-glare",
+          "start": 33.38,
+          "end": 33.78,
+          "local_start": 1.22,
+          "local_end": 1.62
+        },
+        {
+          "word": "coating,",
+          "start": 33.78,
+          "end": 34.08,
+          "local_start": 1.62,
+          "local_end": 1.92
+        },
+        {
+          "word": "they",
+          "start": 34.66,
+          "end": 34.78,
+          "local_start": 2.5,
+          "local_end": 2.62
+        },
+        {
+          "word": "should",
+          "start": 34.78,
+          "end": 34.9,
+          "local_start": 2.62,
+          "local_end": 2.74
+        },
+        {
+          "word": "be",
+          "start": 34.9,
+          "end": 35.1,
+          "local_start": 2.74,
+          "local_end": 2.94
+        },
+        {
+          "word": "ready",
+          "start": 35.1,
+          "end": 35.22,
+          "local_start": 2.94,
+          "local_end": 3.06
+        },
+        {
+          "word": "in",
+          "start": 35.22,
+          "end": 35.36,
+          "local_start": 3.06,
+          "local_end": 3.2
+        },
+        {
+          "word": "about",
+          "start": 35.36,
+          "end": 35.6,
+          "local_start": 3.2,
+          "local_end": 3.44
+        },
+        {
+          "word": "three",
+          "start": 35.6,
+          "end": 35.86,
+          "local_start": 3.44,
+          "local_end": 3.7
+        },
+        {
+          "word": "days.",
+          "start": 35.86,
+          "end": 36.14,
+          "local_start": 3.7,
+          "local_end": 3.98
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "file": "10.mp3",
+      "text": "That works. How much will the frames and lenses cost?",
+      "audio_sha256": "8d700bc2d7b672b8cd40fe44d824c4933caf03c7e1543ae4976c21d65e783c86",
+      "start": 36.312,
+      "end": 40.128,
+      "duration": 3.816,
+      "words": [
+        {
+          "word": "That",
+          "start": 36.312,
+          "end": 36.592,
+          "local_start": 0.0,
+          "local_end": 0.28
+        },
+        {
+          "word": "works.",
+          "start": 36.592,
+          "end": 36.892,
+          "local_start": 0.28,
+          "local_end": 0.58
+        },
+        {
+          "word": "How",
+          "start": 37.752,
+          "end": 37.932,
+          "local_start": 1.44,
+          "local_end": 1.62
+        },
+        {
+          "word": "much",
+          "start": 37.932,
+          "end": 38.092,
+          "local_start": 1.62,
+          "local_end": 1.78
+        },
+        {
+          "word": "will",
+          "start": 38.092,
+          "end": 38.272,
+          "local_start": 1.78,
+          "local_end": 1.96
+        },
+        {
+          "word": "the",
+          "start": 38.272,
+          "end": 38.792,
+          "local_start": 1.96,
+          "local_end": 2.48
+        },
+        {
+          "word": "frames",
+          "start": 38.792,
+          "end": 38.812,
+          "local_start": 2.48,
+          "local_end": 2.5
+        },
+        {
+          "word": "and",
+          "start": 38.812,
+          "end": 39.192,
+          "local_start": 2.5,
+          "local_end": 2.88
+        },
+        {
+          "word": "lenses",
+          "start": 39.192,
+          "end": 39.372,
+          "local_start": 2.88,
+          "local_end": 3.06
+        },
+        {
+          "word": "cost?",
+          "start": 39.372,
+          "end": 39.852,
+          "local_start": 3.06,
+          "local_end": 3.54
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "file": "11.mp3",
+      "text": "This pair would be one hundred twenty dollars, including the coating. We also have a student discount.",
+      "audio_sha256": "767393e4432f43b71edd6b10b1823ed48acba9abdee74206c43f28cfce27fd42",
+      "start": 40.128,
+      "end": 46.296,
+      "duration": 6.168,
+      "words": [
+        {
+          "word": "This",
+          "start": 40.128,
+          "end": 40.468,
+          "local_start": 0.0,
+          "local_end": 0.34
+        },
+        {
+          "word": "pair",
+          "start": 40.468,
+          "end": 40.728,
+          "local_start": 0.34,
+          "local_end": 0.6
+        },
+        {
+          "word": "would",
+          "start": 40.728,
+          "end": 40.968,
+          "local_start": 0.6,
+          "local_end": 0.84
+        },
+        {
+          "word": "be",
+          "start": 40.968,
+          "end": 41.228,
+          "local_start": 0.84,
+          "local_end": 1.1
+        },
+        {
+          "word": "one",
+          "start": 41.228,
+          "end": 41.308,
+          "local_start": 1.1,
+          "local_end": 1.18
+        },
+        {
+          "word": "hundred",
+          "start": 41.308,
+          "end": 41.688,
+          "local_start": 1.18,
+          "local_end": 1.56
+        },
+        {
+          "word": "twenty",
+          "start": 41.688,
+          "end": 42.128,
+          "local_start": 1.56,
+          "local_end": 2.0
+        },
+        {
+          "word": "dollars,",
+          "start": 42.128,
+          "end": 42.568,
+          "local_start": 2.0,
+          "local_end": 2.44
+        },
+        {
+          "word": "including",
+          "start": 42.868,
+          "end": 43.168,
+          "local_start": 2.74,
+          "local_end": 3.04
+        },
+        {
+          "word": "the",
+          "start": 43.168,
+          "end": 43.428,
+          "local_start": 3.04,
+          "local_end": 3.3
+        },
+        {
+          "word": "coating.",
+          "start": 43.428,
+          "end": 43.628,
+          "local_start": 3.3,
+          "local_end": 3.5
+        },
+        {
+          "word": "We",
+          "start": 44.468,
+          "end": 44.568,
+          "local_start": 4.34,
+          "local_end": 4.44
+        },
+        {
+          "word": "also",
+          "start": 44.568,
+          "end": 44.808,
+          "local_start": 4.44,
+          "local_end": 4.68
+        },
+        {
+          "word": "have",
+          "start": 44.808,
+          "end": 45.128,
+          "local_start": 4.68,
+          "local_end": 5.0
+        },
+        {
+          "word": "a",
+          "start": 45.128,
+          "end": 45.428,
+          "local_start": 5.0,
+          "local_end": 5.3
+        },
+        {
+          "word": "student",
+          "start": 45.428,
+          "end": 45.628,
+          "local_start": 5.3,
+          "local_end": 5.5
+        },
+        {
+          "word": "discount.",
+          "start": 45.628,
+          "end": 45.908,
+          "local_start": 5.5,
+          "local_end": 5.78
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "file": "12.mp3",
+      "text": "Perfect. I'll take this pair, and I'll pick them up on Friday.",
+      "audio_sha256": "0973b5e2e0b28f78295f551a8c3ec879197de84c236f1a1a42997f9c2e163c79",
+      "start": 46.296,
+      "end": 49.848,
+      "duration": 3.552,
+      "words": [
+        {
+          "word": "Perfect.",
+          "start": 46.296,
+          "end": 46.836,
+          "local_start": 0.0,
+          "local_end": 0.54
+        },
+        {
+          "word": "I'll",
+          "start": 47.096,
+          "end": 47.456,
+          "local_start": 0.8,
+          "local_end": 1.16
+        },
+        {
+          "word": "take",
+          "start": 47.456,
+          "end": 47.596,
+          "local_start": 1.16,
+          "local_end": 1.3
+        },
+        {
+          "word": "this",
+          "start": 47.596,
+          "end": 47.796,
+          "local_start": 1.3,
+          "local_end": 1.5
+        },
+        {
+          "word": "pair,",
+          "start": 47.796,
+          "end": 48.076,
+          "local_start": 1.5,
+          "local_end": 1.78
+        },
+        {
+          "word": "and",
+          "start": 48.296,
+          "end": 48.416,
+          "local_start": 2.0,
+          "local_end": 2.12
+        },
+        {
+          "word": "I'll",
+          "start": 48.416,
+          "end": 48.516,
+          "local_start": 2.12,
+          "local_end": 2.22
+        },
+        {
+          "word": "pick",
+          "start": 48.516,
+          "end": 48.656,
+          "local_start": 2.22,
+          "local_end": 2.36
+        },
+        {
+          "word": "them",
+          "start": 48.656,
+          "end": 48.816,
+          "local_start": 2.36,
+          "local_end": 2.52
+        },
+        {
+          "word": "up",
+          "start": 48.816,
+          "end": 48.956,
+          "local_start": 2.52,
+          "local_end": 2.66
+        },
+        {
+          "word": "on",
+          "start": 48.956,
+          "end": 49.156,
+          "local_start": 2.66,
+          "local_end": 2.86
+        },
+        {
+          "word": "Friday.",
+          "start": 49.156,
+          "end": 49.336,
+          "local_start": 2.86,
+          "local_end": 3.04
+        }
+      ]
+    }
+  ]
+}
