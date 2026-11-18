@@ -1,0 +1,103 @@
+{
+  "model": "gpt-realtime-2.1-mini",
+  "instructions": "You are a text-to-speech engine for a scripted two-person dialogue. Speak in natural American English with clear pronunciation and conversational rhythm. Read the supplied text verbatim as the character's spoken line. Never answer a question, never add commentary, and never change or omit any words.",
+  "verification": "解码、请求关联及模型转写已检查；内容需逐句试听",
+  "lines": [
+    {
+      "index": 1,
+      "speaker": "Owen",
+      "voice": "cedar",
+      "text_sha256": "063b911cfc7f312f7b0d0d9466a90c7eb48202ad86657eac33f5ab2081d80714",
+      "audio_sha256": "513651fdb056c74a325b8c238d52a4ca2847dd6e2881060ee7e123eb23a0ff0a",
+      "file": "audio/01.mp3"
+    },
+    {
+      "index": 2,
+      "speaker": "Lena",
+      "voice": "marin",
+      "text_sha256": "78cba15a0fe96832e8ec2a696876d6931347caa9f2f3bdafe990a5357e262267",
+      "audio_sha256": "8e2bf5793d315332c7398027e710cafb34d937a7104f33d6b867e2942bfc7530",
+      "file": "audio/02.mp3"
+    },
+    {
+      "index": 3,
+      "speaker": "Owen",
+      "voice": "cedar",
+      "text_sha256": "21457fdb5b8de31f394a85d470cdcf6064b4930a8f4efe5b373f7732fd9cbd7f",
+      "audio_sha256": "7420759acff8cc14b3272b0aeebebe3d07c2d48e95c3994d028a5c64b8149c07",
+      "file": "audio/03.mp3"
+    },
+    {
+      "index": 4,
+      "speaker": "Lena",
+      "voice": "marin",
+      "text_sha256": "d897064e43c2b1fe4862f09989cbf6114d1f2c5a55083444a64f9d5dae712888",
+      "audio_sha256": "e836813091126486d1aa62fc318f1fe91314aa1ac5dc08ee8501bd7b285330bc",
+      "file": "audio/04.mp3"
+    },
+    {
+      "index": 5,
+      "speaker": "Owen",
+      "voice": "cedar",
+      "text_sha256": "3a866eeb93312399e82586828c9d75fc1af9fd27c3728039510aff1b195881ea",
+      "audio_sha256": "da41359b89342aa009c5541cb364e42b6ea540eeeb22faccdc2284783e092c91",
+      "file": "audio/05.mp3"
+    },
+    {
+      "index": 6,
+      "speaker": "Lena",
+      "voice": "marin",
+      "text_sha256": "e92aa8f78e433c88a9881546b5522fe9e20a3618358558e5e9cee3828b51c381",
+      "audio_sha256": "bc0cfaf35712be6da38448e5c0153ce9a611ed75ed960e1d840d1cc7f6501cbc",
+      "file": "audio/06.mp3"
+    },
+    {
+      "index": 7,
+      "speaker": "Owen",
+      "voice": "cedar",
+      "text_sha256": "7ecb10e8fb982b01ac8e57c847babb8c1c575971ceccdc2a36668a84ff05b536",
+      "audio_sha256": "b77236d1c8779440ba83a9d14b28cd427700fbff146fe5b9ffe5f3d68436e777",
+      "file": "audio/07.mp3"
+    },
+    {
+      "index": 8,
+      "speaker": "Lena",
+      "voice": "marin",
+      "text_sha256": "26d6fa76a84c3a79926614c4d984cea68ad5dd8c31b325ac78cb13b93191f6ef",
+      "audio_sha256": "5318f58ca9e73af35cae75117c8c2f892f5073f663580f4301299cddb76402ff",
+      "file": "audio/08.mp3"
+    },
+    {
+      "index": 9,
+      "speaker": "Owen",
+      "voice": "cedar",
+      "text_sha256": "23e425beda78d03e3b5f3a04c3b200829d664798e8579fadb9941ce477ad6e4d",
+      "audio_sha256": "b31c36ebfd3a84ff5781f5da70781a4f0361688fa07b101215a31db4a116e13b",
+      "file": "audio/09.mp3"
+    },
+    {
+      "index": 10,
+      "speaker": "Lena",
+      "voice": "marin",
+      "text_sha256": "8192085083cc5ef56d4ed9603ca3a60c0a1933f78d0b306e3540e7c2121862b9",
+      "audio_sha256": "dbc7bab7524fc6038bd3fe432fad69c0c6e6d8592b9b9e25001b6b79846b07d5",
+      "file": "audio/10.mp3"
+    },
+    {
+      "index": 11,
+      "speaker": "Owen",
+      "voice": "cedar",
+      "text_sha256": "ffb0177fcd07ee8ba6562895cd2e94a1380434f040624c7741ad96918d1ac936",
+      "audio_sha256": "0b38e9897625186c870a5f1f0edb606f01f8948d575ed012953fc3252b07d576",
+      "file": "audio/11.mp3"
+    },
+    {
+      "index": 12,
+      "speaker": "Lena",
+      "voice": "marin",
+      "text_sha256": "fb635ddbc161236a28db2f019d9e837494794c08103fb92ce5aba3bbd516e972",
+      "audio_sha256": "3a1558ca8b505ff10814685b0c26172422c6c451044b4df5c4160787b8f45ce1",
+      "file": "audio/12.mp3"
+    }
+  ]
+}

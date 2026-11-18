@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-18",
+  "slug": "renting-a-car",
+  "title": "Renting a Car",
+  "title_zh": "在租车行租车",
+  "context": "Lena 周末要开车去海边，走进一家租车行。店员 Owen 帮她确认取还车时间，介绍紧凑型轿车和不限里程，并说明保险、总价和信用卡押金。",
+  "voices": {
+    "Lena": "marin",
+    "Owen": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Owen",
+      "en": "Hi there. Are you looking to rent a car today?",
+      "zh": "你好。今天是来租车的吗？"
+    },
+    {
+      "speaker": "Lena",
+      "en": "Hi. Yes, I'd like to rent a car for the weekend. I'm driving to the coast.",
+      "zh": "你好。是的，我想租一辆车过周末。我要开车去海边。"
+    },
+    {
+      "speaker": "Owen",
+      "en": "Sure. When would you like to pick it up, and when will you bring it back?",
+      "zh": "没问题。你想什么时候取车，什么时候还回来？"
+    },
+    {
+      "speaker": "Lena",
+      "en": "I'd like to pick it up tomorrow morning and return it on Sunday evening.",
+      "zh": "我想明天早上取车，周日晚上还。"
+    },
+    {
+      "speaker": "Owen",
+      "en": "That works. Are you looking for a compact car, or would you rather have an SUV?",
+      "zh": "可以。你是想要一辆紧凑型轿车，还是更想要一辆 SUV？"
+    },
+    {
+      "speaker": "Lena",
+      "en": "A compact car is fine. I just need something easy to park.",
+      "zh": "紧凑型就行。我只需要一辆好停车的车。"
+    },
+    {
+      "speaker": "Owen",
+      "en": "We have a compact available. It comes with unlimited mileage, and you can add insurance for twelve dollars a day.",
+      "zh": "我们有一辆紧凑型可以租。它是不限里程的，你也可以每天加十二美元买保险。"
+    },
+    {
+      "speaker": "Lena",
+      "en": "What's included if I don't add the insurance?",
+      "zh": "如果我不加保险，费用里都包含什么？"
+    },
+    {
+      "speaker": "Owen",
+      "en": "The basic rate covers the car itself, but you'd be responsible for any damage. The extra insurance covers scratches and a cracked windshield.",
+      "zh": "基本租金只包含车子本身，但任何损坏都要你自己负责。额外保险可以覆盖刮痕和挡风玻璃破裂。"
+    },
+    {
+      "speaker": "Lena",
+      "en": "I'll add the insurance, then. How much is it altogether?",
+      "zh": "那我还是加上保险吧。一共多少钱？"
+    },
+    {
+      "speaker": "Owen",
+      "en": "For two days, including insurance, it would be ninety-six dollars. We'll also hold a two-hundred-dollar deposit on your card.",
+      "zh": "两天含保险一共九十六美元。我们还会在你的卡上预授权两百美元作为押金。"
+    },
+    {
+      "speaker": "Lena",
+      "en": "That's fine. I'll take the compact, and I'll pick it up at nine tomorrow.",
+      "zh": "可以。我就租这辆紧凑型，明天九点来取。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "Rent a car",
+      "zh": "租车。出行时向租车行短期租用汽车，常说 rent a car 或 rent a car for the weekend。",
+      "example": "I'd like to rent a car for the weekend."
+    },
+    {
+      "en": "Compact car",
+      "zh": "紧凑型轿车，车身较小、比较好停车，常和更大的 SUV 相对。",
+      "example": "Are you looking for a compact car, or would you rather have an SUV?"
+    },
+    {
+      "en": "Unlimited mileage",
+      "zh": "不限里程。租期内开多少公里通常都不再另计里程费。",
+      "example": "It comes with unlimited mileage, and you can add insurance for twelve dollars a day."
+    },
+    {
+      "en": "Be responsible for any damage",
+      "zh": "损坏自负。如果没有额外保险，车子刮花或撞坏可能要自己承担修理费用。",
+      "example": "The basic rate covers the car itself, but you'd be responsible for any damage."
+    },
+    {
+      "en": "Hold a deposit",
+      "zh": "在信用卡上预授权一笔押金。还车检查无误后，这笔冻结通常会解除。",
+      "example": "We'll also hold a two-hundred-dollar deposit on your card."
+    }
+  ],
+  "pronunciation": "练习 compact 的重音：作形容词时落在第二音节，但车型名称常读作 COM-pact /ˈkɑːmpækt/。mileage 的重音在第一音节，读作 MILE-ij /ˈmaɪlɪdʒ/。insurance 的重音在第二音节，读作 in-SHUR-ance /ɪnˈʃʊrəns/。deposit 的重音也在第二音节，读作 di-POZ-it /dɪˈpɑːzɪt/。windshield 读作 WIND-shield /ˈwɪndʃiːld/。",
+  "practice": [
+    {
+      "title": "Part 1 · Cars and travel",
+      "prompt": "Do you often travel by car? When would you rent a car?",
+      "answer": "I don't drive every day, but I like traveling by car on weekends or when I go to another city. I'd rent a car if I were going to the coast, or if public transportation was inconvenient. A small car is usually enough for me, as long as it's easy to park and not too expensive."
+    },
+    {
+      "title": "Part 2 · Renting a car",
+      "prompt": "Describe a time you rented a car or traveled by car. Say why you needed the car, what kind of car you chose, and how the trip went.",
+      "answer": "I rented a compact car for a weekend trip to the coast. I picked it up on Saturday morning and brought it back on Sunday evening. The agent offered unlimited mileage and extra insurance, so I added the insurance in case of scratches. The car was easy to park, and the deposit on my card was returned after I took it back. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Car rental and travel",
+      "prompt": "What are the advantages and disadvantages of renting a car when you travel?",
+      "answer": "Renting a car gives you more freedom, especially if you want to visit places that are hard to reach by bus or train. It can also save time when you are traveling with friends or family. On the other hand, it can be expensive because of insurance and the deposit, and parking in a city is sometimes difficult. Some people also feel nervous driving in an unfamiliar place."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "先听完整对话，再逐句跟读。最后练习在租车行咨询：取还车时间、要紧凑型还是 SUV、是否不限里程、保险包含什么，以及总价和信用卡押金。",
+      "answer": "用 4–6 句说明你为什么要租车、想要什么样的车，并询问保险、总价和取车时间。"
+    }
+  ]
+}
