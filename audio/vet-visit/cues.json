@@ -1,0 +1,1421 @@
+{
+  "model": "whisper-1",
+  "lesson": "2026-11-19-vet-visit",
+  "full_track": "full-dialogue.mp3",
+  "full_duration": 63.264,
+  "lines": [
+    {
+      "index": 1,
+      "file": "01.mp3",
+      "text": "Hi there. You must be here for Mango's appointment?",
+      "audio_sha256": "81be19151b261c2a83ee5a16d59e93062d68dbd413729d3354e17255383501c1",
+      "start": 0.0,
+      "end": 2.76,
+      "duration": 2.76,
+      "words": [
+        {
+          "word": "Hi",
+          "start": 0.0,
+          "end": 0.22,
+          "local_start": 0.0,
+          "local_end": 0.22
+        },
+        {
+          "word": "there.",
+          "start": 0.22,
+          "end": 0.76,
+          "local_start": 0.22,
+          "local_end": 0.76
+        },
+        {
+          "word": "You",
+          "start": 0.82,
+          "end": 1.22,
+          "local_start": 0.82,
+          "local_end": 1.22
+        },
+        {
+          "word": "must",
+          "start": 1.22,
+          "end": 1.32,
+          "local_start": 1.22,
+          "local_end": 1.32
+        },
+        {
+          "word": "be",
+          "start": 1.32,
+          "end": 1.48,
+          "local_start": 1.32,
+          "local_end": 1.48
+        },
+        {
+          "word": "here",
+          "start": 1.48,
+          "end": 1.6,
+          "local_start": 1.48,
+          "local_end": 1.6
+        },
+        {
+          "word": "for",
+          "start": 1.6,
+          "end": 1.72,
+          "local_start": 1.6,
+          "local_end": 1.72
+        },
+        {
+          "word": "Mango's",
+          "start": 1.72,
+          "end": 2.14,
+          "local_start": 1.72,
+          "local_end": 2.14
+        },
+        {
+          "word": "appointment?",
+          "start": 2.14,
+          "end": 2.4,
+          "local_start": 2.14,
+          "local_end": 2.4
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "file": "02.mp3",
+      "text": "Hi. Yes, I am. He's been throwing up since last night, and he isn't eating much.",
+      "audio_sha256": "9adc9e3d847956ad3094b3cace2cf87d001ae1da39c3b3e8aa4745dcf1cb6eec",
+      "start": 2.76,
+      "end": 8.616,
+      "duration": 5.856,
+      "words": [
+        {
+          "word": "Hi.",
+          "start": 2.76,
+          "end": 3.24,
+          "local_start": 0.0,
+          "local_end": 0.48
+        },
+        {
+          "word": "Yes,",
+          "start": 3.62,
+          "end": 4.0,
+          "local_start": 0.86,
+          "local_end": 1.24
+        },
+        {
+          "word": "I",
+          "start": 4.04,
+          "end": 4.26,
+          "local_start": 1.28,
+          "local_end": 1.5
+        },
+        {
+          "word": "am.",
+          "start": 4.26,
+          "end": 4.54,
+          "local_start": 1.5,
+          "local_end": 1.78
+        },
+        {
+          "word": "He's",
+          "start": 5.0,
+          "end": 5.3,
+          "local_start": 2.24,
+          "local_end": 2.54
+        },
+        {
+          "word": "been",
+          "start": 5.3,
+          "end": 5.44,
+          "local_start": 2.54,
+          "local_end": 2.68
+        },
+        {
+          "word": "throwing",
+          "start": 5.44,
+          "end": 5.74,
+          "local_start": 2.68,
+          "local_end": 2.98
+        },
+        {
+          "word": "up",
+          "start": 5.74,
+          "end": 6.04,
+          "local_start": 2.98,
+          "local_end": 3.28
+        },
+        {
+          "word": "since",
+          "start": 6.04,
+          "end": 6.26,
+          "local_start": 3.28,
+          "local_end": 3.5
+        },
+        {
+          "word": "last",
+          "start": 6.26,
+          "end": 6.58,
+          "local_start": 3.5,
+          "local_end": 3.82
+        },
+        {
+          "word": "night,",
+          "start": 6.58,
+          "end": 6.8,
+          "local_start": 3.82,
+          "local_end": 4.04
+        },
+        {
+          "word": "and",
+          "start": 6.94,
+          "end": 7.14,
+          "local_start": 4.18,
+          "local_end": 4.38
+        },
+        {
+          "word": "he",
+          "start": 7.14,
+          "end": 7.34,
+          "local_start": 4.38,
+          "local_end": 4.58
+        },
+        {
+          "word": "isn't",
+          "start": 7.34,
+          "end": 7.52,
+          "local_start": 4.58,
+          "local_end": 4.76
+        },
+        {
+          "word": "eating",
+          "start": 7.52,
+          "end": 7.72,
+          "local_start": 4.76,
+          "local_end": 4.96
+        },
+        {
+          "word": "much.",
+          "start": 7.72,
+          "end": 8.04,
+          "local_start": 4.96,
+          "local_end": 5.28
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "file": "03.mp3",
+      "text": "I'm sorry to hear that. How many times has he thrown up, and is he still drinking water?",
+      "audio_sha256": "6a69e723cb47894363317d0bd0fa92afab1e028451dd864aacdad171c126fa51",
+      "start": 8.616,
+      "end": 14.424,
+      "duration": 5.808,
+      "words": [
+        {
+          "word": "I'm",
+          "start": 8.616,
+          "end": 9.176,
+          "local_start": 0.0,
+          "local_end": 0.56
+        },
+        {
+          "word": "sorry",
+          "start": 9.176,
+          "end": 9.496,
+          "local_start": 0.56,
+          "local_end": 0.88
+        },
+        {
+          "word": "to",
+          "start": 9.496,
+          "end": 9.716,
+          "local_start": 0.88,
+          "local_end": 1.1
+        },
+        {
+          "word": "hear",
+          "start": 9.716,
+          "end": 9.856,
+          "local_start": 1.1,
+          "local_end": 1.24
+        },
+        {
+          "word": "that.",
+          "start": 9.856,
+          "end": 10.216,
+          "local_start": 1.24,
+          "local_end": 1.6
+        },
+        {
+          "word": "How",
+          "start": 10.796,
+          "end": 10.876,
+          "local_start": 2.18,
+          "local_end": 2.26
+        },
+        {
+          "word": "many",
+          "start": 10.876,
+          "end": 11.076,
+          "local_start": 2.26,
+          "local_end": 2.46
+        },
+        {
+          "word": "times",
+          "start": 11.076,
+          "end": 11.416,
+          "local_start": 2.46,
+          "local_end": 2.8
+        },
+        {
+          "word": "has",
+          "start": 11.416,
+          "end": 11.556,
+          "local_start": 2.8,
+          "local_end": 2.94
+        },
+        {
+          "word": "he",
+          "start": 11.556,
+          "end": 11.656,
+          "local_start": 2.94,
+          "local_end": 3.04
+        },
+        {
+          "word": "thrown",
+          "start": 11.656,
+          "end": 11.896,
+          "local_start": 3.04,
+          "local_end": 3.28
+        },
+        {
+          "word": "up,",
+          "start": 11.896,
+          "end": 12.256,
+          "local_start": 3.28,
+          "local_end": 3.64
+        },
+        {
+          "word": "and",
+          "start": 12.256,
+          "end": 13.036,
+          "local_start": 3.64,
+          "local_end": 4.42
+        },
+        {
+          "word": "is",
+          "start": 13.036,
+          "end": 13.156,
+          "local_start": 4.42,
+          "local_end": 4.54
+        },
+        {
+          "word": "he",
+          "start": 13.156,
+          "end": 13.336,
+          "local_start": 4.54,
+          "local_end": 4.72
+        },
+        {
+          "word": "still",
+          "start": 13.336,
+          "end": 13.496,
+          "local_start": 4.72,
+          "local_end": 4.88
+        },
+        {
+          "word": "drinking",
+          "start": 13.496,
+          "end": 13.696,
+          "local_start": 4.88,
+          "local_end": 5.08
+        },
+        {
+          "word": "water?",
+          "start": 13.696,
+          "end": 13.996,
+          "local_start": 5.08,
+          "local_end": 5.38
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "file": "04.mp3",
+      "text": "He's thrown up three times. He's still drinking a little water, but he walked away from his breakfast.",
+      "audio_sha256": "24cc8ace5e680b0d5b74f43c94cf370cc72d05dcd19fbc0bd07f438f62a5eda4",
+      "start": 14.424,
+      "end": 20.736,
+      "duration": 6.312,
+      "words": [
+        {
+          "word": "He's",
+          "start": 14.424,
+          "end": 14.804,
+          "local_start": 0.0,
+          "local_end": 0.38
+        },
+        {
+          "word": "thrown",
+          "start": 14.804,
+          "end": 15.044,
+          "local_start": 0.38,
+          "local_end": 0.62
+        },
+        {
+          "word": "up",
+          "start": 15.044,
+          "end": 15.324,
+          "local_start": 0.62,
+          "local_end": 0.9
+        },
+        {
+          "word": "three",
+          "start": 15.324,
+          "end": 15.704,
+          "local_start": 0.9,
+          "local_end": 1.28
+        },
+        {
+          "word": "times.",
+          "start": 15.704,
+          "end": 16.184,
+          "local_start": 1.28,
+          "local_end": 1.76
+        },
+        {
+          "word": "He's",
+          "start": 16.704,
+          "end": 16.904,
+          "local_start": 2.28,
+          "local_end": 2.48
+        },
+        {
+          "word": "still",
+          "start": 16.904,
+          "end": 17.104,
+          "local_start": 2.48,
+          "local_end": 2.68
+        },
+        {
+          "word": "drinking",
+          "start": 17.104,
+          "end": 17.344,
+          "local_start": 2.68,
+          "local_end": 2.92
+        },
+        {
+          "word": "a",
+          "start": 17.344,
+          "end": 17.604,
+          "local_start": 2.92,
+          "local_end": 3.18
+        },
+        {
+          "word": "little",
+          "start": 17.604,
+          "end": 17.764,
+          "local_start": 3.18,
+          "local_end": 3.34
+        },
+        {
+          "word": "water,",
+          "start": 17.764,
+          "end": 18.144,
+          "local_start": 3.34,
+          "local_end": 3.72
+        },
+        {
+          "word": "but",
+          "start": 18.624,
+          "end": 18.744,
+          "local_start": 4.2,
+          "local_end": 4.32
+        },
+        {
+          "word": "he",
+          "start": 18.744,
+          "end": 19.004,
+          "local_start": 4.32,
+          "local_end": 4.58
+        },
+        {
+          "word": "walked",
+          "start": 19.004,
+          "end": 19.164,
+          "local_start": 4.58,
+          "local_end": 4.74
+        },
+        {
+          "word": "away",
+          "start": 19.164,
+          "end": 19.464,
+          "local_start": 4.74,
+          "local_end": 5.04
+        },
+        {
+          "word": "from",
+          "start": 19.464,
+          "end": 19.624,
+          "local_start": 5.04,
+          "local_end": 5.2
+        },
+        {
+          "word": "his",
+          "start": 19.624,
+          "end": 19.844,
+          "local_start": 5.2,
+          "local_end": 5.42
+        },
+        {
+          "word": "breakfast.",
+          "start": 19.844,
+          "end": 20.064,
+          "local_start": 5.42,
+          "local_end": 5.64
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "file": "05.mp3",
+      "text": "Okay. Has he gotten into anything unusual, like plants or people food?",
+      "audio_sha256": "36946a0425a5bf19b17a4ee0d3135e3cfffd76999874c095555b914aa7b69e69",
+      "start": 20.736,
+      "end": 25.848,
+      "duration": 5.112,
+      "words": [
+        {
+          "word": "Okay.",
+          "start": 20.736,
+          "end": 20.736,
+          "local_start": 0.0,
+          "local_end": 0.0
+        },
+        {
+          "word": "Has",
+          "start": 20.736,
+          "end": 21.216,
+          "local_start": 0.0,
+          "local_end": 0.48
+        },
+        {
+          "word": "he",
+          "start": 21.216,
+          "end": 22.116,
+          "local_start": 0.48,
+          "local_end": 1.38
+        },
+        {
+          "word": "gotten",
+          "start": 22.116,
+          "end": 22.336,
+          "local_start": 1.38,
+          "local_end": 1.6
+        },
+        {
+          "word": "into",
+          "start": 22.336,
+          "end": 22.596,
+          "local_start": 1.6,
+          "local_end": 1.86
+        },
+        {
+          "word": "anything",
+          "start": 22.596,
+          "end": 22.916,
+          "local_start": 1.86,
+          "local_end": 2.18
+        },
+        {
+          "word": "unusual,",
+          "start": 22.916,
+          "end": 23.516,
+          "local_start": 2.18,
+          "local_end": 2.78
+        },
+        {
+          "word": "like",
+          "start": 23.896,
+          "end": 24.036,
+          "local_start": 3.16,
+          "local_end": 3.3
+        },
+        {
+          "word": "plants",
+          "start": 24.036,
+          "end": 24.576,
+          "local_start": 3.3,
+          "local_end": 3.84
+        },
+        {
+          "word": "or",
+          "start": 24.576,
+          "end": 24.856,
+          "local_start": 3.84,
+          "local_end": 4.12
+        },
+        {
+          "word": "people",
+          "start": 24.856,
+          "end": 25.196,
+          "local_start": 4.12,
+          "local_end": 4.46
+        },
+        {
+          "word": "food?",
+          "start": 25.196,
+          "end": 25.456,
+          "local_start": 4.46,
+          "local_end": 4.72
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "file": "06.mp3",
+      "text": "He stole some leftover fried chicken off the counter yesterday afternoon.",
+      "audio_sha256": "27225807097e50cbac8b55246ce054b724f179a2965b89ffef773d0c636834c1",
+      "start": 25.848,
+      "end": 29.712,
+      "duration": 3.864,
+      "words": [
+        {
+          "word": "He",
+          "start": 25.848,
+          "end": 26.048,
+          "local_start": 0.0,
+          "local_end": 0.2
+        },
+        {
+          "word": "stole",
+          "start": 26.048,
+          "end": 26.388,
+          "local_start": 0.2,
+          "local_end": 0.54
+        },
+        {
+          "word": "some",
+          "start": 26.388,
+          "end": 26.688,
+          "local_start": 0.54,
+          "local_end": 0.84
+        },
+        {
+          "word": "leftover",
+          "start": 26.688,
+          "end": 27.208,
+          "local_start": 0.84,
+          "local_end": 1.36
+        },
+        {
+          "word": "fried",
+          "start": 27.208,
+          "end": 27.548,
+          "local_start": 1.36,
+          "local_end": 1.7
+        },
+        {
+          "word": "chicken",
+          "start": 27.548,
+          "end": 27.888,
+          "local_start": 1.7,
+          "local_end": 2.04
+        },
+        {
+          "word": "off",
+          "start": 27.888,
+          "end": 28.088,
+          "local_start": 2.04,
+          "local_end": 2.24
+        },
+        {
+          "word": "the",
+          "start": 28.088,
+          "end": 28.208,
+          "local_start": 2.24,
+          "local_end": 2.36
+        },
+        {
+          "word": "counter",
+          "start": 28.208,
+          "end": 28.548,
+          "local_start": 2.36,
+          "local_end": 2.7
+        },
+        {
+          "word": "yesterday",
+          "start": 28.548,
+          "end": 28.968,
+          "local_start": 2.7,
+          "local_end": 3.12
+        },
+        {
+          "word": "afternoon.",
+          "start": 28.968,
+          "end": 29.448,
+          "local_start": 3.12,
+          "local_end": 3.6
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "file": "07.mp3",
+      "text": "That could explain it. I'll examine him and feel his stomach. If it isn't tender, we'll start with a bland diet.",
+      "audio_sha256": "40e52a1f8dda1bc344cc5fbcb67e84927a24c0704e29e85976729d1394f1a7a0",
+      "start": 29.712,
+      "end": 36.912,
+      "duration": 7.2,
+      "words": [
+        {
+          "word": "That",
+          "start": 29.712,
+          "end": 30.072,
+          "local_start": 0.0,
+          "local_end": 0.36
+        },
+        {
+          "word": "could",
+          "start": 30.072,
+          "end": 30.232,
+          "local_start": 0.36,
+          "local_end": 0.52
+        },
+        {
+          "word": "explain",
+          "start": 30.232,
+          "end": 30.592,
+          "local_start": 0.52,
+          "local_end": 0.88
+        },
+        {
+          "word": "it.",
+          "start": 30.592,
+          "end": 30.992,
+          "local_start": 0.88,
+          "local_end": 1.28
+        },
+        {
+          "word": "I'll",
+          "start": 31.532,
+          "end": 31.732,
+          "local_start": 1.82,
+          "local_end": 2.02
+        },
+        {
+          "word": "examine",
+          "start": 31.732,
+          "end": 32.052,
+          "local_start": 2.02,
+          "local_end": 2.34
+        },
+        {
+          "word": "him",
+          "start": 32.052,
+          "end": 32.232,
+          "local_start": 2.34,
+          "local_end": 2.52
+        },
+        {
+          "word": "and",
+          "start": 32.232,
+          "end": 32.432,
+          "local_start": 2.52,
+          "local_end": 2.72
+        },
+        {
+          "word": "feel",
+          "start": 32.432,
+          "end": 32.612,
+          "local_start": 2.72,
+          "local_end": 2.9
+        },
+        {
+          "word": "his",
+          "start": 32.612,
+          "end": 33.112,
+          "local_start": 2.9,
+          "local_end": 3.4
+        },
+        {
+          "word": "stomach.",
+          "start": 33.112,
+          "end": 33.112,
+          "local_start": 3.4,
+          "local_end": 3.4
+        },
+        {
+          "word": "If",
+          "start": 33.792,
+          "end": 34.032,
+          "local_start": 4.08,
+          "local_end": 4.32
+        },
+        {
+          "word": "it",
+          "start": 34.032,
+          "end": 34.192,
+          "local_start": 4.32,
+          "local_end": 4.48
+        },
+        {
+          "word": "isn't",
+          "start": 34.192,
+          "end": 34.372,
+          "local_start": 4.48,
+          "local_end": 4.66
+        },
+        {
+          "word": "tender,",
+          "start": 34.372,
+          "end": 34.612,
+          "local_start": 4.66,
+          "local_end": 4.9
+        },
+        {
+          "word": "we'll",
+          "start": 35.152,
+          "end": 35.312,
+          "local_start": 5.44,
+          "local_end": 5.6
+        },
+        {
+          "word": "start",
+          "start": 35.312,
+          "end": 35.492,
+          "local_start": 5.6,
+          "local_end": 5.78
+        },
+        {
+          "word": "with",
+          "start": 35.492,
+          "end": 35.652,
+          "local_start": 5.78,
+          "local_end": 5.94
+        },
+        {
+          "word": "a",
+          "start": 35.652,
+          "end": 35.852,
+          "local_start": 5.94,
+          "local_end": 6.14
+        },
+        {
+          "word": "bland",
+          "start": 35.852,
+          "end": 36.212,
+          "local_start": 6.14,
+          "local_end": 6.5
+        },
+        {
+          "word": "diet.",
+          "start": 36.212,
+          "end": 36.572,
+          "local_start": 6.5,
+          "local_end": 6.86
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "file": "08.mp3",
+      "text": "What should I feed him at home?",
+      "audio_sha256": "09308ce94fa8de2a84cd7b7d262e955beffd5163f6f6b43627cc4ca630e78811",
+      "start": 36.912,
+      "end": 38.928,
+      "duration": 2.016,
+      "words": [
+        {
+          "word": "What",
+          "start": 36.912,
+          "end": 37.292,
+          "local_start": 0.0,
+          "local_end": 0.38
+        },
+        {
+          "word": "should",
+          "start": 37.292,
+          "end": 37.572,
+          "local_start": 0.38,
+          "local_end": 0.66
+        },
+        {
+          "word": "I",
+          "start": 37.572,
+          "end": 37.852,
+          "local_start": 0.66,
+          "local_end": 0.94
+        },
+        {
+          "word": "feed",
+          "start": 37.852,
+          "end": 38.012,
+          "local_start": 0.94,
+          "local_end": 1.1
+        },
+        {
+          "word": "him",
+          "start": 38.012,
+          "end": 38.232,
+          "local_start": 1.1,
+          "local_end": 1.32
+        },
+        {
+          "word": "at",
+          "start": 38.232,
+          "end": 38.412,
+          "local_start": 1.32,
+          "local_end": 1.5
+        },
+        {
+          "word": "home?",
+          "start": 38.412,
+          "end": 38.632,
+          "local_start": 1.5,
+          "local_end": 1.72
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "file": "09.mp3",
+      "text": "Boiled chicken and plain rice, in small portions, for the next twenty-four hours. If he throws up again, please bring him back.",
+      "audio_sha256": "d617f77db1899f2737b1ae7b04a0ce4f6f8f52dd8046d860ce5842eb0fd8874e",
+      "start": 38.928,
+      "end": 47.184,
+      "duration": 8.256,
+      "words": [
+        {
+          "word": "Boiled",
+          "start": 38.928,
+          "end": 39.308,
+          "local_start": 0.0,
+          "local_end": 0.38
+        },
+        {
+          "word": "chicken",
+          "start": 39.308,
+          "end": 39.728,
+          "local_start": 0.38,
+          "local_end": 0.8
+        },
+        {
+          "word": "and",
+          "start": 39.728,
+          "end": 39.988,
+          "local_start": 0.8,
+          "local_end": 1.06
+        },
+        {
+          "word": "plain",
+          "start": 39.988,
+          "end": 40.328,
+          "local_start": 1.06,
+          "local_end": 1.4
+        },
+        {
+          "word": "rice,",
+          "start": 40.328,
+          "end": 40.588,
+          "local_start": 1.4,
+          "local_end": 1.66
+        },
+        {
+          "word": "in",
+          "start": 40.848,
+          "end": 41.048,
+          "local_start": 1.92,
+          "local_end": 2.12
+        },
+        {
+          "word": "small",
+          "start": 41.048,
+          "end": 41.308,
+          "local_start": 2.12,
+          "local_end": 2.38
+        },
+        {
+          "word": "portions,",
+          "start": 41.308,
+          "end": 41.728,
+          "local_start": 2.38,
+          "local_end": 2.8
+        },
+        {
+          "word": "for",
+          "start": 42.168,
+          "end": 42.208,
+          "local_start": 3.24,
+          "local_end": 3.28
+        },
+        {
+          "word": "the",
+          "start": 42.208,
+          "end": 42.348,
+          "local_start": 3.28,
+          "local_end": 3.42
+        },
+        {
+          "word": "next",
+          "start": 42.348,
+          "end": 42.668,
+          "local_start": 3.42,
+          "local_end": 3.74
+        },
+        {
+          "word": "twenty-four",
+          "start": 42.668,
+          "end": 43.528,
+          "local_start": 3.74,
+          "local_end": 4.6
+        },
+        {
+          "word": "hours.",
+          "start": 43.528,
+          "end": 43.968,
+          "local_start": 4.6,
+          "local_end": 5.04
+        },
+        {
+          "word": "If",
+          "start": 44.648,
+          "end": 44.708,
+          "local_start": 5.72,
+          "local_end": 5.78
+        },
+        {
+          "word": "he",
+          "start": 44.708,
+          "end": 44.888,
+          "local_start": 5.78,
+          "local_end": 5.96
+        },
+        {
+          "word": "throws",
+          "start": 44.888,
+          "end": 45.068,
+          "local_start": 5.96,
+          "local_end": 6.14
+        },
+        {
+          "word": "up",
+          "start": 45.068,
+          "end": 45.308,
+          "local_start": 6.14,
+          "local_end": 6.38
+        },
+        {
+          "word": "again,",
+          "start": 45.308,
+          "end": 45.708,
+          "local_start": 6.38,
+          "local_end": 6.78
+        },
+        {
+          "word": "please",
+          "start": 46.148,
+          "end": 46.308,
+          "local_start": 7.22,
+          "local_end": 7.38
+        },
+        {
+          "word": "bring",
+          "start": 46.308,
+          "end": 46.448,
+          "local_start": 7.38,
+          "local_end": 7.52
+        },
+        {
+          "word": "him",
+          "start": 46.448,
+          "end": 46.608,
+          "local_start": 7.52,
+          "local_end": 7.68
+        },
+        {
+          "word": "back.",
+          "start": 46.608,
+          "end": 46.788,
+          "local_start": 7.68,
+          "local_end": 7.86
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "file": "10.mp3",
+      "text": "Should I give him any medicine today?",
+      "audio_sha256": "cb1640a930f6c3b8b2322c570310a496ee5f52a52b976dbbe217fd3202ee873a",
+      "start": 47.184,
+      "end": 49.44,
+      "duration": 2.256,
+      "words": [
+        {
+          "word": "Should",
+          "start": 47.184,
+          "end": 47.464,
+          "local_start": 0.0,
+          "local_end": 0.28
+        },
+        {
+          "word": "I",
+          "start": 47.464,
+          "end": 47.684,
+          "local_start": 0.28,
+          "local_end": 0.5
+        },
+        {
+          "word": "give",
+          "start": 47.684,
+          "end": 47.944,
+          "local_start": 0.5,
+          "local_end": 0.76
+        },
+        {
+          "word": "him",
+          "start": 47.944,
+          "end": 48.184,
+          "local_start": 0.76,
+          "local_end": 1.0
+        },
+        {
+          "word": "any",
+          "start": 48.184,
+          "end": 48.464,
+          "local_start": 1.0,
+          "local_end": 1.28
+        },
+        {
+          "word": "medicine",
+          "start": 48.464,
+          "end": 48.844,
+          "local_start": 1.28,
+          "local_end": 1.66
+        },
+        {
+          "word": "today?",
+          "start": 48.844,
+          "end": 49.164,
+          "local_start": 1.66,
+          "local_end": 1.98
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "file": "11.mp3",
+      "text": "I'll send you home with an anti-nausea medication. Give him one tablet every twelve hours, and the visit today is sixty-five dollars.",
+      "audio_sha256": "7fba9199cc8b59ba8408a5aae4af12b80c08af949165c60a7bb1a97219aa01a7",
+      "start": 49.44,
+      "end": 58.2,
+      "duration": 8.76,
+      "words": [
+        {
+          "word": "I'll",
+          "start": 49.44,
+          "end": 50.24,
+          "local_start": 0.0,
+          "local_end": 0.8
+        },
+        {
+          "word": "send",
+          "start": 50.24,
+          "end": 50.24,
+          "local_start": 0.8,
+          "local_end": 0.8
+        },
+        {
+          "word": "you",
+          "start": 50.24,
+          "end": 50.52,
+          "local_start": 0.8,
+          "local_end": 1.08
+        },
+        {
+          "word": "home",
+          "start": 50.52,
+          "end": 50.78,
+          "local_start": 1.08,
+          "local_end": 1.34
+        },
+        {
+          "word": "with",
+          "start": 50.78,
+          "end": 51.02,
+          "local_start": 1.34,
+          "local_end": 1.58
+        },
+        {
+          "word": "an",
+          "start": 51.02,
+          "end": 51.18,
+          "local_start": 1.58,
+          "local_end": 1.74
+        },
+        {
+          "word": "anti-nausea",
+          "start": 51.18,
+          "end": 51.84,
+          "local_start": 1.74,
+          "local_end": 2.4
+        },
+        {
+          "word": "medication.",
+          "start": 51.84,
+          "end": 52.28,
+          "local_start": 2.4,
+          "local_end": 2.84
+        },
+        {
+          "word": "Give",
+          "start": 53.04,
+          "end": 53.04,
+          "local_start": 3.6,
+          "local_end": 3.6
+        },
+        {
+          "word": "him",
+          "start": 53.04,
+          "end": 53.24,
+          "local_start": 3.6,
+          "local_end": 3.8
+        },
+        {
+          "word": "one",
+          "start": 53.24,
+          "end": 53.62,
+          "local_start": 3.8,
+          "local_end": 4.18
+        },
+        {
+          "word": "tablet",
+          "start": 53.62,
+          "end": 53.94,
+          "local_start": 4.18,
+          "local_end": 4.5
+        },
+        {
+          "word": "every",
+          "start": 53.94,
+          "end": 54.4,
+          "local_start": 4.5,
+          "local_end": 4.96
+        },
+        {
+          "word": "twelve",
+          "start": 54.4,
+          "end": 54.7,
+          "local_start": 4.96,
+          "local_end": 5.26
+        },
+        {
+          "word": "hours,",
+          "start": 54.7,
+          "end": 55.02,
+          "local_start": 5.26,
+          "local_end": 5.58
+        },
+        {
+          "word": "and",
+          "start": 55.5,
+          "end": 55.82,
+          "local_start": 6.06,
+          "local_end": 6.38
+        },
+        {
+          "word": "the",
+          "start": 55.82,
+          "end": 56.16,
+          "local_start": 6.38,
+          "local_end": 6.72
+        },
+        {
+          "word": "visit",
+          "start": 56.16,
+          "end": 56.3,
+          "local_start": 6.72,
+          "local_end": 6.86
+        },
+        {
+          "word": "today",
+          "start": 56.3,
+          "end": 56.68,
+          "local_start": 6.86,
+          "local_end": 7.24
+        },
+        {
+          "word": "is",
+          "start": 56.68,
+          "end": 57.04,
+          "local_start": 7.24,
+          "local_end": 7.6
+        },
+        {
+          "word": "sixty-five",
+          "start": 57.04,
+          "end": 57.6,
+          "local_start": 7.6,
+          "local_end": 8.16
+        },
+        {
+          "word": "dollars.",
+          "start": 57.6,
+          "end": 57.88,
+          "local_start": 8.16,
+          "local_end": 8.44
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "file": "12.mp3",
+      "text": "That sounds good. I'll pick up the medicine at the front desk and keep a close eye on him tonight.",
+      "audio_sha256": "23329c4bd9610f0c6e7e19a8b369a398dcb16f9ea468e96cde92747a84fd4be3",
+      "start": 58.2,
+      "end": 63.264,
+      "duration": 5.064,
+      "words": [
+        {
+          "word": "That",
+          "start": 58.2,
+          "end": 58.4,
+          "local_start": 0.0,
+          "local_end": 0.2
+        },
+        {
+          "word": "sounds",
+          "start": 58.4,
+          "end": 58.62,
+          "local_start": 0.2,
+          "local_end": 0.42
+        },
+        {
+          "word": "good.",
+          "start": 58.62,
+          "end": 58.94,
+          "local_start": 0.42,
+          "local_end": 0.74
+        },
+        {
+          "word": "I'll",
+          "start": 59.4,
+          "end": 59.6,
+          "local_start": 1.2,
+          "local_end": 1.4
+        },
+        {
+          "word": "pick",
+          "start": 59.6,
+          "end": 59.72,
+          "local_start": 1.4,
+          "local_end": 1.52
+        },
+        {
+          "word": "up",
+          "start": 59.72,
+          "end": 59.84,
+          "local_start": 1.52,
+          "local_end": 1.64
+        },
+        {
+          "word": "the",
+          "start": 59.84,
+          "end": 59.98,
+          "local_start": 1.64,
+          "local_end": 1.78
+        },
+        {
+          "word": "medicine",
+          "start": 59.98,
+          "end": 60.3,
+          "local_start": 1.78,
+          "local_end": 2.1
+        },
+        {
+          "word": "at",
+          "start": 60.3,
+          "end": 60.52,
+          "local_start": 2.1,
+          "local_end": 2.32
+        },
+        {
+          "word": "the",
+          "start": 60.52,
+          "end": 60.7,
+          "local_start": 2.32,
+          "local_end": 2.5
+        },
+        {
+          "word": "front",
+          "start": 60.7,
+          "end": 60.9,
+          "local_start": 2.5,
+          "local_end": 2.7
+        },
+        {
+          "word": "desk",
+          "start": 60.9,
+          "end": 61.22,
+          "local_start": 2.7,
+          "local_end": 3.02
+        },
+        {
+          "word": "and",
+          "start": 61.22,
+          "end": 61.48,
+          "local_start": 3.02,
+          "local_end": 3.28
+        },
+        {
+          "word": "keep",
+          "start": 61.48,
+          "end": 61.64,
+          "local_start": 3.28,
+          "local_end": 3.44
+        },
+        {
+          "word": "a",
+          "start": 61.64,
+          "end": 61.86,
+          "local_start": 3.44,
+          "local_end": 3.66
+        },
+        {
+          "word": "close",
+          "start": 61.86,
+          "end": 62.18,
+          "local_start": 3.66,
+          "local_end": 3.98
+        },
+        {
+          "word": "eye",
+          "start": 62.18,
+          "end": 62.4,
+          "local_start": 3.98,
+          "local_end": 4.2
+        },
+        {
+          "word": "on",
+          "start": 62.4,
+          "end": 62.56,
+          "local_start": 4.2,
+          "local_end": 4.36
+        },
+        {
+          "word": "him",
+          "start": 62.56,
+          "end": 62.68,
+          "local_start": 4.36,
+          "local_end": 4.48
+        },
+        {
+          "word": "tonight.",
+          "start": 62.68,
+          "end": 62.9,
+          "local_start": 4.48,
+          "local_end": 4.7
+        }
+      ]
+    }
+  ]
+}

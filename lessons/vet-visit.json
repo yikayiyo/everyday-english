@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-19",
+  "slug": "vet-visit",
+  "title": "Taking a Pet to the Vet",
+  "title_zh": "带宠物去看兽医",
+  "context": "Clara 的猫 Mango 从昨晚开始呕吐，也不太吃东西。她带着它来到宠物诊所，兽医 Noah 询问症状和误食情况，检查后建议先吃清淡食物，并开了止吐药。",
+  "voices": {
+    "Noah": "cedar",
+    "Clara": "marin"
+  },
+  "dialogue": [
+    {
+      "speaker": "Noah",
+      "en": "Hi there. You must be here for Mango's appointment?",
+      "zh": "你好。你是来给 Mango 看预约的吧？"
+    },
+    {
+      "speaker": "Clara",
+      "en": "Hi. Yes, I am. He's been throwing up since last night, and he isn't eating much.",
+      "zh": "你好。是的。他从昨晚开始呕吐，而且不太吃东西。"
+    },
+    {
+      "speaker": "Noah",
+      "en": "I'm sorry to hear that. How many times has he thrown up, and is he still drinking water?",
+      "zh": "听到这个我很难过。他吐了几次，现在还喝水吗？"
+    },
+    {
+      "speaker": "Clara",
+      "en": "He's thrown up three times. He's still drinking a little water, but he walked away from his breakfast.",
+      "zh": "他吐了三次。还喝一点点水，但早饭他看了一眼就走开了。"
+    },
+    {
+      "speaker": "Noah",
+      "en": "Okay. Has he gotten into anything unusual, like plants or people food?",
+      "zh": "好的。他有没有乱吃什么不该吃的，比如植物或者人吃的东西？"
+    },
+    {
+      "speaker": "Clara",
+      "en": "He stole some leftover fried chicken off the counter yesterday afternoon.",
+      "zh": "昨天下午他从台面上偷吃了一些剩的炸鸡。"
+    },
+    {
+      "speaker": "Noah",
+      "en": "That could explain it. I'll examine him and feel his stomach. If it isn't tender, we'll start with a bland diet.",
+      "zh": "那很可能就是原因。我会给他做检查，摸摸他的肚子。如果肚子不压痛，我们就先从清淡饮食开始。"
+    },
+    {
+      "speaker": "Clara",
+      "en": "What should I feed him at home?",
+      "zh": "那我在家该喂他吃什么？"
+    },
+    {
+      "speaker": "Noah",
+      "en": "Boiled chicken and plain rice, in small portions, for the next twenty-four hours. If he throws up again, please bring him back.",
+      "zh": "接下来二十四小时，喂少量煮鸡胸和白米饭。如果他再吐，请马上带回来。"
+    },
+    {
+      "speaker": "Clara",
+      "en": "Should I give him any medicine today?",
+      "zh": "今天需要给他吃药吗？"
+    },
+    {
+      "speaker": "Noah",
+      "en": "I'll send you home with an anti-nausea medication. Give him one tablet every twelve hours, and the visit today is sixty-five dollars.",
+      "zh": "我会让你带一种止吐药回家。每十二小时给他一片，今天的就诊费用是六十五美元。"
+    },
+    {
+      "speaker": "Clara",
+      "en": "That sounds good. I'll pick up the medicine at the front desk and keep a close eye on him tonight.",
+      "zh": "听起来不错。我去前台取药，今晚会密切留意他的情况。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "Throw up",
+      "zh": "呕吐。口语里很常用，也可以说 vomit，但日常对话里 throw up 更自然。",
+      "example": "He's been throwing up since last night, and he isn't eating much."
+    },
+    {
+      "en": "Get into something",
+      "zh": "（宠物）乱翻或误吃不该碰的东西，比如植物、垃圾袋或人吃的食物。",
+      "example": "Has he gotten into anything unusual, like plants or people food?"
+    },
+    {
+      "en": "Bland diet",
+      "zh": "清淡饮食。肠胃不舒服时，常用煮鸡胸加白米饭这类少油少调味的食物。",
+      "example": "If it isn't tender, we'll start with a bland diet."
+    },
+    {
+      "en": "In small portions",
+      "zh": "少量多次。肠胃不适时不要一次喂太多，而是分成小份慢慢喂。",
+      "example": "Boiled chicken and plain rice, in small portions, for the next twenty-four hours."
+    },
+    {
+      "en": "Keep a close eye on",
+      "zh": "密切留意。回家后要观察宠物是否再吐、是否喝水、精神好不好。",
+      "example": "I'll pick up the medicine at the front desk and keep a close eye on him tonight."
+    }
+  ],
+  "pronunciation": "练习 nausea 的重音在第一音节，读作 NAW-zee-uh /ˈnɔːziə/。medication 的重音在第三音节，读作 med-i-CAY-shun /ˌmedɪˈkeɪʃn/。examine 的重音在第二音节，读作 ig-ZAM-in /ɪɡˈzæmɪn/。tender 在这里表示“压痛”，重音在第一音节，读作 TEN-der /ˈtendər/。portion 读作 POR-shun /ˈpɔːrʃn/。",
+  "practice": [
+    {
+      "title": "Part 1 · Pets",
+      "prompt": "Do you have a pet? What do you do when your pet is sick?",
+      "answer": "Yes, I have a cat. I usually watch him at home first, especially if he isn't eating much. If he throws up more than once or seems very tired, I take him to the vet. I also try to remember what he ate, because that can help the vet find the problem."
+    },
+    {
+      "title": "Part 2 · A time you took a pet to the vet",
+      "prompt": "Describe a time you took a pet to the vet, or a time you helped an animal. Say why you went, what the vet told you, and how it ended.",
+      "answer": "I took my cat to the vet because he had been throwing up and wouldn't eat his breakfast. The vet asked whether he had gotten into any people food, and I said he had eaten leftover fried chicken. After checking his stomach, the vet suggested a bland diet and gave me anti-nausea medication. I picked it up at the front desk and kept a close eye on him that night. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Pets and animal care",
+      "prompt": "Why do people take pets to the vet, and what makes a good pet owner?",
+      "answer": "People take pets to the vet for checkups, vaccines, and when an animal suddenly gets sick. A good pet owner pays attention to small changes, like not eating or throwing up, and gets help early instead of waiting too long. It also means following the vet's advice, such as giving medicine on time and keeping a close eye on the pet at home."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "先听完整对话，再逐句跟读。最后练习在宠物诊所说明情况：宠物怎么了、吐了几次、还喝不喝水、有没有误吃人的食物，以及回家后该怎么喂、要不要吃药。",
+      "answer": "用 4–6 句说明你的宠物哪里不舒服，并询问检查、清淡饮食、药品和复诊。"
+    }
+  ]
+}
