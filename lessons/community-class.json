@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-22",
+  "slug": "community-class",
+  "title": "Trying a Pottery Class",
+  "title_zh": "体验社区陶艺课",
+  "context": "Ava 向社区中心工作人员 Noah 询问初学者手捏陶器课，并决定报名。 本课属于 2026-11-22 预制系列，内容和练习题均为原创，并非真实考试题。",
+  "voices": {
+    "Ava": "marin",
+    "Noah": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Ava",
+      "en": "I'm interested in the pottery class. Is it suitable for a beginner?",
+      "zh": "我对陶艺课感兴趣。初学者适合参加吗？"
+    },
+    {
+      "speaker": "Noah",
+      "en": "Yes, the Saturday class starts with simple hand-built bowls.",
+      "zh": "适合。周六的课从简单的手捏碗开始。"
+    },
+    {
+      "speaker": "Ava",
+      "en": "I've never worked with clay. Do I need to bring anything?",
+      "zh": "我从来没玩过陶土。我需要带什么吗？"
+    },
+    {
+      "speaker": "Noah",
+      "en": "The teacher provides the clay and tools. You might want an old shirt.",
+      "zh": "老师会提供陶土和工具。你也许想带件旧衬衫。"
+    },
+    {
+      "speaker": "Ava",
+      "en": "That sounds manageable. How long does the class last?",
+      "zh": "听起来我能应付。课程多长时间？"
+    },
+    {
+      "speaker": "Noah",
+      "en": "This session runs for two hours, starting at ten.",
+      "zh": "这次课从十点开始，持续两小时。"
+    },
+    {
+      "speaker": "Ava",
+      "en": "Will we take the bowls home that day?",
+      "zh": "我们当天就能把碗带回家吗？"
+    },
+    {
+      "speaker": "Noah",
+      "en": "They need to dry and be fired first. The teacher will explain when to pick them up.",
+      "zh": "需要先晾干并烧制。老师会说明什么时候可以来取。"
+    },
+    {
+      "speaker": "Ava",
+      "en": "I see. Is there still room in this Saturday's class?",
+      "zh": "明白了。这周六的课还有名额吗？"
+    },
+    {
+      "speaker": "Noah",
+      "en": "There is one spot left. I can put your name on the list.",
+      "zh": "还剩一个名额。我可以把你的名字记在名单上。"
+    },
+    {
+      "speaker": "Ava",
+      "en": "Please do. I'm Ava Chen, and I'm excited to try it.",
+      "zh": "麻烦你了。我叫 Ava Chen，很期待试试。"
+    },
+    {
+      "speaker": "Noah",
+      "en": "You're on the list, Ava. We'll see you Saturday morning.",
+      "zh": "已经登记好了，Ava。周六早上见。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "suitable for",
+      "zh": "适合某人或某种用途。",
+      "example": "This trail is suitable for beginners."
+    },
+    {
+      "en": "work with",
+      "zh": "使用某种材料或与之打交道。",
+      "example": "She likes to work with paper and fabric."
+    },
+    {
+      "en": "last",
+      "zh": "持续一段时间。",
+      "example": "The meeting will last about an hour."
+    },
+    {
+      "en": "pick up",
+      "zh": "取走已准备好的东西。",
+      "example": "I'll pick up my repaired coat on Friday."
+    },
+    {
+      "en": "room in",
+      "zh": "某活动或空间里有空位。",
+      "example": "Is there room in the afternoon group?"
+    }
+  ],
+  "pronunciation": "pottery 重读第一个音节 POT；clay 以 /kl/ 开头，两个辅音紧接着发。",
+  "practice": [
+    {
+      "title": "Part 1 · Classes",
+      "prompt": "Would you like to take a class in your neighborhood?",
+      "answer": "Yes. I'd like to try pottery because I enjoy making things with my hands. It would also be a chance to meet people nearby."
+    },
+    {
+      "title": "Part 2 · A skill you would like to learn",
+      "prompt": "Describe a practical skill you would like to learn. Say what it is, where you could learn it, and why it interests you.",
+      "answer": "I would like to learn to make simple pottery. A community center near me offers a class where beginners make bowls by hand. I would enjoy working with clay and seeing a useful object take shape. I know the bowls need time to dry and be fired, so I would have to wait before taking one home. I think the slow process would help me relax after work. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Community learning",
+      "prompt": "How can local classes benefit a neighborhood?",
+      "answer": "They give people a convenient place to learn and meet others. Offering different times and beginner classes can make it easier for more residents to join."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "跟读报名对话，再询问陶艺课是否适合初学者、是否提供材料。",
+      "answer": "Is the pottery class suitable for beginners? Do I need to bring any tools? I'd like to put my name on the list."
+    }
+  ]
+}

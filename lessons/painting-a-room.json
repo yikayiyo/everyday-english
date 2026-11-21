@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-22",
+  "slug": "painting-a-room",
+  "title": "Choosing a Wall Color",
+  "title_zh": "挑选房间墙面颜色",
+  "context": "Elena 和室友 Max 在粉刷前试墙面颜色，约定先观察样色再买漆。 本课属于 2026-11-22 预制系列，练习题为原创练习，并非真实考试题。",
+  "voices": {
+    "Elena": "marin",
+    "Max": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Elena",
+      "en": "The living room feels a little dark. Should we paint the walls?",
+      "zh": "客厅感觉有点暗。我们要不要粉刷墙面？"
+    },
+    {
+      "speaker": "Max",
+      "en": "I would like that. Have you thought about a color?",
+      "zh": "我愿意。你想过用什么颜色吗？"
+    },
+    {
+      "speaker": "Elena",
+      "en": "I like this pale green, but it may look different on the wall.",
+      "zh": "我喜欢这种浅绿色，不过它在墙上可能看起来不一样。"
+    },
+    {
+      "speaker": "Max",
+      "en": "Then let us try a small sample before we buy a whole can.",
+      "zh": "那我们先试一小份样漆，再买一整罐。"
+    },
+    {
+      "speaker": "Elena",
+      "en": "Good idea. We can paint a patch near the window.",
+      "zh": "好主意。我们可以在窗户附近刷一小块。"
+    },
+    {
+      "speaker": "Max",
+      "en": "And another near the door, where there is less light.",
+      "zh": "门边也刷一块，那里光线较暗。"
+    },
+    {
+      "speaker": "Elena",
+      "en": "Can we look at both patches in the morning and evening?",
+      "zh": "我们能在早上和晚上分别看看这两块吗？"
+    },
+    {
+      "speaker": "Max",
+      "en": "Yes. The color might change with the light.",
+      "zh": "可以。颜色可能会随光线变化。"
+    },
+    {
+      "speaker": "Elena",
+      "en": "If we like it, we can move the furniture away from the walls.",
+      "zh": "如果我们喜欢，就可以把家具从墙边移开。"
+    },
+    {
+      "speaker": "Max",
+      "en": "I can help cover the floor before we start painting.",
+      "zh": "开刷前我可以帮忙把地板盖好。"
+    },
+    {
+      "speaker": "Elena",
+      "en": "Great. For now, I will pick up the sample tomorrow.",
+      "zh": "太好了。现在先这样，我明天去买样漆。"
+    },
+    {
+      "speaker": "Max",
+      "en": "Sounds like a plan. We will choose after we see it dry.",
+      "zh": "就这么定。等它干了我们再决定。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "pale green",
+      "zh": "浅绿色；pale 表示颜色浅淡。",
+      "example": "She chose pale green curtains."
+    },
+    {
+      "en": "a whole can",
+      "zh": "一整罐。",
+      "example": "We did not need a whole can of paint."
+    },
+    {
+      "en": "a small sample",
+      "zh": "一小份样品。",
+      "example": "Could I see a small sample of the fabric?"
+    },
+    {
+      "en": "move away from",
+      "zh": "从……移开。",
+      "example": "Please move the chair away from the door."
+    },
+    {
+      "en": "see it dry",
+      "zh": "看它干后的样子。",
+      "example": "Let us see it dry before deciding."
+    }
+  ],
+  "pronunciation": "paint 的元音与 day 相同，末尾的 /t/ 要轻触收住；sample 重音在第一音节 SAM。",
+  "practice": [
+    {
+      "title": "Part 1 · Rooms",
+      "prompt": "What color would you choose for your room?",
+      "answer": "I would choose a light green. It feels calm to me and looks pleasant with the wooden furniture I already have."
+    },
+    {
+      "title": "Part 2 · Changing a room",
+      "prompt": "Describe a change you made or would like to make to a room. Say what you changed, how you chose it, and why.",
+      "answer": "I would like to paint my living room a lighter color. At the moment, the walls are gray and the room feels a little dark. I would try a small patch of pale green near the window and another near the door. After seeing them in different light, I would choose a color with my roommate. We would cover the floor and move the furniture before starting. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Shared homes",
+      "prompt": "Why should people discuss changes to a shared room?",
+      "answer": "They may have different tastes and budgets, and both will use the space. Discussing samples and costs early can help them reach an agreement."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "跟读讨论样色的句子，再和室友商量一种墙面颜色。",
+      "answer": "I like this light blue, but let us try a sample first. We can look at it in the morning and decide together."
+    }
+  ]
+}

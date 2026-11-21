@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-22",
+  "slug": "shared-kitchen",
+  "title": "Making Space in a Shared Kitchen",
+  "title_zh": "共用厨房的空间安排",
+  "context": "室友 Erin 和 Josh 商量如何整理共用冰箱和台面，方便两人使用。 本课属于 2026-11-22 预制系列，题目是原创口语练习，并非真实考试题。",
+  "voices": {
+    "Erin": "marin",
+    "Josh": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Erin",
+      "en": "Josh, could we make a little more room in the fridge?",
+      "zh": "Josh，我们能在冰箱里腾出一点空间吗？"
+    },
+    {
+      "speaker": "Josh",
+      "en": "Sure. My containers are taking up a whole shelf.",
+      "zh": "当然。我的饭盒占了整整一层。"
+    },
+    {
+      "speaker": "Erin",
+      "en": "I need a spot for the vegetables I bought today.",
+      "zh": "我需要一个地方放今天买的蔬菜。"
+    },
+    {
+      "speaker": "Josh",
+      "en": "I'll move my containers to the left and stack the smaller ones.",
+      "zh": "我会把我的饭盒移到左边，把小的叠起来。"
+    },
+    {
+      "speaker": "Erin",
+      "en": "Thanks. Would it help if we each used one side?",
+      "zh": "谢谢。我们一人用一边会不会方便些？"
+    },
+    {
+      "speaker": "Josh",
+      "en": "Yes. Let's keep the middle free for things we share.",
+      "zh": "会。中间留给我们共用的东西吧。"
+    },
+    {
+      "speaker": "Erin",
+      "en": "Good idea. What about the bags on the counter?",
+      "zh": "好主意。台面上的袋子怎么办？"
+    },
+    {
+      "speaker": "Josh",
+      "en": "Those are mine too. I'll put them in the cupboard.",
+      "zh": "那些也是我的。我会把它们放进橱柜。"
+    },
+    {
+      "speaker": "Erin",
+      "en": "I'll wipe the counter after I make lunch.",
+      "zh": "我做完午饭后会擦台面。"
+    },
+    {
+      "speaker": "Josh",
+      "en": "And I'll wash my pan when I'm done with it.",
+      "zh": "我用完锅后会把它洗干净。"
+    },
+    {
+      "speaker": "Erin",
+      "en": "The kitchen already feels easier to use. Thanks for working this out.",
+      "zh": "厨房已经感觉更好用了。谢谢你一起商量解决。"
+    },
+    {
+      "speaker": "Josh",
+      "en": "Thank you for bringing it up. This arrangement works for me.",
+      "zh": "谢谢你提出来。我觉得这样安排可以。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "make room",
+      "zh": "腾出空间。",
+      "example": "Could you make room for another chair?"
+    },
+    {
+      "en": "take up",
+      "zh": "占用空间或时间。",
+      "example": "That box takes up too much space."
+    },
+    {
+      "en": "keep something free",
+      "zh": "让某处保持空置。",
+      "example": "Let's keep this seat free for Kim."
+    },
+    {
+      "en": "bring it up",
+      "zh": "提出某个话题。",
+      "example": "I'm glad you brought it up at the meeting."
+    },
+    {
+      "en": "work something out",
+      "zh": "商量并解决某事。",
+      "example": "We worked out a schedule together."
+    }
+  ],
+  "pronunciation": "kitchen 的重音在第一个音节；在 take up 中可把 take 的尾音 /k/ 连到 up。",
+  "practice": [
+    {
+      "title": "Part 1 · Shared spaces",
+      "prompt": "Have you ever shared a kitchen with someone?",
+      "answer": "Yes. I shared one with a roommate, and we tried to leave the counter clean after cooking."
+    },
+    {
+      "title": "Part 2 · Solving a household problem",
+      "prompt": "Describe a small household problem you solved with someone. Say what the problem was, what you did, and what happened.",
+      "answer": "My roommate and I once had trouble finding space in our small refrigerator. We talked about it after dinner and noticed that several containers were spread across the shelves. We moved them to one side and made a place for shared food in the middle. We also agreed to put bags away. After that, it was easier to find our food and use the kitchen together. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Living together",
+      "prompt": "Why is communication important when people share a home?",
+      "answer": "People may have different habits and expectations. Talking calmly about a problem helps them find an arrangement that works for everyone before small frustrations grow."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "跟读后向室友提出一个空间问题，并商量具体的整理办法。",
+      "answer": "Could we make room in the fridge? I'll move my containers to one side. We can keep the middle for shared food."
+    }
+  ]
+}

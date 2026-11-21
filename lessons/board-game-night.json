@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-22",
+  "slug": "board-game-night",
+  "title": "Learning a New Board Game",
+  "title_zh": "学习一款新桌游",
+  "context": "Mia 到朋友 Alex 家参加桌游之夜，两人边玩边解释规则。本课属于 2026-11-22 预制系列，题目为原创练习，并非真实考试题。",
+  "voices": {
+    "Mia": "marin",
+    "Alex": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Mia",
+      "en": "This game looks fun, but I've never played it.",
+      "zh": "这个游戏看起来很有趣，但我从没玩过。"
+    },
+    {
+      "speaker": "Alex",
+      "en": "It's easy to learn. The goal is to reach the castle first.",
+      "zh": "很容易学。目标是第一个到达城堡。"
+    },
+    {
+      "speaker": "Mia",
+      "en": "Do we each choose a piece?",
+      "zh": "我们每个人选一个棋子吗？"
+    },
+    {
+      "speaker": "Alex",
+      "en": "Yes. Pick a color, then put your piece at the start.",
+      "zh": "对。选一种颜色，然后把棋子放在起点。"
+    },
+    {
+      "speaker": "Mia",
+      "en": "I'll take green. Who goes first?",
+      "zh": "我选绿色。谁先走？"
+    },
+    {
+      "speaker": "Alex",
+      "en": "You can. Roll the die and move that many spaces.",
+      "zh": "你先吧。掷骰子，掷出几点就走几格。"
+    },
+    {
+      "speaker": "Mia",
+      "en": "I got three. What does this star mean?",
+      "zh": "我掷了三点。这个星星是什么意思？"
+    },
+    {
+      "speaker": "Alex",
+      "en": "It means you pick a card and follow the instructions.",
+      "zh": "意思是你抽一张卡并按上面的说明做。"
+    },
+    {
+      "speaker": "Mia",
+      "en": "My card says to move forward one space.",
+      "zh": "我的卡片上说向前走一格。"
+    },
+    {
+      "speaker": "Alex",
+      "en": "Nice! Now it's my turn. I got two.",
+      "zh": "不错！现在轮到我了。我掷了两点。"
+    },
+    {
+      "speaker": "Mia",
+      "en": "I think I understand now. This is more fun than reading all the rules first.",
+      "zh": "我想我现在明白了。这比先读完所有规则更有趣。"
+    },
+    {
+      "speaker": "Alex",
+      "en": "I'm glad. Let's keep playing and see who reaches the castle!",
+      "zh": "很高兴你这么觉得。我们继续玩，看看谁先到城堡！"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "the goal is to",
+      "zh": "目标是做某事。",
+      "example": "The goal is to collect five cards."
+    },
+    {
+      "en": "go first",
+      "zh": "先开始或先行动。",
+      "example": "Would you like to go first?"
+    },
+    {
+      "en": "roll the die",
+      "zh": "掷一颗骰子。",
+      "example": "Roll the die to begin your turn."
+    },
+    {
+      "en": "move forward",
+      "zh": "向前移动。",
+      "example": "Move forward two spaces."
+    },
+    {
+      "en": "it's my turn",
+      "zh": "轮到我了。",
+      "example": "It's my turn to choose a song."
+    }
+  ],
+  "pronunciation": "castle 中的 t 通常不发音，重音在第一个音节；die 的元音与 day 不同。",
+  "practice": [
+    {
+      "title": "Part 1 · Games",
+      "prompt": "Do you enjoy playing board games?",
+      "answer": "Yes, especially with a small group of friends. I like games that are easy to learn and give everyone a chance to talk."
+    },
+    {
+      "title": "Part 2 · A game you learned",
+      "prompt": "Describe a game you learned to play. Say who taught you, how it worked, and whether you enjoyed it.",
+      "answer": "My friend taught me a board game at her apartment last winter. Each player chose a colored piece and tried to reach a castle. We rolled a die, moved along the board, and sometimes picked cards. At first I was worried about remembering the rules, but she explained them as we played. I enjoyed the game because we could laugh and talk between turns. We played again before I went home. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Playing together",
+      "prompt": "What can people learn from playing games together?",
+      "answer": "They can practice taking turns and explaining their ideas. Games can also show people how to deal with winning and losing while still enjoying time together."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "跟读后介绍一款简单游戏，说明目标、如何行动以及什么时候轮到别人。",
+      "answer": "The goal is to reach the end. Roll the die and move your piece. Then it's my turn."
+    }
+  ]
+}

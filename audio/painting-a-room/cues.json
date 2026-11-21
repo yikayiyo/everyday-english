@@ -1,0 +1,1476 @@
+{
+  "timing_status": "strict_timing_pass",
+  "timing_warnings": [],
+  "model": "whisper-1",
+  "lesson": "painting-a-room",
+  "source_sha256": "20c304bdb3b01e02a88eccbb7eb292219a662382b0abc2951d1060923fa5b807",
+  "full_track": "dialogue-full.mp3",
+  "full_duration": 40.056,
+  "full_audio_sha256": "d5679abac2f2baeac311d89ff6b90562b80aa73b1548b7c0f22f66c68576e8af",
+  "lines": [
+    {
+      "index": 1,
+      "file": "01.mp3",
+      "text": "The living room feels a little dark. Should we paint the walls?",
+      "audio_sha256": "9f01ae8cd27d3e5a249debb4b1024e6728128477a0e794d6a4312c85892d9175",
+      "start": 0,
+      "end": 4.32,
+      "duration": 4.32,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "The",
+          "local_start": 0.0,
+          "local_end": 0.3199999928474426,
+          "evidence_indices": [
+            0
+          ],
+          "start": 0.0,
+          "end": 0.3199999928474426
+        },
+        {
+          "word": "living",
+          "local_start": 0.3199999928474426,
+          "local_end": 0.6399999856948853,
+          "evidence_indices": [
+            1
+          ],
+          "start": 0.3199999928474426,
+          "end": 0.6399999856948853
+        },
+        {
+          "word": "room",
+          "local_start": 0.6399999856948853,
+          "local_end": 0.8799999952316284,
+          "evidence_indices": [
+            2
+          ],
+          "start": 0.6399999856948853,
+          "end": 0.8799999952316284
+        },
+        {
+          "word": "feels",
+          "local_start": 0.8799999952316284,
+          "local_end": 1.3600000143051147,
+          "evidence_indices": [
+            3
+          ],
+          "start": 0.8799999952316284,
+          "end": 1.3600000143051147
+        },
+        {
+          "word": "a",
+          "local_start": 1.3600000143051147,
+          "local_end": 1.600000023841858,
+          "evidence_indices": [
+            4
+          ],
+          "start": 1.3600000143051147,
+          "end": 1.600000023841858
+        },
+        {
+          "word": "little",
+          "local_start": 1.600000023841858,
+          "local_end": 1.840000033378601,
+          "evidence_indices": [
+            5
+          ],
+          "start": 1.600000023841858,
+          "end": 1.840000033378601
+        },
+        {
+          "word": "dark.",
+          "local_start": 1.840000033378601,
+          "local_end": 2.2799999713897705,
+          "evidence_indices": [
+            6
+          ],
+          "start": 1.840000033378601,
+          "end": 2.2799999713897705
+        },
+        {
+          "word": "Should",
+          "local_start": 2.940000057220459,
+          "local_end": 3.059999942779541,
+          "evidence_indices": [
+            7
+          ],
+          "start": 2.940000057220459,
+          "end": 3.059999942779541
+        },
+        {
+          "word": "we",
+          "local_start": 3.059999942779541,
+          "local_end": 3.2799999713897705,
+          "evidence_indices": [
+            8
+          ],
+          "start": 3.059999942779541,
+          "end": 3.2799999713897705
+        },
+        {
+          "word": "paint",
+          "local_start": 3.2799999713897705,
+          "local_end": 3.4600000381469727,
+          "evidence_indices": [
+            9
+          ],
+          "start": 3.2799999713897705,
+          "end": 3.4600000381469727
+        },
+        {
+          "word": "the",
+          "local_start": 3.4600000381469727,
+          "local_end": 3.700000047683716,
+          "evidence_indices": [
+            10
+          ],
+          "start": 3.4600000381469727,
+          "end": 3.700000047683716
+        },
+        {
+          "word": "walls?",
+          "local_start": 3.700000047683716,
+          "local_end": 3.880000114440918,
+          "evidence_indices": [
+            11
+          ],
+          "start": 3.700000047683716,
+          "end": 3.880000114440918
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "file": "02.mp3",
+      "text": "I would like that. Have you thought about a color?",
+      "audio_sha256": "f3fa4f0b96243f8bd0d644c52d370771a49ba7906d499ce9fb031171f6e76db9",
+      "start": 4.32,
+      "end": 6.84,
+      "duration": 2.52,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "I",
+          "local_start": 0.0,
+          "local_end": 0.1599999964237213,
+          "evidence_indices": [
+            0
+          ],
+          "start": 4.32,
+          "end": 4.479999996423722
+        },
+        {
+          "word": "would",
+          "local_start": 0.1599999964237213,
+          "local_end": 0.30000001192092896,
+          "evidence_indices": [
+            1
+          ],
+          "start": 4.479999996423722,
+          "end": 4.620000011920929
+        },
+        {
+          "word": "like",
+          "local_start": 0.30000001192092896,
+          "local_end": 0.47999998927116394,
+          "evidence_indices": [
+            2
+          ],
+          "start": 4.620000011920929,
+          "end": 4.799999989271164
+        },
+        {
+          "word": "that.",
+          "local_start": 0.47999998927116394,
+          "local_end": 1.0399999618530273,
+          "evidence_indices": [
+            3
+          ],
+          "start": 4.799999989271164,
+          "end": 5.359999961853028
+        },
+        {
+          "word": "Have",
+          "local_start": 1.2799999713897705,
+          "local_end": 1.340000033378601,
+          "evidence_indices": [
+            4
+          ],
+          "start": 5.599999971389771,
+          "end": 5.660000033378601
+        },
+        {
+          "word": "you",
+          "local_start": 1.340000033378601,
+          "local_end": 1.4600000381469727,
+          "evidence_indices": [
+            5
+          ],
+          "start": 5.660000033378601,
+          "end": 5.780000038146973
+        },
+        {
+          "word": "thought",
+          "local_start": 1.4600000381469727,
+          "local_end": 1.6799999475479126,
+          "evidence_indices": [
+            6
+          ],
+          "start": 5.780000038146973,
+          "end": 5.999999947547913
+        },
+        {
+          "word": "about",
+          "local_start": 1.6799999475479126,
+          "local_end": 1.8799999952316284,
+          "evidence_indices": [
+            7
+          ],
+          "start": 5.999999947547913,
+          "end": 6.199999995231629
+        },
+        {
+          "word": "a",
+          "local_start": 1.8799999952316284,
+          "local_end": 2.0399999618530273,
+          "evidence_indices": [
+            8
+          ],
+          "start": 6.199999995231629,
+          "end": 6.359999961853028
+        },
+        {
+          "word": "color?",
+          "local_start": 2.0399999618530273,
+          "local_end": 2.180000066757202,
+          "evidence_indices": [
+            9
+          ],
+          "start": 6.359999961853028,
+          "end": 6.500000066757202
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "file": "03.mp3",
+      "text": "I like this pale green, but it may look different on the wall.",
+      "audio_sha256": "c649335b5f4ee405cf787ed5f39ee7954344b57390dbb79dd6fe3d36d3d03ac7",
+      "start": 6.84,
+      "end": 10.992,
+      "duration": 4.152,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "I",
+          "local_start": 0.0,
+          "local_end": 0.18000000715255737,
+          "evidence_indices": [
+            0
+          ],
+          "start": 6.84,
+          "end": 7.020000007152557
+        },
+        {
+          "word": "like",
+          "local_start": 0.18000000715255737,
+          "local_end": 0.5400000214576721,
+          "evidence_indices": [
+            1
+          ],
+          "start": 7.020000007152557,
+          "end": 7.380000021457672
+        },
+        {
+          "word": "this",
+          "local_start": 0.5400000214576721,
+          "local_end": 0.8799999952316284,
+          "evidence_indices": [
+            2
+          ],
+          "start": 7.380000021457672,
+          "end": 7.719999995231628
+        },
+        {
+          "word": "pale",
+          "local_start": 0.8799999952316284,
+          "local_end": 1.159999966621399,
+          "evidence_indices": [
+            3
+          ],
+          "start": 7.719999995231628,
+          "end": 7.999999966621399
+        },
+        {
+          "word": "green,",
+          "local_start": 1.159999966621399,
+          "local_end": 1.6200000047683716,
+          "evidence_indices": [
+            4
+          ],
+          "start": 7.999999966621399,
+          "end": 8.460000004768371
+        },
+        {
+          "word": "but",
+          "local_start": 1.8600000143051147,
+          "local_end": 2.0799999237060547,
+          "evidence_indices": [
+            5
+          ],
+          "start": 8.700000014305115,
+          "end": 8.919999923706055
+        },
+        {
+          "word": "it",
+          "local_start": 2.0799999237060547,
+          "local_end": 2.259999990463257,
+          "evidence_indices": [
+            6
+          ],
+          "start": 8.919999923706055,
+          "end": 9.099999990463257
+        },
+        {
+          "word": "may",
+          "local_start": 2.259999990463257,
+          "local_end": 2.5199999809265137,
+          "evidence_indices": [
+            7
+          ],
+          "start": 9.099999990463257,
+          "end": 9.359999980926514
+        },
+        {
+          "word": "look",
+          "local_start": 2.5199999809265137,
+          "local_end": 2.680000066757202,
+          "evidence_indices": [
+            8
+          ],
+          "start": 9.359999980926514,
+          "end": 9.520000066757202
+        },
+        {
+          "word": "different",
+          "local_start": 2.680000066757202,
+          "local_end": 2.9600000381469727,
+          "evidence_indices": [
+            9
+          ],
+          "start": 9.520000066757202,
+          "end": 9.800000038146973
+        },
+        {
+          "word": "on",
+          "local_start": 2.9600000381469727,
+          "local_end": 3.0999999046325684,
+          "evidence_indices": [
+            10
+          ],
+          "start": 9.800000038146973,
+          "end": 9.939999904632568
+        },
+        {
+          "word": "the",
+          "local_start": 3.0999999046325684,
+          "local_end": 3.259999990463257,
+          "evidence_indices": [
+            11
+          ],
+          "start": 9.939999904632568,
+          "end": 10.099999990463257
+        },
+        {
+          "word": "wall.",
+          "local_start": 3.259999990463257,
+          "local_end": 3.440000057220459,
+          "evidence_indices": [
+            12
+          ],
+          "start": 10.099999990463257,
+          "end": 10.280000057220459
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "file": "04.mp3",
+      "text": "Then let us try a small sample before we buy a whole can.",
+      "audio_sha256": "4c7744cabc7c5aeb549dbda72e5bb17e3ff39183656518e9fd77b8951a8e192c",
+      "start": 10.992,
+      "end": 14.904,
+      "duration": 3.912,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Then",
+          "local_start": 0.0,
+          "local_end": 0.3799999952316284,
+          "evidence_indices": [
+            0
+          ],
+          "start": 10.992,
+          "end": 11.37199999523163
+        },
+        {
+          "word": "let",
+          "local_start": 0.3799999952316284,
+          "local_end": 0.6200000047683716,
+          "evidence_indices": [
+            1
+          ],
+          "start": 11.37199999523163,
+          "end": 11.612000004768372
+        },
+        {
+          "word": "us",
+          "local_start": 0.6200000047683716,
+          "local_end": 0.8799999952316284,
+          "evidence_indices": [
+            2
+          ],
+          "start": 11.612000004768372,
+          "end": 11.87199999523163
+        },
+        {
+          "word": "try",
+          "local_start": 0.8799999952316284,
+          "local_end": 1.2000000476837158,
+          "evidence_indices": [
+            3
+          ],
+          "start": 11.87199999523163,
+          "end": 12.192000047683717
+        },
+        {
+          "word": "a",
+          "local_start": 1.2000000476837158,
+          "local_end": 1.5199999809265137,
+          "evidence_indices": [
+            4
+          ],
+          "start": 12.192000047683717,
+          "end": 12.511999980926515
+        },
+        {
+          "word": "small",
+          "local_start": 1.5199999809265137,
+          "local_end": 1.7999999523162842,
+          "evidence_indices": [
+            5
+          ],
+          "start": 12.511999980926515,
+          "end": 12.791999952316285
+        },
+        {
+          "word": "sample",
+          "local_start": 1.7999999523162842,
+          "local_end": 2.180000066757202,
+          "evidence_indices": [
+            6
+          ],
+          "start": 12.791999952316285,
+          "end": 13.172000066757203
+        },
+        {
+          "word": "before",
+          "local_start": 2.180000066757202,
+          "local_end": 2.5799999237060547,
+          "evidence_indices": [
+            7
+          ],
+          "start": 13.172000066757203,
+          "end": 13.571999923706056
+        },
+        {
+          "word": "we",
+          "local_start": 2.5799999237060547,
+          "local_end": 2.859999895095825,
+          "evidence_indices": [
+            8
+          ],
+          "start": 13.571999923706056,
+          "end": 13.851999895095826
+        },
+        {
+          "word": "buy",
+          "local_start": 2.859999895095825,
+          "local_end": 3.0399999618530273,
+          "evidence_indices": [
+            9
+          ],
+          "start": 13.851999895095826,
+          "end": 14.031999961853028
+        },
+        {
+          "word": "a",
+          "local_start": 3.0399999618530273,
+          "local_end": 3.319999933242798,
+          "evidence_indices": [
+            10
+          ],
+          "start": 14.031999961853028,
+          "end": 14.311999933242799
+        },
+        {
+          "word": "whole",
+          "local_start": 3.319999933242798,
+          "local_end": 3.4800000190734863,
+          "evidence_indices": [
+            11
+          ],
+          "start": 14.311999933242799,
+          "end": 14.472000019073487
+        },
+        {
+          "word": "can.",
+          "local_start": 3.4800000190734863,
+          "local_end": 3.7200000286102295,
+          "evidence_indices": [
+            12
+          ],
+          "start": 14.472000019073487,
+          "end": 14.71200002861023
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "file": "05.mp3",
+      "text": "Good idea. We can paint a patch near the window.",
+      "audio_sha256": "4eaf009ac547f1e219c591e8e33fef9627641c433710c079af4a9bf81bb679c0",
+      "start": 14.904,
+      "end": 18.072,
+      "duration": 3.168,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Good",
+          "local_start": 0.0,
+          "local_end": 0.20000000298023224,
+          "evidence_indices": [
+            0
+          ],
+          "start": 14.904,
+          "end": 15.104000002980232
+        },
+        {
+          "word": "idea.",
+          "local_start": 0.20000000298023224,
+          "local_end": 0.5400000214576721,
+          "evidence_indices": [
+            1
+          ],
+          "start": 15.104000002980232,
+          "end": 15.444000021457672
+        },
+        {
+          "word": "We",
+          "local_start": 1.2000000476837158,
+          "local_end": 1.3200000524520874,
+          "evidence_indices": [
+            2
+          ],
+          "start": 16.104000047683716,
+          "end": 16.224000052452087
+        },
+        {
+          "word": "can",
+          "local_start": 1.3200000524520874,
+          "local_end": 1.5399999618530273,
+          "evidence_indices": [
+            3
+          ],
+          "start": 16.224000052452087,
+          "end": 16.443999961853027
+        },
+        {
+          "word": "paint",
+          "local_start": 1.5399999618530273,
+          "local_end": 1.7000000476837158,
+          "evidence_indices": [
+            4
+          ],
+          "start": 16.443999961853027,
+          "end": 16.604000047683716
+        },
+        {
+          "word": "a",
+          "local_start": 1.7000000476837158,
+          "local_end": 1.899999976158142,
+          "evidence_indices": [
+            5
+          ],
+          "start": 16.604000047683716,
+          "end": 16.803999976158142
+        },
+        {
+          "word": "patch",
+          "local_start": 1.899999976158142,
+          "local_end": 2.180000066757202,
+          "evidence_indices": [
+            6
+          ],
+          "start": 16.803999976158142,
+          "end": 17.084000066757202
+        },
+        {
+          "word": "near",
+          "local_start": 2.180000066757202,
+          "local_end": 2.5,
+          "evidence_indices": [
+            7
+          ],
+          "start": 17.084000066757202,
+          "end": 17.404
+        },
+        {
+          "word": "the",
+          "local_start": 2.5,
+          "local_end": 2.7200000286102295,
+          "evidence_indices": [
+            8
+          ],
+          "start": 17.404,
+          "end": 17.62400002861023
+        },
+        {
+          "word": "window.",
+          "local_start": 2.7200000286102295,
+          "local_end": 2.8399999141693115,
+          "evidence_indices": [
+            9
+          ],
+          "start": 17.62400002861023,
+          "end": 17.74399991416931
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "file": "06.mp3",
+      "text": "And another near the door, where there is less light.",
+      "audio_sha256": "b7155df91af90be61b0a0fc1700d3f17d67c68f88f0d56c869b5e550fa11d158",
+      "start": 18.072,
+      "end": 21.672,
+      "duration": 3.6,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "And",
+          "local_start": 0.0,
+          "local_end": 0.3799999952316284,
+          "evidence_indices": [
+            0
+          ],
+          "start": 18.072,
+          "end": 18.451999995231628
+        },
+        {
+          "word": "another",
+          "local_start": 0.3799999952316284,
+          "local_end": 0.9800000190734863,
+          "evidence_indices": [
+            1
+          ],
+          "start": 18.451999995231628,
+          "end": 19.052000019073486
+        },
+        {
+          "word": "near",
+          "local_start": 0.9800000190734863,
+          "local_end": 1.559999942779541,
+          "evidence_indices": [
+            2
+          ],
+          "start": 19.052000019073486,
+          "end": 19.63199994277954
+        },
+        {
+          "word": "the",
+          "local_start": 1.559999942779541,
+          "local_end": 1.7799999713897705,
+          "evidence_indices": [
+            3
+          ],
+          "start": 19.63199994277954,
+          "end": 19.85199997138977
+        },
+        {
+          "word": "door,",
+          "local_start": 1.7799999713897705,
+          "local_end": 2.0,
+          "evidence_indices": [
+            4
+          ],
+          "start": 19.85199997138977,
+          "end": 20.072
+        },
+        {
+          "word": "where",
+          "local_start": 2.4200000762939453,
+          "local_end": 2.5,
+          "evidence_indices": [
+            5
+          ],
+          "start": 20.492000076293944,
+          "end": 20.572
+        },
+        {
+          "word": "there",
+          "local_start": 2.5,
+          "local_end": 2.6600000858306885,
+          "evidence_indices": [
+            6
+          ],
+          "start": 20.572,
+          "end": 20.732000085830688
+        },
+        {
+          "word": "is",
+          "local_start": 2.6600000858306885,
+          "local_end": 2.7799999713897705,
+          "evidence_indices": [
+            7
+          ],
+          "start": 20.732000085830688,
+          "end": 20.85199997138977
+        },
+        {
+          "word": "less",
+          "local_start": 2.7799999713897705,
+          "local_end": 3.0399999618530273,
+          "evidence_indices": [
+            8
+          ],
+          "start": 20.85199997138977,
+          "end": 21.111999961853027
+        },
+        {
+          "word": "light.",
+          "local_start": 3.0399999618530273,
+          "local_end": 3.2799999713897705,
+          "evidence_indices": [
+            9
+          ],
+          "start": 21.111999961853027,
+          "end": 21.35199997138977
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "file": "07.mp3",
+      "text": "Can we look at both patches in the morning and evening?",
+      "audio_sha256": "99e8e7df715bce93ede92210fab55c94bdb7048f7f3339cd105cf628dcaa576c",
+      "start": 21.672,
+      "end": 25.128,
+      "duration": 3.456,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Can",
+          "local_start": 0.0,
+          "local_end": 0.30000001192092896,
+          "evidence_indices": [
+            0
+          ],
+          "start": 21.672,
+          "end": 21.97200001192093
+        },
+        {
+          "word": "we",
+          "local_start": 0.30000001192092896,
+          "local_end": 0.5,
+          "evidence_indices": [
+            1
+          ],
+          "start": 21.97200001192093,
+          "end": 22.172
+        },
+        {
+          "word": "look",
+          "local_start": 0.5,
+          "local_end": 0.7400000095367432,
+          "evidence_indices": [
+            2
+          ],
+          "start": 22.172,
+          "end": 22.412000009536744
+        },
+        {
+          "word": "at",
+          "local_start": 0.7400000095367432,
+          "local_end": 1.0399999618530273,
+          "evidence_indices": [
+            3
+          ],
+          "start": 22.412000009536744,
+          "end": 22.711999961853028
+        },
+        {
+          "word": "both",
+          "local_start": 1.0399999618530273,
+          "local_end": 1.3600000143051147,
+          "evidence_indices": [
+            4
+          ],
+          "start": 22.711999961853028,
+          "end": 23.032000014305115
+        },
+        {
+          "word": "patches",
+          "local_start": 1.3600000143051147,
+          "local_end": 1.7999999523162842,
+          "evidence_indices": [
+            5
+          ],
+          "start": 23.032000014305115,
+          "end": 23.471999952316285
+        },
+        {
+          "word": "in",
+          "local_start": 1.7999999523162842,
+          "local_end": 2.0799999237060547,
+          "evidence_indices": [
+            6
+          ],
+          "start": 23.471999952316285,
+          "end": 23.751999923706055
+        },
+        {
+          "word": "the",
+          "local_start": 2.0799999237060547,
+          "local_end": 2.2200000286102295,
+          "evidence_indices": [
+            7
+          ],
+          "start": 23.751999923706055,
+          "end": 23.89200002861023
+        },
+        {
+          "word": "morning",
+          "local_start": 2.2200000286102295,
+          "local_end": 2.4600000381469727,
+          "evidence_indices": [
+            8
+          ],
+          "start": 23.89200002861023,
+          "end": 24.132000038146973
+        },
+        {
+          "word": "and",
+          "local_start": 2.4600000381469727,
+          "local_end": 2.859999895095825,
+          "evidence_indices": [
+            9
+          ],
+          "start": 24.132000038146973,
+          "end": 24.531999895095826
+        },
+        {
+          "word": "evening?",
+          "local_start": 2.859999895095825,
+          "local_end": 3.140000104904175,
+          "evidence_indices": [
+            10
+          ],
+          "start": 24.531999895095826,
+          "end": 24.812000104904175
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "file": "08.mp3",
+      "text": "Yes. The color might change with the light.",
+      "audio_sha256": "fd9dc25d80c74fd3f22fbecd14bec9dbdbbfe98e3dd6c6e164e6de15af738156",
+      "start": 25.128,
+      "end": 27.432,
+      "duration": 2.304,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Yes.",
+          "local_start": 0.0,
+          "local_end": 0.5600000023841858,
+          "evidence_indices": [
+            0
+          ],
+          "start": 25.128,
+          "end": 25.688000002384186
+        },
+        {
+          "word": "The",
+          "local_start": 0.6800000071525574,
+          "local_end": 1.100000023841858,
+          "evidence_indices": [
+            1
+          ],
+          "start": 25.808000007152557,
+          "end": 26.228000023841858
+        },
+        {
+          "word": "color",
+          "local_start": 1.100000023841858,
+          "local_end": 1.2599999904632568,
+          "evidence_indices": [
+            2
+          ],
+          "start": 26.228000023841858,
+          "end": 26.387999990463257
+        },
+        {
+          "word": "might",
+          "local_start": 1.2599999904632568,
+          "local_end": 1.4600000381469727,
+          "evidence_indices": [
+            3
+          ],
+          "start": 26.387999990463257,
+          "end": 26.588000038146973
+        },
+        {
+          "word": "change",
+          "local_start": 1.4600000381469727,
+          "local_end": 1.6799999475479126,
+          "evidence_indices": [
+            4
+          ],
+          "start": 26.588000038146973,
+          "end": 26.807999947547913
+        },
+        {
+          "word": "with",
+          "local_start": 1.6799999475479126,
+          "local_end": 1.8200000524520874,
+          "evidence_indices": [
+            5
+          ],
+          "start": 26.807999947547913,
+          "end": 26.948000052452088
+        },
+        {
+          "word": "the",
+          "local_start": 1.8200000524520874,
+          "local_end": 1.9199999570846558,
+          "evidence_indices": [
+            6
+          ],
+          "start": 26.948000052452088,
+          "end": 27.047999957084656
+        },
+        {
+          "word": "light.",
+          "local_start": 1.9199999570846558,
+          "local_end": 2.0799999237060547,
+          "evidence_indices": [
+            7
+          ],
+          "start": 27.047999957084656,
+          "end": 27.207999923706055
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "file": "09.mp3",
+      "text": "If we like it, we can move the furniture away from the walls.",
+      "audio_sha256": "deeda64ce1472af74dbffb2a74019a80b123cb4f9ca597b3f38eecbf33f6dd5e",
+      "start": 27.432,
+      "end": 30.695999999999998,
+      "duration": 3.264,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "If",
+          "local_start": 0.0,
+          "local_end": 0.1599999964237213,
+          "evidence_indices": [
+            0
+          ],
+          "start": 27.432,
+          "end": 27.59199999642372
+        },
+        {
+          "word": "we",
+          "local_start": 0.1599999964237213,
+          "local_end": 0.36000001430511475,
+          "evidence_indices": [
+            1
+          ],
+          "start": 27.59199999642372,
+          "end": 27.792000014305113
+        },
+        {
+          "word": "like",
+          "local_start": 0.36000001430511475,
+          "local_end": 0.5199999809265137,
+          "evidence_indices": [
+            2
+          ],
+          "start": 27.792000014305113,
+          "end": 27.951999980926512
+        },
+        {
+          "word": "it,",
+          "local_start": 0.5199999809265137,
+          "local_end": 0.699999988079071,
+          "evidence_indices": [
+            3
+          ],
+          "start": 27.951999980926512,
+          "end": 28.13199998807907
+        },
+        {
+          "word": "we",
+          "local_start": 1.0,
+          "local_end": 1.0399999618530273,
+          "evidence_indices": [
+            4
+          ],
+          "start": 28.432,
+          "end": 28.471999961853026
+        },
+        {
+          "word": "can",
+          "local_start": 1.0399999618530273,
+          "local_end": 1.2400000095367432,
+          "evidence_indices": [
+            5
+          ],
+          "start": 28.471999961853026,
+          "end": 28.67200000953674
+        },
+        {
+          "word": "move",
+          "local_start": 1.2400000095367432,
+          "local_end": 1.399999976158142,
+          "evidence_indices": [
+            6
+          ],
+          "start": 28.67200000953674,
+          "end": 28.83199997615814
+        },
+        {
+          "word": "the",
+          "local_start": 1.399999976158142,
+          "local_end": 1.600000023841858,
+          "evidence_indices": [
+            7
+          ],
+          "start": 28.83199997615814,
+          "end": 29.032000023841857
+        },
+        {
+          "word": "furniture",
+          "local_start": 1.600000023841858,
+          "local_end": 1.940000057220459,
+          "evidence_indices": [
+            8
+          ],
+          "start": 29.032000023841857,
+          "end": 29.372000057220458
+        },
+        {
+          "word": "away",
+          "local_start": 1.940000057220459,
+          "local_end": 2.2799999713897705,
+          "evidence_indices": [
+            9
+          ],
+          "start": 29.372000057220458,
+          "end": 29.71199997138977
+        },
+        {
+          "word": "from",
+          "local_start": 2.2799999713897705,
+          "local_end": 2.4600000381469727,
+          "evidence_indices": [
+            10
+          ],
+          "start": 29.71199997138977,
+          "end": 29.89200003814697
+        },
+        {
+          "word": "the",
+          "local_start": 2.4600000381469727,
+          "local_end": 2.640000104904175,
+          "evidence_indices": [
+            11
+          ],
+          "start": 29.89200003814697,
+          "end": 30.072000104904173
+        },
+        {
+          "word": "walls.",
+          "local_start": 2.640000104904175,
+          "local_end": 2.9000000953674316,
+          "evidence_indices": [
+            12
+          ],
+          "start": 30.072000104904173,
+          "end": 30.33200009536743
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "file": "10.mp3",
+      "text": "I can help cover the floor before we start painting.",
+      "audio_sha256": "384fb4408fcdf3c2fc42de4e56f0497ee31248d3539ab83d69a7e43790693612",
+      "start": 30.695999999999998,
+      "end": 33.047999999999995,
+      "duration": 2.352,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "I",
+          "local_start": 0.0,
+          "local_end": 0.14000000059604645,
+          "evidence_indices": [
+            0
+          ],
+          "start": 30.695999999999998,
+          "end": 30.836000000596044
+        },
+        {
+          "word": "can",
+          "local_start": 0.14000000059604645,
+          "local_end": 0.3400000035762787,
+          "evidence_indices": [
+            1
+          ],
+          "start": 30.836000000596044,
+          "end": 31.036000003576277
+        },
+        {
+          "word": "help",
+          "local_start": 0.3400000035762787,
+          "local_end": 0.5199999809265137,
+          "evidence_indices": [
+            2
+          ],
+          "start": 31.036000003576277,
+          "end": 31.21599998092651
+        },
+        {
+          "word": "cover",
+          "local_start": 0.5199999809265137,
+          "local_end": 0.6800000071525574,
+          "evidence_indices": [
+            3
+          ],
+          "start": 31.21599998092651,
+          "end": 31.376000007152555
+        },
+        {
+          "word": "the",
+          "local_start": 0.6800000071525574,
+          "local_end": 0.8799999952316284,
+          "evidence_indices": [
+            4
+          ],
+          "start": 31.376000007152555,
+          "end": 31.575999995231626
+        },
+        {
+          "word": "floor",
+          "local_start": 0.8799999952316284,
+          "local_end": 1.0399999618530273,
+          "evidence_indices": [
+            5
+          ],
+          "start": 31.575999995231626,
+          "end": 31.735999961853025
+        },
+        {
+          "word": "before",
+          "local_start": 1.0399999618530273,
+          "local_end": 1.340000033378601,
+          "evidence_indices": [
+            6
+          ],
+          "start": 31.735999961853025,
+          "end": 32.0360000333786
+        },
+        {
+          "word": "we",
+          "local_start": 1.340000033378601,
+          "local_end": 1.5199999809265137,
+          "evidence_indices": [
+            7
+          ],
+          "start": 32.0360000333786,
+          "end": 32.21599998092651
+        },
+        {
+          "word": "start",
+          "local_start": 1.5199999809265137,
+          "local_end": 1.7000000476837158,
+          "evidence_indices": [
+            8
+          ],
+          "start": 32.21599998092651,
+          "end": 32.396000047683714
+        },
+        {
+          "word": "painting.",
+          "local_start": 1.7000000476837158,
+          "local_end": 1.940000057220459,
+          "evidence_indices": [
+            9
+          ],
+          "start": 32.396000047683714,
+          "end": 32.63600005722046
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "file": "11.mp3",
+      "text": "Great. For now, I will pick up the sample tomorrow.",
+      "audio_sha256": "59ff8b639ed3841e1bdcd00149ed31d380c002b0e7b02d8985b64f557242b1ab",
+      "start": 33.047999999999995,
+      "end": 36.55199999999999,
+      "duration": 3.504,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Great.",
+          "local_start": 0.0,
+          "local_end": 0.5199999809265137,
+          "evidence_indices": [
+            0
+          ],
+          "start": 33.047999999999995,
+          "end": 33.56799998092651
+        },
+        {
+          "word": "For",
+          "local_start": 0.7799999713897705,
+          "local_end": 0.9800000190734863,
+          "evidence_indices": [
+            1
+          ],
+          "start": 33.827999971389765,
+          "end": 34.02800001907348
+        },
+        {
+          "word": "now,",
+          "local_start": 0.9800000190734863,
+          "local_end": 1.2400000095367432,
+          "evidence_indices": [
+            2
+          ],
+          "start": 34.02800001907348,
+          "end": 34.28800000953674
+        },
+        {
+          "word": "I",
+          "local_start": 1.5399999618530273,
+          "local_end": 1.6399999856948853,
+          "evidence_indices": [
+            3
+          ],
+          "start": 34.58799996185302,
+          "end": 34.68799998569488
+        },
+        {
+          "word": "will",
+          "local_start": 1.6399999856948853,
+          "local_end": 1.7799999713897705,
+          "evidence_indices": [
+            4
+          ],
+          "start": 34.68799998569488,
+          "end": 34.827999971389765
+        },
+        {
+          "word": "pick",
+          "local_start": 1.7799999713897705,
+          "local_end": 1.9800000190734863,
+          "evidence_indices": [
+            5
+          ],
+          "start": 34.827999971389765,
+          "end": 35.02800001907348
+        },
+        {
+          "word": "up",
+          "local_start": 1.9800000190734863,
+          "local_end": 2.0799999237060547,
+          "evidence_indices": [
+            6
+          ],
+          "start": 35.02800001907348,
+          "end": 35.12799992370605
+        },
+        {
+          "word": "the",
+          "local_start": 2.0799999237060547,
+          "local_end": 2.359999895095825,
+          "evidence_indices": [
+            7
+          ],
+          "start": 35.12799992370605,
+          "end": 35.40799989509582
+        },
+        {
+          "word": "sample",
+          "local_start": 2.359999895095825,
+          "local_end": 2.5199999809265137,
+          "evidence_indices": [
+            8
+          ],
+          "start": 35.40799989509582,
+          "end": 35.56799998092651
+        },
+        {
+          "word": "tomorrow.",
+          "local_start": 2.5199999809265137,
+          "local_end": 2.9800000190734863,
+          "evidence_indices": [
+            9
+          ],
+          "start": 35.56799998092651,
+          "end": 36.02800001907348
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "file": "12.mp3",
+      "text": "Sounds like a plan. We will choose after we see it dry.",
+      "audio_sha256": "5279e22b824bd45bcdc5f22a9596e4d2b41604066e3b4a17cd1864e5e40a1226",
+      "start": 36.55199999999999,
+      "end": 40.05599999999999,
+      "duration": 3.504,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Sounds",
+          "local_start": 0.0,
+          "local_end": 0.5,
+          "evidence_indices": [
+            0
+          ],
+          "start": 36.55199999999999,
+          "end": 37.05199999999999
+        },
+        {
+          "word": "like",
+          "local_start": 0.5,
+          "local_end": 0.699999988079071,
+          "evidence_indices": [
+            1
+          ],
+          "start": 37.05199999999999,
+          "end": 37.25199998807906
+        },
+        {
+          "word": "a",
+          "local_start": 0.699999988079071,
+          "local_end": 1.0,
+          "evidence_indices": [
+            2
+          ],
+          "start": 37.25199998807906,
+          "end": 37.55199999999999
+        },
+        {
+          "word": "plan.",
+          "local_start": 1.0,
+          "local_end": 1.1399999856948853,
+          "evidence_indices": [
+            3
+          ],
+          "start": 37.55199999999999,
+          "end": 37.69199998569488
+        },
+        {
+          "word": "We",
+          "local_start": 1.659999966621399,
+          "local_end": 1.7200000286102295,
+          "evidence_indices": [
+            4
+          ],
+          "start": 38.21199996662139,
+          "end": 38.27200002861022
+        },
+        {
+          "word": "will",
+          "local_start": 1.7200000286102295,
+          "local_end": 1.8600000143051147,
+          "evidence_indices": [
+            5
+          ],
+          "start": 38.27200002861022,
+          "end": 38.41200001430511
+        },
+        {
+          "word": "choose",
+          "local_start": 1.8600000143051147,
+          "local_end": 2.2200000286102295,
+          "evidence_indices": [
+            6
+          ],
+          "start": 38.41200001430511,
+          "end": 38.77200002861022
+        },
+        {
+          "word": "after",
+          "local_start": 2.2200000286102295,
+          "local_end": 2.4600000381469727,
+          "evidence_indices": [
+            7
+          ],
+          "start": 38.77200002861022,
+          "end": 39.012000038146965
+        },
+        {
+          "word": "we",
+          "local_start": 2.4600000381469727,
+          "local_end": 2.640000104904175,
+          "evidence_indices": [
+            8
+          ],
+          "start": 39.012000038146965,
+          "end": 39.19200010490417
+        },
+        {
+          "word": "see",
+          "local_start": 2.640000104904175,
+          "local_end": 2.740000009536743,
+          "evidence_indices": [
+            9
+          ],
+          "start": 39.19200010490417,
+          "end": 39.292000009536736
+        },
+        {
+          "word": "it",
+          "local_start": 2.740000009536743,
+          "local_end": 2.9200000762939453,
+          "evidence_indices": [
+            10
+          ],
+          "start": 39.292000009536736,
+          "end": 39.47200007629394
+        },
+        {
+          "word": "dry.",
+          "local_start": 2.9200000762939453,
+          "local_end": 3.0999999046325684,
+          "evidence_indices": [
+            11
+          ],
+          "start": 39.47200007629394,
+          "end": 39.65199990463256
+        }
+      ]
+    }
+  ]
+}

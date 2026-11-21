@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-22",
+  "slug": "potluck-lunch",
+  "title": "Organizing a Potluck Lunch",
+  "title_zh": "分工筹备自带菜午餐",
+  "context": "Molly 和同事 Dan 为团队自带菜午餐分配食物和用品，避免大家带同一种东西。 本课属于 2026-11-22 预制系列，练习题为原创练习，并非真实考试题。",
+  "voices": {
+    "Molly": "marin",
+    "Dan": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Molly",
+      "en": "Our team potluck is on Friday. Have you decided what to bring?",
+      "zh": "我们的团队自带菜午餐在周五。你决定带什么了吗？"
+    },
+    {
+      "speaker": "Dan",
+      "en": "I was thinking of a bean salad. Is anyone else bringing one?",
+      "zh": "我在想带一份豆子沙拉。还有别人带这个吗？"
+    },
+    {
+      "speaker": "Molly",
+      "en": "Let me check the list. So far we have bread and fruit.",
+      "zh": "我看看清单。目前有面包和水果。"
+    },
+    {
+      "speaker": "Dan",
+      "en": "Then the salad should add something different.",
+      "zh": "那沙拉应该能增加一种不同的选择。"
+    },
+    {
+      "speaker": "Molly",
+      "en": "That sounds good. I can bring a big bowl of rice.",
+      "zh": "听起来不错。我可以带一大碗米饭。"
+    },
+    {
+      "speaker": "Dan",
+      "en": "Do we have serving spoons, or should I bring some?",
+      "zh": "我们有分菜勺吗，还是我带几个？"
+    },
+    {
+      "speaker": "Molly",
+      "en": "Please bring two if you can. I will bring plates and napkins.",
+      "zh": "如果可以，请带两个。我来带盘子和餐巾。"
+    },
+    {
+      "speaker": "Dan",
+      "en": "Sure. Where should we put everything when we arrive?",
+      "zh": "好。我们到了以后把东西放在哪里？"
+    },
+    {
+      "speaker": "Molly",
+      "en": "The table by the window has space for the dishes.",
+      "zh": "窗边的桌子有地方放菜。"
+    },
+    {
+      "speaker": "Dan",
+      "en": "I can get there a little early and help set it up.",
+      "zh": "我可以早一点到，帮忙布置。"
+    },
+    {
+      "speaker": "Molly",
+      "en": "Thanks. I will update the list so everyone can see our plans.",
+      "zh": "谢谢。我会更新清单，让大家都看到我们的安排。"
+    },
+    {
+      "speaker": "Dan",
+      "en": "Great. I am looking forward to lunch with the team.",
+      "zh": "太好了。我很期待和团队一起吃午饭。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "potluck",
+      "zh": "自带菜聚餐，参加者各带食物分享。",
+      "example": "Our office is having a potluck next week."
+    },
+    {
+      "en": "so far",
+      "zh": "到目前为止。",
+      "example": "So far, three people have signed up."
+    },
+    {
+      "en": "add something different",
+      "zh": "增加不同的选择。",
+      "example": "A vegetable dish would add something different."
+    },
+    {
+      "en": "serving spoon",
+      "zh": "分菜勺，用于给大家盛取食物。",
+      "example": "Please put a serving spoon beside the rice."
+    },
+    {
+      "en": "set it up",
+      "zh": "把它布置好或准备好。",
+      "example": "We can set up the table before the guests arrive."
+    }
+  ],
+  "pronunciation": "potluck 重音在第一个音节 POT；spoon 以 /sp/ 开头，注意不要在 s 前加元音。",
+  "practice": [
+    {
+      "title": "Part 1 · Shared meals",
+      "prompt": "Do you enjoy sharing meals with coworkers or classmates?",
+      "answer": "Yes. It gives us time to talk about things outside work, and everyone can contribute something they enjoy."
+    },
+    {
+      "title": "Part 2 · A shared meal",
+      "prompt": "Describe a meal where everyone contributed something. Say who was there, what people brought, and what made it enjoyable.",
+      "answer": "My coworkers and I once arranged a shared lunch in our office. We made a list so that people could bring different dishes and supplies. I brought a bowl of rice, and another coworker brought a bean salad. Two people arrived early to arrange the table and put out plates. We tried a little of everything and talked during the break. It felt friendly and easy to organize together. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Group planning",
+      "prompt": "What helps a group organize a meal successfully?",
+      "answer": "A shared list makes it easier to see what is still needed. Clear responsibilities also prevent one person from doing all the work."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "跟读分配食物和用品的句子，再提出你愿意为聚餐带的东西。",
+      "answer": "I can bring a salad. Is anyone bringing serving spoons? I can arrive early to help set up the table."
+    }
+  ]
+}

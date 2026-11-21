@@ -1,0 +1,1396 @@
+{
+  "timing_status": "validated_with_timing_warnings",
+  "timing_warnings": [
+    {
+      "line": 6,
+      "whisper_word_indices": [
+        11
+      ]
+    }
+  ],
+  "model": "whisper-1",
+  "lesson": "setting-up-wifi",
+  "source_sha256": "1c90a334e09cc79ef7ee28edab9d0fcdedb810faea49cbd994c905127105a68d",
+  "full_track": "dialogue-full.mp3",
+  "full_duration": 40.512,
+  "full_audio_sha256": "38ce3b1c7648b0a106354e6e12fc188ea1b0636c3060acde0d82ff972568bb9c",
+  "lines": [
+    {
+      "index": 1,
+      "file": "01.mp3",
+      "text": "I cannot find our new Wi-Fi network on my laptop.",
+      "audio_sha256": "3b9205698b674673abcd480d7454b0a59a41f9188b1b92d70a37ec50d66f387e",
+      "start": 0,
+      "end": 3.264,
+      "duration": 3.264,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "I",
+          "local_start": 0.0,
+          "local_end": 0.23999999463558197,
+          "evidence_indices": [
+            0
+          ],
+          "start": 0.0,
+          "end": 0.23999999463558197
+        },
+        {
+          "word": "cannot",
+          "local_start": 0.23999999463558197,
+          "local_end": 0.5799999833106995,
+          "evidence_indices": [
+            1
+          ],
+          "start": 0.23999999463558197,
+          "end": 0.5799999833106995
+        },
+        {
+          "word": "find",
+          "local_start": 0.5799999833106995,
+          "local_end": 0.9399999976158142,
+          "evidence_indices": [
+            2
+          ],
+          "start": 0.5799999833106995,
+          "end": 0.9399999976158142
+        },
+        {
+          "word": "our",
+          "local_start": 0.9399999976158142,
+          "local_end": 1.1399999856948853,
+          "evidence_indices": [
+            3
+          ],
+          "start": 0.9399999976158142,
+          "end": 1.1399999856948853
+        },
+        {
+          "word": "new",
+          "local_start": 1.1399999856948853,
+          "local_end": 1.399999976158142,
+          "evidence_indices": [
+            4
+          ],
+          "start": 1.1399999856948853,
+          "end": 1.399999976158142
+        },
+        {
+          "word": "Wi-Fi",
+          "local_start": 1.399999976158142,
+          "local_end": 1.7999999523162842,
+          "evidence_indices": [
+            5,
+            6
+          ],
+          "start": 1.399999976158142,
+          "end": 1.7999999523162842
+        },
+        {
+          "word": "network",
+          "local_start": 1.7999999523162842,
+          "local_end": 2.140000104904175,
+          "evidence_indices": [
+            7
+          ],
+          "start": 1.7999999523162842,
+          "end": 2.140000104904175
+        },
+        {
+          "word": "on",
+          "local_start": 2.140000104904175,
+          "local_end": 2.380000114440918,
+          "evidence_indices": [
+            8
+          ],
+          "start": 2.140000104904175,
+          "end": 2.380000114440918
+        },
+        {
+          "word": "my",
+          "local_start": 2.380000114440918,
+          "local_end": 2.559999942779541,
+          "evidence_indices": [
+            9
+          ],
+          "start": 2.380000114440918,
+          "end": 2.559999942779541
+        },
+        {
+          "word": "laptop.",
+          "local_start": 2.559999942779541,
+          "local_end": 2.7799999713897705,
+          "evidence_indices": [
+            10
+          ],
+          "start": 2.559999942779541,
+          "end": 2.7799999713897705
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "file": "02.mp3",
+      "text": "The router is on. What network names can you see?",
+      "audio_sha256": "f40b95b7061cadfc2e30de8c11f1c03b7dbcfec50333b463eaf12064ee1b5569",
+      "start": 3.264,
+      "end": 6.432,
+      "duration": 3.168,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "The",
+          "local_start": 0.0,
+          "local_end": 0.23999999463558197,
+          "evidence_indices": [
+            0
+          ],
+          "start": 3.264,
+          "end": 3.5039999946355818
+        },
+        {
+          "word": "router",
+          "local_start": 0.23999999463558197,
+          "local_end": 0.5,
+          "evidence_indices": [
+            1
+          ],
+          "start": 3.5039999946355818,
+          "end": 3.764
+        },
+        {
+          "word": "is",
+          "local_start": 0.5,
+          "local_end": 0.8199999928474426,
+          "evidence_indices": [
+            2
+          ],
+          "start": 3.764,
+          "end": 4.083999992847442
+        },
+        {
+          "word": "on.",
+          "local_start": 0.8199999928474426,
+          "local_end": 1.2400000095367432,
+          "evidence_indices": [
+            3
+          ],
+          "start": 4.083999992847442,
+          "end": 4.5040000095367425
+        },
+        {
+          "word": "What",
+          "local_start": 1.659999966621399,
+          "local_end": 1.840000033378601,
+          "evidence_indices": [
+            4
+          ],
+          "start": 4.923999966621398,
+          "end": 5.1040000333786
+        },
+        {
+          "word": "network",
+          "local_start": 1.840000033378601,
+          "local_end": 2.1600000858306885,
+          "evidence_indices": [
+            5
+          ],
+          "start": 5.1040000333786,
+          "end": 5.424000085830688
+        },
+        {
+          "word": "names",
+          "local_start": 2.1600000858306885,
+          "local_end": 2.380000114440918,
+          "evidence_indices": [
+            6
+          ],
+          "start": 5.424000085830688,
+          "end": 5.644000114440917
+        },
+        {
+          "word": "can",
+          "local_start": 2.380000114440918,
+          "local_end": 2.559999942779541,
+          "evidence_indices": [
+            7
+          ],
+          "start": 5.644000114440917,
+          "end": 5.82399994277954
+        },
+        {
+          "word": "you",
+          "local_start": 2.559999942779541,
+          "local_end": 2.7200000286102295,
+          "evidence_indices": [
+            8
+          ],
+          "start": 5.82399994277954,
+          "end": 5.984000028610229
+        },
+        {
+          "word": "see?",
+          "local_start": 2.7200000286102295,
+          "local_end": 2.880000114440918,
+          "evidence_indices": [
+            9
+          ],
+          "start": 5.984000028610229,
+          "end": 6.144000114440917
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "file": "03.mp3",
+      "text": "I see one called Maple Home and another called Maple Guest.",
+      "audio_sha256": "37272792e952c59cea1f267ee61b0e456d9308ebb159d4733729c82b5138b359",
+      "start": 6.432,
+      "end": 10.68,
+      "duration": 4.248,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "I",
+          "local_start": 0.0,
+          "local_end": 0.25999999046325684,
+          "evidence_indices": [
+            0
+          ],
+          "start": 6.432,
+          "end": 6.691999990463257
+        },
+        {
+          "word": "see",
+          "local_start": 0.25999999046325684,
+          "local_end": 0.5,
+          "evidence_indices": [
+            1
+          ],
+          "start": 6.691999990463257,
+          "end": 6.932
+        },
+        {
+          "word": "one",
+          "local_start": 0.5,
+          "local_end": 0.8999999761581421,
+          "evidence_indices": [
+            2
+          ],
+          "start": 6.932,
+          "end": 7.3319999761581425
+        },
+        {
+          "word": "called",
+          "local_start": 0.8999999761581421,
+          "local_end": 1.2200000286102295,
+          "evidence_indices": [
+            3
+          ],
+          "start": 7.3319999761581425,
+          "end": 7.65200002861023
+        },
+        {
+          "word": "Maple",
+          "local_start": 1.2200000286102295,
+          "local_end": 1.6399999856948853,
+          "evidence_indices": [
+            4
+          ],
+          "start": 7.65200002861023,
+          "end": 8.071999985694886
+        },
+        {
+          "word": "Home",
+          "local_start": 1.6399999856948853,
+          "local_end": 2.0199999809265137,
+          "evidence_indices": [
+            5
+          ],
+          "start": 8.071999985694886,
+          "end": 8.451999980926514
+        },
+        {
+          "word": "and",
+          "local_start": 2.0199999809265137,
+          "local_end": 2.5199999809265137,
+          "evidence_indices": [
+            6
+          ],
+          "start": 8.451999980926514,
+          "end": 8.951999980926514
+        },
+        {
+          "word": "another",
+          "local_start": 2.5199999809265137,
+          "local_end": 2.880000114440918,
+          "evidence_indices": [
+            7
+          ],
+          "start": 8.951999980926514,
+          "end": 9.312000114440918
+        },
+        {
+          "word": "called",
+          "local_start": 2.880000114440918,
+          "local_end": 3.259999990463257,
+          "evidence_indices": [
+            8
+          ],
+          "start": 9.312000114440918,
+          "end": 9.691999990463257
+        },
+        {
+          "word": "Maple",
+          "local_start": 3.259999990463257,
+          "local_end": 3.5399999618530273,
+          "evidence_indices": [
+            9
+          ],
+          "start": 9.691999990463257,
+          "end": 9.971999961853028
+        },
+        {
+          "word": "Guest.",
+          "local_start": 3.5399999618530273,
+          "local_end": 4.0,
+          "evidence_indices": [
+            10
+          ],
+          "start": 9.971999961853028,
+          "end": 10.432
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "file": "04.mp3",
+      "text": "Maple Home is ours. The name is on the label under the router.",
+      "audio_sha256": "3110bce6bee8b7adf0754344d438bfeeca9149f4599dfc47f62669b216d88e5a",
+      "start": 10.68,
+      "end": 14.04,
+      "duration": 3.36,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Maple",
+          "local_start": 0.0,
+          "local_end": 0.3199999928474426,
+          "evidence_indices": [
+            0
+          ],
+          "start": 10.68,
+          "end": 10.999999992847442
+        },
+        {
+          "word": "Home",
+          "local_start": 0.3199999928474426,
+          "local_end": 0.5799999833106995,
+          "evidence_indices": [
+            1
+          ],
+          "start": 10.999999992847442,
+          "end": 11.2599999833107
+        },
+        {
+          "word": "is",
+          "local_start": 0.5799999833106995,
+          "local_end": 0.8999999761581421,
+          "evidence_indices": [
+            2
+          ],
+          "start": 11.2599999833107,
+          "end": 11.579999976158142
+        },
+        {
+          "word": "ours.",
+          "local_start": 0.8999999761581421,
+          "local_end": 1.2599999904632568,
+          "evidence_indices": [
+            3
+          ],
+          "start": 11.579999976158142,
+          "end": 11.939999990463257
+        },
+        {
+          "word": "The",
+          "local_start": 1.5199999809265137,
+          "local_end": 1.659999966621399,
+          "evidence_indices": [
+            4
+          ],
+          "start": 12.199999980926513,
+          "end": 12.339999966621399
+        },
+        {
+          "word": "name",
+          "local_start": 1.659999966621399,
+          "local_end": 1.840000033378601,
+          "evidence_indices": [
+            5
+          ],
+          "start": 12.339999966621399,
+          "end": 12.5200000333786
+        },
+        {
+          "word": "is",
+          "local_start": 1.840000033378601,
+          "local_end": 1.9600000381469727,
+          "evidence_indices": [
+            6
+          ],
+          "start": 12.5200000333786,
+          "end": 12.640000038146972
+        },
+        {
+          "word": "on",
+          "local_start": 1.9600000381469727,
+          "local_end": 2.0799999237060547,
+          "evidence_indices": [
+            7
+          ],
+          "start": 12.640000038146972,
+          "end": 12.759999923706054
+        },
+        {
+          "word": "the",
+          "local_start": 2.0799999237060547,
+          "local_end": 2.259999990463257,
+          "evidence_indices": [
+            8
+          ],
+          "start": 12.759999923706054,
+          "end": 12.939999990463257
+        },
+        {
+          "word": "label",
+          "local_start": 2.259999990463257,
+          "local_end": 2.4600000381469727,
+          "evidence_indices": [
+            9
+          ],
+          "start": 12.939999990463257,
+          "end": 13.140000038146972
+        },
+        {
+          "word": "under",
+          "local_start": 2.4600000381469727,
+          "local_end": 2.740000009536743,
+          "evidence_indices": [
+            10
+          ],
+          "start": 13.140000038146972,
+          "end": 13.420000009536743
+        },
+        {
+          "word": "the",
+          "local_start": 2.740000009536743,
+          "local_end": 2.9000000953674316,
+          "evidence_indices": [
+            11
+          ],
+          "start": 13.420000009536743,
+          "end": 13.580000095367431
+        },
+        {
+          "word": "router.",
+          "local_start": 2.9000000953674316,
+          "local_end": 3.059999942779541,
+          "evidence_indices": [
+            12
+          ],
+          "start": 13.580000095367431,
+          "end": 13.73999994277954
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "file": "05.mp3",
+      "text": "Found it. Is the password on that label, too?",
+      "audio_sha256": "66bfec3eb3a8f474cb6c0d3247c73c0c679c0cde418d2e9ae87c0b43b96d82bd",
+      "start": 14.04,
+      "end": 16.896,
+      "duration": 2.856,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Found",
+          "local_start": 0.0,
+          "local_end": 0.3799999952316284,
+          "evidence_indices": [
+            0
+          ],
+          "start": 14.04,
+          "end": 14.419999995231628
+        },
+        {
+          "word": "it.",
+          "local_start": 0.3799999952316284,
+          "local_end": 0.6800000071525574,
+          "evidence_indices": [
+            1
+          ],
+          "start": 14.419999995231628,
+          "end": 14.720000007152557
+        },
+        {
+          "word": "Is",
+          "local_start": 0.7799999713897705,
+          "local_end": 1.1799999475479126,
+          "evidence_indices": [
+            2
+          ],
+          "start": 14.81999997138977,
+          "end": 15.219999947547912
+        },
+        {
+          "word": "the",
+          "local_start": 1.1799999475479126,
+          "local_end": 1.2999999523162842,
+          "evidence_indices": [
+            3
+          ],
+          "start": 15.219999947547912,
+          "end": 15.339999952316283
+        },
+        {
+          "word": "password",
+          "local_start": 1.2999999523162842,
+          "local_end": 1.7000000476837158,
+          "evidence_indices": [
+            4
+          ],
+          "start": 15.339999952316283,
+          "end": 15.740000047683715
+        },
+        {
+          "word": "on",
+          "local_start": 1.7000000476837158,
+          "local_end": 1.899999976158142,
+          "evidence_indices": [
+            5
+          ],
+          "start": 15.740000047683715,
+          "end": 15.939999976158141
+        },
+        {
+          "word": "that",
+          "local_start": 1.899999976158142,
+          "local_end": 2.0999999046325684,
+          "evidence_indices": [
+            6
+          ],
+          "start": 15.939999976158141,
+          "end": 16.139999904632568
+        },
+        {
+          "word": "label,",
+          "local_start": 2.0999999046325684,
+          "local_end": 2.299999952316284,
+          "evidence_indices": [
+            7
+          ],
+          "start": 16.139999904632568,
+          "end": 16.339999952316283
+        },
+        {
+          "word": "too?",
+          "local_start": 2.619999885559082,
+          "local_end": 2.6600000858306885,
+          "evidence_indices": [
+            8
+          ],
+          "start": 16.65999988555908,
+          "end": 16.700000085830688
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "file": "06.mp3",
+      "text": "Yes. Be careful: the last character is a number, not a letter.",
+      "audio_sha256": "b141d3c531d0912c574b4dfaaef1c5584057953d9a24e5e999db21925200f477",
+      "start": 16.896,
+      "end": 21.504,
+      "duration": 4.608,
+      "zero_word_indices": [
+        11
+      ],
+      "words": [
+        {
+          "word": "Yes.",
+          "local_start": 0.0,
+          "local_end": 0.5600000023841858,
+          "evidence_indices": [
+            0
+          ],
+          "start": 16.896,
+          "end": 17.456000002384187
+        },
+        {
+          "word": "Be",
+          "local_start": 1.0800000429153442,
+          "local_end": 1.2400000095367432,
+          "evidence_indices": [
+            1
+          ],
+          "start": 17.976000042915345,
+          "end": 18.136000009536744
+        },
+        {
+          "word": "careful:",
+          "local_start": 1.2400000095367432,
+          "local_end": 1.600000023841858,
+          "evidence_indices": [
+            2
+          ],
+          "start": 18.136000009536744,
+          "end": 18.49600002384186
+        },
+        {
+          "word": "the",
+          "local_start": 1.9600000381469727,
+          "local_end": 2.0799999237060547,
+          "evidence_indices": [
+            3
+          ],
+          "start": 18.856000038146973,
+          "end": 18.975999923706055
+        },
+        {
+          "word": "last",
+          "local_start": 2.0799999237060547,
+          "local_end": 2.359999895095825,
+          "evidence_indices": [
+            4
+          ],
+          "start": 18.975999923706055,
+          "end": 19.255999895095826
+        },
+        {
+          "word": "character",
+          "local_start": 2.359999895095825,
+          "local_end": 2.7200000286102295,
+          "evidence_indices": [
+            5
+          ],
+          "start": 19.255999895095826,
+          "end": 19.61600002861023
+        },
+        {
+          "word": "is",
+          "local_start": 2.7200000286102295,
+          "local_end": 2.940000057220459,
+          "evidence_indices": [
+            6
+          ],
+          "start": 19.61600002861023,
+          "end": 19.83600005722046
+        },
+        {
+          "word": "a",
+          "local_start": 2.940000057220459,
+          "local_end": 3.259999990463257,
+          "evidence_indices": [
+            7
+          ],
+          "start": 19.83600005722046,
+          "end": 20.155999990463258
+        },
+        {
+          "word": "number,",
+          "local_start": 3.259999990463257,
+          "local_end": 3.3399999141693115,
+          "evidence_indices": [
+            8
+          ],
+          "start": 20.155999990463258,
+          "end": 20.235999914169312
+        },
+        {
+          "word": "not",
+          "local_start": 3.9000000953674316,
+          "local_end": 4.019999980926514,
+          "evidence_indices": [
+            9
+          ],
+          "start": 20.796000095367432,
+          "end": 20.915999980926514
+        },
+        {
+          "word": "a",
+          "local_start": 4.019999980926514,
+          "local_end": 4.340000152587891,
+          "evidence_indices": [
+            10
+          ],
+          "start": 20.915999980926514,
+          "end": 21.23600015258789
+        },
+        {
+          "word": "letter.",
+          "local_start": 4.340000152587891,
+          "local_end": 4.340000152587891,
+          "evidence_indices": [
+            11
+          ],
+          "start": 21.23600015258789,
+          "end": 21.23600015258789
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "file": "07.mp3",
+      "text": "Thanks. I will type it again slowly.",
+      "audio_sha256": "efc8d66ce289e814bde92927df97d99d75f3b2796c82cf29e08690b1fa8946cd",
+      "start": 21.504,
+      "end": 24.552,
+      "duration": 3.048,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Thanks.",
+          "local_start": 0.0,
+          "local_end": 0.47999998927116394,
+          "evidence_indices": [
+            0
+          ],
+          "start": 21.504,
+          "end": 21.983999989271165
+        },
+        {
+          "word": "I",
+          "local_start": 0.9200000166893005,
+          "local_end": 1.100000023841858,
+          "evidence_indices": [
+            1
+          ],
+          "start": 22.424000016689302,
+          "end": 22.60400002384186
+        },
+        {
+          "word": "will",
+          "local_start": 1.100000023841858,
+          "local_end": 1.2599999904632568,
+          "evidence_indices": [
+            2
+          ],
+          "start": 22.60400002384186,
+          "end": 22.763999990463258
+        },
+        {
+          "word": "type",
+          "local_start": 1.2599999904632568,
+          "local_end": 1.5,
+          "evidence_indices": [
+            3
+          ],
+          "start": 22.763999990463258,
+          "end": 23.004
+        },
+        {
+          "word": "it",
+          "local_start": 1.5,
+          "local_end": 1.7000000476837158,
+          "evidence_indices": [
+            4
+          ],
+          "start": 23.004,
+          "end": 23.204000047683717
+        },
+        {
+          "word": "again",
+          "local_start": 1.7000000476837158,
+          "local_end": 2.140000104904175,
+          "evidence_indices": [
+            5
+          ],
+          "start": 23.204000047683717,
+          "end": 23.644000104904176
+        },
+        {
+          "word": "slowly.",
+          "local_start": 2.140000104904175,
+          "local_end": 2.680000066757202,
+          "evidence_indices": [
+            6
+          ],
+          "start": 23.644000104904176,
+          "end": 24.184000066757203
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "file": "08.mp3",
+      "text": "Does the laptop say it is connected now?",
+      "audio_sha256": "721fc770dd0295941ff8429c975650496cd399863ea966f1240293e58827ec29",
+      "start": 24.552,
+      "end": 26.904,
+      "duration": 2.352,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Does",
+          "local_start": 0.0,
+          "local_end": 0.23999999463558197,
+          "evidence_indices": [
+            0
+          ],
+          "start": 24.552,
+          "end": 24.79199999463558
+        },
+        {
+          "word": "the",
+          "local_start": 0.23999999463558197,
+          "local_end": 0.46000000834465027,
+          "evidence_indices": [
+            1
+          ],
+          "start": 24.79199999463558,
+          "end": 25.01200000834465
+        },
+        {
+          "word": "laptop",
+          "local_start": 0.46000000834465027,
+          "local_end": 0.9200000166893005,
+          "evidence_indices": [
+            2
+          ],
+          "start": 25.01200000834465,
+          "end": 25.4720000166893
+        },
+        {
+          "word": "say",
+          "local_start": 0.9200000166893005,
+          "local_end": 1.2400000095367432,
+          "evidence_indices": [
+            3
+          ],
+          "start": 25.4720000166893,
+          "end": 25.792000009536743
+        },
+        {
+          "word": "it",
+          "local_start": 1.2400000095367432,
+          "local_end": 1.340000033378601,
+          "evidence_indices": [
+            4
+          ],
+          "start": 25.792000009536743,
+          "end": 25.8920000333786
+        },
+        {
+          "word": "is",
+          "local_start": 1.340000033378601,
+          "local_end": 1.5199999809265137,
+          "evidence_indices": [
+            5
+          ],
+          "start": 25.8920000333786,
+          "end": 26.071999980926513
+        },
+        {
+          "word": "connected",
+          "local_start": 1.5199999809265137,
+          "local_end": 1.7999999523162842,
+          "evidence_indices": [
+            6
+          ],
+          "start": 26.071999980926513,
+          "end": 26.351999952316284
+        },
+        {
+          "word": "now?",
+          "local_start": 1.7999999523162842,
+          "local_end": 2.119999885559082,
+          "evidence_indices": [
+            7
+          ],
+          "start": 26.351999952316284,
+          "end": 26.67199988555908
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "file": "09.mp3",
+      "text": "Yes, but let me open a page to check.",
+      "audio_sha256": "363e1862251be16326e8c407dc62f08522efa19e33125510415ace09805a2a11",
+      "start": 26.904,
+      "end": 29.424,
+      "duration": 2.52,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Yes,",
+          "local_start": 0.0,
+          "local_end": 0.4399999976158142,
+          "evidence_indices": [
+            0
+          ],
+          "start": 26.904,
+          "end": 27.343999997615814
+        },
+        {
+          "word": "but",
+          "local_start": 0.5,
+          "local_end": 0.8399999737739563,
+          "evidence_indices": [
+            1
+          ],
+          "start": 27.404,
+          "end": 27.743999973773956
+        },
+        {
+          "word": "let",
+          "local_start": 0.8399999737739563,
+          "local_end": 0.9800000190734863,
+          "evidence_indices": [
+            2
+          ],
+          "start": 27.743999973773956,
+          "end": 27.884000019073486
+        },
+        {
+          "word": "me",
+          "local_start": 0.9800000190734863,
+          "local_end": 1.1200000047683716,
+          "evidence_indices": [
+            3
+          ],
+          "start": 27.884000019073486,
+          "end": 28.02400000476837
+        },
+        {
+          "word": "open",
+          "local_start": 1.1200000047683716,
+          "local_end": 1.3200000524520874,
+          "evidence_indices": [
+            4
+          ],
+          "start": 28.02400000476837,
+          "end": 28.224000052452087
+        },
+        {
+          "word": "a",
+          "local_start": 1.3200000524520874,
+          "local_end": 1.5,
+          "evidence_indices": [
+            5
+          ],
+          "start": 28.224000052452087,
+          "end": 28.404
+        },
+        {
+          "word": "page",
+          "local_start": 1.5,
+          "local_end": 1.7400000095367432,
+          "evidence_indices": [
+            6
+          ],
+          "start": 28.404,
+          "end": 28.644000009536743
+        },
+        {
+          "word": "to",
+          "local_start": 1.7400000095367432,
+          "local_end": 1.9600000381469727,
+          "evidence_indices": [
+            7
+          ],
+          "start": 28.644000009536743,
+          "end": 28.864000038146973
+        },
+        {
+          "word": "check.",
+          "local_start": 1.9600000381469727,
+          "local_end": 2.180000066757202,
+          "evidence_indices": [
+            8
+          ],
+          "start": 28.864000038146973,
+          "end": 29.084000066757202
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "file": "10.mp3",
+      "text": "Good idea. My phone connected earlier, so the network is working for me.",
+      "audio_sha256": "c71ba31999c322e3bf0b37fd8563b59418053563ac80bcfc35d53143563e71cb",
+      "start": 29.424,
+      "end": 33.192,
+      "duration": 3.768,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Good",
+          "local_start": 0.0,
+          "local_end": 0.20000000298023224,
+          "evidence_indices": [
+            0
+          ],
+          "start": 29.424,
+          "end": 29.62400000298023
+        },
+        {
+          "word": "idea.",
+          "local_start": 0.20000000298023224,
+          "local_end": 0.6000000238418579,
+          "evidence_indices": [
+            1
+          ],
+          "start": 29.62400000298023,
+          "end": 30.024000023841857
+        },
+        {
+          "word": "My",
+          "local_start": 1.1200000047683716,
+          "local_end": 1.2200000286102295,
+          "evidence_indices": [
+            2
+          ],
+          "start": 30.54400000476837,
+          "end": 30.64400002861023
+        },
+        {
+          "word": "phone",
+          "local_start": 1.2200000286102295,
+          "local_end": 1.399999976158142,
+          "evidence_indices": [
+            3
+          ],
+          "start": 30.64400002861023,
+          "end": 30.82399997615814
+        },
+        {
+          "word": "connected",
+          "local_start": 1.399999976158142,
+          "local_end": 1.7400000095367432,
+          "evidence_indices": [
+            4
+          ],
+          "start": 30.82399997615814,
+          "end": 31.164000009536743
+        },
+        {
+          "word": "earlier,",
+          "local_start": 1.7400000095367432,
+          "local_end": 2.119999885559082,
+          "evidence_indices": [
+            5
+          ],
+          "start": 31.164000009536743,
+          "end": 31.54399988555908
+        },
+        {
+          "word": "so",
+          "local_start": 2.4200000762939453,
+          "local_end": 2.559999942779541,
+          "evidence_indices": [
+            6
+          ],
+          "start": 31.844000076293945,
+          "end": 31.98399994277954
+        },
+        {
+          "word": "the",
+          "local_start": 2.559999942779541,
+          "local_end": 2.740000009536743,
+          "evidence_indices": [
+            7
+          ],
+          "start": 31.98399994277954,
+          "end": 32.16400000953674
+        },
+        {
+          "word": "network",
+          "local_start": 2.740000009536743,
+          "local_end": 2.9000000953674316,
+          "evidence_indices": [
+            8
+          ],
+          "start": 32.16400000953674,
+          "end": 32.32400009536743
+        },
+        {
+          "word": "is",
+          "local_start": 2.9000000953674316,
+          "local_end": 3.0799999237060547,
+          "evidence_indices": [
+            9
+          ],
+          "start": 32.32400009536743,
+          "end": 32.503999923706054
+        },
+        {
+          "word": "working",
+          "local_start": 3.0799999237060547,
+          "local_end": 3.240000009536743,
+          "evidence_indices": [
+            10
+          ],
+          "start": 32.503999923706054,
+          "end": 32.66400000953674
+        },
+        {
+          "word": "for",
+          "local_start": 3.240000009536743,
+          "local_end": 3.5,
+          "evidence_indices": [
+            11
+          ],
+          "start": 32.66400000953674,
+          "end": 32.924
+        },
+        {
+          "word": "me.",
+          "local_start": 3.5,
+          "local_end": 3.5799999237060547,
+          "evidence_indices": [
+            12
+          ],
+          "start": 32.924,
+          "end": 33.003999923706054
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "file": "11.mp3",
+      "text": "The page loaded. I must have typed the password wrong before.",
+      "audio_sha256": "d40dfc7cc1f191e92569642fa940680f8bf30f1e5d38826e1c3537a2d1d8fdcc",
+      "start": 33.192,
+      "end": 36.552,
+      "duration": 3.36,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "The",
+          "local_start": 0.0,
+          "local_end": 0.2199999988079071,
+          "evidence_indices": [
+            0
+          ],
+          "start": 33.192,
+          "end": 33.41199999880791
+        },
+        {
+          "word": "page",
+          "local_start": 0.2199999988079071,
+          "local_end": 0.5,
+          "evidence_indices": [
+            1
+          ],
+          "start": 33.41199999880791,
+          "end": 33.692
+        },
+        {
+          "word": "loaded.",
+          "local_start": 0.5,
+          "local_end": 0.8999999761581421,
+          "evidence_indices": [
+            2
+          ],
+          "start": 33.692,
+          "end": 34.09199997615814
+        },
+        {
+          "word": "I",
+          "local_start": 1.4600000381469727,
+          "local_end": 1.6200000047683716,
+          "evidence_indices": [
+            3
+          ],
+          "start": 34.65200003814697,
+          "end": 34.81200000476837
+        },
+        {
+          "word": "must",
+          "local_start": 1.6200000047683716,
+          "local_end": 1.7599999904632568,
+          "evidence_indices": [
+            4
+          ],
+          "start": 34.81200000476837,
+          "end": 34.95199999046326
+        },
+        {
+          "word": "have",
+          "local_start": 1.7599999904632568,
+          "local_end": 1.940000057220459,
+          "evidence_indices": [
+            5
+          ],
+          "start": 34.95199999046326,
+          "end": 35.13200005722046
+        },
+        {
+          "word": "typed",
+          "local_start": 1.940000057220459,
+          "local_end": 2.0999999046325684,
+          "evidence_indices": [
+            6
+          ],
+          "start": 35.13200005722046,
+          "end": 35.29199990463257
+        },
+        {
+          "word": "the",
+          "local_start": 2.0999999046325684,
+          "local_end": 2.2799999713897705,
+          "evidence_indices": [
+            7
+          ],
+          "start": 35.29199990463257,
+          "end": 35.47199997138977
+        },
+        {
+          "word": "password",
+          "local_start": 2.2799999713897705,
+          "local_end": 2.5399999618530273,
+          "evidence_indices": [
+            8
+          ],
+          "start": 35.47199997138977,
+          "end": 35.73199996185303
+        },
+        {
+          "word": "wrong",
+          "local_start": 2.5399999618530273,
+          "local_end": 2.819999933242798,
+          "evidence_indices": [
+            9
+          ],
+          "start": 35.73199996185303,
+          "end": 36.0119999332428
+        },
+        {
+          "word": "before.",
+          "local_start": 2.819999933242798,
+          "local_end": 3.119999885559082,
+          "evidence_indices": [
+            10
+          ],
+          "start": 36.0119999332428,
+          "end": 36.31199988555908
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "file": "12.mp3",
+      "text": "Glad it works. Keep the password private when guests visit.",
+      "audio_sha256": "9f2369fa37456fa4c97de33ebcee6e01e7bd8a57d2202398f1a81062833c175e",
+      "start": 36.552,
+      "end": 40.512,
+      "duration": 3.96,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Glad",
+          "local_start": 0.0,
+          "local_end": 0.30000001192092896,
+          "evidence_indices": [
+            0
+          ],
+          "start": 36.552,
+          "end": 36.85200001192093
+        },
+        {
+          "word": "it",
+          "local_start": 0.30000001192092896,
+          "local_end": 0.47999998927116394,
+          "evidence_indices": [
+            1
+          ],
+          "start": 36.85200001192093,
+          "end": 37.03199998927116
+        },
+        {
+          "word": "works.",
+          "local_start": 0.47999998927116394,
+          "local_end": 0.7799999713897705,
+          "evidence_indices": [
+            2
+          ],
+          "start": 37.03199998927116,
+          "end": 37.33199997138977
+        },
+        {
+          "word": "Keep",
+          "local_start": 1.600000023841858,
+          "local_end": 1.6799999475479126,
+          "evidence_indices": [
+            3
+          ],
+          "start": 38.15200002384186,
+          "end": 38.23199994754791
+        },
+        {
+          "word": "the",
+          "local_start": 1.6799999475479126,
+          "local_end": 1.8600000143051147,
+          "evidence_indices": [
+            4
+          ],
+          "start": 38.23199994754791,
+          "end": 38.412000014305114
+        },
+        {
+          "word": "password",
+          "local_start": 1.8600000143051147,
+          "local_end": 2.119999885559082,
+          "evidence_indices": [
+            5
+          ],
+          "start": 38.412000014305114,
+          "end": 38.67199988555908
+        },
+        {
+          "word": "private",
+          "local_start": 2.119999885559082,
+          "local_end": 2.640000104904175,
+          "evidence_indices": [
+            6
+          ],
+          "start": 38.67199988555908,
+          "end": 39.192000104904174
+        },
+        {
+          "word": "when",
+          "local_start": 2.640000104904175,
+          "local_end": 3.0399999618530273,
+          "evidence_indices": [
+            7
+          ],
+          "start": 39.192000104904174,
+          "end": 39.59199996185303
+        },
+        {
+          "word": "guests",
+          "local_start": 3.0399999618530273,
+          "local_end": 3.319999933242798,
+          "evidence_indices": [
+            8
+          ],
+          "start": 39.59199996185303,
+          "end": 39.8719999332428
+        },
+        {
+          "word": "visit.",
+          "local_start": 3.319999933242798,
+          "local_end": 3.5999999046325684,
+          "evidence_indices": [
+            9
+          ],
+          "start": 39.8719999332428,
+          "end": 40.15199990463257
+        }
+      ]
+    }
+  ]
+}

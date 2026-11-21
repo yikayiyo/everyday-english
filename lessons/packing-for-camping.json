@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-22",
+  "slug": "packing-for-camping",
+  "title": "Packing for a Camping Weekend",
+  "title_zh": "为露营周末打包",
+  "context": "Molly 和 Jack 为营地过夜分工整理装备，并核对各自携带的东西。 本课属于 2026-11-22 预制系列，题目是原创口语练习，并非真实考试题。",
+  "voices": {
+    "Molly": "marin",
+    "Jack": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Molly",
+      "en": "I'm packing for our camping weekend. Do you have the tent?",
+      "zh": "我正在为露营周末打包。帐篷在你那里吗？"
+    },
+    {
+      "speaker": "Jack",
+      "en": "Yes, and I checked that all the poles are in the bag.",
+      "zh": "在，而且我检查过，所有支杆都在袋子里。"
+    },
+    {
+      "speaker": "Molly",
+      "en": "Great. I'll bring my sleeping bag and a small pillow.",
+      "zh": "太好了。我会带睡袋和一个小枕头。"
+    },
+    {
+      "speaker": "Jack",
+      "en": "I'll pack mine too. Have you found your flashlight?",
+      "zh": "我也会带上我的。你找到手电筒了吗？"
+    },
+    {
+      "speaker": "Molly",
+      "en": "Yes. I tested it and put spare batteries in my bag.",
+      "zh": "找到了。我试过了，还把备用电池放进包里。"
+    },
+    {
+      "speaker": "Jack",
+      "en": "Good thinking. I'm bringing water bottles for both of us.",
+      "zh": "想得周到。我会给我们两人带水瓶。"
+    },
+    {
+      "speaker": "Molly",
+      "en": "I'll pack a warm layer for the evening.",
+      "zh": "我会为晚上带一件保暖外套。"
+    },
+    {
+      "speaker": "Jack",
+      "en": "I should bring one too. It may get cool after dark.",
+      "zh": "我也该带一件。天黑后可能会变凉。"
+    },
+    {
+      "speaker": "Molly",
+      "en": "Do we need to bring towels?",
+      "zh": "我们需要带毛巾吗？"
+    },
+    {
+      "speaker": "Jack",
+      "en": "The campsite message says to bring our own, so I'll pack one.",
+      "zh": "营地发的消息说要自带，所以我会带一条。"
+    },
+    {
+      "speaker": "Molly",
+      "en": "I'll add mine to the list and check my bag tonight.",
+      "zh": "我会把我的加到清单上，今晚检查背包。"
+    },
+    {
+      "speaker": "Jack",
+      "en": "Perfect. I'll put the tent by the door so we remember it.",
+      "zh": "太好了。我会把帐篷放在门边，免得我们忘了带。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "spare batteries",
+      "zh": "备用电池。",
+      "example": "I keep spare batteries in a drawer."
+    },
+    {
+      "en": "warm layer",
+      "zh": "一层保暖衣物。",
+      "example": "Bring a warm layer for the evening."
+    },
+    {
+      "en": "after dark",
+      "zh": "天黑后。",
+      "example": "The path is quiet after dark."
+    },
+    {
+      "en": "bring our own",
+      "zh": "自己带上所需物品。",
+      "example": "The invitation says to bring our own cups."
+    },
+    {
+      "en": "add to the list",
+      "zh": "加到清单上。",
+      "example": "Add soap to the list, please."
+    }
+  ],
+  "pronunciation": "camping 重读第一个音节；batteries 常读作两个或三个音节，重音在第一个音节。",
+  "practice": [
+    {
+      "title": "Part 1 · Packing",
+      "prompt": "Do you make a list before a trip?",
+      "answer": "Yes. A list helps me remember small things like a charger and a toothbrush."
+    },
+    {
+      "title": "Part 2 · Preparing for a trip",
+      "prompt": "Describe a trip you prepared for. Say where you went, what you packed, and how you prepared.",
+      "answer": "Last fall I prepared for a weekend at a campsite with a friend. We shared a tent, so he checked the poles while I packed my sleeping bag and a flashlight. I also brought a warm layer and a towel after reading the campsite message. The night before we left, I checked my list once more. That made the morning less hurried and helped us start the trip in a good mood. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Planning trips",
+      "prompt": "Why do some people prefer to prepare carefully before traveling?",
+      "answer": "Preparation can reduce stress and help people remember things they need. However, leaving some free time in the plan can also make a trip feel more flexible."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "跟读后和同伴分工打包，说出三件物品并确认谁负责帐篷。",
+      "answer": "I'll bring my sleeping bag, a flashlight, and a towel. Do you have the tent? I'll check my list tonight."
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-22",
+  "slug": "music-practice",
+  "title": "Making Time for Music Practice",
+  "title_zh": "商量音乐练习时间",
+  "context": "公寓室友 Claire 和 Noah 商量键盘练习的时间与音量，照顾彼此的工作安排。 本课属于 2026-11-22 预制系列，练习题为原创练习，并非真实考试题。",
+  "voices": {
+    "Claire": "marin",
+    "Noah": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Claire",
+      "en": "I started learning the keyboard. Could we talk about a good practice time?",
+      "zh": "我开始学键盘了。我们能商量一下合适的练习时间吗？"
+    },
+    {
+      "speaker": "Noah",
+      "en": "Sure. I work from home in the afternoons this week.",
+      "zh": "当然。我这周下午在家工作。"
+    },
+    {
+      "speaker": "Claire",
+      "en": "Would early evening be better for you?",
+      "zh": "傍晚对你来说会更好吗？"
+    },
+    {
+      "speaker": "Noah",
+      "en": "Yes, after six I am usually finished with calls.",
+      "zh": "是的，六点以后我的电话会议通常就结束了。"
+    },
+    {
+      "speaker": "Claire",
+      "en": "I could practice for half an hour around six thirty.",
+      "zh": "我可以六点半左右练习半小时。"
+    },
+    {
+      "speaker": "Noah",
+      "en": "That works. Can you use headphones with the keyboard?",
+      "zh": "可以。你的键盘能接耳机吗？"
+    },
+    {
+      "speaker": "Claire",
+      "en": "Yes, I can. You may still hear the keys a little.",
+      "zh": "可以。不过你可能还是会听到一点按键声。"
+    },
+    {
+      "speaker": "Noah",
+      "en": "That should be fine. Thanks for checking with me.",
+      "zh": "那应该没问题。谢谢你先和我商量。"
+    },
+    {
+      "speaker": "Claire",
+      "en": "If the sound bothers you, please let me know.",
+      "zh": "如果声音打扰到你，请告诉我。"
+    },
+    {
+      "speaker": "Noah",
+      "en": "I will. On Thursday I have a late call, though.",
+      "zh": "我会的。不过周四我有一个较晚的电话会议。"
+    },
+    {
+      "speaker": "Claire",
+      "en": "Then I will practice after your call that day. Send me a message when it ends.",
+      "zh": "那我周四等你电话结束后再练。结束时给我发条消息吧。"
+    },
+    {
+      "speaker": "Noah",
+      "en": "Deal. I hope you enjoy learning your new instrument.",
+      "zh": "说定了。希望你学新乐器学得开心。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "practice time",
+      "zh": "练习时间。",
+      "example": "Let us agree on a practice time."
+    },
+    {
+      "en": "work from home",
+      "zh": "在家工作。",
+      "example": "I work from home on Mondays."
+    },
+    {
+      "en": "around six thirty",
+      "zh": "六点半左右；around 表示大约。",
+      "example": "The lesson begins around six thirty."
+    },
+    {
+      "en": "use headphones",
+      "zh": "使用耳机。",
+      "example": "I use headphones when I listen at night."
+    },
+    {
+      "en": "let me know",
+      "zh": "告诉我，让我知道。",
+      "example": "Let me know if the time changes."
+    }
+  ],
+  "pronunciation": "keyboard 重音在第一音节 KEY；headphones 的 head 与 bed 押韵，不读成 heed。",
+  "practice": [
+    {
+      "title": "Part 1 · Music",
+      "prompt": "Do you play a musical instrument?",
+      "answer": "I am learning the keyboard. I practice for short periods because it helps me remember what I learned without getting too tired."
+    },
+    {
+      "title": "Part 2 · Learning a skill",
+      "prompt": "Describe a skill you are learning. Say how you practice, what is difficult, and why you want to continue.",
+      "answer": "I recently started learning to play the keyboard at home. I practice for about half an hour in the early evening and use headphones. At first, it was hard to move both hands at the same time. I started with a slow song and repeated a small part each day. I want to continue because I enjoy hearing myself make progress and hope to play for my family. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Shared spaces",
+      "prompt": "How can people balance hobbies and other people's needs at home?",
+      "answer": "They can discuss when and where the activity will happen. Simple changes, such as using headphones or choosing a different time, can make sharing a home easier."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "跟读商量练习时间的句子，再向室友提出自己的安排。",
+      "answer": "Could I practice the keyboard around six? I can use headphones. Please let me know if the sound bothers you."
+    }
+  ]
+}

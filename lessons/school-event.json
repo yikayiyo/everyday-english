@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-22",
+  "slug": "school-event",
+  "title": "Helping at a School Reading Day",
+  "title_zh": "帮忙筹备学校阅读日",
+  "context": "家长 Emily 和老师 Ben 商量阅读日的志愿工作与接送信息。 本课为 2026-11-22 预制系列原创练习，并非真实考试题。",
+  "voices": {
+    "Emily": "marin",
+    "Ben": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Emily",
+      "en": "I saw the note about reading day. Could I help at the event?",
+      "zh": "我看到阅读日的通知了。我能在活动中帮忙吗？"
+    },
+    {
+      "speaker": "Ben",
+      "en": "We would appreciate that. Can you help children find their reading groups?",
+      "zh": "非常感谢。你能帮孩子们找到各自的阅读小组吗？"
+    },
+    {
+      "speaker": "Emily",
+      "en": "Yes. Where should I meet them?",
+      "zh": "可以。我在哪里接他们？"
+    },
+    {
+      "speaker": "Ben",
+      "en": "Please meet them at the classroom door after lunch.",
+      "zh": "请午饭后在教室门口接他们。"
+    },
+    {
+      "speaker": "Emily",
+      "en": "Will there be a list of the groups?",
+      "zh": "会有分组名单吗？"
+    },
+    {
+      "speaker": "Ben",
+      "en": "Yes, I will give you one with the room names.",
+      "zh": "会的，我会给你一份写有教室名称的名单。"
+    },
+    {
+      "speaker": "Emily",
+      "en": "My son is in your class. May I bring him home afterward?",
+      "zh": "我儿子在您的班上。活动结束后我可以带他回家吗？"
+    },
+    {
+      "speaker": "Ben",
+      "en": "Yes. Please let me know before you leave with him.",
+      "zh": "可以。带他离开前请告诉我一声。"
+    },
+    {
+      "speaker": "Emily",
+      "en": "Of course. Do you need me to bring any books?",
+      "zh": "当然。需要我带书吗？"
+    },
+    {
+      "speaker": "Ben",
+      "en": "No, the school has prepared enough for this event.",
+      "zh": "不用，学校为这次活动准备了足够的书。"
+    },
+    {
+      "speaker": "Emily",
+      "en": "Then I will come a little early to look at the list.",
+      "zh": "那我会早点来看看名单。"
+    },
+    {
+      "speaker": "Ben",
+      "en": "Thank you, Emily. I will see you at the classroom door.",
+      "zh": "谢谢你，Emily。教室门口见。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "help at an event",
+      "zh": "在活动中帮忙。",
+      "example": "My sister helped at the school concert."
+    },
+    {
+      "en": "reading group",
+      "zh": "阅读小组。",
+      "example": "Our reading group meets on Friday."
+    },
+    {
+      "en": "afterward",
+      "zh": "之后，指前面提到的事情结束后。",
+      "example": "We watched a play and talked afterward."
+    },
+    {
+      "en": "let me know",
+      "zh": "告诉我，让我知道。",
+      "example": "Please let me know when you arrive."
+    },
+    {
+      "en": "a little early",
+      "zh": "稍微早一点。",
+      "example": "I arrived a little early to find my seat."
+    }
+  ],
+  "pronunciation": "classroom 重音在第一音节；在 let me 中，两个词连贯但仍保留 /t/ 的收尾。",
+  "practice": [
+    {
+      "title": "Part 1 · School events",
+      "prompt": "Did you enjoy school events as a child?",
+      "answer": "Yes. I liked reading days because we could listen to stories with children from other classes."
+    },
+    {
+      "title": "Part 2 · A school activity",
+      "prompt": "Describe a school activity you helped with or attended. Say what happened, who was there, and how you felt.",
+      "answer": "I helped at a reading day at my son's school. After lunch, I met a group of children at their classroom door and helped them find the right room. The teacher gave me a list, so I could check where everyone needed to go. I enjoyed listening to the children talk about their books. At the end, I told the teacher before taking my son home. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · School and families",
+      "prompt": "How can schools make it easier for families to join events?",
+      "answer": "Schools can give clear information in advance and offer different ways to help. Short tasks and accessible times may allow more families to take part."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "跟读询问志愿任务的对话，再确认地点和需要携带的物品。",
+      "answer": "Could I help at reading day? Where should I meet the children? Please let me know if I need to bring anything."
+    }
+  ]
+}

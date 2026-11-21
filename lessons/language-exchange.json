@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-22",
+  "slug": "language-exchange",
+  "title": "Starting a Language Exchange",
+  "title_zh": "开始语言交换",
+  "context": "Lena 和 Marco 在第一次语言交换见面时商量练习方式，并决定下次带照片聊天。 本课属于 2026-11-22 预制系列，内容和口语题均为原创练习，并非真实考试题。",
+  "voices": {
+    "Lena": "marin",
+    "Marco": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Lena",
+      "en": "Is this seat free for the language exchange?",
+      "zh": "语言交换活动这里的座位有人坐吗？"
+    },
+    {
+      "speaker": "Marco",
+      "en": "It is. I am Marco. Are you here to practice Spanish?",
+      "zh": "是的。我叫 Marco。你是来练习西班牙语的吗？"
+    },
+    {
+      "speaker": "Lena",
+      "en": "Yes, I'm Lena. I can help you practice English, too.",
+      "zh": "是的，我叫 Lena。我也可以帮你练习英语。"
+    },
+    {
+      "speaker": "Marco",
+      "en": "That would be great. How should we divide our time?",
+      "zh": "那太好了。我们怎么分配时间呢？"
+    },
+    {
+      "speaker": "Lena",
+      "en": "How about fifteen minutes in each language?",
+      "zh": "每种语言各练十五分钟怎么样？"
+    },
+    {
+      "speaker": "Marco",
+      "en": "That sounds fair. Please speak slowly when we use Spanish.",
+      "zh": "这样很公平。我们说西班牙语时请说慢一点。"
+    },
+    {
+      "speaker": "Lena",
+      "en": "Of course. And please tell me if I make a mistake.",
+      "zh": "当然。如果我说错了，也请告诉我。"
+    },
+    {
+      "speaker": "Marco",
+      "en": "I will. Would you rather talk about travel or hobbies today?",
+      "zh": "好的。今天你更想聊旅行还是爱好？"
+    },
+    {
+      "speaker": "Lena",
+      "en": "Let's start with hobbies. I like drawing after work.",
+      "zh": "先聊爱好吧。我喜欢下班后画画。"
+    },
+    {
+      "speaker": "Marco",
+      "en": "I play soccer on weekends. We could bring photos next time.",
+      "zh": "我周末踢足球。下次我们可以带照片来。"
+    },
+    {
+      "speaker": "Lena",
+      "en": "Good idea. Pictures will give us more to talk about.",
+      "zh": "好主意。照片会让我们有更多话题。"
+    },
+    {
+      "speaker": "Marco",
+      "en": "Then let's meet here again next Thursday after work.",
+      "zh": "那我们下周四下班后再在这里见面吧。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "divide our time",
+      "zh": "分配时间，适合商量活动安排。",
+      "example": "We can divide our time between reading and speaking."
+    },
+    {
+      "en": "How about...?",
+      "zh": "提出建议：……怎么样？",
+      "example": "How about meeting after lunch?"
+    },
+    {
+      "en": "speak slowly",
+      "zh": "说慢一点，方便对方听懂。",
+      "example": "Could you speak slowly during the call?"
+    },
+    {
+      "en": "make a mistake",
+      "zh": "犯错，指语言或其他活动中的错误。",
+      "example": "It's fine to make a mistake while learning."
+    },
+    {
+      "en": "start with",
+      "zh": "从某事开始。",
+      "example": "Let's start with a short question."
+    }
+  ],
+  "pronunciation": "exchange 重音在第二音节；在 speak slowly 中，两个词开头的 /s/ 都要清楚，slowly 的重音在第一音节。",
+  "practice": [
+    {
+      "title": "Part 1 · Learning languages",
+      "prompt": "How do you practice a new language?",
+      "answer": "I practice with a friend once a week. We ask each other simple questions, and I write down useful new words."
+    },
+    {
+      "title": "Part 2 · A conversation partner",
+      "prompt": "Describe someone you would like to practice a language with. Say who the person is, what you would talk about, and why.",
+      "answer": "I would like to practice Spanish with my friend Ana. She is patient and enjoys talking about daily life. We could meet at a cafe after work and spend half an hour speaking together. I would ask her about her favorite places and tell her about my hobbies. If I made a mistake, I would ask her to help me correct it. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Learning together",
+      "prompt": "How can conversation partners help language learners?",
+      "answer": "They give learners a chance to use words in real conversations. Partners can also explain mistakes gently and help each other stay motivated."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "跟读双方商量练习时间的句子，再邀请一位语伴并提出话题。",
+      "answer": "Would you like to practice together? We can spend fifteen minutes in each language. Let's talk about our hobbies first."
+    }
+  ]
+}

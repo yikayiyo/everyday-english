@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-22",
+  "slug": "community-theater",
+  "title": "A Job Behind the Curtain",
+  "title_zh": "在社区剧场做幕后工作",
+  "context": "Iris 想参加社区剧场的演出活动，向志愿者 Theo 询问幕后工作并报名一次排练帮忙。 本课属于 2026-11-22 预制系列，练习题为原创练习，并非真实考试题。",
+  "voices": {
+    "Iris": "marin",
+    "Theo": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Iris",
+      "en": "I saw the poster for your community play. Are you looking for help?",
+      "zh": "我看到了你们社区戏剧的海报。你们需要帮忙吗？"
+    },
+    {
+      "speaker": "Theo",
+      "en": "Yes, we need people backstage as well as actors.",
+      "zh": "需要，我们既需要演员，也需要幕后工作人员。"
+    },
+    {
+      "speaker": "Iris",
+      "en": "I am shy about acting, but I would like to help.",
+      "zh": "我不太敢演戏，不过想帮忙。"
+    },
+    {
+      "speaker": "Theo",
+      "en": "We could use someone to organize the props before each scene.",
+      "zh": "我们需要有人在每场戏之前整理道具。"
+    },
+    {
+      "speaker": "Iris",
+      "en": "What kind of things are the props?",
+      "zh": "道具都是什么样的东西？"
+    },
+    {
+      "speaker": "Theo",
+      "en": "For this play, they include a suitcase, a hat, and a letter.",
+      "zh": "这部戏的道具包括一个手提箱、一顶帽子和一封信。"
+    },
+    {
+      "speaker": "Iris",
+      "en": "That sounds manageable. Would someone show me where they go?",
+      "zh": "听起来我能做。会有人告诉我它们放在哪里吗？"
+    },
+    {
+      "speaker": "Theo",
+      "en": "Yes. Our stage manager has a list and will show you.",
+      "zh": "会的。我们的舞台监督有清单，会教你。"
+    },
+    {
+      "speaker": "Iris",
+      "en": "I am free Tuesday evening. Could I come to a rehearsal?",
+      "zh": "我周二晚上有空。我可以来一次排练吗？"
+    },
+    {
+      "speaker": "Theo",
+      "en": "Please do. We start at seven, and I can meet you at the side door.",
+      "zh": "欢迎。我们七点开始，我可以在侧门接你。"
+    },
+    {
+      "speaker": "Iris",
+      "en": "Wonderful. I will bring a notebook to write things down.",
+      "zh": "太好了。我会带个笔记本记下来。"
+    },
+    {
+      "speaker": "Theo",
+      "en": "See you Tuesday. We are glad to have your help.",
+      "zh": "周二见。很高兴有你帮忙。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "backstage",
+      "zh": "在后台或幕后。",
+      "example": "She helps backstage during the play."
+    },
+    {
+      "en": "props",
+      "zh": "演出道具，是 properties 的简称。",
+      "example": "The table and the letter are props."
+    },
+    {
+      "en": "stage manager",
+      "zh": "舞台监督，负责协调舞台工作。",
+      "example": "The stage manager checked the list."
+    },
+    {
+      "en": "rehearsal",
+      "zh": "排练。",
+      "example": "The actors met for a rehearsal."
+    },
+    {
+      "en": "write things down",
+      "zh": "把事情记下来。",
+      "example": "I write things down so I remember them."
+    }
+  ],
+  "pronunciation": "rehearsal 重音在第二音节 HEAR；props 末尾的 /ps/ 两个辅音都要轻轻带出。",
+  "practice": [
+    {
+      "title": "Part 1 · Performances",
+      "prompt": "Do you enjoy watching live performances?",
+      "answer": "Yes. I like seeing how performers react to the audience, and a small theater can feel very welcoming."
+    },
+    {
+      "title": "Part 2 · Helping at an event",
+      "prompt": "Describe an event you helped with. Say what the event was, what you did, and what you learned.",
+      "answer": "I helped backstage at a small community play last year. The stage manager showed me a list of props, including a hat and a suitcase. Before each scene, I checked that the actors could find what they needed. At first I was nervous about forgetting something, so I wrote notes. The show went smoothly, and I learned that quiet work behind the scenes matters too. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Community arts",
+      "prompt": "Why might a community benefit from a local theater?",
+      "answer": "It gives people a chance to create something together, including those who prefer working behind the scenes. Performances can also introduce neighbors to stories and ideas they might not otherwise encounter."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "跟读询问幕后工作的句子，再说明你想怎样参与一次演出。",
+      "answer": "Are you looking for backstage help? I can organize the props. Could someone show me where everything goes?"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-22",
+  "slug": "baking-bread",
+  "title": "Baking Bread Together",
+  "title_zh": "一起烤面包",
+  "context": "Clara 和弟弟 Max 在家尝试做一条面包，商量等待发酵和烘烤的步骤。本课属于 2026-11-22 预制系列，题目为原创练习，并非真实考试题。",
+  "voices": {
+    "Clara": "marin",
+    "Max": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Clara",
+      "en": "The dough feels sticky. Should we add more flour?",
+      "zh": "面团摸起来很黏。我们要再加面粉吗？"
+    },
+    {
+      "speaker": "Max",
+      "en": "Let's add a little at a time and mix it in.",
+      "zh": "我们一次加一点，搅拌进去吧。"
+    },
+    {
+      "speaker": "Clara",
+      "en": "That feels better. What does the recipe say next?",
+      "zh": "感觉好多了。食谱接下来怎么说？"
+    },
+    {
+      "speaker": "Max",
+      "en": "Cover the bowl and let the dough rise until it gets bigger.",
+      "zh": "盖上碗，让面团发酵膨胀。"
+    },
+    {
+      "speaker": "Clara",
+      "en": "Can we leave it on the kitchen counter?",
+      "zh": "我们可以把它放在厨房台面上吗？"
+    },
+    {
+      "speaker": "Max",
+      "en": "Yes, the recipe suggests a warm spot. This corner should work.",
+      "zh": "可以，食谱建议放在温暖的地方。这个角落应该合适。"
+    },
+    {
+      "speaker": "Clara",
+      "en": "It's much bigger now. Should I shape it into a loaf?",
+      "zh": "现在大多了。我把它整形成一条面包吗？"
+    },
+    {
+      "speaker": "Max",
+      "en": "Please do. I'll get the pan ready while you do that.",
+      "zh": "麻烦你了。我趁你整形时把烤盘准备好。"
+    },
+    {
+      "speaker": "Clara",
+      "en": "The dough is in the pan. How long should it bake?",
+      "zh": "面团放进烤盘了。要烤多久？"
+    },
+    {
+      "speaker": "Max",
+      "en": "Our recipe says about thirty minutes. Let's set a timer and check it then.",
+      "zh": "我们的食谱说大约三十分钟。我们定个闹钟，到时检查一下。"
+    },
+    {
+      "speaker": "Clara",
+      "en": "The top looks golden now, and it smells wonderful.",
+      "zh": "现在表面看起来金黄，闻起来真香。"
+    },
+    {
+      "speaker": "Max",
+      "en": "Let's let it cool before we slice it. I can't wait to try some.",
+      "zh": "我们切之前先让它冷却。我迫不及待想尝尝了。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "a little at a time",
+      "zh": "一次少量，逐步进行。",
+      "example": "Add the milk a little at a time."
+    },
+    {
+      "en": "let the dough rise",
+      "zh": "让面团发酵膨胀。",
+      "example": "Let the dough rise in the covered bowl."
+    },
+    {
+      "en": "get the pan ready",
+      "zh": "准备好烤盘或锅。",
+      "example": "I'll get the pan ready for the vegetables."
+    },
+    {
+      "en": "set a timer",
+      "zh": "设置计时器。",
+      "example": "Set a timer for ten minutes."
+    },
+    {
+      "en": "can't wait to",
+      "zh": "迫不及待想做某事。",
+      "example": "I can't wait to see your new place."
+    }
+  ],
+  "pronunciation": "dough 和 though 韵尾发相同的长元音 /oʊ/，gh 不发音；loaf 结尾的 f 清晰送气。",
+  "practice": [
+    {
+      "title": "Part 1 · Baking",
+      "prompt": "Do you enjoy baking?",
+      "answer": "Yes, although I do not bake often. I like the smell of fresh bread and the calm feeling of working in the kitchen."
+    },
+    {
+      "title": "Part 2 · Making food with someone",
+      "prompt": "Describe a time you made food with another person. Say what you made, what each of you did, and how it turned out.",
+      "answer": "I made a loaf of bread with my brother on a rainy afternoon. We followed a recipe and mixed the flour and other ingredients in a large bowl. I shaped the dough while he prepared the pan. We waited for it to bake and watched the top turn golden. After it cooled, we each had a slice. It was a little uneven, but it tasted good, and we enjoyed making it together. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Cooking together",
+      "prompt": "Why might people enjoy making food together?",
+      "answer": "They can share the work and learn from each other. Preparing food also gives them time to talk, and eating the result can make the experience feel rewarding."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "跟读后描述与朋友做面包时如何分工、等待和检查。",
+      "answer": "I'll shape the dough. Could you get the pan ready? Let's set a timer and check the bread later."
+    }
+  ]
+}

@@ -1,0 +1,1476 @@
+{
+  "timing_status": "strict_timing_pass",
+  "timing_warnings": [],
+  "model": "whisper-1",
+  "lesson": "organizing-photos",
+  "source_sha256": "9301baff83eb237b72a915517ec9efb9a788fb96f92f44007b444ff511ade538",
+  "full_track": "dialogue-full.mp3",
+  "full_duration": 41.544,
+  "full_audio_sha256": "d173d1e892b31abb3c55ad9e5a68120b1a6caafbf475fc05336472eeaea523b2",
+  "lines": [
+    {
+      "index": 1,
+      "file": "01.mp3",
+      "text": "I found a box of family photos in the closet. Want to sort them with me?",
+      "audio_sha256": "6e3869309607985518b7b16ddccc3f2b28dc0c1132d4c42b1e0349d19c7a7e29",
+      "start": 0,
+      "end": 3.72,
+      "duration": 3.72,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "I",
+          "local_start": 0.0,
+          "local_end": 0.1599999964237213,
+          "evidence_indices": [
+            0
+          ],
+          "start": 0.0,
+          "end": 0.1599999964237213
+        },
+        {
+          "word": "found",
+          "local_start": 0.1599999964237213,
+          "local_end": 0.46000000834465027,
+          "evidence_indices": [
+            1
+          ],
+          "start": 0.1599999964237213,
+          "end": 0.46000000834465027
+        },
+        {
+          "word": "a",
+          "local_start": 0.46000000834465027,
+          "local_end": 0.6200000047683716,
+          "evidence_indices": [
+            2
+          ],
+          "start": 0.46000000834465027,
+          "end": 0.6200000047683716
+        },
+        {
+          "word": "box",
+          "local_start": 0.6200000047683716,
+          "local_end": 0.8799999952316284,
+          "evidence_indices": [
+            3
+          ],
+          "start": 0.6200000047683716,
+          "end": 0.8799999952316284
+        },
+        {
+          "word": "of",
+          "local_start": 0.8799999952316284,
+          "local_end": 1.1399999856948853,
+          "evidence_indices": [
+            4
+          ],
+          "start": 0.8799999952316284,
+          "end": 1.1399999856948853
+        },
+        {
+          "word": "family",
+          "local_start": 1.1399999856948853,
+          "local_end": 1.340000033378601,
+          "evidence_indices": [
+            5
+          ],
+          "start": 1.1399999856948853,
+          "end": 1.340000033378601
+        },
+        {
+          "word": "photos",
+          "local_start": 1.340000033378601,
+          "local_end": 1.6799999475479126,
+          "evidence_indices": [
+            6
+          ],
+          "start": 1.340000033378601,
+          "end": 1.6799999475479126
+        },
+        {
+          "word": "in",
+          "local_start": 1.6799999475479126,
+          "local_end": 1.8200000524520874,
+          "evidence_indices": [
+            7
+          ],
+          "start": 1.6799999475479126,
+          "end": 1.8200000524520874
+        },
+        {
+          "word": "the",
+          "local_start": 1.8200000524520874,
+          "local_end": 1.9600000381469727,
+          "evidence_indices": [
+            8
+          ],
+          "start": 1.8200000524520874,
+          "end": 1.9600000381469727
+        },
+        {
+          "word": "closet.",
+          "local_start": 1.9600000381469727,
+          "local_end": 2.2799999713897705,
+          "evidence_indices": [
+            9
+          ],
+          "start": 1.9600000381469727,
+          "end": 2.2799999713897705
+        },
+        {
+          "word": "Want",
+          "local_start": 2.940000057220459,
+          "local_end": 3.0,
+          "evidence_indices": [
+            10
+          ],
+          "start": 2.940000057220459,
+          "end": 3.0
+        },
+        {
+          "word": "to",
+          "local_start": 3.0,
+          "local_end": 3.140000104904175,
+          "evidence_indices": [
+            11
+          ],
+          "start": 3.0,
+          "end": 3.140000104904175
+        },
+        {
+          "word": "sort",
+          "local_start": 3.140000104904175,
+          "local_end": 3.259999990463257,
+          "evidence_indices": [
+            12
+          ],
+          "start": 3.140000104904175,
+          "end": 3.259999990463257
+        },
+        {
+          "word": "them",
+          "local_start": 3.259999990463257,
+          "local_end": 3.359999895095825,
+          "evidence_indices": [
+            13
+          ],
+          "start": 3.259999990463257,
+          "end": 3.359999895095825
+        },
+        {
+          "word": "with",
+          "local_start": 3.359999895095825,
+          "local_end": 3.4800000190734863,
+          "evidence_indices": [
+            14
+          ],
+          "start": 3.359999895095825,
+          "end": 3.4800000190734863
+        },
+        {
+          "word": "me?",
+          "local_start": 3.4800000190734863,
+          "local_end": 3.5999999046325684,
+          "evidence_indices": [
+            15
+          ],
+          "start": 3.4800000190734863,
+          "end": 3.5999999046325684
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "file": "02.mp3",
+      "text": "I'd love to. Some of these pictures are older than I am.",
+      "audio_sha256": "46f4cb4b32758f92d5c72918a833a98797e318396089db5c26644bd1e3f95bf3",
+      "start": 3.72,
+      "end": 6.984,
+      "duration": 3.264,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "I'd",
+          "local_start": 0.0,
+          "local_end": 0.2800000011920929,
+          "evidence_indices": [
+            0
+          ],
+          "start": 3.72,
+          "end": 4.0000000011920935
+        },
+        {
+          "word": "love",
+          "local_start": 0.2800000011920929,
+          "local_end": 0.41999998688697815,
+          "evidence_indices": [
+            1
+          ],
+          "start": 4.0000000011920935,
+          "end": 4.139999986886979
+        },
+        {
+          "word": "to.",
+          "local_start": 0.41999998688697815,
+          "local_end": 0.9800000190734863,
+          "evidence_indices": [
+            2
+          ],
+          "start": 4.139999986886979,
+          "end": 4.700000019073487
+        },
+        {
+          "word": "Some",
+          "local_start": 1.1200000047683716,
+          "local_end": 1.3600000143051147,
+          "evidence_indices": [
+            3
+          ],
+          "start": 4.840000004768372,
+          "end": 5.080000014305115
+        },
+        {
+          "word": "of",
+          "local_start": 1.3600000143051147,
+          "local_end": 1.4600000381469727,
+          "evidence_indices": [
+            4
+          ],
+          "start": 5.080000014305115,
+          "end": 5.180000038146973
+        },
+        {
+          "word": "these",
+          "local_start": 1.4600000381469727,
+          "local_end": 1.6200000047683716,
+          "evidence_indices": [
+            5
+          ],
+          "start": 5.180000038146973,
+          "end": 5.340000004768372
+        },
+        {
+          "word": "pictures",
+          "local_start": 1.6200000047683716,
+          "local_end": 1.8600000143051147,
+          "evidence_indices": [
+            6
+          ],
+          "start": 5.340000004768372,
+          "end": 5.580000014305115
+        },
+        {
+          "word": "are",
+          "local_start": 1.8600000143051147,
+          "local_end": 2.0799999237060547,
+          "evidence_indices": [
+            7
+          ],
+          "start": 5.580000014305115,
+          "end": 5.799999923706055
+        },
+        {
+          "word": "older",
+          "local_start": 2.0799999237060547,
+          "local_end": 2.359999895095825,
+          "evidence_indices": [
+            8
+          ],
+          "start": 5.799999923706055,
+          "end": 6.079999895095826
+        },
+        {
+          "word": "than",
+          "local_start": 2.359999895095825,
+          "local_end": 2.5399999618530273,
+          "evidence_indices": [
+            9
+          ],
+          "start": 6.079999895095826,
+          "end": 6.259999961853028
+        },
+        {
+          "word": "I",
+          "local_start": 2.5399999618530273,
+          "local_end": 2.7200000286102295,
+          "evidence_indices": [
+            10
+          ],
+          "start": 6.259999961853028,
+          "end": 6.44000002861023
+        },
+        {
+          "word": "am.",
+          "local_start": 2.7200000286102295,
+          "local_end": 2.859999895095825,
+          "evidence_indices": [
+            11
+          ],
+          "start": 6.44000002861023,
+          "end": 6.579999895095826
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "file": "03.mp3",
+      "text": "Let's start by putting the photos from each trip together.",
+      "audio_sha256": "be33a80b55468a5229c3208f45afa87ed45084ef76a46577b2760856bdb09b5b",
+      "start": 6.984,
+      "end": 10.44,
+      "duration": 3.456,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Let's",
+          "local_start": 0.0,
+          "local_end": 0.6600000262260437,
+          "evidence_indices": [
+            0
+          ],
+          "start": 6.984,
+          "end": 7.644000026226044
+        },
+        {
+          "word": "start",
+          "local_start": 0.6600000262260437,
+          "local_end": 0.8600000143051147,
+          "evidence_indices": [
+            1
+          ],
+          "start": 7.644000026226044,
+          "end": 7.844000014305115
+        },
+        {
+          "word": "by",
+          "local_start": 0.8600000143051147,
+          "local_end": 1.1399999856948853,
+          "evidence_indices": [
+            2
+          ],
+          "start": 7.844000014305115,
+          "end": 8.123999985694885
+        },
+        {
+          "word": "putting",
+          "local_start": 1.1399999856948853,
+          "local_end": 1.340000033378601,
+          "evidence_indices": [
+            3
+          ],
+          "start": 8.123999985694885,
+          "end": 8.324000033378601
+        },
+        {
+          "word": "the",
+          "local_start": 1.340000033378601,
+          "local_end": 1.600000023841858,
+          "evidence_indices": [
+            4
+          ],
+          "start": 8.324000033378601,
+          "end": 8.584000023841858
+        },
+        {
+          "word": "photos",
+          "local_start": 1.600000023841858,
+          "local_end": 1.9199999570846558,
+          "evidence_indices": [
+            5
+          ],
+          "start": 8.584000023841858,
+          "end": 8.903999957084656
+        },
+        {
+          "word": "from",
+          "local_start": 1.9199999570846558,
+          "local_end": 2.180000066757202,
+          "evidence_indices": [
+            6
+          ],
+          "start": 8.903999957084656,
+          "end": 9.164000066757202
+        },
+        {
+          "word": "each",
+          "local_start": 2.180000066757202,
+          "local_end": 2.4800000190734863,
+          "evidence_indices": [
+            7
+          ],
+          "start": 9.164000066757202,
+          "end": 9.464000019073486
+        },
+        {
+          "word": "trip",
+          "local_start": 2.4800000190734863,
+          "local_end": 2.700000047683716,
+          "evidence_indices": [
+            8
+          ],
+          "start": 9.464000019073486,
+          "end": 9.684000047683716
+        },
+        {
+          "word": "together.",
+          "local_start": 2.700000047683716,
+          "local_end": 3.0,
+          "evidence_indices": [
+            9
+          ],
+          "start": 9.684000047683716,
+          "end": 9.984
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "file": "04.mp3",
+      "text": "Good idea. Where does this beach picture belong?",
+      "audio_sha256": "3a610c7801bbbdf9ba23cac926ef8063b7cc675e60596ba04da5294785c7992a",
+      "start": 10.44,
+      "end": 13.344,
+      "duration": 2.904,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Good",
+          "local_start": 0.0,
+          "local_end": 0.23999999463558197,
+          "evidence_indices": [
+            0
+          ],
+          "start": 10.44,
+          "end": 10.679999994635581
+        },
+        {
+          "word": "idea.",
+          "local_start": 0.23999999463558197,
+          "local_end": 0.6800000071525574,
+          "evidence_indices": [
+            1
+          ],
+          "start": 10.679999994635581,
+          "end": 11.120000007152557
+        },
+        {
+          "word": "Where",
+          "local_start": 1.2400000095367432,
+          "local_end": 1.340000033378601,
+          "evidence_indices": [
+            2
+          ],
+          "start": 11.680000009536743,
+          "end": 11.7800000333786
+        },
+        {
+          "word": "does",
+          "local_start": 1.340000033378601,
+          "local_end": 1.5199999809265137,
+          "evidence_indices": [
+            3
+          ],
+          "start": 11.7800000333786,
+          "end": 11.959999980926513
+        },
+        {
+          "word": "this",
+          "local_start": 1.5199999809265137,
+          "local_end": 1.7999999523162842,
+          "evidence_indices": [
+            4
+          ],
+          "start": 11.959999980926513,
+          "end": 12.239999952316284
+        },
+        {
+          "word": "beach",
+          "local_start": 1.7999999523162842,
+          "local_end": 2.0,
+          "evidence_indices": [
+            5
+          ],
+          "start": 12.239999952316284,
+          "end": 12.44
+        },
+        {
+          "word": "picture",
+          "local_start": 2.0,
+          "local_end": 2.319999933242798,
+          "evidence_indices": [
+            6
+          ],
+          "start": 12.44,
+          "end": 12.759999933242797
+        },
+        {
+          "word": "belong?",
+          "local_start": 2.319999933242798,
+          "local_end": 2.619999885559082,
+          "evidence_indices": [
+            7
+          ],
+          "start": 12.759999933242797,
+          "end": 13.059999885559082
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "file": "05.mp3",
+      "text": "I think it was taken on our trip to Maine. Mom might remember.",
+      "audio_sha256": "f5fe263d37191f1c06a991f3eb050fc89efc0bf82298c50a896defd9a1d099b8",
+      "start": 13.344,
+      "end": 17.4,
+      "duration": 4.056,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "I",
+          "local_start": 0.0,
+          "local_end": 0.2199999988079071,
+          "evidence_indices": [
+            0
+          ],
+          "start": 13.344,
+          "end": 13.563999998807907
+        },
+        {
+          "word": "think",
+          "local_start": 0.2199999988079071,
+          "local_end": 0.6000000238418579,
+          "evidence_indices": [
+            1
+          ],
+          "start": 13.563999998807907,
+          "end": 13.944000023841857
+        },
+        {
+          "word": "it",
+          "local_start": 0.6000000238418579,
+          "local_end": 0.7400000095367432,
+          "evidence_indices": [
+            2
+          ],
+          "start": 13.944000023841857,
+          "end": 14.084000009536743
+        },
+        {
+          "word": "was",
+          "local_start": 0.7400000095367432,
+          "local_end": 0.9200000166893005,
+          "evidence_indices": [
+            3
+          ],
+          "start": 14.084000009536743,
+          "end": 14.2640000166893
+        },
+        {
+          "word": "taken",
+          "local_start": 0.9200000166893005,
+          "local_end": 1.1399999856948853,
+          "evidence_indices": [
+            4
+          ],
+          "start": 14.2640000166893,
+          "end": 14.483999985694885
+        },
+        {
+          "word": "on",
+          "local_start": 1.1399999856948853,
+          "local_end": 1.3799999952316284,
+          "evidence_indices": [
+            5
+          ],
+          "start": 14.483999985694885,
+          "end": 14.723999995231628
+        },
+        {
+          "word": "our",
+          "local_start": 1.3799999952316284,
+          "local_end": 1.5199999809265137,
+          "evidence_indices": [
+            6
+          ],
+          "start": 14.723999995231628,
+          "end": 14.863999980926513
+        },
+        {
+          "word": "trip",
+          "local_start": 1.5199999809265137,
+          "local_end": 1.6799999475479126,
+          "evidence_indices": [
+            7
+          ],
+          "start": 14.863999980926513,
+          "end": 15.023999947547912
+        },
+        {
+          "word": "to",
+          "local_start": 1.6799999475479126,
+          "local_end": 2.119999885559082,
+          "evidence_indices": [
+            8
+          ],
+          "start": 15.023999947547912,
+          "end": 15.463999885559081
+        },
+        {
+          "word": "Maine.",
+          "local_start": 2.119999885559082,
+          "local_end": 2.259999990463257,
+          "evidence_indices": [
+            9
+          ],
+          "start": 15.463999885559081,
+          "end": 15.603999990463256
+        },
+        {
+          "word": "Mom",
+          "local_start": 2.9800000190734863,
+          "local_end": 3.0799999237060547,
+          "evidence_indices": [
+            10
+          ],
+          "start": 16.324000019073488,
+          "end": 16.423999923706056
+        },
+        {
+          "word": "might",
+          "local_start": 3.0799999237060547,
+          "local_end": 3.2799999713897705,
+          "evidence_indices": [
+            11
+          ],
+          "start": 16.423999923706056,
+          "end": 16.62399997138977
+        },
+        {
+          "word": "remember.",
+          "local_start": 3.2799999713897705,
+          "local_end": 3.5399999618530273,
+          "evidence_indices": [
+            12
+          ],
+          "start": 16.62399997138977,
+          "end": 16.88399996185303
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "file": "06.mp3",
+      "text": "I'll put it in a separate pile until we ask her.",
+      "audio_sha256": "f645932fd3be163ceb0fe615ba5db9a4b7d8b49a4f4007ff07f39f10cd3b1beb",
+      "start": 17.4,
+      "end": 20.567999999999998,
+      "duration": 3.168,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "I'll",
+          "local_start": 0.0,
+          "local_end": 0.4000000059604645,
+          "evidence_indices": [
+            0
+          ],
+          "start": 17.4,
+          "end": 17.800000005960463
+        },
+        {
+          "word": "put",
+          "local_start": 0.4000000059604645,
+          "local_end": 0.5600000023841858,
+          "evidence_indices": [
+            1
+          ],
+          "start": 17.800000005960463,
+          "end": 17.960000002384184
+        },
+        {
+          "word": "it",
+          "local_start": 0.5600000023841858,
+          "local_end": 0.7400000095367432,
+          "evidence_indices": [
+            2
+          ],
+          "start": 17.960000002384184,
+          "end": 18.14000000953674
+        },
+        {
+          "word": "in",
+          "local_start": 0.7400000095367432,
+          "local_end": 0.8399999737739563,
+          "evidence_indices": [
+            3
+          ],
+          "start": 18.14000000953674,
+          "end": 18.239999973773955
+        },
+        {
+          "word": "a",
+          "local_start": 0.8399999737739563,
+          "local_end": 1.1399999856948853,
+          "evidence_indices": [
+            4
+          ],
+          "start": 18.239999973773955,
+          "end": 18.539999985694884
+        },
+        {
+          "word": "separate",
+          "local_start": 1.1399999856948853,
+          "local_end": 1.340000033378601,
+          "evidence_indices": [
+            5
+          ],
+          "start": 18.539999985694884,
+          "end": 18.7400000333786
+        },
+        {
+          "word": "pile",
+          "local_start": 1.340000033378601,
+          "local_end": 1.7200000286102295,
+          "evidence_indices": [
+            6
+          ],
+          "start": 18.7400000333786,
+          "end": 19.120000028610228
+        },
+        {
+          "word": "until",
+          "local_start": 1.7200000286102295,
+          "local_end": 2.180000066757202,
+          "evidence_indices": [
+            7
+          ],
+          "start": 19.120000028610228,
+          "end": 19.5800000667572
+        },
+        {
+          "word": "we",
+          "local_start": 2.180000066757202,
+          "local_end": 2.380000114440918,
+          "evidence_indices": [
+            8
+          ],
+          "start": 19.5800000667572,
+          "end": 19.780000114440917
+        },
+        {
+          "word": "ask",
+          "local_start": 2.380000114440918,
+          "local_end": 2.619999885559082,
+          "evidence_indices": [
+            9
+          ],
+          "start": 19.780000114440917,
+          "end": 20.01999988555908
+        },
+        {
+          "word": "her.",
+          "local_start": 2.619999885559082,
+          "local_end": 2.7799999713897705,
+          "evidence_indices": [
+            10
+          ],
+          "start": 20.01999988555908,
+          "end": 20.17999997138977
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "file": "07.mp3",
+      "text": "Could you write the places and dates on these cards?",
+      "audio_sha256": "f0e503d4269c11f5e839ede597e8cae026d0d150b0aaadc90fa28a91fefe509d",
+      "start": 20.567999999999998,
+      "end": 23.976,
+      "duration": 3.408,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Could",
+          "local_start": 0.0,
+          "local_end": 0.3400000035762787,
+          "evidence_indices": [
+            0
+          ],
+          "start": 20.567999999999998,
+          "end": 20.908000003576277
+        },
+        {
+          "word": "you",
+          "local_start": 0.3400000035762787,
+          "local_end": 0.7200000286102295,
+          "evidence_indices": [
+            1
+          ],
+          "start": 20.908000003576277,
+          "end": 21.288000028610227
+        },
+        {
+          "word": "write",
+          "local_start": 0.7200000286102295,
+          "local_end": 0.9599999785423279,
+          "evidence_indices": [
+            2
+          ],
+          "start": 21.288000028610227,
+          "end": 21.527999978542326
+        },
+        {
+          "word": "the",
+          "local_start": 0.9599999785423279,
+          "local_end": 1.1799999475479126,
+          "evidence_indices": [
+            3
+          ],
+          "start": 21.527999978542326,
+          "end": 21.74799994754791
+        },
+        {
+          "word": "places",
+          "local_start": 1.1799999475479126,
+          "local_end": 1.5800000429153442,
+          "evidence_indices": [
+            4
+          ],
+          "start": 21.74799994754791,
+          "end": 22.148000042915342
+        },
+        {
+          "word": "and",
+          "local_start": 1.5800000429153442,
+          "local_end": 1.9600000381469727,
+          "evidence_indices": [
+            5
+          ],
+          "start": 22.148000042915342,
+          "end": 22.52800003814697
+        },
+        {
+          "word": "dates",
+          "local_start": 1.9600000381469727,
+          "local_end": 2.140000104904175,
+          "evidence_indices": [
+            6
+          ],
+          "start": 22.52800003814697,
+          "end": 22.708000104904173
+        },
+        {
+          "word": "on",
+          "local_start": 2.140000104904175,
+          "local_end": 2.380000114440918,
+          "evidence_indices": [
+            7
+          ],
+          "start": 22.708000104904173,
+          "end": 22.948000114440916
+        },
+        {
+          "word": "these",
+          "local_start": 2.380000114440918,
+          "local_end": 2.6600000858306885,
+          "evidence_indices": [
+            8
+          ],
+          "start": 22.948000114440916,
+          "end": 23.228000085830686
+        },
+        {
+          "word": "cards?",
+          "local_start": 2.6600000858306885,
+          "local_end": 2.940000057220459,
+          "evidence_indices": [
+            9
+          ],
+          "start": 23.228000085830686,
+          "end": 23.508000057220457
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "file": "08.mp3",
+      "text": "Sure. I'll leave a blank when we aren't certain.",
+      "audio_sha256": "ecc5480d5ba2708568b038218a938ce9f78a325465c8cf344e15db29fcc367be",
+      "start": 23.976,
+      "end": 27.096,
+      "duration": 3.12,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Sure.",
+          "local_start": 0.0,
+          "local_end": 0.4399999976158142,
+          "evidence_indices": [
+            0
+          ],
+          "start": 23.976,
+          "end": 24.415999997615813
+        },
+        {
+          "word": "I'll",
+          "local_start": 1.100000023841858,
+          "local_end": 1.3799999952316284,
+          "evidence_indices": [
+            1
+          ],
+          "start": 25.076000023841857,
+          "end": 25.355999995231628
+        },
+        {
+          "word": "leave",
+          "local_start": 1.3799999952316284,
+          "local_end": 1.5399999618530273,
+          "evidence_indices": [
+            2
+          ],
+          "start": 25.355999995231628,
+          "end": 25.515999961853026
+        },
+        {
+          "word": "a",
+          "local_start": 1.5399999618530273,
+          "local_end": 1.7400000095367432,
+          "evidence_indices": [
+            3
+          ],
+          "start": 25.515999961853026,
+          "end": 25.716000009536742
+        },
+        {
+          "word": "blank",
+          "local_start": 1.7400000095367432,
+          "local_end": 1.9600000381469727,
+          "evidence_indices": [
+            4
+          ],
+          "start": 25.716000009536742,
+          "end": 25.93600003814697
+        },
+        {
+          "word": "when",
+          "local_start": 1.9600000381469727,
+          "local_end": 2.200000047683716,
+          "evidence_indices": [
+            5
+          ],
+          "start": 25.93600003814697,
+          "end": 26.176000047683715
+        },
+        {
+          "word": "we",
+          "local_start": 2.200000047683716,
+          "local_end": 2.380000114440918,
+          "evidence_indices": [
+            6
+          ],
+          "start": 26.176000047683715,
+          "end": 26.356000114440917
+        },
+        {
+          "word": "aren't",
+          "local_start": 2.380000114440918,
+          "local_end": 2.559999942779541,
+          "evidence_indices": [
+            7
+          ],
+          "start": 26.356000114440917,
+          "end": 26.53599994277954
+        },
+        {
+          "word": "certain.",
+          "local_start": 2.559999942779541,
+          "local_end": 2.799999952316284,
+          "evidence_indices": [
+            8
+          ],
+          "start": 26.53599994277954,
+          "end": 26.775999952316283
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "file": "09.mp3",
+      "text": "Then we can put each group in an envelope with its card.",
+      "audio_sha256": "cfd36d32a0e31825a1ce1b8ab2199b475c20a319f48ded226076f88b6bdfee45",
+      "start": 27.096,
+      "end": 30.504,
+      "duration": 3.408,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Then",
+          "local_start": 0.0,
+          "local_end": 0.41999998688697815,
+          "evidence_indices": [
+            0
+          ],
+          "start": 27.096,
+          "end": 27.51599998688698
+        },
+        {
+          "word": "we",
+          "local_start": 0.41999998688697815,
+          "local_end": 0.6600000262260437,
+          "evidence_indices": [
+            1
+          ],
+          "start": 27.51599998688698,
+          "end": 27.756000026226044
+        },
+        {
+          "word": "can",
+          "local_start": 0.6600000262260437,
+          "local_end": 0.8799999952316284,
+          "evidence_indices": [
+            2
+          ],
+          "start": 27.756000026226044,
+          "end": 27.97599999523163
+        },
+        {
+          "word": "put",
+          "local_start": 0.8799999952316284,
+          "local_end": 1.0399999618530273,
+          "evidence_indices": [
+            3
+          ],
+          "start": 27.97599999523163,
+          "end": 28.135999961853027
+        },
+        {
+          "word": "each",
+          "local_start": 1.0399999618530273,
+          "local_end": 1.399999976158142,
+          "evidence_indices": [
+            4
+          ],
+          "start": 28.135999961853027,
+          "end": 28.495999976158142
+        },
+        {
+          "word": "group",
+          "local_start": 1.399999976158142,
+          "local_end": 1.659999966621399,
+          "evidence_indices": [
+            5
+          ],
+          "start": 28.495999976158142,
+          "end": 28.7559999666214
+        },
+        {
+          "word": "in",
+          "local_start": 1.659999966621399,
+          "local_end": 1.840000033378601,
+          "evidence_indices": [
+            6
+          ],
+          "start": 28.7559999666214,
+          "end": 28.9360000333786
+        },
+        {
+          "word": "an",
+          "local_start": 1.840000033378601,
+          "local_end": 2.119999885559082,
+          "evidence_indices": [
+            7
+          ],
+          "start": 28.9360000333786,
+          "end": 29.215999885559082
+        },
+        {
+          "word": "envelope",
+          "local_start": 2.119999885559082,
+          "local_end": 2.200000047683716,
+          "evidence_indices": [
+            8
+          ],
+          "start": 29.215999885559082,
+          "end": 29.296000047683716
+        },
+        {
+          "word": "with",
+          "local_start": 2.200000047683716,
+          "local_end": 2.5399999618530273,
+          "evidence_indices": [
+            9
+          ],
+          "start": 29.296000047683716,
+          "end": 29.635999961853027
+        },
+        {
+          "word": "its",
+          "local_start": 2.5399999618530273,
+          "local_end": 2.680000066757202,
+          "evidence_indices": [
+            10
+          ],
+          "start": 29.635999961853027,
+          "end": 29.776000066757202
+        },
+        {
+          "word": "card.",
+          "local_start": 2.680000066757202,
+          "local_end": 2.940000057220459,
+          "evidence_indices": [
+            11
+          ],
+          "start": 29.776000066757202,
+          "end": 30.03600005722046
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "file": "10.mp3",
+      "text": "Should we make copies of our favorites to share with the family?",
+      "audio_sha256": "6a43d2e30b3a8e4dc5ca2c49b3a95a8016851b5be630a0865db08b323055ac10",
+      "start": 30.504,
+      "end": 33.624,
+      "duration": 3.12,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Should",
+          "local_start": 0.0,
+          "local_end": 0.2800000011920929,
+          "evidence_indices": [
+            0
+          ],
+          "start": 30.504,
+          "end": 30.784000001192094
+        },
+        {
+          "word": "we",
+          "local_start": 0.2800000011920929,
+          "local_end": 0.4399999976158142,
+          "evidence_indices": [
+            1
+          ],
+          "start": 30.784000001192094,
+          "end": 30.943999997615816
+        },
+        {
+          "word": "make",
+          "local_start": 0.4399999976158142,
+          "local_end": 0.6399999856948853,
+          "evidence_indices": [
+            2
+          ],
+          "start": 30.943999997615816,
+          "end": 31.143999985694887
+        },
+        {
+          "word": "copies",
+          "local_start": 0.6399999856948853,
+          "local_end": 0.8999999761581421,
+          "evidence_indices": [
+            3
+          ],
+          "start": 31.143999985694887,
+          "end": 31.403999976158143
+        },
+        {
+          "word": "of",
+          "local_start": 0.8999999761581421,
+          "local_end": 1.100000023841858,
+          "evidence_indices": [
+            4
+          ],
+          "start": 31.403999976158143,
+          "end": 31.60400002384186
+        },
+        {
+          "word": "our",
+          "local_start": 1.100000023841858,
+          "local_end": 1.2200000286102295,
+          "evidence_indices": [
+            5
+          ],
+          "start": 31.60400002384186,
+          "end": 31.72400002861023
+        },
+        {
+          "word": "favorites",
+          "local_start": 1.2200000286102295,
+          "local_end": 1.6200000047683716,
+          "evidence_indices": [
+            6
+          ],
+          "start": 31.72400002861023,
+          "end": 32.12400000476838
+        },
+        {
+          "word": "to",
+          "local_start": 1.6200000047683716,
+          "local_end": 1.9600000381469727,
+          "evidence_indices": [
+            7
+          ],
+          "start": 32.12400000476838,
+          "end": 32.46400003814698
+        },
+        {
+          "word": "share",
+          "local_start": 1.9600000381469727,
+          "local_end": 2.140000104904175,
+          "evidence_indices": [
+            8
+          ],
+          "start": 32.46400003814698,
+          "end": 32.64400010490418
+        },
+        {
+          "word": "with",
+          "local_start": 2.140000104904175,
+          "local_end": 2.319999933242798,
+          "evidence_indices": [
+            9
+          ],
+          "start": 32.64400010490418,
+          "end": 32.8239999332428
+        },
+        {
+          "word": "the",
+          "local_start": 2.319999933242798,
+          "local_end": 2.4800000190734863,
+          "evidence_indices": [
+            10
+          ],
+          "start": 32.8239999332428,
+          "end": 32.98400001907349
+        },
+        {
+          "word": "family?",
+          "local_start": 2.4800000190734863,
+          "local_end": 2.700000047683716,
+          "evidence_indices": [
+            11
+          ],
+          "start": 32.98400001907349,
+          "end": 33.20400004768372
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "file": "11.mp3",
+      "text": "Yes. Let's choose a few once we've finished sorting.",
+      "audio_sha256": "f5b054007c0098bfc31c1dcf36258b2780cd4930ee2859c9e8446cdc4bc25c9c",
+      "start": 33.624,
+      "end": 37.344,
+      "duration": 3.72,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Yes.",
+          "local_start": 0.0,
+          "local_end": 0.5799999833106995,
+          "evidence_indices": [
+            0
+          ],
+          "start": 33.624,
+          "end": 34.2039999833107
+        },
+        {
+          "word": "Let's",
+          "local_start": 0.8600000143051147,
+          "local_end": 1.3200000524520874,
+          "evidence_indices": [
+            1
+          ],
+          "start": 34.48400001430512,
+          "end": 34.94400005245209
+        },
+        {
+          "word": "choose",
+          "local_start": 1.3200000524520874,
+          "local_end": 1.600000023841858,
+          "evidence_indices": [
+            2
+          ],
+          "start": 34.94400005245209,
+          "end": 35.22400002384186
+        },
+        {
+          "word": "a",
+          "local_start": 1.600000023841858,
+          "local_end": 1.899999976158142,
+          "evidence_indices": [
+            3
+          ],
+          "start": 35.22400002384186,
+          "end": 35.523999976158144
+        },
+        {
+          "word": "few",
+          "local_start": 1.899999976158142,
+          "local_end": 2.140000104904175,
+          "evidence_indices": [
+            4
+          ],
+          "start": 35.523999976158144,
+          "end": 35.76400010490418
+        },
+        {
+          "word": "once",
+          "local_start": 2.140000104904175,
+          "local_end": 2.4800000190734863,
+          "evidence_indices": [
+            5
+          ],
+          "start": 35.76400010490418,
+          "end": 36.10400001907349
+        },
+        {
+          "word": "we've",
+          "local_start": 2.4800000190734863,
+          "local_end": 2.940000057220459,
+          "evidence_indices": [
+            6
+          ],
+          "start": 36.10400001907349,
+          "end": 36.56400005722046
+        },
+        {
+          "word": "finished",
+          "local_start": 2.940000057220459,
+          "local_end": 3.0,
+          "evidence_indices": [
+            7
+          ],
+          "start": 36.56400005722046,
+          "end": 36.624
+        },
+        {
+          "word": "sorting.",
+          "local_start": 3.0,
+          "local_end": 3.259999990463257,
+          "evidence_indices": [
+            8
+          ],
+          "start": 36.624,
+          "end": 36.88399999046326
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "file": "12.mp3",
+      "text": "Deal. I'll ask Mom about the beach photo this evening.",
+      "audio_sha256": "fcbef393622f694b2c12ac55b85c08d5f7300d058b851bc9146be003bfd72756",
+      "start": 37.344,
+      "end": 41.544000000000004,
+      "duration": 4.2,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Deal.",
+          "local_start": 0.0,
+          "local_end": 0.4000000059604645,
+          "evidence_indices": [
+            0
+          ],
+          "start": 37.344,
+          "end": 37.744000005960466
+        },
+        {
+          "word": "I'll",
+          "local_start": 1.100000023841858,
+          "local_end": 1.340000033378601,
+          "evidence_indices": [
+            1
+          ],
+          "start": 38.44400002384186,
+          "end": 38.6840000333786
+        },
+        {
+          "word": "ask",
+          "local_start": 1.340000033378601,
+          "local_end": 1.5,
+          "evidence_indices": [
+            2
+          ],
+          "start": 38.6840000333786,
+          "end": 38.844
+        },
+        {
+          "word": "Mom",
+          "local_start": 1.5,
+          "local_end": 1.7400000095367432,
+          "evidence_indices": [
+            3
+          ],
+          "start": 38.844,
+          "end": 39.084000009536744
+        },
+        {
+          "word": "about",
+          "local_start": 1.7400000095367432,
+          "local_end": 1.9800000190734863,
+          "evidence_indices": [
+            4
+          ],
+          "start": 39.084000009536744,
+          "end": 39.32400001907349
+        },
+        {
+          "word": "the",
+          "local_start": 1.9800000190734863,
+          "local_end": 2.319999933242798,
+          "evidence_indices": [
+            5
+          ],
+          "start": 39.32400001907349,
+          "end": 39.6639999332428
+        },
+        {
+          "word": "beach",
+          "local_start": 2.319999933242798,
+          "local_end": 2.380000114440918,
+          "evidence_indices": [
+            6
+          ],
+          "start": 39.6639999332428,
+          "end": 39.72400011444092
+        },
+        {
+          "word": "photo",
+          "local_start": 2.380000114440918,
+          "local_end": 2.700000047683716,
+          "evidence_indices": [
+            7
+          ],
+          "start": 39.72400011444092,
+          "end": 40.04400004768372
+        },
+        {
+          "word": "this",
+          "local_start": 2.700000047683716,
+          "local_end": 3.200000047683716,
+          "evidence_indices": [
+            8
+          ],
+          "start": 40.04400004768372,
+          "end": 40.54400004768372
+        },
+        {
+          "word": "evening.",
+          "local_start": 3.200000047683716,
+          "local_end": 3.3399999141693115,
+          "evidence_indices": [
+            9
+          ],
+          "start": 40.54400004768372,
+          "end": 40.68399991416931
+        }
+      ]
+    }
+  ]
+}

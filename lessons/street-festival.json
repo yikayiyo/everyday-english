@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-22",
+  "slug": "street-festival",
+  "title": "Finding the Music at a Street Festival",
+  "title_zh": "在街头节庆寻找音乐表演",
+  "context": "Lena 和 Marco 到街头节庆看演出，先确认舞台位置，再商量碰头地点。 本课属于 2026-11-22 预制系列，练习题为原创练习，并非真实考试题。",
+  "voices": {
+    "Lena": "marin",
+    "Marco": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Lena",
+      "en": "The street festival is busier than I expected. Can you see the music stage?",
+      "zh": "街头节庆比我想的热闹。你能看到音乐舞台吗？"
+    },
+    {
+      "speaker": "Marco",
+      "en": "Not from here. The map shows it beyond the art stalls.",
+      "zh": "从这里看不到。地图显示它在艺术摊位那边。"
+    },
+    {
+      "speaker": "Lena",
+      "en": "The next band starts soon, so let us head that way.",
+      "zh": "下一支乐队很快就要开始了，我们往那边走吧。"
+    },
+    {
+      "speaker": "Marco",
+      "en": "Good idea. Do you want to stop at the craft booth first?",
+      "zh": "好主意。你想先去手工摊看看吗？"
+    },
+    {
+      "speaker": "Lena",
+      "en": "Maybe afterward. I don't want to miss the first song.",
+      "zh": "也许演出后吧。我不想错过第一首歌。"
+    },
+    {
+      "speaker": "Marco",
+      "en": "That makes sense. People are moving slowly around the corner.",
+      "zh": "有道理。拐角附近的人走得很慢。"
+    },
+    {
+      "speaker": "Lena",
+      "en": "If we get separated, let us meet by the blue information tent.",
+      "zh": "如果我们走散了，就在蓝色服务帐篷旁碰头吧。"
+    },
+    {
+      "speaker": "Marco",
+      "en": "I can see it from here. I will take a picture so I remember.",
+      "zh": "我从这里能看到。我拍张照，免得忘了。"
+    },
+    {
+      "speaker": "Lena",
+      "en": "Look, the stage is just past that painted sign.",
+      "zh": "看，舞台就在那块彩绘指示牌过去一点。"
+    },
+    {
+      "speaker": "Marco",
+      "en": "And there is room to stand near the back. Can you see from there?",
+      "zh": "后面附近有地方站。你从那里能看见吗？"
+    },
+    {
+      "speaker": "Lena",
+      "en": "Yes, and we can hear the music without being too close.",
+      "zh": "能，而且不用靠得太近就能听到音乐。"
+    },
+    {
+      "speaker": "Marco",
+      "en": "Perfect. Let's enjoy the band and visit the booths later.",
+      "zh": "太好了。我们先欣赏乐队，待会儿再逛摊位。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "head that way",
+      "zh": "朝那个方向走。",
+      "example": "The entrance is ahead, so let us head that way."
+    },
+    {
+      "en": "miss the first song",
+      "zh": "错过第一首歌；miss 可表示错过活动。",
+      "example": "We left early so we would not miss the first song."
+    },
+    {
+      "en": "get separated",
+      "zh": "走散。",
+      "example": "We got separated in the crowd."
+    },
+    {
+      "en": "just past",
+      "zh": "刚过……一点。",
+      "example": "The cafe is just past the bookstore."
+    },
+    {
+      "en": "near the back",
+      "zh": "靠近后方。",
+      "example": "We found two seats near the back."
+    }
+  ],
+  "pronunciation": "festival 的重音在第一个音节；stage 结尾是 /dʒ/，与 age 的结尾相同。",
+  "practice": [
+    {
+      "title": "Part 1 · Festivals",
+      "prompt": "Do you enjoy outdoor festivals?",
+      "answer": "Yes, especially when there is live music. I like walking around and seeing what local artists have made."
+    },
+    {
+      "title": "Part 2 · A public event",
+      "prompt": "Describe a public event you enjoyed. Say where it was, what you did there, and why you remember it.",
+      "answer": "I went to a street festival with a friend last summer. We followed a map to a small stage and listened to a local band. After the music, we looked at handmade bowls and posters at the nearby booths. The street was crowded, but everyone seemed cheerful. I remember singing along to a song I already knew and laughing with my friend. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Local events",
+      "prompt": "How can local festivals bring people together?",
+      "answer": "Festivals give residents a reason to share a public space and discover local artists. Clear signs and accessible routes can also help more people take part."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "跟读问路和约定碰头地点的句子，再描述你想看的演出。",
+      "answer": "Where is the music stage? Let us meet by the information tent if we get separated. We can visit the craft booths afterward."
+    }
+  ]
+}

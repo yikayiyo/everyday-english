@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-22",
+  "slug": "writing-a-thank-you-note",
+  "title": "A Note for a Thoughtful Neighbor",
+  "title_zh": "给热心邻居写感谢卡",
+  "context": "Maya 想感谢邻居 Oliver 在她出差期间照看猫，请朋友 Lucas 帮她斟酌感谢卡内容。 本课属于 2026-11-22 预制系列，内容和练习题均为原创，并非真实考试题。",
+  "voices": {
+    "Maya": "marin",
+    "Lucas": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Maya",
+      "en": "I want to thank Oliver for looking after my cat while I was away.",
+      "zh": "我想感谢 Oliver 在我外出期间照看我的猫。"
+    },
+    {
+      "speaker": "Lucas",
+      "en": "A handwritten note would be a thoughtful way to do that.",
+      "zh": "写一张手写卡片会很有心意。"
+    },
+    {
+      "speaker": "Maya",
+      "en": "I have a card, but I'm not sure what to say.",
+      "zh": "我有一张卡片，但不确定该写什么。"
+    },
+    {
+      "speaker": "Lucas",
+      "en": "You could mention exactly how he helped you.",
+      "zh": "你可以具体写出他是怎么帮助你的。"
+    },
+    {
+      "speaker": "Maya",
+      "en": "He fed Pepper and sent me a photo every evening.",
+      "zh": "他每天晚上给 Pepper 喂食，还给我发照片。"
+    },
+    {
+      "speaker": "Lucas",
+      "en": "Tell him those photos helped you feel less worried.",
+      "zh": "告诉他那些照片让你没那么担心。"
+    },
+    {
+      "speaker": "Maya",
+      "en": "I also want to say that Pepper was calm when I got home.",
+      "zh": "我还想说，我回家时 Pepper 很平静。"
+    },
+    {
+      "speaker": "Lucas",
+      "en": "That's a lovely detail. It makes the note personal.",
+      "zh": "这个细节很好，会让卡片更有个人心意。"
+    },
+    {
+      "speaker": "Maya",
+      "en": "Should I write a long message?",
+      "zh": "我要写一大段吗？"
+    },
+    {
+      "speaker": "Lucas",
+      "en": "It doesn't need to be long. A few sincere sentences are enough.",
+      "zh": "不必很长。几句真诚的话就够了。"
+    },
+    {
+      "speaker": "Maya",
+      "en": "I'll write it tonight and leave it at his door tomorrow.",
+      "zh": "我今晚写好，明天放在他门口。"
+    },
+    {
+      "speaker": "Lucas",
+      "en": "He'll appreciate hearing how much his help meant to you.",
+      "zh": "他会很高兴知道他的帮助对你有多重要。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "look after",
+      "zh": "照顾。",
+      "example": "Could you look after my plants this weekend?"
+    },
+    {
+      "en": "while I was away",
+      "zh": "在我外出期间。",
+      "example": "My sister collected my mail while I was away."
+    },
+    {
+      "en": "be not sure what to say",
+      "zh": "不知道该说什么。",
+      "example": "I wasn't sure what to say when she thanked me."
+    },
+    {
+      "en": "point out",
+      "zh": "指出或提到。",
+      "example": "He pointed out a detail I had missed."
+    },
+    {
+      "en": "mean a lot",
+      "zh": "意义重大，令人感激。",
+      "example": "Your kind message meant a lot to me."
+    }
+  ],
+  "pronunciation": "thank 的开头是清辅音 /θ/，舌尖轻触上下齿之间送气；sincere 重读第二音节 SEER。",
+  "practice": [
+    {
+      "title": "Part 1 · Thanking people",
+      "prompt": "How do you usually thank someone who helps you?",
+      "answer": "I usually thank them in person and explain what their help meant to me. For a bigger favor, I sometimes write a short note."
+    },
+    {
+      "title": "Part 2 · A thank-you message",
+      "prompt": "Describe a time you thanked someone in writing. Say who the person was, what they did, and what you wrote.",
+      "answer": "I wrote a card to my neighbor after he looked after my cat during a work trip. He fed her every evening and sent me photos, so I knew she was doing well. In the card I thanked him for taking the time to help and said the photos made me feel less worried. I left it at his door when I returned. He later told me he was happy to help. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Showing appreciation",
+      "prompt": "Why might a written thank-you message be meaningful?",
+      "answer": "It gives the writer time to explain a specific reason for being grateful. The reader can also keep the message and return to it later, although a spoken thank you can be meaningful too."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "跟读讨论卡片内容的对话，再口头写出给照看宠物的邻居的感谢。",
+      "answer": "Thank you for looking after Pepper while I was away. The photos you sent helped me feel less worried. Your help meant a lot to me."
+    }
+  ]
+}

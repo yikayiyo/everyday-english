@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-22",
+  "slug": "family-recipe",
+  "title": "Grandma's Tomato Soup",
+  "title_zh": "学做奶奶的番茄汤",
+  "context": "Ella 向爸爸 Sam 学做家传番茄汤，记下他们家的做法并一起品尝。 本课属于 2026-11-22 预制系列，内容和练习题均为原创，并非真实考试题。",
+  "voices": {
+    "Ella": "marin",
+    "Sam": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Ella",
+      "en": "Dad, can you show me how Grandma made her tomato soup?",
+      "zh": "爸爸，你能教我奶奶以前怎么做番茄汤吗？"
+    },
+    {
+      "speaker": "Sam",
+      "en": "Of course. She started by cooking an onion in a little oil.",
+      "zh": "当然。她先用一点油炒洋葱。"
+    },
+    {
+      "speaker": "Ella",
+      "en": "Should I cut the onion into small pieces?",
+      "zh": "我要把洋葱切成小块吗？"
+    },
+    {
+      "speaker": "Sam",
+      "en": "Yes, please. I'll open the tomatoes while you do that.",
+      "zh": "对，麻烦了。你切的时候我来打开番茄罐头。"
+    },
+    {
+      "speaker": "Ella",
+      "en": "The onion is soft now. What goes in next?",
+      "zh": "洋葱现在软了。接下来放什么？"
+    },
+    {
+      "speaker": "Sam",
+      "en": "Add the tomatoes and some water, then let it cook gently.",
+      "zh": "加入番茄和一些水，然后小火煮。"
+    },
+    {
+      "speaker": "Ella",
+      "en": "Grandma sometimes added a little sugar, didn't she?",
+      "zh": "奶奶有时会加一点糖，对吧？"
+    },
+    {
+      "speaker": "Sam",
+      "en": "She did. She tasted the soup first and added a little if it needed it.",
+      "zh": "是的。她会先尝一下汤，觉得需要才加一点。"
+    },
+    {
+      "speaker": "Ella",
+      "en": "I'll write that down. How do we know when it's ready?",
+      "zh": "我把这点记下来。怎么知道它煮好了？"
+    },
+    {
+      "speaker": "Sam",
+      "en": "Let's taste it once the tomatoes are soft. We can add a little salt.",
+      "zh": "等番茄软了就尝尝。我们可以加一点盐。"
+    },
+    {
+      "speaker": "Ella",
+      "en": "This tastes like the soup she made on cold days.",
+      "zh": "这味道就像她在冷天做的汤。"
+    },
+    {
+      "speaker": "Sam",
+      "en": "I'm glad you like it. Let's save the recipe for next time.",
+      "zh": "你喜欢我很高兴。我们把食谱保存好，下次再做。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "cut into pieces",
+      "zh": "切成块。",
+      "example": "Cut the apple into small pieces."
+    },
+    {
+      "en": "what goes in next?",
+      "zh": "接下来放什么？常用于询问下一种食材。",
+      "example": "The rice is in the pot. What goes in next?"
+    },
+    {
+      "en": "a little",
+      "zh": "少量，用于不可数名词前。",
+      "example": "Add a little water to the bowl."
+    },
+    {
+      "en": "write down",
+      "zh": "记下来。",
+      "example": "Write down the address so we remember it."
+    },
+    {
+      "en": "taste like",
+      "zh": "尝起来像……。",
+      "example": "This tea tastes like lemon."
+    }
+  ],
+  "pronunciation": "recipe 重读第一音节，三个音节大致读作 RES-uh-pee；tomato 在美式英语中重音在第二音节，常读作 tuh-MAY-toh。",
+  "practice": [
+    {
+      "title": "Part 1 · Family meals",
+      "prompt": "Is there a dish you associate with your family?",
+      "answer": "Yes. Tomato soup reminds me of meals at my grandmother's house. We often ate it together when the weather was cold."
+    },
+    {
+      "title": "Part 2 · A family dish",
+      "prompt": "Describe a dish that is special to your family. Say who makes it, what goes into it, and why you remember it.",
+      "answer": "Tomato soup is special to my family because my grandmother used to make it on cold days. My dad recently showed me her way of making it. We cooked an onion, added tomatoes and water, and let everything cook gently. He explained that she tasted the soup before deciding whether to add sugar. I wrote down the steps, and when we tasted it together, the familiar flavor brought back happy memories. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Food traditions",
+      "prompt": "Why do families pass recipes from one generation to another?",
+      "answer": "A recipe can preserve memories as well as instructions. Making a familiar dish together can help younger family members feel connected to people and occasions from the past."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "跟读父女做汤的对话，再向家人询问一道菜的步骤并说明你会记下来。",
+      "answer": "How did Grandma make this soup? What goes in after the onion? I'll write down the steps so we can make it again."
+    }
+  ]
+}

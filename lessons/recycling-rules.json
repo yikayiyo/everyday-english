@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-22",
+  "slug": "recycling-rules",
+  "title": "Sorting Recycling in an Apartment Building",
+  "title_zh": "了解公寓回收分类",
+  "context": "住户 Mei 向管理员 Carlos 询问这栋楼的回收标识，并按指示处理纸箱和塑料袋。 本课为 2026-11-22 预制系列原创练习，并非真实考试题。",
+  "voices": {
+    "Mei": "marin",
+    "Carlos": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Mei",
+      "en": "I just moved in. Could you explain the labels on these bins?",
+      "zh": "我刚搬进来。你能解释一下这些桶上的标签吗？"
+    },
+    {
+      "speaker": "Carlos",
+      "en": "Sure. In this building, clean paper and cardboard go in the blue bin.",
+      "zh": "当然。在这栋楼里，干净的纸和纸板放蓝桶。"
+    },
+    {
+      "speaker": "Mei",
+      "en": "I have a large delivery box. Should I flatten it first?",
+      "zh": "我有一个大快递箱。要先压扁吗？"
+    },
+    {
+      "speaker": "Carlos",
+      "en": "Yes, please. That leaves more room for other boxes.",
+      "zh": "是的。这样能为其他纸箱腾出更多空间。"
+    },
+    {
+      "speaker": "Mei",
+      "en": "What about the plastic bag inside the box?",
+      "zh": "箱子里的塑料袋呢？"
+    },
+    {
+      "speaker": "Carlos",
+      "en": "Our sign says not to put plastic bags in the blue bin.",
+      "zh": "我们的标识说塑料袋不能放进蓝桶。"
+    },
+    {
+      "speaker": "Mei",
+      "en": "Is there another collection point nearby?",
+      "zh": "附近有其他收集点吗？"
+    },
+    {
+      "speaker": "Carlos",
+      "en": "The grocery store across the street has a bag collection box.",
+      "zh": "街对面的杂货店有塑料袋收集箱。"
+    },
+    {
+      "speaker": "Mei",
+      "en": "I will take the bag there when I go shopping.",
+      "zh": "我购物时会把袋子带过去。"
+    },
+    {
+      "speaker": "Carlos",
+      "en": "Thanks. The green bin here is for bottles and cans.",
+      "zh": "谢谢。这里的绿桶是放瓶子和罐子的。"
+    },
+    {
+      "speaker": "Mei",
+      "en": "I see the picture on the lid now. I will check the signs next time.",
+      "zh": "我现在看到盖子上的图了。下次我会查看标识。"
+    },
+    {
+      "speaker": "Carlos",
+      "en": "Good plan. Let me know if a label is hard to understand.",
+      "zh": "好主意。如果有标签看不懂就告诉我。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "flatten a box",
+      "zh": "把箱子压扁。",
+      "example": "Please flatten the box before storing it."
+    },
+    {
+      "en": "leave more room",
+      "zh": "腾出更多空间。",
+      "example": "Moving the chair will leave more room."
+    },
+    {
+      "en": "collection point",
+      "zh": "收集点。",
+      "example": "There is a collection point near the entrance."
+    },
+    {
+      "en": "across the street",
+      "zh": "在街对面。",
+      "example": "The pharmacy is across the street."
+    },
+    {
+      "en": "check the sign",
+      "zh": "查看标识。",
+      "example": "Check the sign before entering the room."
+    }
+  ],
+  "pronunciation": "cardboard 重音在第一音节；bottles 的中间 t 在美音中常变成轻快的闪音。",
+  "practice": [
+    {
+      "title": "Part 1 · Recycling",
+      "prompt": "Do you sort your recycling at home?",
+      "answer": "Yes. I keep paper separate from bottles and check the labels on the bins when I am unsure."
+    },
+    {
+      "title": "Part 2 · Learning a local rule",
+      "prompt": "Describe a time you learned how to sort waste somewhere. Say where you were, what you learned, and what you did.",
+      "answer": "When I moved into an apartment, I asked the building manager about the bins. He showed me that clean cardboard went in the blue bin and explained that I should flatten my boxes. The sign also said plastic bags did not belong there. I took my bag to a collection box at a nearby store. Reading the labels made the task much easier. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Clear instructions",
+      "prompt": "Why do recycling instructions need to be clear and local?",
+      "answer": "Collection systems can differ from place to place. Clear local signs help people put items in the right containers and reduce confusion."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "跟读询问分类的对话，再就一个具体物品向管理员提问。",
+      "answer": "Where should I put this cardboard box? Should I flatten it first? I will check the sign for the plastic bag."
+    }
+  ]
+}

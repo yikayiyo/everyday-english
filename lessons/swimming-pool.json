@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-22",
+  "slug": "swimming-pool",
+  "title": "A First Visit to the Pool",
+  "title_zh": "第一次去游泳池",
+  "context": "Grace 和工作人员 Tom 在游泳池入口讨论泳道与储物安排。本课属于 2026-11-22 预制系列，题目为原创练习，并非真实考试题。",
+  "voices": {
+    "Grace": "marin",
+    "Tom": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Grace",
+      "en": "I'm visiting this pool for the first time. Where can I swim slowly?",
+      "zh": "我是第一次来这个游泳池。哪里适合慢游？"
+    },
+    {
+      "speaker": "Tom",
+      "en": "The lane closest to the wall is for slower swimmers this afternoon.",
+      "zh": "今天下午靠墙的泳道供游得较慢的人使用。"
+    },
+    {
+      "speaker": "Grace",
+      "en": "Thanks. Is there a place to put my bag?",
+      "zh": "谢谢。有地方放我的包吗？"
+    },
+    {
+      "speaker": "Tom",
+      "en": "Yes, there are lockers in the changing room.",
+      "zh": "有，更衣室里有储物柜。"
+    },
+    {
+      "speaker": "Grace",
+      "en": "Do I need to bring a lock?",
+      "zh": "我需要自带锁吗？"
+    },
+    {
+      "speaker": "Tom",
+      "en": "For these lockers, yes. We also sell simple locks at the desk.",
+      "zh": "这些柜子需要。我们柜台也卖简单的锁。"
+    },
+    {
+      "speaker": "Grace",
+      "en": "I brought one, so that works. Where are the showers?",
+      "zh": "我带了一把，那就没问题。淋浴间在哪里？"
+    },
+    {
+      "speaker": "Tom",
+      "en": "They're just past the lockers, on your left.",
+      "zh": "刚过储物柜，在左手边。"
+    },
+    {
+      "speaker": "Grace",
+      "en": "And when does the pool close today?",
+      "zh": "那今天游泳池什么时候关闭？"
+    },
+    {
+      "speaker": "Tom",
+      "en": "The pool closes at eight tonight, and the changing room closes at eight thirty.",
+      "zh": "今晚泳池八点关闭，更衣室八点半关闭。"
+    },
+    {
+      "speaker": "Grace",
+      "en": "Great. I'll have plenty of time for a short swim.",
+      "zh": "太好了。我有充足的时间游一会儿。"
+    },
+    {
+      "speaker": "Tom",
+      "en": "Enjoy your swim. Let me know if you need anything else.",
+      "zh": "祝你游得愉快。需要别的帮助请告诉我。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "for the first time",
+      "zh": "第一次。",
+      "example": "I'm visiting this town for the first time."
+    },
+    {
+      "en": "closest to",
+      "zh": "离……最近。",
+      "example": "Choose the chair closest to the door."
+    },
+    {
+      "en": "changing room",
+      "zh": "更衣室。",
+      "example": "The changing room is down the hall."
+    },
+    {
+      "en": "just past",
+      "zh": "刚过……的位置。",
+      "example": "The cafe is just past the bank."
+    },
+    {
+      "en": "plenty of time",
+      "zh": "充足的时间。",
+      "example": "We have plenty of time before lunch."
+    }
+  ],
+  "pronunciation": "swim 的开头依次发 /s/、/w/；lockers 重读第一音节，词尾 r 用美式卷舌音。",
+  "practice": [
+    {
+      "title": "Part 1 · Swimming",
+      "prompt": "Do you enjoy swimming?",
+      "answer": "Yes, I enjoy a slow swim when I have time. It helps me relax, and I like being in the water."
+    },
+    {
+      "title": "Part 2 · A place to exercise",
+      "prompt": "Describe a place where you exercise. Say where it is, what you do there, and why you like it.",
+      "answer": "I sometimes go to a swimming pool near my home. I usually visit in the early evening and swim slowly for a while. Before I get into the water, I put my bag in a locker and use the shower. The pool has several lanes, so I choose one that suits my speed. I like the place because it is bright and I can relax after a busy day. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Exercise facilities",
+      "prompt": "How can exercise facilities welcome people with different abilities?",
+      "answer": "They can offer clear information about activities and provide spaces for different speeds. Friendly staff can also help visitors find an activity that feels comfortable for them."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "跟读后询问适合自己的泳道、储物柜和当天的关闭时间。",
+      "answer": "Where can I swim slowly? Is there a locker for my bag? What time does the pool close today?"
+    }
+  ]
+}

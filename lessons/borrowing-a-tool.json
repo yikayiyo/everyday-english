@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-22",
+  "slug": "borrowing-a-tool",
+  "title": "Borrowing a Tool from a Neighbor",
+  "title_zh": "向邻居借工具",
+  "context": "Maya 想挂一幅画，向邻居 Ethan 借工具。课程为 2026-11-22 预制系列，练习题并非官方真题。",
+  "voices": {
+    "Maya": "marin",
+    "Ethan": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Maya",
+      "en": "Hi, Ethan. Do you have a hammer I could borrow?",
+      "zh": "嗨，Ethan。我可以借用一下你的锤子吗？"
+    },
+    {
+      "speaker": "Ethan",
+      "en": "I think so. What are you working on?",
+      "zh": "应该有。你在做什么呢？"
+    },
+    {
+      "speaker": "Maya",
+      "en": "I want to hang a picture in my living room.",
+      "zh": "我想在客厅挂一幅画。"
+    },
+    {
+      "speaker": "Ethan",
+      "en": "Sure. Let me check the toolbox in my closet.",
+      "zh": "当然可以。我去看看壁橱里的工具箱。"
+    },
+    {
+      "speaker": "Maya",
+      "en": "Thanks. I only need it for a few minutes.",
+      "zh": "谢谢。我只需要用几分钟。"
+    },
+    {
+      "speaker": "Ethan",
+      "en": "Here it is. Do you need any nails, too?",
+      "zh": "找到了。你还需要钉子吗？"
+    },
+    {
+      "speaker": "Maya",
+      "en": "Yes, please. I have some, but they're too long.",
+      "zh": "需要，谢谢。我有一些，不过太长了。"
+    },
+    {
+      "speaker": "Ethan",
+      "en": "These small ones should work for a light picture.",
+      "zh": "这些小钉子应该适合挂轻的画。"
+    },
+    {
+      "speaker": "Maya",
+      "en": "Perfect. I'll bring the hammer back tonight.",
+      "zh": "太好了。我今晚把锤子还给你。"
+    },
+    {
+      "speaker": "Ethan",
+      "en": "No rush. You can leave it by my door.",
+      "zh": "不着急。你可以把它放在我门边。"
+    },
+    {
+      "speaker": "Maya",
+      "en": "I'll knock first, just in case you're home.",
+      "zh": "我会先敲门，看看你是否在家。"
+    },
+    {
+      "speaker": "Ethan",
+      "en": "Sounds good. I hope the picture looks great!",
+      "zh": "好啊。希望画挂起来很好看！"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "Could I borrow...?",
+      "zh": "我能借用……吗？用 could 礼貌地提出借用请求。",
+      "example": "Could I borrow your scissors for a minute?"
+    },
+    {
+      "en": "What are you working on?",
+      "zh": "你在忙什么？可询问对方正在做的事。",
+      "example": "What are you working on this afternoon?"
+    },
+    {
+      "en": "Let me check.",
+      "zh": "让我查一下。表示先确认再答复。",
+      "example": "Let me check my calendar."
+    },
+    {
+      "en": "No rush.",
+      "zh": "不着急。告诉对方不必马上做。",
+      "example": "No rush. You can return the book tomorrow."
+    },
+    {
+      "en": "just in case",
+      "zh": "以防万一，引出想要预先考虑的情况。",
+      "example": "Take a jacket just in case it gets cold."
+    }
+  ],
+  "pronunciation": "在 Could I borrow 中将 could 的尾音 /d/ 与 I 连读；在 no rush 中突出 rush 的 /ʌ/，不要读成长音 /uː/。",
+  "practice": [
+    {
+      "title": "Part 1 · Neighbors",
+      "prompt": "Do you know your neighbors well?",
+      "answer": "I know a few of them. We say hello in the hallway, and sometimes we help each other with small things."
+    },
+    {
+      "title": "Part 2 · A useful object",
+      "prompt": "Describe an object you borrowed from someone. Say what it was, who lent it to you, and how you used it.",
+      "answer": "I once borrowed a ladder from my neighbor when I needed to reach a high shelf. Mine was too short, so I knocked on his door and explained the problem. He lent me his ladder for the afternoon and asked me to bring it back when I was done. I cleaned it and returned it that evening. It saved me a trip to the store, and I thanked him for helping me. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Sharing",
+      "prompt": "Why might neighbors share things instead of buying their own?",
+      "answer": "Some objects are only needed occasionally, so sharing can save space and money. It can also give neighbors a chance to get to know each other."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "跟读对话，注意礼貌请求的语调；然后扮演 Maya，借一把剪刀并约定归还时间。",
+      "answer": "Could I borrow your scissors? I need them to open a box. I'll bring them back this evening."
+    }
+  ]
+}

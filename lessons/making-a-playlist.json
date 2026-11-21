@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-22",
+  "slug": "making-a-playlist",
+  "title": "A Playlist for the Road",
+  "title_zh": "为旅途制作歌单",
+  "context": "Zoe 和朋友 Eli 为一起驾车出游制作歌单，商量歌曲顺序和离线收听。 本课属于 2026-11-22 预制系列，内容和练习题均为原创，并非真实考试题。",
+  "voices": {
+    "Zoe": "marin",
+    "Eli": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Zoe",
+      "en": "The drive will be more fun with a playlist. Want to make one together?",
+      "zh": "开车路上有歌单会更有趣。想一起做一个吗？"
+    },
+    {
+      "speaker": "Eli",
+      "en": "Definitely. Let's add songs we both enjoy.",
+      "zh": "当然。我们把两个人都喜欢的歌加进去吧。"
+    },
+    {
+      "speaker": "Zoe",
+      "en": "I'll start with a few upbeat songs for the morning.",
+      "zh": "我先加几首适合早上听的欢快歌曲。"
+    },
+    {
+      "speaker": "Eli",
+      "en": "Good choice. Can I add some quieter ones for the way back?",
+      "zh": "选得好。我可以加一些返程时听的安静歌曲吗？"
+    },
+    {
+      "speaker": "Zoe",
+      "en": "Of course. How about putting them near the end?",
+      "zh": "当然。把它们放在接近结尾的位置怎么样？"
+    },
+    {
+      "speaker": "Eli",
+      "en": "That works. This song is on there twice, though.",
+      "zh": "可以。不过这首歌在里面出现了两次。"
+    },
+    {
+      "speaker": "Zoe",
+      "en": "You're right. I'll take one copy off the list.",
+      "zh": "你说得对。我把其中一首删掉。"
+    },
+    {
+      "speaker": "Eli",
+      "en": "Could we also add the song we heard at the cafe?",
+      "zh": "我们还能加上在咖啡馆听到的那首歌吗？"
+    },
+    {
+      "speaker": "Zoe",
+      "en": "Yes! I saved its name. Here it is.",
+      "zh": "好啊！我记下了歌名。就是这首。"
+    },
+    {
+      "speaker": "Eli",
+      "en": "Great. Can you share the list so I can add a few more?",
+      "zh": "太好了。你能分享歌单给我，让我再加几首吗？"
+    },
+    {
+      "speaker": "Zoe",
+      "en": "I just sent it. I'll download the songs before we leave.",
+      "zh": "刚发给你。我会在出发前下载好歌曲。"
+    },
+    {
+      "speaker": "Eli",
+      "en": "Perfect. Then we can listen even if the signal disappears.",
+      "zh": "太好了。这样即使没信号，我们也能听。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "upbeat",
+      "zh": "欢快的、令人振奋的。",
+      "example": "She played an upbeat song while cleaning."
+    },
+    {
+      "en": "the way back",
+      "zh": "回程、返回的路上。",
+      "example": "We stopped for coffee on the way back."
+    },
+    {
+      "en": "take off the list",
+      "zh": "从清单中移除。",
+      "example": "Please take milk off the list; we have plenty."
+    },
+    {
+      "en": "add a few more",
+      "zh": "再添加几个。",
+      "example": "Let's add a few more photos to the album."
+    },
+    {
+      "en": "even if",
+      "zh": "即使，引出不影响结果的情况。",
+      "example": "I'll take a walk even if it is cloudy."
+    }
+  ],
+  "pronunciation": "playlist 重读 play；在 songs we 中，songs 末尾的 /z/ 自然接到 we，不必额外加一个音节。",
+  "practice": [
+    {
+      "title": "Part 1 · Music",
+      "prompt": "When do you usually listen to music?",
+      "answer": "I often listen while I travel or clean my room. Upbeat songs give me energy, and quieter music helps me relax."
+    },
+    {
+      "title": "Part 2 · Music for a journey",
+      "prompt": "Describe music you would choose for a journey. Say who you would travel with, what music you would choose, and why.",
+      "answer": "For a long car trip, I would make a playlist with my friend. I would start with lively songs to help us feel awake in the morning. We could each add a few favorites, including a song we heard together at a cafe. For the trip home, I would choose slower music. I would download the list before leaving so we could still listen where there is no signal. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Shared choices",
+      "prompt": "What makes choosing music with other people difficult?",
+      "answer": "People may have different tastes or want different music at different times. Sharing a list and taking turns to add songs can give everyone a voice."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "跟读制作歌单的对话，再和朋友商量歌曲顺序及离线收听。",
+      "answer": "Let's start with some upbeat songs. Could you add a few quiet ones for the way back? I'll download the list before we leave."
+    }
+  ]
+}

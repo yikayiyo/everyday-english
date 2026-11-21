@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-22",
+  "slug": "stargazing",
+  "title": "Looking Up After Sunset",
+  "title_zh": "日落后一起观星",
+  "context": "Julia 和朋友 Ben 在楼顶观星，发现云层遮住一部分天空，决定先观察较亮的星星。 本课属于 2026-11-22 预制系列，内容和练习题均为原创，并非真实考试题。",
+  "voices": {
+    "Julia": "marin",
+    "Ben": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Julia",
+      "en": "The sky is getting dark. Can you see any stars yet?",
+      "zh": "天渐渐黑了。你看到星星了吗？"
+    },
+    {
+      "speaker": "Ben",
+      "en": "I can see one bright star above that building.",
+      "zh": "我能看到那栋楼上方有一颗明亮的星星。"
+    },
+    {
+      "speaker": "Julia",
+      "en": "I see it now. The clouds are covering the other side.",
+      "zh": "我现在看到了。云挡住了另一边的天空。"
+    },
+    {
+      "speaker": "Ben",
+      "en": "Let's give our eyes a little time to adjust.",
+      "zh": "让我们的眼睛花一点时间适应吧。"
+    },
+    {
+      "speaker": "Julia",
+      "en": "Good idea. I'll dim my phone screen, too.",
+      "zh": "好主意。我也把手机屏幕调暗。"
+    },
+    {
+      "speaker": "Ben",
+      "en": "Can you tell me what those stars are called?",
+      "zh": "你能告诉我那一组星星叫什么吗？"
+    },
+    {
+      "speaker": "Julia",
+      "en": "Not yet. I brought a star map, so we can look it up.",
+      "zh": "还不知道。我带了星图，我们可以查一查。"
+    },
+    {
+      "speaker": "Ben",
+      "en": "The map says this shape is the Big Dipper.",
+      "zh": "星图上说这个形状是北斗七星。"
+    },
+    {
+      "speaker": "Julia",
+      "en": "I can see the handle now that you point it out.",
+      "zh": "你指给我看之后，我现在能看出它的柄了。"
+    },
+    {
+      "speaker": "Ben",
+      "en": "The clouds are moving away. There are more stars over there.",
+      "zh": "云正在飘走。那边还有更多星星。"
+    },
+    {
+      "speaker": "Julia",
+      "en": "Let's stay a little longer and see what else we can find.",
+      "zh": "我们再待一会儿，看看还能发现什么。"
+    },
+    {
+      "speaker": "Ben",
+      "en": "I'd like that. The view is worth the wait.",
+      "zh": "好啊。这景色值得等待。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "look up",
+      "zh": "查找信息。",
+      "example": "I'll look up the name in my guide."
+    },
+    {
+      "en": "adjust",
+      "zh": "适应变化，如光线的变化。",
+      "example": "Give your eyes time to adjust to the dark."
+    },
+    {
+      "en": "point out",
+      "zh": "指出，让别人注意到。",
+      "example": "She pointed out a bird in the tree."
+    },
+    {
+      "en": "move away",
+      "zh": "移开、离开原处。",
+      "example": "The clouds moved away from the mountain."
+    },
+    {
+      "en": "worth the wait",
+      "zh": "值得等待。",
+      "example": "The meal took a while, but it was worth the wait."
+    }
+  ],
+  "pronunciation": "stargazing 重读第一个音节 STAR；在 bright star 中保留 bright 末尾的 /t/，再接 star 开头的 /s/。",
+  "practice": [
+    {
+      "title": "Part 1 · Night skies",
+      "prompt": "Do you ever look at the night sky?",
+      "answer": "Yes, especially when I visit somewhere away from bright city lights. I enjoy looking for a few familiar groups of stars."
+    },
+    {
+      "title": "Part 2 · An evening outdoors",
+      "prompt": "Describe an evening you spent outdoors. Say where you were, who was with you, and what you saw.",
+      "answer": "One clear evening I went up to a rooftop with a friend to look at the sky. At first clouds covered part of it, so we waited and let our eyes adjust to the dark. We used a star map to identify the Big Dipper, and my friend pointed out its handle. Later the clouds moved away and we saw more stars. It was a quiet evening that made me feel relaxed. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Seeing the sky",
+      "prompt": "Why can it be difficult to see stars in a city?",
+      "answer": "Bright lights and tall buildings can make the night sky harder to see. Places with less artificial light can give people a better chance to notice faint stars."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "跟读观星对话，再描述天空的变化，并建议用星图查找。",
+      "answer": "I can see a bright star above that building. The clouds are moving away now. Let's look up that group of stars on the map."
+    }
+  ]
+}

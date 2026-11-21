@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-22",
+  "slug": "movie-subtitles",
+  "title": "Choosing Subtitles for Movie Night",
+  "title_zh": "电影之夜选择字幕",
+  "context": "Zoe 和朋友 Ryan 在家看电影，商量字幕设置和暂停方式。本课属于 2026-11-22 预制系列，题目为原创练习，并非真实考试题。",
+  "voices": {
+    "Zoe": "marin",
+    "Ryan": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Zoe",
+      "en": "This movie looks interesting. Should we turn on subtitles?",
+      "zh": "这部电影看起来很有意思。我们打开字幕好吗？"
+    },
+    {
+      "speaker": "Ryan",
+      "en": "Sure. Would you prefer English subtitles or Chinese subtitles?",
+      "zh": "好。你更喜欢英文字幕还是中文字幕？"
+    },
+    {
+      "speaker": "Zoe",
+      "en": "Let's try English first. I want to follow the actors' words.",
+      "zh": "先试试英文吧。我想跟上演员说的话。"
+    },
+    {
+      "speaker": "Ryan",
+      "en": "Good idea. Can you read them from the couch?",
+      "zh": "好主意。你坐在沙发上能看清吗？"
+    },
+    {
+      "speaker": "Zoe",
+      "en": "Almost, but the letters are a little small.",
+      "zh": "差不多，不过字有点小。"
+    },
+    {
+      "speaker": "Ryan",
+      "en": "I'll make them bigger in the settings. Is that better?",
+      "zh": "我在设置里把字调大些。这样好点了吗？"
+    },
+    {
+      "speaker": "Zoe",
+      "en": "Much better, thanks. The dialogue is pretty fast, though.",
+      "zh": "好多了，谢谢。不过对话语速挺快的。"
+    },
+    {
+      "speaker": "Ryan",
+      "en": "We can pause if we miss something.",
+      "zh": "如果漏听了，我们可以暂停。"
+    },
+    {
+      "speaker": "Zoe",
+      "en": "Could we go back a few seconds? I missed that last line.",
+      "zh": "能倒回去几秒吗？我没听清刚才那句。"
+    },
+    {
+      "speaker": "Ryan",
+      "en": "Of course. I'll replay it with the subtitles on.",
+      "zh": "当然。我会开着字幕重放。"
+    },
+    {
+      "speaker": "Zoe",
+      "en": "Now I understand why she left the room.",
+      "zh": "现在我明白她为什么离开房间了。"
+    },
+    {
+      "speaker": "Ryan",
+      "en": "Great. Let's keep watching, and we can switch languages if we need to.",
+      "zh": "太好了。我们继续看，如果需要可以切换字幕语言。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "turn on subtitles",
+      "zh": "打开字幕。",
+      "example": "Turn on subtitles before the show starts."
+    },
+    {
+      "en": "follow the words",
+      "zh": "听懂并跟上所说的话。",
+      "example": "It's easier to follow the words when she speaks slowly."
+    },
+    {
+      "en": "in the settings",
+      "zh": "在设置中。",
+      "example": "You can change the sound in the settings."
+    },
+    {
+      "en": "go back a few seconds",
+      "zh": "倒回去几秒。",
+      "example": "Can you go back a few seconds?"
+    },
+    {
+      "en": "keep watching",
+      "zh": "继续观看。",
+      "example": "Let's keep watching after the break."
+    }
+  ],
+  "pronunciation": "subtitles 重读第一音节 SUB；pause 的元音与 caught 的元音在许多美式口音中相同。",
+  "practice": [
+    {
+      "title": "Part 1 · Movies",
+      "prompt": "Do you watch movies with subtitles?",
+      "answer": "Sometimes. I use English subtitles when the actors speak quickly, and I turn them off when I want to focus on listening."
+    },
+    {
+      "title": "Part 2 · A movie you watched with someone",
+      "prompt": "Describe a movie you watched with someone. Say who was with you, how you watched it, and what you enjoyed.",
+      "answer": "Last month I watched a mystery movie at home with a friend. We chose English subtitles because some of the actors spoke quickly. Once, we paused and went back to hear a line again. We also talked about what might happen next, but we tried not to interrupt too often. I enjoyed watching with my friend because we noticed different details and could discuss the ending afterward. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Subtitles",
+      "prompt": "How might subtitles change the way people enjoy a movie?",
+      "answer": "Subtitles can help viewers follow unfamiliar words or hear a story in another language. However, some people may spend more time reading and notice less of the picture."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "跟读后与朋友商量字幕语言、字号和漏听时怎么办。",
+      "answer": "Let's use English subtitles. Could you make the letters bigger? We can pause if we miss a line."
+    }
+  ]
+}

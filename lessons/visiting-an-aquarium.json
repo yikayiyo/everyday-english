@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-22",
+  "slug": "visiting-an-aquarium",
+  "title": "A Quiet Visit to the Aquarium",
+  "title_zh": "安静地参观水族馆",
+  "context": "Hannah 和弟弟 Eli 在水族馆里规划参观路线，找到较安静的观赏区。 本课属于 2026-11-22 预制系列，题目是原创口语练习，并非真实考试题。",
+  "voices": {
+    "Hannah": "marin",
+    "Eli": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Hannah",
+      "en": "The aquarium map shows a jellyfish room upstairs. Want to see it?",
+      "zh": "地图上说楼上有水母展厅。想去看看吗？"
+    },
+    {
+      "speaker": "Eli",
+      "en": "Yes, but the entrance area is pretty noisy. Can we find a quieter route?",
+      "zh": "想，不过入口这里挺吵的。我们能找条安静点的路线吗？"
+    },
+    {
+      "speaker": "Hannah",
+      "en": "The staff member said the side hallway is usually calmer.",
+      "zh": "工作人员说侧面的走廊通常更安静。"
+    },
+    {
+      "speaker": "Eli",
+      "en": "Let's try that. Is there an elevator nearby?",
+      "zh": "那我们走那里吧。附近有电梯吗？"
+    },
+    {
+      "speaker": "Hannah",
+      "en": "It's just past the large fish tank on our left.",
+      "zh": "过了左边那个大鱼缸就是。"
+    },
+    {
+      "speaker": "Eli",
+      "en": "I can see it. What else is on the upper floor?",
+      "zh": "我看到了。楼上还有什么？"
+    },
+    {
+      "speaker": "Hannah",
+      "en": "There's a room where we can watch sea turtles through a window.",
+      "zh": "有一个房间，我们可以隔着窗户观察海龟。"
+    },
+    {
+      "speaker": "Eli",
+      "en": "I'd like that. Can we stop there before the jellyfish?",
+      "zh": "我想看。去看水母之前能先在那里停一下吗？"
+    },
+    {
+      "speaker": "Hannah",
+      "en": "Sure. We can sit on the bench and watch for a while.",
+      "zh": "当然可以。我们可以坐在长椅上看一会儿。"
+    },
+    {
+      "speaker": "Eli",
+      "en": "Great. I brought my notebook to draw what I see.",
+      "zh": "太好了。我带了笔记本，想把看到的画下来。"
+    },
+    {
+      "speaker": "Hannah",
+      "en": "Then take your time. We don't have to see everything today.",
+      "zh": "那你慢慢画。我们今天不必看完所有东西。"
+    },
+    {
+      "speaker": "Eli",
+      "en": "Thank you. Those turtles glide through the water so slowly and peacefully.",
+      "zh": "谢谢你。那些海龟在水中缓缓游动，真宁静。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "a quieter route",
+      "zh": "一条更安静的路线。",
+      "example": "Is there a quieter route to the exit?"
+    },
+    {
+      "en": "just past",
+      "zh": "刚过……的地方。",
+      "example": "The restroom is just past the stairs."
+    },
+    {
+      "en": "for a while",
+      "zh": "一会儿，一段时间。",
+      "example": "Let's sit here for a while."
+    },
+    {
+      "en": "take your time",
+      "zh": "慢慢来，不着急。",
+      "example": "Take your time with your drawing."
+    },
+    {
+      "en": "don't have to",
+      "zh": "不必做某事。",
+      "example": "We don't have to leave yet."
+    }
+  ],
+  "pronunciation": "aquarium 的重音在第二音节；turtle 的重音在第一个音节，两个 t 之间的元音要清楚。",
+  "practice": [
+    {
+      "title": "Part 1 · Animals",
+      "prompt": "Do you like watching animals?",
+      "answer": "Yes. I especially like watching fish because their movement is calming and interesting."
+    },
+    {
+      "title": "Part 2 · A place where you saw animals",
+      "prompt": "Describe a place where you saw animals. Say where it was, what you saw, and what you remember about it.",
+      "answer": "I visited an aquarium with my younger brother last year. We took a quiet hallway to the upper floor and found a window overlooking a turtle tank. We sat on a bench and watched the turtles swim slowly past us. My brother drew one in his notebook while I read the information nearby. I remember the visit because we took our time and enjoyed a peaceful afternoon together. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Learning about animals",
+      "prompt": "How can places that display animals help visitors learn?",
+      "answer": "They can provide clear information about animals and their habitats. Staff can also answer questions and encourage visitors to think about how human choices affect nature."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "跟读后询问较安静的路线，并提议先去看一种动物。",
+      "answer": "Is there a quieter route upstairs? I'd like to see the turtles first. Can we sit and watch for a while?"
+    }
+  ]
+}

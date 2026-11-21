@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-22",
+  "slug": "art-supplies",
+  "title": "Choosing Supplies for a Drawing",
+  "title_zh": "挑选绘画用品",
+  "context": "Lena 在画材店向店员 Max 寻找适合铅笔画的纸和橡皮。 本课属于 2026-11-22 预制系列，题目是原创口语练习，并非真实考试题。",
+  "voices": {
+    "Lena": "marin",
+    "Max": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Lena",
+      "en": "I'm looking for paper for a pencil drawing. Can you help?",
+      "zh": "我在找适合铅笔画的纸。你能帮忙吗？"
+    },
+    {
+      "speaker": "Max",
+      "en": "Of course. Do you want loose sheets or a sketchbook?",
+      "zh": "当然。你想要单张纸还是速写本？"
+    },
+    {
+      "speaker": "Lena",
+      "en": "A sketchbook would be easier to carry to the park.",
+      "zh": "速写本带去公园会更方便。"
+    },
+    {
+      "speaker": "Max",
+      "en": "This one has thicker paper and a hard cover.",
+      "zh": "这本纸较厚，还有硬封面。"
+    },
+    {
+      "speaker": "Lena",
+      "en": "Can I erase pencil marks without damaging the paper?",
+      "zh": "擦掉铅笔痕迹时会弄坏纸吗？"
+    },
+    {
+      "speaker": "Max",
+      "en": "If you erase gently, this paper should hold up well.",
+      "zh": "如果轻轻擦，这种纸应该比较耐用。"
+    },
+    {
+      "speaker": "Lena",
+      "en": "That sounds useful. Do you have a soft eraser too?",
+      "zh": "听起来很实用。你们也有软橡皮吗？"
+    },
+    {
+      "speaker": "Max",
+      "en": "Yes, these white ones are popular for pencil work.",
+      "zh": "有，这些白色橡皮画铅笔画的人很喜欢用。"
+    },
+    {
+      "speaker": "Lena",
+      "en": "I'll take one. Are the pencils sold separately?",
+      "zh": "我拿一块。铅笔是单独卖的吗？"
+    },
+    {
+      "speaker": "Max",
+      "en": "They are. You can try a few different ones at that table.",
+      "zh": "是的。你可以在那张桌子旁试试几种不同的铅笔。"
+    },
+    {
+      "speaker": "Lena",
+      "en": "I like this darker one, so I'll add it to my basket.",
+      "zh": "我喜欢这支颜色深一些的，我把它也放进篮子。"
+    },
+    {
+      "speaker": "Max",
+      "en": "Nice choice. I can ring those up at the counter.",
+      "zh": "选得不错。我可以在柜台帮你结账。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "loose sheets",
+      "zh": "单张纸，区别于装订成册的纸。",
+      "example": "I keep loose sheets in a folder."
+    },
+    {
+      "en": "hold up",
+      "zh": "保持完好、经得住使用。",
+      "example": "These shoes have held up well."
+    },
+    {
+      "en": "pencil marks",
+      "zh": "铅笔留下的痕迹。",
+      "example": "There are pencil marks on the page."
+    },
+    {
+      "en": "sold separately",
+      "zh": "单独出售。",
+      "example": "The brushes are sold separately."
+    },
+    {
+      "en": "ring up",
+      "zh": "在收银台结账。",
+      "example": "The clerk rang up my notebook."
+    }
+  ],
+  "pronunciation": "sketchbook 的重音在 sketch；separately 的重音在第一个音节，注意中间音节较轻。",
+  "practice": [
+    {
+      "title": "Part 1 · Drawing",
+      "prompt": "Do you ever draw in your free time?",
+      "answer": "Sometimes I draw simple plants in a notebook. It helps me slow down after work."
+    },
+    {
+      "title": "Part 2 · Something you made",
+      "prompt": "Describe something you made by hand. Say what it was, what you used, and how you felt about it.",
+      "answer": "I made a pencil drawing of a tree outside my window. I used a small sketchbook, a dark pencil, and a soft eraser. At first the branches looked uneven, so I erased a few lines and tried again. I spent a quiet afternoon on it and gave the finished picture to my sister. I felt pleased because I had made something personal. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Creative activities",
+      "prompt": "Why might adults enjoy making art even if they are beginners?",
+      "answer": "Art can be relaxing and offers a way to express ideas. Beginners can also enjoy seeing their skills improve without needing to produce perfect work."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "跟读后向店员说明你想画什么，询问纸和铅笔。",
+      "answer": "I'm looking for paper for pencil drawings. Is this sketchbook easy to carry? Can I try this pencil?"
+    }
+  ]
+}

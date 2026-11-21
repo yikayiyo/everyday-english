@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-22",
+  "slug": "buying-flowers",
+  "title": "Flowers for a Thank-You",
+  "title_zh": "买一束花表达谢意",
+  "context": "Jules 在花店请店员 Aaron 帮忙挑一束送给老师的花，并选择简单包装。 本课属于 2026-11-22 预制系列，练习题为原创练习，并非真实考试题。",
+  "voices": {
+    "Jules": "marin",
+    "Aaron": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Jules",
+      "en": "I would like some flowers to thank my teacher. Could you help me choose?",
+      "zh": "我想买些花感谢老师。你能帮我挑选吗？"
+    },
+    {
+      "speaker": "Aaron",
+      "en": "Of course. Do you have a color in mind?",
+      "zh": "当然。你想好要什么颜色了吗？"
+    },
+    {
+      "speaker": "Jules",
+      "en": "She likes yellow, and I would like something cheerful.",
+      "zh": "她喜欢黄色，我想要看起来明快的花。"
+    },
+    {
+      "speaker": "Aaron",
+      "en": "These yellow daisies look lovely with the white ones.",
+      "zh": "这些黄色雏菊和白色的搭配很好看。"
+    },
+    {
+      "speaker": "Jules",
+      "en": "They do. Could you make a small bunch with both colors?",
+      "zh": "确实。能用这两种颜色扎一小束吗？"
+    },
+    {
+      "speaker": "Aaron",
+      "en": "Certainly. How much would you like to spend?",
+      "zh": "当然可以。你想花多少钱？"
+    },
+    {
+      "speaker": "Jules",
+      "en": "About twenty dollars, if that is enough for a small bunch.",
+      "zh": "大约二十美元，如果够买一小束的话。"
+    },
+    {
+      "speaker": "Aaron",
+      "en": "Yes, this bunch comes to eighteen dollars. Would you like a ribbon?",
+      "zh": "够的，这束十八美元。你想加一条丝带吗？"
+    },
+    {
+      "speaker": "Jules",
+      "en": "A simple green ribbon would be great. Is that included?",
+      "zh": "一条简单的绿色丝带就很好。这个价格包括丝带吗？"
+    },
+    {
+      "speaker": "Aaron",
+      "en": "Yes, it is. I can wrap the stems in paper, too.",
+      "zh": "包括的。我还可以用纸把花茎包起来。"
+    },
+    {
+      "speaker": "Jules",
+      "en": "Thank you. I will write her a note when I get home.",
+      "zh": "谢谢。我回家后会给她写张便条。"
+    },
+    {
+      "speaker": "Aaron",
+      "en": "Here you are. I hope she enjoys the flowers.",
+      "zh": "给你。希望她喜欢这些花。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "have a color in mind",
+      "zh": "心里有想好的颜色。",
+      "example": "Do you have a color in mind for the card?"
+    },
+    {
+      "en": "a small bunch",
+      "zh": "一小束，常用于花。",
+      "example": "He picked a small bunch of flowers."
+    },
+    {
+      "en": "come to",
+      "zh": "合计为，用于说明总价。",
+      "example": "The two notebooks come to ten dollars."
+    },
+    {
+      "en": "be included",
+      "zh": "包含在内。",
+      "example": "Is the card included in the price?"
+    },
+    {
+      "en": "wrap the stems",
+      "zh": "包住花茎。",
+      "example": "Please wrap the stems in paper."
+    }
+  ],
+  "pronunciation": "daisies 的重音在第一音节，结尾发 /z/ 音；bunch 以 /tʃ/ 结尾，与 lunch 的结尾相同。",
+  "practice": [
+    {
+      "title": "Part 1 · Flowers",
+      "prompt": "Do you like receiving flowers?",
+      "answer": "Yes. A small bunch can make a room feel brighter, and I like knowing someone chose it for me."
+    },
+    {
+      "title": "Part 2 · A thoughtful present",
+      "prompt": "Describe a small present you gave someone. Say who received it, how you chose it, and how they reacted.",
+      "answer": "I once gave my teacher a small bunch of yellow flowers at the end of a course. I chose yellow because she often wore a yellow scarf. At the flower shop, I asked for a simple ribbon and stayed within my budget. I added a short note to thank her for encouraging me. She smiled and put the flowers on her desk. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Giving",
+      "prompt": "Why do people sometimes value a simple gift?",
+      "answer": "A simple gift can show that the giver paid attention to the recipient. The thought and the occasion may matter more than the price."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "跟读挑选颜色和询问总价的句子，然后向店员描述你想买的花。",
+      "answer": "I would like a small bunch in pink and white. I can spend about twenty dollars. Is the ribbon included?"
+    }
+  ]
+}

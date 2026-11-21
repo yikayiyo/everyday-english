@@ -1,0 +1,1356 @@
+{
+  "timing_status": "strict_timing_pass",
+  "timing_warnings": [],
+  "model": "whisper-1",
+  "lesson": "art-supplies",
+  "source_sha256": "b4e744a4411e26634bb9396da52ef37fffd3bc9ebf591f9c829aab8118237f18",
+  "full_track": "dialogue-full.mp3",
+  "full_duration": 36.0,
+  "full_audio_sha256": "22d0b3808b19504c5072f347c07b6d4aa595b6f1a033b615b6613c435791731f",
+  "lines": [
+    {
+      "index": 1,
+      "file": "01.mp3",
+      "text": "I'm looking for paper for a pencil drawing. Can you help?",
+      "audio_sha256": "062fd9557123f9930f8f8faae4ab28e8d6c49b953ee17123afe2265ff2efb7bd",
+      "start": 0,
+      "end": 3.168,
+      "duration": 3.168,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "I'm",
+          "local_start": 0.0,
+          "local_end": 0.4000000059604645,
+          "evidence_indices": [
+            0
+          ],
+          "start": 0.0,
+          "end": 0.4000000059604645
+        },
+        {
+          "word": "looking",
+          "local_start": 0.4000000059604645,
+          "local_end": 0.5799999833106995,
+          "evidence_indices": [
+            1
+          ],
+          "start": 0.4000000059604645,
+          "end": 0.5799999833106995
+        },
+        {
+          "word": "for",
+          "local_start": 0.5799999833106995,
+          "local_end": 0.9800000190734863,
+          "evidence_indices": [
+            2
+          ],
+          "start": 0.5799999833106995,
+          "end": 0.9800000190734863
+        },
+        {
+          "word": "paper",
+          "local_start": 0.9800000190734863,
+          "local_end": 1.1200000047683716,
+          "evidence_indices": [
+            3
+          ],
+          "start": 0.9800000190734863,
+          "end": 1.1200000047683716
+        },
+        {
+          "word": "for",
+          "local_start": 1.1200000047683716,
+          "local_end": 1.3600000143051147,
+          "evidence_indices": [
+            4
+          ],
+          "start": 1.1200000047683716,
+          "end": 1.3600000143051147
+        },
+        {
+          "word": "a",
+          "local_start": 1.3600000143051147,
+          "local_end": 1.5800000429153442,
+          "evidence_indices": [
+            5
+          ],
+          "start": 1.3600000143051147,
+          "end": 1.5800000429153442
+        },
+        {
+          "word": "pencil",
+          "local_start": 1.5800000429153442,
+          "local_end": 1.7400000095367432,
+          "evidence_indices": [
+            6
+          ],
+          "start": 1.5800000429153442,
+          "end": 1.7400000095367432
+        },
+        {
+          "word": "drawing.",
+          "local_start": 1.7400000095367432,
+          "local_end": 2.119999885559082,
+          "evidence_indices": [
+            7
+          ],
+          "start": 1.7400000095367432,
+          "end": 2.119999885559082
+        },
+        {
+          "word": "Can",
+          "local_start": 2.619999885559082,
+          "local_end": 2.740000009536743,
+          "evidence_indices": [
+            8
+          ],
+          "start": 2.619999885559082,
+          "end": 2.740000009536743
+        },
+        {
+          "word": "you",
+          "local_start": 2.740000009536743,
+          "local_end": 2.880000114440918,
+          "evidence_indices": [
+            9
+          ],
+          "start": 2.740000009536743,
+          "end": 2.880000114440918
+        },
+        {
+          "word": "help?",
+          "local_start": 2.880000114440918,
+          "local_end": 3.0199999809265137,
+          "evidence_indices": [
+            10
+          ],
+          "start": 2.880000114440918,
+          "end": 3.0199999809265137
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "file": "02.mp3",
+      "text": "Of course. Do you want loose sheets or a sketchbook?",
+      "audio_sha256": "9b858774d6586e4778c7300d43f8a754fee27844fcff8738eb37f31ff46d5e23",
+      "start": 3.168,
+      "end": 6.12,
+      "duration": 2.952,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Of",
+          "local_start": 0.0,
+          "local_end": 0.25999999046325684,
+          "evidence_indices": [
+            0
+          ],
+          "start": 3.168,
+          "end": 3.427999990463257
+        },
+        {
+          "word": "course.",
+          "local_start": 0.25999999046325684,
+          "local_end": 0.6600000262260437,
+          "evidence_indices": [
+            1
+          ],
+          "start": 3.427999990463257,
+          "end": 3.828000026226044
+        },
+        {
+          "word": "Do",
+          "local_start": 1.0199999809265137,
+          "local_end": 1.159999966621399,
+          "evidence_indices": [
+            2
+          ],
+          "start": 4.187999980926514,
+          "end": 4.327999966621399
+        },
+        {
+          "word": "you",
+          "local_start": 1.159999966621399,
+          "local_end": 1.2200000286102295,
+          "evidence_indices": [
+            3
+          ],
+          "start": 4.327999966621399,
+          "end": 4.38800002861023
+        },
+        {
+          "word": "want",
+          "local_start": 1.2200000286102295,
+          "local_end": 1.399999976158142,
+          "evidence_indices": [
+            4
+          ],
+          "start": 4.38800002861023,
+          "end": 4.567999976158142
+        },
+        {
+          "word": "loose",
+          "local_start": 1.399999976158142,
+          "local_end": 1.659999966621399,
+          "evidence_indices": [
+            5
+          ],
+          "start": 4.567999976158142,
+          "end": 4.827999966621399
+        },
+        {
+          "word": "sheets",
+          "local_start": 1.659999966621399,
+          "local_end": 1.840000033378601,
+          "evidence_indices": [
+            6
+          ],
+          "start": 4.827999966621399,
+          "end": 5.008000033378601
+        },
+        {
+          "word": "or",
+          "local_start": 1.840000033378601,
+          "local_end": 2.0799999237060547,
+          "evidence_indices": [
+            7
+          ],
+          "start": 5.008000033378601,
+          "end": 5.247999923706055
+        },
+        {
+          "word": "a",
+          "local_start": 2.0799999237060547,
+          "local_end": 2.299999952316284,
+          "evidence_indices": [
+            8
+          ],
+          "start": 5.247999923706055,
+          "end": 5.467999952316284
+        },
+        {
+          "word": "sketchbook?",
+          "local_start": 2.299999952316284,
+          "local_end": 2.640000104904175,
+          "evidence_indices": [
+            9
+          ],
+          "start": 5.467999952316284,
+          "end": 5.808000104904175
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "file": "03.mp3",
+      "text": "A sketchbook would be easier to carry to the park.",
+      "audio_sha256": "5156a57f85b1cb4ee3e196902b9b2c711b8b1f57a388c0ed8c18b960678c5f86",
+      "start": 6.12,
+      "end": 9.120000000000001,
+      "duration": 3.0,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "A",
+          "local_start": 0.0,
+          "local_end": 0.23999999463558197,
+          "evidence_indices": [
+            0
+          ],
+          "start": 6.12,
+          "end": 6.359999994635582
+        },
+        {
+          "word": "sketchbook",
+          "local_start": 0.23999999463558197,
+          "local_end": 0.800000011920929,
+          "evidence_indices": [
+            1
+          ],
+          "start": 6.359999994635582,
+          "end": 6.920000011920929
+        },
+        {
+          "word": "would",
+          "local_start": 0.800000011920929,
+          "local_end": 1.100000023841858,
+          "evidence_indices": [
+            2
+          ],
+          "start": 6.920000011920929,
+          "end": 7.220000023841858
+        },
+        {
+          "word": "be",
+          "local_start": 1.100000023841858,
+          "local_end": 1.2400000095367432,
+          "evidence_indices": [
+            3
+          ],
+          "start": 7.220000023841858,
+          "end": 7.360000009536743
+        },
+        {
+          "word": "easier",
+          "local_start": 1.2400000095367432,
+          "local_end": 1.659999966621399,
+          "evidence_indices": [
+            4
+          ],
+          "start": 7.360000009536743,
+          "end": 7.779999966621399
+        },
+        {
+          "word": "to",
+          "local_start": 1.659999966621399,
+          "local_end": 1.899999976158142,
+          "evidence_indices": [
+            5
+          ],
+          "start": 7.779999966621399,
+          "end": 8.019999976158143
+        },
+        {
+          "word": "carry",
+          "local_start": 1.899999976158142,
+          "local_end": 2.119999885559082,
+          "evidence_indices": [
+            6
+          ],
+          "start": 8.019999976158143,
+          "end": 8.239999885559083
+        },
+        {
+          "word": "to",
+          "local_start": 2.119999885559082,
+          "local_end": 2.299999952316284,
+          "evidence_indices": [
+            7
+          ],
+          "start": 8.239999885559083,
+          "end": 8.419999952316285
+        },
+        {
+          "word": "the",
+          "local_start": 2.299999952316284,
+          "local_end": 2.440000057220459,
+          "evidence_indices": [
+            8
+          ],
+          "start": 8.419999952316285,
+          "end": 8.56000005722046
+        },
+        {
+          "word": "park.",
+          "local_start": 2.440000057220459,
+          "local_end": 2.6600000858306885,
+          "evidence_indices": [
+            9
+          ],
+          "start": 8.56000005722046,
+          "end": 8.78000008583069
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "file": "04.mp3",
+      "text": "This one has thicker paper and a hard cover.",
+      "audio_sha256": "a40c47fd95b76473ee51947769c8d3a9ad63cd92a261ec99d3b3170acded9786",
+      "start": 9.120000000000001,
+      "end": 12.120000000000001,
+      "duration": 3.0,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "This",
+          "local_start": 0.0,
+          "local_end": 0.30000001192092896,
+          "evidence_indices": [
+            0
+          ],
+          "start": 9.120000000000001,
+          "end": 9.42000001192093
+        },
+        {
+          "word": "one",
+          "local_start": 0.30000001192092896,
+          "local_end": 0.5400000214576721,
+          "evidence_indices": [
+            1
+          ],
+          "start": 9.42000001192093,
+          "end": 9.660000021457673
+        },
+        {
+          "word": "has",
+          "local_start": 0.5400000214576721,
+          "local_end": 0.8999999761581421,
+          "evidence_indices": [
+            2
+          ],
+          "start": 9.660000021457673,
+          "end": 10.019999976158143
+        },
+        {
+          "word": "thicker",
+          "local_start": 0.8999999761581421,
+          "local_end": 1.3200000524520874,
+          "evidence_indices": [
+            3
+          ],
+          "start": 10.019999976158143,
+          "end": 10.440000052452088
+        },
+        {
+          "word": "paper",
+          "local_start": 1.3200000524520874,
+          "local_end": 1.6799999475479126,
+          "evidence_indices": [
+            4
+          ],
+          "start": 10.440000052452088,
+          "end": 10.799999947547914
+        },
+        {
+          "word": "and",
+          "local_start": 1.6799999475479126,
+          "local_end": 2.140000104904175,
+          "evidence_indices": [
+            5
+          ],
+          "start": 10.799999947547914,
+          "end": 11.260000104904176
+        },
+        {
+          "word": "a",
+          "local_start": 2.140000104904175,
+          "local_end": 2.3399999141693115,
+          "evidence_indices": [
+            6
+          ],
+          "start": 11.260000104904176,
+          "end": 11.459999914169313
+        },
+        {
+          "word": "hard",
+          "local_start": 2.3399999141693115,
+          "local_end": 2.4600000381469727,
+          "evidence_indices": [
+            7
+          ],
+          "start": 11.459999914169313,
+          "end": 11.580000038146974
+        },
+        {
+          "word": "cover.",
+          "local_start": 2.4600000381469727,
+          "local_end": 2.7200000286102295,
+          "evidence_indices": [
+            8
+          ],
+          "start": 11.580000038146974,
+          "end": 11.84000002861023
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "file": "05.mp3",
+      "text": "Can I erase pencil marks without damaging the paper?",
+      "audio_sha256": "dd8ac11303a4423273a5df99dd7ea6c744b8606accf8fb9b8fca134fb205bb50",
+      "start": 12.120000000000001,
+      "end": 14.88,
+      "duration": 2.76,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Can",
+          "local_start": 0.0,
+          "local_end": 0.20000000298023224,
+          "evidence_indices": [
+            0
+          ],
+          "start": 12.120000000000001,
+          "end": 12.320000002980233
+        },
+        {
+          "word": "I",
+          "local_start": 0.20000000298023224,
+          "local_end": 0.3799999952316284,
+          "evidence_indices": [
+            1
+          ],
+          "start": 12.320000002980233,
+          "end": 12.49999999523163
+        },
+        {
+          "word": "erase",
+          "local_start": 0.3799999952316284,
+          "local_end": 0.6399999856948853,
+          "evidence_indices": [
+            2
+          ],
+          "start": 12.49999999523163,
+          "end": 12.759999985694886
+        },
+        {
+          "word": "pencil",
+          "local_start": 0.6399999856948853,
+          "local_end": 0.9800000190734863,
+          "evidence_indices": [
+            3
+          ],
+          "start": 12.759999985694886,
+          "end": 13.100000019073487
+        },
+        {
+          "word": "marks",
+          "local_start": 0.9800000190734863,
+          "local_end": 1.2400000095367432,
+          "evidence_indices": [
+            4
+          ],
+          "start": 13.100000019073487,
+          "end": 13.360000009536744
+        },
+        {
+          "word": "without",
+          "local_start": 1.2400000095367432,
+          "local_end": 1.6200000047683716,
+          "evidence_indices": [
+            5
+          ],
+          "start": 13.360000009536744,
+          "end": 13.740000004768373
+        },
+        {
+          "word": "damaging",
+          "local_start": 1.6200000047683716,
+          "local_end": 2.0199999809265137,
+          "evidence_indices": [
+            6
+          ],
+          "start": 13.740000004768373,
+          "end": 14.139999980926515
+        },
+        {
+          "word": "the",
+          "local_start": 2.0199999809265137,
+          "local_end": 2.1600000858306885,
+          "evidence_indices": [
+            7
+          ],
+          "start": 14.139999980926515,
+          "end": 14.28000008583069
+        },
+        {
+          "word": "paper?",
+          "local_start": 2.1600000858306885,
+          "local_end": 2.380000114440918,
+          "evidence_indices": [
+            8
+          ],
+          "start": 14.28000008583069,
+          "end": 14.500000114440919
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "file": "06.mp3",
+      "text": "If you erase gently, this paper should hold up well.",
+      "audio_sha256": "20fadbdb051da0dcbdea00fd52b0028f07685d012a0334e37c69119eecb8a217",
+      "start": 14.88,
+      "end": 17.736,
+      "duration": 2.856,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "If",
+          "local_start": 0.0,
+          "local_end": 0.18000000715255737,
+          "evidence_indices": [
+            0
+          ],
+          "start": 14.88,
+          "end": 15.060000007152558
+        },
+        {
+          "word": "you",
+          "local_start": 0.18000000715255737,
+          "local_end": 0.41999998688697815,
+          "evidence_indices": [
+            1
+          ],
+          "start": 15.060000007152558,
+          "end": 15.299999986886979
+        },
+        {
+          "word": "erase",
+          "local_start": 0.41999998688697815,
+          "local_end": 0.6600000262260437,
+          "evidence_indices": [
+            2
+          ],
+          "start": 15.299999986886979,
+          "end": 15.540000026226044
+        },
+        {
+          "word": "gently,",
+          "local_start": 0.6600000262260437,
+          "local_end": 1.059999942779541,
+          "evidence_indices": [
+            3
+          ],
+          "start": 15.540000026226044,
+          "end": 15.939999942779542
+        },
+        {
+          "word": "this",
+          "local_start": 1.4600000381469727,
+          "local_end": 1.5800000429153442,
+          "evidence_indices": [
+            4
+          ],
+          "start": 16.340000038146975,
+          "end": 16.460000042915347
+        },
+        {
+          "word": "paper",
+          "local_start": 1.5800000429153442,
+          "local_end": 1.7799999713897705,
+          "evidence_indices": [
+            5
+          ],
+          "start": 16.460000042915347,
+          "end": 16.659999971389773
+        },
+        {
+          "word": "should",
+          "local_start": 1.7799999713897705,
+          "local_end": 2.0399999618530273,
+          "evidence_indices": [
+            6
+          ],
+          "start": 16.659999971389773,
+          "end": 16.91999996185303
+        },
+        {
+          "word": "hold",
+          "local_start": 2.0399999618530273,
+          "local_end": 2.200000047683716,
+          "evidence_indices": [
+            7
+          ],
+          "start": 16.91999996185303,
+          "end": 17.08000004768372
+        },
+        {
+          "word": "up",
+          "local_start": 2.200000047683716,
+          "local_end": 2.4000000953674316,
+          "evidence_indices": [
+            8
+          ],
+          "start": 17.08000004768372,
+          "end": 17.280000095367434
+        },
+        {
+          "word": "well.",
+          "local_start": 2.4000000953674316,
+          "local_end": 2.619999885559082,
+          "evidence_indices": [
+            9
+          ],
+          "start": 17.280000095367434,
+          "end": 17.499999885559085
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "file": "07.mp3",
+      "text": "That sounds useful. Do you have a soft eraser too?",
+      "audio_sha256": "38f017cab8c30edefb3ef353b99147f98b038c3c24cb5e0d6d2a80906f6336d1",
+      "start": 17.736,
+      "end": 20.952,
+      "duration": 3.216,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "That",
+          "local_start": 0.0,
+          "local_end": 0.23999999463558197,
+          "evidence_indices": [
+            0
+          ],
+          "start": 17.736,
+          "end": 17.975999994635583
+        },
+        {
+          "word": "sounds",
+          "local_start": 0.23999999463558197,
+          "local_end": 0.5,
+          "evidence_indices": [
+            1
+          ],
+          "start": 17.975999994635583,
+          "end": 18.236
+        },
+        {
+          "word": "useful.",
+          "local_start": 0.5,
+          "local_end": 0.9399999976158142,
+          "evidence_indices": [
+            2
+          ],
+          "start": 18.236,
+          "end": 18.675999997615815
+        },
+        {
+          "word": "Do",
+          "local_start": 1.5199999809265137,
+          "local_end": 1.6200000047683716,
+          "evidence_indices": [
+            3
+          ],
+          "start": 19.255999980926514,
+          "end": 19.356000004768372
+        },
+        {
+          "word": "you",
+          "local_start": 1.6200000047683716,
+          "local_end": 1.7200000286102295,
+          "evidence_indices": [
+            4
+          ],
+          "start": 19.356000004768372,
+          "end": 19.45600002861023
+        },
+        {
+          "word": "have",
+          "local_start": 1.7200000286102295,
+          "local_end": 1.899999976158142,
+          "evidence_indices": [
+            5
+          ],
+          "start": 19.45600002861023,
+          "end": 19.635999976158143
+        },
+        {
+          "word": "a",
+          "local_start": 1.899999976158142,
+          "local_end": 2.180000066757202,
+          "evidence_indices": [
+            6
+          ],
+          "start": 19.635999976158143,
+          "end": 19.916000066757203
+        },
+        {
+          "word": "soft",
+          "local_start": 2.180000066757202,
+          "local_end": 2.380000114440918,
+          "evidence_indices": [
+            7
+          ],
+          "start": 19.916000066757203,
+          "end": 20.11600011444092
+        },
+        {
+          "word": "eraser",
+          "local_start": 2.380000114440918,
+          "local_end": 2.6600000858306885,
+          "evidence_indices": [
+            8
+          ],
+          "start": 20.11600011444092,
+          "end": 20.39600008583069
+        },
+        {
+          "word": "too?",
+          "local_start": 2.6600000858306885,
+          "local_end": 2.940000057220459,
+          "evidence_indices": [
+            9
+          ],
+          "start": 20.39600008583069,
+          "end": 20.67600005722046
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "file": "08.mp3",
+      "text": "Yes, these white ones are popular for pencil work.",
+      "audio_sha256": "6367a6109f47fd2b0a636b08039023634edf81bd9fd64b50fc50f6cc526a9b85",
+      "start": 20.952,
+      "end": 24.12,
+      "duration": 3.168,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Yes,",
+          "local_start": 0.0,
+          "local_end": 0.6399999856948853,
+          "evidence_indices": [
+            0
+          ],
+          "start": 20.952,
+          "end": 21.591999985694887
+        },
+        {
+          "word": "these",
+          "local_start": 0.8999999761581421,
+          "local_end": 1.059999942779541,
+          "evidence_indices": [
+            1
+          ],
+          "start": 21.851999976158144,
+          "end": 22.011999942779543
+        },
+        {
+          "word": "white",
+          "local_start": 1.059999942779541,
+          "local_end": 1.2200000286102295,
+          "evidence_indices": [
+            2
+          ],
+          "start": 22.011999942779543,
+          "end": 22.17200002861023
+        },
+        {
+          "word": "ones",
+          "local_start": 1.2200000286102295,
+          "local_end": 1.399999976158142,
+          "evidence_indices": [
+            3
+          ],
+          "start": 22.17200002861023,
+          "end": 22.351999976158144
+        },
+        {
+          "word": "are",
+          "local_start": 1.399999976158142,
+          "local_end": 1.600000023841858,
+          "evidence_indices": [
+            4
+          ],
+          "start": 22.351999976158144,
+          "end": 22.55200002384186
+        },
+        {
+          "word": "popular",
+          "local_start": 1.600000023841858,
+          "local_end": 1.9199999570846558,
+          "evidence_indices": [
+            5
+          ],
+          "start": 22.55200002384186,
+          "end": 22.871999957084657
+        },
+        {
+          "word": "for",
+          "local_start": 1.9199999570846558,
+          "local_end": 2.200000047683716,
+          "evidence_indices": [
+            6
+          ],
+          "start": 22.871999957084657,
+          "end": 23.152000047683718
+        },
+        {
+          "word": "pencil",
+          "local_start": 2.200000047683716,
+          "local_end": 2.359999895095825,
+          "evidence_indices": [
+            7
+          ],
+          "start": 23.152000047683718,
+          "end": 23.311999895095827
+        },
+        {
+          "word": "work.",
+          "local_start": 2.359999895095825,
+          "local_end": 2.619999885559082,
+          "evidence_indices": [
+            8
+          ],
+          "start": 23.311999895095827,
+          "end": 23.571999885559084
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "file": "09.mp3",
+      "text": "I'll take one. Are the pencils sold separately?",
+      "audio_sha256": "bbfcdf91421387497e94be8d2730863b031e26442116701ebd65d32368c3971f",
+      "start": 24.12,
+      "end": 27.288,
+      "duration": 3.168,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "I'll",
+          "local_start": 0.0,
+          "local_end": 0.3400000035762787,
+          "evidence_indices": [
+            0
+          ],
+          "start": 24.12,
+          "end": 24.46000000357628
+        },
+        {
+          "word": "take",
+          "local_start": 0.3400000035762787,
+          "local_end": 0.5199999809265137,
+          "evidence_indices": [
+            1
+          ],
+          "start": 24.46000000357628,
+          "end": 24.639999980926515
+        },
+        {
+          "word": "one.",
+          "local_start": 0.5199999809265137,
+          "local_end": 0.800000011920929,
+          "evidence_indices": [
+            2
+          ],
+          "start": 24.639999980926515,
+          "end": 24.92000001192093
+        },
+        {
+          "word": "Are",
+          "local_start": 1.100000023841858,
+          "local_end": 1.2200000286102295,
+          "evidence_indices": [
+            3
+          ],
+          "start": 25.22000002384186,
+          "end": 25.34000002861023
+        },
+        {
+          "word": "the",
+          "local_start": 1.2200000286102295,
+          "local_end": 1.399999976158142,
+          "evidence_indices": [
+            4
+          ],
+          "start": 25.34000002861023,
+          "end": 25.519999976158143
+        },
+        {
+          "word": "pencils",
+          "local_start": 1.399999976158142,
+          "local_end": 1.6799999475479126,
+          "evidence_indices": [
+            5
+          ],
+          "start": 25.519999976158143,
+          "end": 25.799999947547914
+        },
+        {
+          "word": "sold",
+          "local_start": 1.6799999475479126,
+          "local_end": 2.0,
+          "evidence_indices": [
+            6
+          ],
+          "start": 25.799999947547914,
+          "end": 26.12
+        },
+        {
+          "word": "separately?",
+          "local_start": 2.0,
+          "local_end": 2.359999895095825,
+          "evidence_indices": [
+            7
+          ],
+          "start": 26.12,
+          "end": 26.479999895095826
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "file": "10.mp3",
+      "text": "They are. You can try a few different ones at that table.",
+      "audio_sha256": "bd0ea64165df58742968fe9da395e1b85243db8930b88aa3dbd696640700b02e",
+      "start": 27.288,
+      "end": 30.792,
+      "duration": 3.504,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "They",
+          "local_start": 0.0,
+          "local_end": 0.3199999928474426,
+          "evidence_indices": [
+            0
+          ],
+          "start": 27.288,
+          "end": 27.607999992847443
+        },
+        {
+          "word": "are.",
+          "local_start": 0.3199999928474426,
+          "local_end": 0.5799999833106995,
+          "evidence_indices": [
+            1
+          ],
+          "start": 27.607999992847443,
+          "end": 27.8679999833107
+        },
+        {
+          "word": "You",
+          "local_start": 1.1799999475479126,
+          "local_end": 1.4600000381469727,
+          "evidence_indices": [
+            2
+          ],
+          "start": 28.467999947547913,
+          "end": 28.748000038146973
+        },
+        {
+          "word": "can",
+          "local_start": 1.4600000381469727,
+          "local_end": 1.6799999475479126,
+          "evidence_indices": [
+            3
+          ],
+          "start": 28.748000038146973,
+          "end": 28.967999947547913
+        },
+        {
+          "word": "try",
+          "local_start": 1.6799999475479126,
+          "local_end": 1.8799999952316284,
+          "evidence_indices": [
+            4
+          ],
+          "start": 28.967999947547913,
+          "end": 29.16799999523163
+        },
+        {
+          "word": "a",
+          "local_start": 1.8799999952316284,
+          "local_end": 2.0399999618530273,
+          "evidence_indices": [
+            5
+          ],
+          "start": 29.16799999523163,
+          "end": 29.327999961853028
+        },
+        {
+          "word": "few",
+          "local_start": 2.0399999618530273,
+          "local_end": 2.240000009536743,
+          "evidence_indices": [
+            6
+          ],
+          "start": 29.327999961853028,
+          "end": 29.528000009536743
+        },
+        {
+          "word": "different",
+          "local_start": 2.240000009536743,
+          "local_end": 2.440000057220459,
+          "evidence_indices": [
+            7
+          ],
+          "start": 29.528000009536743,
+          "end": 29.72800005722046
+        },
+        {
+          "word": "ones",
+          "local_start": 2.440000057220459,
+          "local_end": 2.640000104904175,
+          "evidence_indices": [
+            8
+          ],
+          "start": 29.72800005722046,
+          "end": 29.928000104904175
+        },
+        {
+          "word": "at",
+          "local_start": 2.640000104904175,
+          "local_end": 2.7799999713897705,
+          "evidence_indices": [
+            9
+          ],
+          "start": 29.928000104904175,
+          "end": 30.06799997138977
+        },
+        {
+          "word": "that",
+          "local_start": 2.7799999713897705,
+          "local_end": 3.059999942779541,
+          "evidence_indices": [
+            10
+          ],
+          "start": 30.06799997138977,
+          "end": 30.34799994277954
+        },
+        {
+          "word": "table.",
+          "local_start": 3.059999942779541,
+          "local_end": 3.1600000858306885,
+          "evidence_indices": [
+            11
+          ],
+          "start": 30.34799994277954,
+          "end": 30.44800008583069
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "file": "11.mp3",
+      "text": "I like this darker one, so I'll add it to my basket.",
+      "audio_sha256": "0abb53c37ff20f15734a88634b619279dba9f8f82765a89252d905b124c66a0a",
+      "start": 30.792,
+      "end": 33.552,
+      "duration": 2.76,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "I",
+          "local_start": 0.0,
+          "local_end": 0.18000000715255737,
+          "evidence_indices": [
+            0
+          ],
+          "start": 30.792,
+          "end": 30.97200000715256
+        },
+        {
+          "word": "like",
+          "local_start": 0.18000000715255737,
+          "local_end": 0.36000001430511475,
+          "evidence_indices": [
+            1
+          ],
+          "start": 30.97200000715256,
+          "end": 31.152000014305116
+        },
+        {
+          "word": "this",
+          "local_start": 0.36000001430511475,
+          "local_end": 0.6000000238418579,
+          "evidence_indices": [
+            2
+          ],
+          "start": 31.152000014305116,
+          "end": 31.39200002384186
+        },
+        {
+          "word": "darker",
+          "local_start": 0.6000000238418579,
+          "local_end": 0.8600000143051147,
+          "evidence_indices": [
+            3
+          ],
+          "start": 31.39200002384186,
+          "end": 31.652000014305116
+        },
+        {
+          "word": "one,",
+          "local_start": 0.8600000143051147,
+          "local_end": 1.159999966621399,
+          "evidence_indices": [
+            4
+          ],
+          "start": 31.652000014305116,
+          "end": 31.9519999666214
+        },
+        {
+          "word": "so",
+          "local_start": 1.340000033378601,
+          "local_end": 1.5,
+          "evidence_indices": [
+            5
+          ],
+          "start": 32.1320000333786,
+          "end": 32.292
+        },
+        {
+          "word": "I'll",
+          "local_start": 1.5,
+          "local_end": 1.6399999856948853,
+          "evidence_indices": [
+            6
+          ],
+          "start": 32.292,
+          "end": 32.43199998569489
+        },
+        {
+          "word": "add",
+          "local_start": 1.6399999856948853,
+          "local_end": 1.8200000524520874,
+          "evidence_indices": [
+            7
+          ],
+          "start": 32.43199998569489,
+          "end": 32.61200005245209
+        },
+        {
+          "word": "it",
+          "local_start": 1.8200000524520874,
+          "local_end": 1.940000057220459,
+          "evidence_indices": [
+            8
+          ],
+          "start": 32.61200005245209,
+          "end": 32.73200005722046
+        },
+        {
+          "word": "to",
+          "local_start": 1.940000057220459,
+          "local_end": 2.0399999618530273,
+          "evidence_indices": [
+            9
+          ],
+          "start": 32.73200005722046,
+          "end": 32.83199996185303
+        },
+        {
+          "word": "my",
+          "local_start": 2.0399999618530273,
+          "local_end": 2.180000066757202,
+          "evidence_indices": [
+            10
+          ],
+          "start": 32.83199996185303,
+          "end": 32.972000066757204
+        },
+        {
+          "word": "basket.",
+          "local_start": 2.180000066757202,
+          "local_end": 2.4600000381469727,
+          "evidence_indices": [
+            11
+          ],
+          "start": 32.972000066757204,
+          "end": 33.252000038146974
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "file": "12.mp3",
+      "text": "Nice choice. I can ring those up at the counter.",
+      "audio_sha256": "0fb88ef6466aa5d5504aaa074e0cf33a26c857ebc27f982195a3ab2ffd5e13be",
+      "start": 33.552,
+      "end": 36.0,
+      "duration": 2.448,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Nice",
+          "local_start": 0.0,
+          "local_end": 0.25999999046325684,
+          "evidence_indices": [
+            0
+          ],
+          "start": 33.552,
+          "end": 33.811999990463256
+        },
+        {
+          "word": "choice.",
+          "local_start": 0.25999999046325684,
+          "local_end": 0.6600000262260437,
+          "evidence_indices": [
+            1
+          ],
+          "start": 33.811999990463256,
+          "end": 34.21200002622604
+        },
+        {
+          "word": "I",
+          "local_start": 1.1399999856948853,
+          "local_end": 1.2200000286102295,
+          "evidence_indices": [
+            2
+          ],
+          "start": 34.691999985694885,
+          "end": 34.77200002861023
+        },
+        {
+          "word": "can",
+          "local_start": 1.2200000286102295,
+          "local_end": 1.3799999952316284,
+          "evidence_indices": [
+            3
+          ],
+          "start": 34.77200002861023,
+          "end": 34.93199999523163
+        },
+        {
+          "word": "ring",
+          "local_start": 1.3799999952316284,
+          "local_end": 1.5,
+          "evidence_indices": [
+            4
+          ],
+          "start": 34.93199999523163,
+          "end": 35.052
+        },
+        {
+          "word": "those",
+          "local_start": 1.5,
+          "local_end": 1.7200000286102295,
+          "evidence_indices": [
+            5
+          ],
+          "start": 35.052,
+          "end": 35.27200002861023
+        },
+        {
+          "word": "up",
+          "local_start": 1.7200000286102295,
+          "local_end": 1.840000033378601,
+          "evidence_indices": [
+            6
+          ],
+          "start": 35.27200002861023,
+          "end": 35.3920000333786
+        },
+        {
+          "word": "at",
+          "local_start": 1.840000033378601,
+          "local_end": 1.9800000190734863,
+          "evidence_indices": [
+            7
+          ],
+          "start": 35.3920000333786,
+          "end": 35.532000019073486
+        },
+        {
+          "word": "the",
+          "local_start": 1.9800000190734863,
+          "local_end": 2.0,
+          "evidence_indices": [
+            8
+          ],
+          "start": 35.532000019073486,
+          "end": 35.552
+        },
+        {
+          "word": "counter.",
+          "local_start": 2.0,
+          "local_end": 2.200000047683716,
+          "evidence_indices": [
+            9
+          ],
+          "start": 35.552,
+          "end": 35.752000047683715
+        }
+      ]
+    }
+  ]
+}

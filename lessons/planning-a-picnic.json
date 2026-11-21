@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-22",
+  "slug": "planning-a-picnic",
+  "title": "Planning a Picnic",
+  "title_zh": "计划一次野餐",
+  "context": "Nora 和 Leo 商量周日野餐的食物、地点和雨天安排。课程为 2026-11-22 预制系列，练习题并非官方真题。",
+  "voices": {
+    "Nora": "marin",
+    "Leo": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Nora",
+      "en": "Would you like to have a picnic on Sunday?",
+      "zh": "你周日想去野餐吗？"
+    },
+    {
+      "speaker": "Leo",
+      "en": "I'd love to. Where should we go?",
+      "zh": "我很乐意。我们去哪里呢？"
+    },
+    {
+      "speaker": "Nora",
+      "en": "There's a grassy area beside the river.",
+      "zh": "河边有一片草地。"
+    },
+    {
+      "speaker": "Leo",
+      "en": "That sounds nice. Is there any shade?",
+      "zh": "听起来不错。那里有阴凉的地方吗？"
+    },
+    {
+      "speaker": "Nora",
+      "en": "Yes, there are a few trees near the path.",
+      "zh": "有，小路附近有几棵树。"
+    },
+    {
+      "speaker": "Leo",
+      "en": "Great. I'll bring sandwiches and some fruit.",
+      "zh": "太好了。我带三明治和一些水果。"
+    },
+    {
+      "speaker": "Nora",
+      "en": "I'll pack water and a blanket for us to sit on.",
+      "zh": "我来带水和一条给我们坐的毯子。"
+    },
+    {
+      "speaker": "Leo",
+      "en": "Should we meet at eleven at the bridge?",
+      "zh": "我们十一点在桥边见好吗？"
+    },
+    {
+      "speaker": "Nora",
+      "en": "Eleven works. What if it rains?",
+      "zh": "十一点可以。如果下雨怎么办？"
+    },
+    {
+      "speaker": "Leo",
+      "en": "We could eat at my place instead.",
+      "zh": "我们可以改在我家吃。"
+    },
+    {
+      "speaker": "Nora",
+      "en": "Good idea. Let's check the forecast that morning.",
+      "zh": "好主意。我们当天早上看看天气预报吧。"
+    },
+    {
+      "speaker": "Leo",
+      "en": "Deal. I'll send you a message before I leave.",
+      "zh": "说定了。我出门前给你发消息。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "I'd love to.",
+      "zh": "我很乐意。用于热情地接受邀请。",
+      "example": "I'd love to join you for lunch."
+    },
+    {
+      "en": "Is there any shade?",
+      "zh": "有阴凉处吗？shade 在这里指遮阳处。",
+      "example": "Is there any shade near the playground?"
+    },
+    {
+      "en": "I'll pack...",
+      "zh": "我来打包带上……。用 I'll 主动承担任务。",
+      "example": "I'll pack a bottle of water."
+    },
+    {
+      "en": "What if it rains?",
+      "zh": "如果下雨怎么办？用 what if 提出可能发生的情况。",
+      "example": "What if the bus is late?"
+    },
+    {
+      "en": "instead",
+      "zh": "代替、改为；常放在句末表示换一种选择。",
+      "example": "We can meet indoors instead."
+    }
+  ],
+  "pronunciation": "在 what if 中让末尾 /t/ 自然接到 if；forecast 重读第一音节 FOR，第二音节较轻。",
+  "practice": [
+    {
+      "title": "Part 1 · Outdoor meals",
+      "prompt": "Do you enjoy eating outdoors?",
+      "answer": "Yes. I like eating outside when the weather is mild. It feels relaxing to sit with friends and enjoy the fresh air."
+    },
+    {
+      "title": "Part 2 · A pleasant day outside",
+      "prompt": "Describe a pleasant day you spent outdoors. Say where you went, who was with you, and what you did.",
+      "answer": "Last spring I had lunch by a river with a friend. We brought sandwiches, apples, and water, and we spread a blanket under a tree. The weather was mild, so we could sit there comfortably. After lunch, we walked along the water and watched people passing by. We talked about our plans for the summer. I enjoyed the day because we had time to relax together outside. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Outdoor spaces",
+      "prompt": "How can public outdoor spaces help communities?",
+      "answer": "They give people a place to meet and exercise without spending much money. Well-maintained spaces can also make a neighborhood more pleasant."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "跟读两人的安排，随后邀请朋友野餐，说明地点、携带物品和雨天备选方案。",
+      "answer": "Let's have a picnic by the river. I'll bring fruit and water. If it rains, we can eat at my place."
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-22",
+  "slug": "planting-herbs",
+  "title": "Herbs on a Sunny Windowsill",
+  "title_zh": "在窗台种香草",
+  "context": "Anna 和 Ben 为厨房窗台挑选盆栽香草，商量光照和浇水安排。 本课属于 2026-11-22 预制系列，题目是原创口语练习，并非真实考试题。",
+  "voices": {
+    "Anna": "marin",
+    "Ben": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Anna",
+      "en": "I'd like to grow some herbs on our kitchen windowsill.",
+      "zh": "我想在厨房窗台种一些香草。"
+    },
+    {
+      "speaker": "Ben",
+      "en": "That's a nice idea. Which ones do you use most?",
+      "zh": "这主意不错。你最常用哪些？"
+    },
+    {
+      "speaker": "Anna",
+      "en": "Basil and mint, but I only have room for two small pots.",
+      "zh": "罗勒和薄荷，不过我只放得下两个小盆。"
+    },
+    {
+      "speaker": "Ben",
+      "en": "Then let's put one plant in each pot.",
+      "zh": "那我们每个盆里种一株吧。"
+    },
+    {
+      "speaker": "Anna",
+      "en": "The window gets sun in the morning. Is that enough for them?",
+      "zh": "窗户早上能晒到太阳。对它们来说够吗？"
+    },
+    {
+      "speaker": "Ben",
+      "en": "Let's check the care tags before we choose the plants.",
+      "zh": "我们选植物之前先看看养护标签吧。"
+    },
+    {
+      "speaker": "Anna",
+      "en": "This basil tag suggests a sunny spot. The mint tag says it can take some shade.",
+      "zh": "罗勒的标签建议放在阳光充足处。薄荷的标签说它能适应一些阴凉。"
+    },
+    {
+      "speaker": "Ben",
+      "en": "We can put the basil closer to the window.",
+      "zh": "我们可以把罗勒放得更靠近窗户。"
+    },
+    {
+      "speaker": "Anna",
+      "en": "These pots have holes underneath. I'll put a tray under them.",
+      "zh": "这些盆底下有孔。我会在下面放个托盘。"
+    },
+    {
+      "speaker": "Ben",
+      "en": "Good plan. Let's check the soil before adding water.",
+      "zh": "好主意。浇水前我们先检查土壤。"
+    },
+    {
+      "speaker": "Anna",
+      "en": "I'll check it in the morning when I open the curtains.",
+      "zh": "我早上拉开窗帘时会检查一下。"
+    },
+    {
+      "speaker": "Ben",
+      "en": "And I'll check the tags again if either plant starts looking unhappy.",
+      "zh": "如果哪株植物看起来状态不好，我会再看看标签。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "have room for",
+      "zh": "有空间放下。",
+      "example": "We have room for a small table."
+    },
+    {
+      "en": "care tag",
+      "zh": "植物上的养护标签。",
+      "example": "Read the care tag before choosing a spot."
+    },
+    {
+      "en": "sunny spot",
+      "zh": "阳光充足的地方。",
+      "example": "The cat sleeps in a sunny spot."
+    },
+    {
+      "en": "closer to",
+      "zh": "更靠近。",
+      "example": "Move the chair closer to the desk."
+    },
+    {
+      "en": "check the soil",
+      "zh": "检查土壤。",
+      "example": "Check the soil before you water the plant."
+    }
+  ],
+  "pronunciation": "basil 在美式英语中常以第一个音节重读，首音节与 bay 同音；soil 是一个音节，注意其中的双元音。",
+  "practice": [
+    {
+      "title": "Part 1 · Plants at home",
+      "prompt": "Would you like to grow a plant at home?",
+      "answer": "Yes. I'd like to grow mint near my window because I enjoy its fresh smell."
+    },
+    {
+      "title": "Part 2 · A small project at home",
+      "prompt": "Describe a small project you did at home. Say what you wanted to do, what you needed, and how it went.",
+      "answer": "I decided to grow herbs on my windowsill last spring. I bought a small mint plant, a pot with a hole, and a tray. First I checked the tag to find a suitable place. Then I put the pot near the window and checked the soil regularly. It was satisfying to see new leaves appear, and I enjoyed adding a few to my tea. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Learning from plants",
+      "prompt": "What can people learn from taking care of plants?",
+      "answer": "Plants can remind people to observe changes and be patient. They also show that different living things may need different amounts of light and water."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "跟读后介绍你想种的香草、摆放位置和照看方法。",
+      "answer": "I'd like to grow mint in a small pot. I'll read the care tag and check the soil before watering it."
+    }
+  ]
+}

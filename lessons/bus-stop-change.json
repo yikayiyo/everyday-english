@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-22",
+  "slug": "bus-stop-change",
+  "title": "Finding the Temporary Bus Stop",
+  "title_zh": "寻找临时公交站",
+  "context": "Nina 和另一位乘客 Daniel 发现常用站点暂时关闭，一起寻找临时站。本课属于 2026-11-22 预制系列，题目为原创练习，并非真实考试题。",
+  "voices": {
+    "Nina": "marin",
+    "Daniel": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Nina",
+      "en": "The sign says this bus stop is closed today. Do you know where the bus stops now?",
+      "zh": "牌子上说这个公交站今天关闭。你知道现在车在哪里停吗？"
+    },
+    {
+      "speaker": "Daniel",
+      "en": "I just read the notice. There's a temporary stop across the street.",
+      "zh": "我刚看了通知。街对面有一个临时站。"
+    },
+    {
+      "speaker": "Nina",
+      "en": "Is it near the coffee shop on the corner?",
+      "zh": "是在街角咖啡店附近吗？"
+    },
+    {
+      "speaker": "Daniel",
+      "en": "Yes, just beyond it. You can see a yellow sign by the bench.",
+      "zh": "对，就在咖啡店过去一点。你能看到长椅旁有个黄色标志。"
+    },
+    {
+      "speaker": "Nina",
+      "en": "I'm taking the number six downtown. Does it stop there too?",
+      "zh": "我要坐六路车去市中心。它也在那里停吗？"
+    },
+    {
+      "speaker": "Daniel",
+      "en": "The notice lists the number six, so it looks like it does.",
+      "zh": "通知上列了六路车，看来会停。"
+    },
+    {
+      "speaker": "Nina",
+      "en": "Good. Is there a crosswalk nearby?",
+      "zh": "太好了。附近有人行横道吗？"
+    },
+    {
+      "speaker": "Daniel",
+      "en": "There's one at the traffic light. Let's cross there.",
+      "zh": "红绿灯那里有一条。我们从那里过吧。"
+    },
+    {
+      "speaker": "Nina",
+      "en": "Thanks. I almost waited at the old stop.",
+      "zh": "谢谢。我差点就在旧站等了。"
+    },
+    {
+      "speaker": "Daniel",
+      "en": "I did too. The construction surprised me this morning.",
+      "zh": "我也是。今天早上看到施工让我很意外。"
+    },
+    {
+      "speaker": "Nina",
+      "en": "Here's the yellow sign, and the number six is on it.",
+      "zh": "黄色标志在这里，上面有六路车。"
+    },
+    {
+      "speaker": "Daniel",
+      "en": "Great. We found it before the bus arrived.",
+      "zh": "太好了。我们在公交车到达前找到了。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "temporary stop",
+      "zh": "临时站点。",
+      "example": "The temporary stop is beside the park."
+    },
+    {
+      "en": "across the street",
+      "zh": "在街对面。",
+      "example": "The pharmacy is across the street."
+    },
+    {
+      "en": "just beyond",
+      "zh": "就在……过去一点。",
+      "example": "The entrance is just beyond the bridge."
+    },
+    {
+      "en": "It looks like it does.",
+      "zh": "看来是这样。用于根据现有信息判断。",
+      "example": "The notice lists the downtown bus, so it looks like it stops here."
+    },
+    {
+      "en": "at the traffic light",
+      "zh": "在红绿灯处。",
+      "example": "Turn left at the traffic light."
+    }
+  ],
+  "pronunciation": "temporary 重音在第一个音节；crosswalk 中 cross 和 walk 之间保持清晰的 /s/ 与 /w/。",
+  "practice": [
+    {
+      "title": "Part 1 · Buses",
+      "prompt": "Do you often take the bus?",
+      "answer": "I take the bus a few times a week. It is convenient when I want to go downtown without finding a place to park."
+    },
+    {
+      "title": "Part 2 · A change in a journey",
+      "prompt": "Describe a time your usual route changed. Say where you were going, what changed, and what you did.",
+      "answer": "One morning I went to my usual bus stop on my way to work. A notice said the stop was closed because of construction. I read the sign and saw that the temporary stop was across the street. Another passenger and I walked to the traffic light and crossed together. We found the yellow sign and caught the bus there. I was relieved because I still had enough time to get to work. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Transport information",
+      "prompt": "How can transport companies help passengers when stops change?",
+      "answer": "They can put clear notices at the old stop and show the new location on a map. Updates online can help too, but signs are useful for people who have already arrived."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "跟读后说明旧站关闭，询问临时站的位置、路线是否停靠以及如何过街。",
+      "answer": "Where is the temporary stop? Does the number six stop there? Is there a crosswalk nearby?"
+    }
+  ]
+}

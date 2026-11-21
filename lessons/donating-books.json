@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-22",
+  "slug": "donating-books",
+  "title": "Giving Books a New Home",
+  "title_zh": "捐赠书籍",
+  "context": "Jill 将整理出的儿童读物送到社区阅读中心，工作人员 Sam 帮她确认书的状态和交付方式。 本课属于 2026-11-22 预制系列，内容和口语题均为原创练习，并非真实考试题。",
+  "voices": {
+    "Jill": "marin",
+    "Sam": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Jill",
+      "en": "I have some books to donate. Could your reading center use them?",
+      "zh": "我有一些书想捐。你们阅读中心用得上吗？"
+    },
+    {
+      "speaker": "Sam",
+      "en": "We might. What kinds of books do you have?",
+      "zh": "也许可以。你带的是什么书？"
+    },
+    {
+      "speaker": "Jill",
+      "en": "Mostly picture books that my children have outgrown.",
+      "zh": "大多是我孩子长大后不再看的图画书。"
+    },
+    {
+      "speaker": "Sam",
+      "en": "Those could be useful for our family reading room. Are they in good condition?",
+      "zh": "家庭阅览室可能用得上。书的状况好吗？"
+    },
+    {
+      "speaker": "Jill",
+      "en": "Yes, the pages are clean, and none are missing.",
+      "zh": "是的，书页干净，也没有缺页。"
+    },
+    {
+      "speaker": "Sam",
+      "en": "Wonderful. May I take a quick look through the box?",
+      "zh": "太好了。我可以快速看看箱子里的书吗？"
+    },
+    {
+      "speaker": "Jill",
+      "en": "Sure. I also have a few old magazines in another bag.",
+      "zh": "当然。我另一个袋子里还有几本旧杂志。"
+    },
+    {
+      "speaker": "Sam",
+      "en": "Thanks, but we don't have room for magazines right now.",
+      "zh": "谢谢，不过我们现在没有地方放杂志。"
+    },
+    {
+      "speaker": "Jill",
+      "en": "No problem. I'll take those home and find another place for them.",
+      "zh": "没关系。我会把它们带回去，另找地方。"
+    },
+    {
+      "speaker": "Sam",
+      "en": "These picture books look great. You can leave the box on this table.",
+      "zh": "这些图画书看起来很好。你可以把箱子放在这张桌上。"
+    },
+    {
+      "speaker": "Jill",
+      "en": "I'm glad someone else can enjoy them. Do you need my name?",
+      "zh": "很高兴别人还能喜欢这些书。需要我的名字吗？"
+    },
+    {
+      "speaker": "Sam",
+      "en": "Only if you'd like a receipt. Otherwise, you're all set. Thank you!",
+      "zh": "只有你想要收据才需要。不然就都办好了。谢谢！"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "outgrow",
+      "zh": "长大后不再适用或需要。",
+      "example": "My son has outgrown these small shoes."
+    },
+    {
+      "en": "in good condition",
+      "zh": "状况良好。",
+      "example": "The bicycle is old but still in good condition."
+    },
+    {
+      "en": "take a look through",
+      "zh": "浏览或检查一遍。",
+      "example": "Can I take a look through the list?"
+    },
+    {
+      "en": "have room for",
+      "zh": "有空间容纳。",
+      "example": "We don't have room for another chair."
+    },
+    {
+      "en": "all set",
+      "zh": "一切准备妥当或手续已完成。",
+      "example": "Your form is complete, so you're all set."
+    }
+  ],
+  "pronunciation": "donate 重音在第一音节；condition 重音在第二音节，结尾的 -tion 发 /ʃən/。",
+  "practice": [
+    {
+      "title": "Part 1 · Books",
+      "prompt": "What kind of books do you keep at home?",
+      "answer": "I keep a few novels and some books about nature. I enjoy looking through them when I have a quiet evening."
+    },
+    {
+      "title": "Part 2 · Something you gave away",
+      "prompt": "Describe something you gave away. Say what it was, who received it, and how you felt.",
+      "answer": "Last year I gave a box of picture books to a local reading center. My children had grown older, and the books were still clean and complete. A staff member looked through the box and said the books could go in the family reading room. I felt happy because other children could enjoy the stories instead of the books sitting on our shelf. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Reusing things",
+      "prompt": "Why might people donate useful things instead of throwing them away?",
+      "answer": "Donations can give useful objects a longer life and help people who need them. However, it is helpful to check what an organization can actually accept."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "跟读检查书况的对话，介绍想捐的物品并询问是否接收。",
+      "answer": "I have some picture books to donate. They are clean and have all their pages. Could your center use them?"
+    }
+  ]
+}

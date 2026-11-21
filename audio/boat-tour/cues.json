@@ -1,0 +1,1315 @@
+{
+  "timing_status": "validated_with_timing_warnings",
+  "timing_warnings": [
+    {
+      "line": 12,
+      "whisper_word_indices": [
+        3
+      ]
+    }
+  ],
+  "model": "whisper-1",
+  "lesson": "boat-tour",
+  "source_sha256": "ead71a6221c3ddfd8e0b9b2a10a06231d54a4dd3719f8911fa00a4ba5e008a12",
+  "full_track": "dialogue-full.mp3",
+  "full_duration": 39.6,
+  "full_audio_sha256": "c10cf6741e3b5f646385623b105239ab285c1e520a0739a191e785badb677903",
+  "lines": [
+    {
+      "index": 1,
+      "file": "01.mp3",
+      "text": "Good morning. Are there any harbor boat tours this afternoon?",
+      "audio_sha256": "b8cb9ff5e1ef1ff104e0cb5dbe1106e2c1dbec4704563553554140ec05f71459",
+      "start": 0,
+      "end": 3.312,
+      "duration": 3.312,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Good",
+          "local_start": 0.0,
+          "local_end": 0.2199999988079071,
+          "evidence_indices": [
+            0
+          ],
+          "start": 0.0,
+          "end": 0.2199999988079071
+        },
+        {
+          "word": "morning.",
+          "local_start": 0.2199999988079071,
+          "local_end": 0.7799999713897705,
+          "evidence_indices": [
+            1
+          ],
+          "start": 0.2199999988079071,
+          "end": 0.7799999713897705
+        },
+        {
+          "word": "Are",
+          "local_start": 0.8799999952316284,
+          "local_end": 1.0800000429153442,
+          "evidence_indices": [
+            2
+          ],
+          "start": 0.8799999952316284,
+          "end": 1.0800000429153442
+        },
+        {
+          "word": "there",
+          "local_start": 1.0800000429153442,
+          "local_end": 1.2400000095367432,
+          "evidence_indices": [
+            3
+          ],
+          "start": 1.0800000429153442,
+          "end": 1.2400000095367432
+        },
+        {
+          "word": "any",
+          "local_start": 1.2400000095367432,
+          "local_end": 1.5399999618530273,
+          "evidence_indices": [
+            4
+          ],
+          "start": 1.2400000095367432,
+          "end": 1.5399999618530273
+        },
+        {
+          "word": "harbor",
+          "local_start": 1.5399999618530273,
+          "local_end": 1.6799999475479126,
+          "evidence_indices": [
+            5
+          ],
+          "start": 1.5399999618530273,
+          "end": 1.6799999475479126
+        },
+        {
+          "word": "boat",
+          "local_start": 1.6799999475479126,
+          "local_end": 1.9600000381469727,
+          "evidence_indices": [
+            6
+          ],
+          "start": 1.6799999475479126,
+          "end": 1.9600000381469727
+        },
+        {
+          "word": "tours",
+          "local_start": 1.9600000381469727,
+          "local_end": 2.140000104904175,
+          "evidence_indices": [
+            7
+          ],
+          "start": 1.9600000381469727,
+          "end": 2.140000104904175
+        },
+        {
+          "word": "this",
+          "local_start": 2.140000104904175,
+          "local_end": 2.4600000381469727,
+          "evidence_indices": [
+            8
+          ],
+          "start": 2.140000104904175,
+          "end": 2.4600000381469727
+        },
+        {
+          "word": "afternoon?",
+          "local_start": 2.4600000381469727,
+          "local_end": 2.7200000286102295,
+          "evidence_indices": [
+            9
+          ],
+          "start": 2.4600000381469727,
+          "end": 2.7200000286102295
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "file": "02.mp3",
+      "text": "Yes, our next tour leaves at two and takes about an hour.",
+      "audio_sha256": "22304e94b07599857e60eeb4a01a5a23cf79a14ffce5151fcaa098275dd44263",
+      "start": 3.312,
+      "end": 7.08,
+      "duration": 3.768,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Yes,",
+          "local_start": 0.0,
+          "local_end": 0.4399999976158142,
+          "evidence_indices": [
+            0
+          ],
+          "start": 3.312,
+          "end": 3.751999997615814
+        },
+        {
+          "word": "our",
+          "local_start": 0.5799999833106995,
+          "local_end": 1.0800000429153442,
+          "evidence_indices": [
+            1
+          ],
+          "start": 3.8919999833106993,
+          "end": 4.392000042915344
+        },
+        {
+          "word": "next",
+          "local_start": 1.0800000429153442,
+          "local_end": 1.3600000143051147,
+          "evidence_indices": [
+            2
+          ],
+          "start": 4.392000042915344,
+          "end": 4.672000014305114
+        },
+        {
+          "word": "tour",
+          "local_start": 1.3600000143051147,
+          "local_end": 1.600000023841858,
+          "evidence_indices": [
+            3
+          ],
+          "start": 4.672000014305114,
+          "end": 4.912000023841857
+        },
+        {
+          "word": "leaves",
+          "local_start": 1.600000023841858,
+          "local_end": 1.899999976158142,
+          "evidence_indices": [
+            4
+          ],
+          "start": 4.912000023841857,
+          "end": 5.2119999761581415
+        },
+        {
+          "word": "at",
+          "local_start": 1.899999976158142,
+          "local_end": 2.2200000286102295,
+          "evidence_indices": [
+            5
+          ],
+          "start": 5.2119999761581415,
+          "end": 5.532000028610229
+        },
+        {
+          "word": "two",
+          "local_start": 2.2200000286102295,
+          "local_end": 2.2799999713897705,
+          "evidence_indices": [
+            6
+          ],
+          "start": 5.532000028610229,
+          "end": 5.59199997138977
+        },
+        {
+          "word": "and",
+          "local_start": 2.2799999713897705,
+          "local_end": 2.700000047683716,
+          "evidence_indices": [
+            7
+          ],
+          "start": 5.59199997138977,
+          "end": 6.012000047683715
+        },
+        {
+          "word": "takes",
+          "local_start": 2.700000047683716,
+          "local_end": 2.859999895095825,
+          "evidence_indices": [
+            8
+          ],
+          "start": 6.012000047683715,
+          "end": 6.171999895095825
+        },
+        {
+          "word": "about",
+          "local_start": 2.859999895095825,
+          "local_end": 3.059999942779541,
+          "evidence_indices": [
+            9
+          ],
+          "start": 6.171999895095825,
+          "end": 6.37199994277954
+        },
+        {
+          "word": "an",
+          "local_start": 3.059999942779541,
+          "local_end": 3.319999933242798,
+          "evidence_indices": [
+            10
+          ],
+          "start": 6.37199994277954,
+          "end": 6.631999933242797
+        },
+        {
+          "word": "hour.",
+          "local_start": 3.319999933242798,
+          "local_end": 3.3399999141693115,
+          "evidence_indices": [
+            11
+          ],
+          "start": 6.631999933242797,
+          "end": 6.651999914169311
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "file": "03.mp3",
+      "text": "That sounds good. Can we sit outside during the trip?",
+      "audio_sha256": "d99ec7c1502134083f7724e7a22e82701717772acc55ef982ee5843be486381e",
+      "start": 7.08,
+      "end": 10.943999999999999,
+      "duration": 3.864,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "That",
+          "local_start": 0.0,
+          "local_end": 0.6200000047683716,
+          "evidence_indices": [
+            0
+          ],
+          "start": 7.08,
+          "end": 7.700000004768372
+        },
+        {
+          "word": "sounds",
+          "local_start": 0.6200000047683716,
+          "local_end": 0.8999999761581421,
+          "evidence_indices": [
+            1
+          ],
+          "start": 7.700000004768372,
+          "end": 7.979999976158142
+        },
+        {
+          "word": "good.",
+          "local_start": 0.8999999761581421,
+          "local_end": 1.2799999713897705,
+          "evidence_indices": [
+            2
+          ],
+          "start": 7.979999976158142,
+          "end": 8.35999997138977
+        },
+        {
+          "word": "Can",
+          "local_start": 1.5199999809265137,
+          "local_end": 2.0399999618530273,
+          "evidence_indices": [
+            3
+          ],
+          "start": 8.599999980926514,
+          "end": 9.119999961853027
+        },
+        {
+          "word": "we",
+          "local_start": 2.0399999618530273,
+          "local_end": 2.299999952316284,
+          "evidence_indices": [
+            4
+          ],
+          "start": 9.119999961853027,
+          "end": 9.379999952316284
+        },
+        {
+          "word": "sit",
+          "local_start": 2.299999952316284,
+          "local_end": 2.5,
+          "evidence_indices": [
+            5
+          ],
+          "start": 9.379999952316284,
+          "end": 9.58
+        },
+        {
+          "word": "outside",
+          "local_start": 2.5,
+          "local_end": 2.9600000381469727,
+          "evidence_indices": [
+            6
+          ],
+          "start": 9.58,
+          "end": 10.040000038146973
+        },
+        {
+          "word": "during",
+          "local_start": 2.9600000381469727,
+          "local_end": 3.2200000286102295,
+          "evidence_indices": [
+            7
+          ],
+          "start": 10.040000038146973,
+          "end": 10.30000002861023
+        },
+        {
+          "word": "the",
+          "local_start": 3.2200000286102295,
+          "local_end": 3.4200000762939453,
+          "evidence_indices": [
+            8
+          ],
+          "start": 10.30000002861023,
+          "end": 10.500000076293945
+        },
+        {
+          "word": "trip?",
+          "local_start": 3.4200000762939453,
+          "local_end": 3.5999999046325684,
+          "evidence_indices": [
+            9
+          ],
+          "start": 10.500000076293945,
+          "end": 10.679999904632568
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "file": "04.mp3",
+      "text": "Yes, there are outdoor seats, as well as seats inside.",
+      "audio_sha256": "26dffa28c57ac724ff1cf3268724fc5540125c4122b5674d7e697a88a5b168d0",
+      "start": 10.943999999999999,
+      "end": 14.447999999999999,
+      "duration": 3.504,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Yes,",
+          "local_start": 0.0,
+          "local_end": 0.5799999833106995,
+          "evidence_indices": [
+            0
+          ],
+          "start": 10.943999999999999,
+          "end": 11.523999983310699
+        },
+        {
+          "word": "there",
+          "local_start": 0.9399999976158142,
+          "local_end": 0.9800000190734863,
+          "evidence_indices": [
+            1
+          ],
+          "start": 11.883999997615813,
+          "end": 11.924000019073485
+        },
+        {
+          "word": "are",
+          "local_start": 0.9800000190734863,
+          "local_end": 1.2799999713897705,
+          "evidence_indices": [
+            2
+          ],
+          "start": 11.924000019073485,
+          "end": 12.22399997138977
+        },
+        {
+          "word": "outdoor",
+          "local_start": 1.2799999713897705,
+          "local_end": 1.5,
+          "evidence_indices": [
+            3
+          ],
+          "start": 12.22399997138977,
+          "end": 12.443999999999999
+        },
+        {
+          "word": "seats,",
+          "local_start": 1.5,
+          "local_end": 1.8799999952316284,
+          "evidence_indices": [
+            4
+          ],
+          "start": 12.443999999999999,
+          "end": 12.823999995231627
+        },
+        {
+          "word": "as",
+          "local_start": 2.200000047683716,
+          "local_end": 2.299999952316284,
+          "evidence_indices": [
+            5
+          ],
+          "start": 13.144000047683715,
+          "end": 13.243999952316283
+        },
+        {
+          "word": "well",
+          "local_start": 2.299999952316284,
+          "local_end": 2.440000057220459,
+          "evidence_indices": [
+            6
+          ],
+          "start": 13.243999952316283,
+          "end": 13.384000057220458
+        },
+        {
+          "word": "as",
+          "local_start": 2.440000057220459,
+          "local_end": 2.700000047683716,
+          "evidence_indices": [
+            7
+          ],
+          "start": 13.384000057220458,
+          "end": 13.644000047683715
+        },
+        {
+          "word": "seats",
+          "local_start": 2.700000047683716,
+          "local_end": 2.759999990463257,
+          "evidence_indices": [
+            8
+          ],
+          "start": 13.644000047683715,
+          "end": 13.703999990463256
+        },
+        {
+          "word": "inside.",
+          "local_start": 2.759999990463257,
+          "local_end": 3.1600000858306885,
+          "evidence_indices": [
+            9
+          ],
+          "start": 13.703999990463256,
+          "end": 14.104000085830688
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "file": "05.mp3",
+      "text": "My father prefers the shade. Is there a covered area?",
+      "audio_sha256": "78c947f054d65585de6975c1e2d1e5645d3e2a8e23c74784d399ad5f57e83403",
+      "start": 14.447999999999999,
+      "end": 17.904,
+      "duration": 3.456,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "My",
+          "local_start": 0.0,
+          "local_end": 0.23999999463558197,
+          "evidence_indices": [
+            0
+          ],
+          "start": 14.447999999999999,
+          "end": 14.68799999463558
+        },
+        {
+          "word": "father",
+          "local_start": 0.23999999463558197,
+          "local_end": 0.5600000023841858,
+          "evidence_indices": [
+            1
+          ],
+          "start": 14.68799999463558,
+          "end": 15.008000002384184
+        },
+        {
+          "word": "prefers",
+          "local_start": 0.5600000023841858,
+          "local_end": 0.9800000190734863,
+          "evidence_indices": [
+            2
+          ],
+          "start": 15.008000002384184,
+          "end": 15.428000019073485
+        },
+        {
+          "word": "the",
+          "local_start": 0.9800000190734863,
+          "local_end": 1.2000000476837158,
+          "evidence_indices": [
+            3
+          ],
+          "start": 15.428000019073485,
+          "end": 15.648000047683714
+        },
+        {
+          "word": "shade.",
+          "local_start": 1.2000000476837158,
+          "local_end": 1.5,
+          "evidence_indices": [
+            4
+          ],
+          "start": 15.648000047683714,
+          "end": 15.947999999999999
+        },
+        {
+          "word": "Is",
+          "local_start": 1.6399999856948853,
+          "local_end": 2.0999999046325684,
+          "evidence_indices": [
+            5
+          ],
+          "start": 16.087999985694886,
+          "end": 16.54799990463257
+        },
+        {
+          "word": "there",
+          "local_start": 2.0999999046325684,
+          "local_end": 2.240000009536743,
+          "evidence_indices": [
+            6
+          ],
+          "start": 16.54799990463257,
+          "end": 16.688000009536744
+        },
+        {
+          "word": "a",
+          "local_start": 2.240000009536743,
+          "local_end": 2.440000057220459,
+          "evidence_indices": [
+            7
+          ],
+          "start": 16.688000009536744,
+          "end": 16.88800005722046
+        },
+        {
+          "word": "covered",
+          "local_start": 2.440000057220459,
+          "local_end": 2.640000104904175,
+          "evidence_indices": [
+            8
+          ],
+          "start": 16.88800005722046,
+          "end": 17.088000104904175
+        },
+        {
+          "word": "area?",
+          "local_start": 2.640000104904175,
+          "local_end": 2.9600000381469727,
+          "evidence_indices": [
+            9
+          ],
+          "start": 17.088000104904175,
+          "end": 17.408000038146973
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "file": "06.mp3",
+      "text": "There is a roof over part of the upper deck.",
+      "audio_sha256": "3b99726c75cdc52250324fe9700870bf3e3cd6cb66f7f07d6ecae89d9e76a7f4",
+      "start": 17.904,
+      "end": 20.568,
+      "duration": 2.664,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "There",
+          "local_start": 0.0,
+          "local_end": 0.2800000011920929,
+          "evidence_indices": [
+            0
+          ],
+          "start": 17.904,
+          "end": 18.184000001192093
+        },
+        {
+          "word": "is",
+          "local_start": 0.2800000011920929,
+          "local_end": 0.46000000834465027,
+          "evidence_indices": [
+            1
+          ],
+          "start": 18.184000001192093,
+          "end": 18.36400000834465
+        },
+        {
+          "word": "a",
+          "local_start": 0.46000000834465027,
+          "local_end": 0.6200000047683716,
+          "evidence_indices": [
+            2
+          ],
+          "start": 18.36400000834465,
+          "end": 18.52400000476837
+        },
+        {
+          "word": "roof",
+          "local_start": 0.6200000047683716,
+          "local_end": 0.8799999952316284,
+          "evidence_indices": [
+            3
+          ],
+          "start": 18.52400000476837,
+          "end": 18.78399999523163
+        },
+        {
+          "word": "over",
+          "local_start": 0.8799999952316284,
+          "local_end": 1.2599999904632568,
+          "evidence_indices": [
+            4
+          ],
+          "start": 18.78399999523163,
+          "end": 19.163999990463257
+        },
+        {
+          "word": "part",
+          "local_start": 1.2599999904632568,
+          "local_end": 1.5399999618530273,
+          "evidence_indices": [
+            5
+          ],
+          "start": 19.163999990463257,
+          "end": 19.443999961853027
+        },
+        {
+          "word": "of",
+          "local_start": 1.5399999618530273,
+          "local_end": 1.8200000524520874,
+          "evidence_indices": [
+            6
+          ],
+          "start": 19.443999961853027,
+          "end": 19.724000052452087
+        },
+        {
+          "word": "the",
+          "local_start": 1.8200000524520874,
+          "local_end": 1.8799999952316284,
+          "evidence_indices": [
+            7
+          ],
+          "start": 19.724000052452087,
+          "end": 19.78399999523163
+        },
+        {
+          "word": "upper",
+          "local_start": 1.8799999952316284,
+          "local_end": 2.0,
+          "evidence_indices": [
+            8
+          ],
+          "start": 19.78399999523163,
+          "end": 19.904
+        },
+        {
+          "word": "deck.",
+          "local_start": 2.0,
+          "local_end": 2.299999952316284,
+          "evidence_indices": [
+            9
+          ],
+          "start": 19.904,
+          "end": 20.203999952316284
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "file": "07.mp3",
+      "text": "Great. Where do we get on the boat?",
+      "audio_sha256": "ef58f70dcc704d72b81e1e35537ab9fd184f3c44f5f5a9a4003035bf467696f9",
+      "start": 20.568,
+      "end": 22.824,
+      "duration": 2.256,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Great.",
+          "local_start": 0.0,
+          "local_end": 0.4000000059604645,
+          "evidence_indices": [
+            0
+          ],
+          "start": 20.568,
+          "end": 20.968000005960466
+        },
+        {
+          "word": "Where",
+          "local_start": 0.7599999904632568,
+          "local_end": 1.0399999618530273,
+          "evidence_indices": [
+            1
+          ],
+          "start": 21.32799999046326,
+          "end": 21.60799996185303
+        },
+        {
+          "word": "do",
+          "local_start": 1.0399999618530273,
+          "local_end": 1.1200000047683716,
+          "evidence_indices": [
+            2
+          ],
+          "start": 21.60799996185303,
+          "end": 21.688000004768373
+        },
+        {
+          "word": "we",
+          "local_start": 1.1200000047683716,
+          "local_end": 1.2400000095367432,
+          "evidence_indices": [
+            3
+          ],
+          "start": 21.688000004768373,
+          "end": 21.808000009536745
+        },
+        {
+          "word": "get",
+          "local_start": 1.2400000095367432,
+          "local_end": 1.340000033378601,
+          "evidence_indices": [
+            4
+          ],
+          "start": 21.808000009536745,
+          "end": 21.908000033378602
+        },
+        {
+          "word": "on",
+          "local_start": 1.340000033378601,
+          "local_end": 1.4800000190734863,
+          "evidence_indices": [
+            5
+          ],
+          "start": 21.908000033378602,
+          "end": 22.048000019073488
+        },
+        {
+          "word": "the",
+          "local_start": 1.4800000190734863,
+          "local_end": 1.6200000047683716,
+          "evidence_indices": [
+            6
+          ],
+          "start": 22.048000019073488,
+          "end": 22.188000004768373
+        },
+        {
+          "word": "boat?",
+          "local_start": 1.6200000047683716,
+          "local_end": 1.7200000286102295,
+          "evidence_indices": [
+            7
+          ],
+          "start": 22.188000004768373,
+          "end": 22.28800002861023
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "file": "08.mp3",
+      "text": "At the pier behind this building. Look for the blue sign.",
+      "audio_sha256": "cbcd11982500bc2ac3c920c1100a0125e96dfd3efc8952a55e14736780e6b21f",
+      "start": 22.824,
+      "end": 26.088,
+      "duration": 3.264,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "At",
+          "local_start": 0.0,
+          "local_end": 0.2199999988079071,
+          "evidence_indices": [
+            0
+          ],
+          "start": 22.824,
+          "end": 23.04399999880791
+        },
+        {
+          "word": "the",
+          "local_start": 0.2199999988079071,
+          "local_end": 0.3799999952316284,
+          "evidence_indices": [
+            1
+          ],
+          "start": 23.04399999880791,
+          "end": 23.20399999523163
+        },
+        {
+          "word": "pier",
+          "local_start": 0.3799999952316284,
+          "local_end": 0.5799999833106995,
+          "evidence_indices": [
+            2
+          ],
+          "start": 23.20399999523163,
+          "end": 23.4039999833107
+        },
+        {
+          "word": "behind",
+          "local_start": 0.5799999833106995,
+          "local_end": 1.100000023841858,
+          "evidence_indices": [
+            3
+          ],
+          "start": 23.4039999833107,
+          "end": 23.92400002384186
+        },
+        {
+          "word": "this",
+          "local_start": 1.100000023841858,
+          "local_end": 1.340000033378601,
+          "evidence_indices": [
+            4
+          ],
+          "start": 23.92400002384186,
+          "end": 24.164000033378603
+        },
+        {
+          "word": "building.",
+          "local_start": 1.340000033378601,
+          "local_end": 1.559999942779541,
+          "evidence_indices": [
+            5
+          ],
+          "start": 24.164000033378603,
+          "end": 24.383999942779543
+        },
+        {
+          "word": "Look",
+          "local_start": 2.200000047683716,
+          "local_end": 2.2200000286102295,
+          "evidence_indices": [
+            6
+          ],
+          "start": 25.024000047683717,
+          "end": 25.04400002861023
+        },
+        {
+          "word": "for",
+          "local_start": 2.2200000286102295,
+          "local_end": 2.359999895095825,
+          "evidence_indices": [
+            7
+          ],
+          "start": 25.04400002861023,
+          "end": 25.183999895095827
+        },
+        {
+          "word": "the",
+          "local_start": 2.359999895095825,
+          "local_end": 2.5,
+          "evidence_indices": [
+            8
+          ],
+          "start": 25.183999895095827,
+          "end": 25.324
+        },
+        {
+          "word": "blue",
+          "local_start": 2.5,
+          "local_end": 2.640000104904175,
+          "evidence_indices": [
+            9
+          ],
+          "start": 25.324,
+          "end": 25.464000104904176
+        },
+        {
+          "word": "sign.",
+          "local_start": 2.640000104904175,
+          "local_end": 2.9200000762939453,
+          "evidence_indices": [
+            10
+          ],
+          "start": 25.464000104904176,
+          "end": 25.744000076293947
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "file": "09.mp3",
+      "text": "Should we be there before two?",
+      "audio_sha256": "c5c8f1b4d27db25c4ee6722bf76c37be966a752ebe628ae02b2c585635ffc091",
+      "start": 26.088,
+      "end": 28.152,
+      "duration": 2.064,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Should",
+          "local_start": 0.0,
+          "local_end": 0.3400000035762787,
+          "evidence_indices": [
+            0
+          ],
+          "start": 26.088,
+          "end": 26.42800000357628
+        },
+        {
+          "word": "we",
+          "local_start": 0.3400000035762787,
+          "local_end": 0.5799999833106995,
+          "evidence_indices": [
+            1
+          ],
+          "start": 26.42800000357628,
+          "end": 26.6679999833107
+        },
+        {
+          "word": "be",
+          "local_start": 0.5799999833106995,
+          "local_end": 0.7599999904632568,
+          "evidence_indices": [
+            2
+          ],
+          "start": 26.6679999833107,
+          "end": 26.847999990463258
+        },
+        {
+          "word": "there",
+          "local_start": 0.7599999904632568,
+          "local_end": 1.0199999809265137,
+          "evidence_indices": [
+            3
+          ],
+          "start": 26.847999990463258,
+          "end": 27.107999980926515
+        },
+        {
+          "word": "before",
+          "local_start": 1.0199999809265137,
+          "local_end": 1.3600000143051147,
+          "evidence_indices": [
+            4
+          ],
+          "start": 27.107999980926515,
+          "end": 27.448000014305116
+        },
+        {
+          "word": "two?",
+          "local_start": 1.3600000143051147,
+          "local_end": 1.7599999904632568,
+          "evidence_indices": [
+            5
+          ],
+          "start": 27.448000014305116,
+          "end": 27.847999990463258
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "file": "10.mp3",
+      "text": "Please arrive fifteen minutes early for this tour.",
+      "audio_sha256": "527bf92341f73a96c9293a2f37bfd420308b4e77ae79b01c44f11b345ab50c58",
+      "start": 28.152,
+      "end": 31.560000000000002,
+      "duration": 3.408,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Please",
+          "local_start": 0.0,
+          "local_end": 0.36000001430511475,
+          "evidence_indices": [
+            0
+          ],
+          "start": 28.152,
+          "end": 28.512000014305116
+        },
+        {
+          "word": "arrive",
+          "local_start": 0.36000001430511475,
+          "local_end": 0.7599999904632568,
+          "evidence_indices": [
+            1
+          ],
+          "start": 28.512000014305116,
+          "end": 28.911999990463258
+        },
+        {
+          "word": "fifteen",
+          "local_start": 0.7599999904632568,
+          "local_end": 1.7799999713897705,
+          "evidence_indices": [
+            2
+          ],
+          "start": 28.911999990463258,
+          "end": 29.93199997138977
+        },
+        {
+          "word": "minutes",
+          "local_start": 1.7799999713897705,
+          "local_end": 2.119999885559082,
+          "evidence_indices": [
+            3
+          ],
+          "start": 29.93199997138977,
+          "end": 30.271999885559083
+        },
+        {
+          "word": "early",
+          "local_start": 2.119999885559082,
+          "local_end": 2.4000000953674316,
+          "evidence_indices": [
+            4
+          ],
+          "start": 30.271999885559083,
+          "end": 30.552000095367433
+        },
+        {
+          "word": "for",
+          "local_start": 2.4000000953674316,
+          "local_end": 2.619999885559082,
+          "evidence_indices": [
+            5
+          ],
+          "start": 30.552000095367433,
+          "end": 30.771999885559083
+        },
+        {
+          "word": "this",
+          "local_start": 2.619999885559082,
+          "local_end": 2.8399999141693115,
+          "evidence_indices": [
+            6
+          ],
+          "start": 30.771999885559083,
+          "end": 30.991999914169313
+        },
+        {
+          "word": "tour.",
+          "local_start": 2.8399999141693115,
+          "local_end": 3.059999942779541,
+          "evidence_indices": [
+            7
+          ],
+          "start": 30.991999914169313,
+          "end": 31.211999942779542
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "file": "11.mp3",
+      "text": "Then I'd like a pair of tickets for that tour, please.",
+      "audio_sha256": "99cdc3ed6ebc8dbbc3b866bd997044f8945aa5bc6c69eccb517ce43e9995ef70",
+      "start": 31.560000000000002,
+      "end": 34.68,
+      "duration": 3.12,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Then",
+          "local_start": 0.0,
+          "local_end": 0.3799999952316284,
+          "evidence_indices": [
+            0
+          ],
+          "start": 31.560000000000002,
+          "end": 31.93999999523163
+        },
+        {
+          "word": "I'd",
+          "local_start": 0.3799999952316284,
+          "local_end": 0.7200000286102295,
+          "evidence_indices": [
+            1
+          ],
+          "start": 31.93999999523163,
+          "end": 32.28000002861023
+        },
+        {
+          "word": "like",
+          "local_start": 0.7200000286102295,
+          "local_end": 0.9399999976158142,
+          "evidence_indices": [
+            2
+          ],
+          "start": 32.28000002861023,
+          "end": 32.49999999761582
+        },
+        {
+          "word": "a",
+          "local_start": 0.9399999976158142,
+          "local_end": 1.059999942779541,
+          "evidence_indices": [
+            3
+          ],
+          "start": 32.49999999761582,
+          "end": 32.61999994277954
+        },
+        {
+          "word": "pair",
+          "local_start": 1.059999942779541,
+          "local_end": 1.1799999475479126,
+          "evidence_indices": [
+            4
+          ],
+          "start": 32.61999994277954,
+          "end": 32.739999947547915
+        },
+        {
+          "word": "of",
+          "local_start": 1.1799999475479126,
+          "local_end": 1.399999976158142,
+          "evidence_indices": [
+            5
+          ],
+          "start": 32.739999947547915,
+          "end": 32.959999976158144
+        },
+        {
+          "word": "tickets",
+          "local_start": 1.399999976158142,
+          "local_end": 1.5199999809265137,
+          "evidence_indices": [
+            6
+          ],
+          "start": 32.959999976158144,
+          "end": 33.079999980926516
+        },
+        {
+          "word": "for",
+          "local_start": 1.5199999809265137,
+          "local_end": 1.7400000095367432,
+          "evidence_indices": [
+            7
+          ],
+          "start": 33.079999980926516,
+          "end": 33.300000009536745
+        },
+        {
+          "word": "that",
+          "local_start": 1.7400000095367432,
+          "local_end": 1.940000057220459,
+          "evidence_indices": [
+            8
+          ],
+          "start": 33.300000009536745,
+          "end": 33.50000005722046
+        },
+        {
+          "word": "tour,",
+          "local_start": 1.940000057220459,
+          "local_end": 2.180000066757202,
+          "evidence_indices": [
+            9
+          ],
+          "start": 33.50000005722046,
+          "end": 33.740000066757204
+        },
+        {
+          "word": "please.",
+          "local_start": 2.5,
+          "local_end": 2.759999990463257,
+          "evidence_indices": [
+            10
+          ],
+          "start": 34.06,
+          "end": 34.31999999046326
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "file": "12.mp3",
+      "text": "Here you are. Enjoy the view from the water!",
+      "audio_sha256": "71fd6ff2618d5986353c6c14ae46f53f7ce072b2abaf78b272f93d123bb48753",
+      "start": 34.68,
+      "end": 39.6,
+      "duration": 4.92,
+      "zero_word_indices": [
+        3
+      ],
+      "words": [
+        {
+          "word": "Here",
+          "local_start": 0.0,
+          "local_end": 0.30000001192092896,
+          "evidence_indices": [
+            0
+          ],
+          "start": 34.68,
+          "end": 34.98000001192093
+        },
+        {
+          "word": "you",
+          "local_start": 0.30000001192092896,
+          "local_end": 0.46000000834465027,
+          "evidence_indices": [
+            1
+          ],
+          "start": 34.98000001192093,
+          "end": 35.14000000834465
+        },
+        {
+          "word": "are.",
+          "local_start": 0.46000000834465027,
+          "local_end": 1.100000023841858,
+          "evidence_indices": [
+            2
+          ],
+          "start": 35.14000000834465,
+          "end": 35.78000002384186
+        },
+        {
+          "word": "Enjoy",
+          "local_start": 1.5800000429153442,
+          "local_end": 1.5800000429153442,
+          "evidence_indices": [
+            3
+          ],
+          "start": 36.260000042915344,
+          "end": 36.260000042915344
+        },
+        {
+          "word": "the",
+          "local_start": 1.5800000429153442,
+          "local_end": 1.7999999523162842,
+          "evidence_indices": [
+            4
+          ],
+          "start": 36.260000042915344,
+          "end": 36.479999952316284
+        },
+        {
+          "word": "view",
+          "local_start": 1.7999999523162842,
+          "local_end": 2.059999942779541,
+          "evidence_indices": [
+            5
+          ],
+          "start": 36.479999952316284,
+          "end": 36.73999994277954
+        },
+        {
+          "word": "from",
+          "local_start": 2.059999942779541,
+          "local_end": 4.079999923706055,
+          "evidence_indices": [
+            6
+          ],
+          "start": 36.73999994277954,
+          "end": 38.759999923706054
+        },
+        {
+          "word": "the",
+          "local_start": 4.079999923706055,
+          "local_end": 4.300000190734863,
+          "evidence_indices": [
+            7
+          ],
+          "start": 38.759999923706054,
+          "end": 38.98000019073486
+        },
+        {
+          "word": "water!",
+          "local_start": 4.300000190734863,
+          "local_end": 4.420000076293945,
+          "evidence_indices": [
+            8
+          ],
+          "start": 38.98000019073486,
+          "end": 39.100000076293945
+        }
+      ]
+    }
+  ]
+}

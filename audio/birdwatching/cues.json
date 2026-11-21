@@ -1,0 +1,1436 @@
+{
+  "timing_status": "strict_timing_pass",
+  "timing_warnings": [],
+  "model": "whisper-1",
+  "lesson": "birdwatching",
+  "source_sha256": "ba5500a8940e0ca064e3030817c4160e0ed4a629b9a529accb691765e9d52b28",
+  "full_track": "dialogue-full.mp3",
+  "full_duration": 40.752,
+  "full_audio_sha256": "7bd6460a56bd9502e318aecbce2d62a452c3b4240da903387ab25f4ee611bb09",
+  "lines": [
+    {
+      "index": 1,
+      "file": "01.mp3",
+      "text": "There's a small bird on that low branch. Can you see it?",
+      "audio_sha256": "5b6afca1247eb1f0f517ba976a59c53dc36e28ea7891d944c5460b9c264d05a6",
+      "start": 0,
+      "end": 3.408,
+      "duration": 3.408,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "There's",
+          "local_start": 0.0,
+          "local_end": 0.5799999833106995,
+          "evidence_indices": [
+            0
+          ],
+          "start": 0.0,
+          "end": 0.5799999833106995
+        },
+        {
+          "word": "a",
+          "local_start": 0.5799999833106995,
+          "local_end": 0.800000011920929,
+          "evidence_indices": [
+            1
+          ],
+          "start": 0.5799999833106995,
+          "end": 0.800000011920929
+        },
+        {
+          "word": "small",
+          "local_start": 0.800000011920929,
+          "local_end": 1.059999942779541,
+          "evidence_indices": [
+            2
+          ],
+          "start": 0.800000011920929,
+          "end": 1.059999942779541
+        },
+        {
+          "word": "bird",
+          "local_start": 1.059999942779541,
+          "local_end": 1.3799999952316284,
+          "evidence_indices": [
+            3
+          ],
+          "start": 1.059999942779541,
+          "end": 1.3799999952316284
+        },
+        {
+          "word": "on",
+          "local_start": 1.3799999952316284,
+          "local_end": 1.6399999856948853,
+          "evidence_indices": [
+            4
+          ],
+          "start": 1.3799999952316284,
+          "end": 1.6399999856948853
+        },
+        {
+          "word": "that",
+          "local_start": 1.6399999856948853,
+          "local_end": 1.840000033378601,
+          "evidence_indices": [
+            5
+          ],
+          "start": 1.6399999856948853,
+          "end": 1.840000033378601
+        },
+        {
+          "word": "low",
+          "local_start": 1.840000033378601,
+          "local_end": 2.0799999237060547,
+          "evidence_indices": [
+            6
+          ],
+          "start": 1.840000033378601,
+          "end": 2.0799999237060547
+        },
+        {
+          "word": "branch.",
+          "local_start": 2.0799999237060547,
+          "local_end": 2.5199999809265137,
+          "evidence_indices": [
+            7
+          ],
+          "start": 2.0799999237060547,
+          "end": 2.5199999809265137
+        },
+        {
+          "word": "Can",
+          "local_start": 2.5399999618530273,
+          "local_end": 2.9600000381469727,
+          "evidence_indices": [
+            8
+          ],
+          "start": 2.5399999618530273,
+          "end": 2.9600000381469727
+        },
+        {
+          "word": "you",
+          "local_start": 2.9600000381469727,
+          "local_end": 3.0999999046325684,
+          "evidence_indices": [
+            9
+          ],
+          "start": 2.9600000381469727,
+          "end": 3.0999999046325684
+        },
+        {
+          "word": "see",
+          "local_start": 3.0999999046325684,
+          "local_end": 3.200000047683716,
+          "evidence_indices": [
+            10
+          ],
+          "start": 3.0999999046325684,
+          "end": 3.200000047683716
+        },
+        {
+          "word": "it?",
+          "local_start": 3.200000047683716,
+          "local_end": 3.380000114440918,
+          "evidence_indices": [
+            11
+          ],
+          "start": 3.200000047683716,
+          "end": 3.380000114440918
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "file": "02.mp3",
+      "text": "Yes, I see it. Its chest looks orange from here.",
+      "audio_sha256": "37bd68b431f8ecd60dbb73756c6bb720c50d549c965be7ed6ff1383e5c5dfef0",
+      "start": 3.408,
+      "end": 7.056,
+      "duration": 3.648,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Yes,",
+          "local_start": 0.0,
+          "local_end": 0.47999998927116394,
+          "evidence_indices": [
+            0
+          ],
+          "start": 3.408,
+          "end": 3.887999989271164
+        },
+        {
+          "word": "I",
+          "local_start": 0.7200000286102295,
+          "local_end": 1.0,
+          "evidence_indices": [
+            1
+          ],
+          "start": 4.128000028610229,
+          "end": 4.4079999999999995
+        },
+        {
+          "word": "see",
+          "local_start": 1.0,
+          "local_end": 1.159999966621399,
+          "evidence_indices": [
+            2
+          ],
+          "start": 4.4079999999999995,
+          "end": 4.567999966621398
+        },
+        {
+          "word": "it.",
+          "local_start": 1.159999966621399,
+          "local_end": 1.4199999570846558,
+          "evidence_indices": [
+            3
+          ],
+          "start": 4.567999966621398,
+          "end": 4.827999957084655
+        },
+        {
+          "word": "Its",
+          "local_start": 1.899999976158142,
+          "local_end": 2.0799999237060547,
+          "evidence_indices": [
+            4
+          ],
+          "start": 5.307999976158142,
+          "end": 5.487999923706054
+        },
+        {
+          "word": "chest",
+          "local_start": 2.0799999237060547,
+          "local_end": 2.359999895095825,
+          "evidence_indices": [
+            5
+          ],
+          "start": 5.487999923706054,
+          "end": 5.767999895095825
+        },
+        {
+          "word": "looks",
+          "local_start": 2.359999895095825,
+          "local_end": 2.619999885559082,
+          "evidence_indices": [
+            6
+          ],
+          "start": 5.767999895095825,
+          "end": 6.0279998855590815
+        },
+        {
+          "word": "orange",
+          "local_start": 2.619999885559082,
+          "local_end": 2.880000114440918,
+          "evidence_indices": [
+            7
+          ],
+          "start": 6.0279998855590815,
+          "end": 6.288000114440917
+        },
+        {
+          "word": "from",
+          "local_start": 2.880000114440918,
+          "local_end": 3.1600000858306885,
+          "evidence_indices": [
+            8
+          ],
+          "start": 6.288000114440917,
+          "end": 6.568000085830688
+        },
+        {
+          "word": "here.",
+          "local_start": 3.1600000858306885,
+          "local_end": 3.4000000953674316,
+          "evidence_indices": [
+            9
+          ],
+          "start": 6.568000085830688,
+          "end": 6.808000095367431
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "file": "03.mp3",
+      "text": "I'll look through my binoculars. Its back is gray, too.",
+      "audio_sha256": "ac2e05a896a5cb434cce18b82c07e57ac243eac44dff8fb13c7306f579b1de17",
+      "start": 7.056,
+      "end": 10.368,
+      "duration": 3.312,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "I'll",
+          "local_start": 0.0,
+          "local_end": 0.2800000011920929,
+          "evidence_indices": [
+            0
+          ],
+          "start": 7.056,
+          "end": 7.336000001192093
+        },
+        {
+          "word": "look",
+          "local_start": 0.2800000011920929,
+          "local_end": 0.5,
+          "evidence_indices": [
+            1
+          ],
+          "start": 7.336000001192093,
+          "end": 7.556
+        },
+        {
+          "word": "through",
+          "local_start": 0.5,
+          "local_end": 0.6800000071525574,
+          "evidence_indices": [
+            2
+          ],
+          "start": 7.556,
+          "end": 7.736000007152557
+        },
+        {
+          "word": "my",
+          "local_start": 0.6800000071525574,
+          "local_end": 0.8799999952316284,
+          "evidence_indices": [
+            3
+          ],
+          "start": 7.736000007152557,
+          "end": 7.9359999952316285
+        },
+        {
+          "word": "binoculars.",
+          "local_start": 0.8799999952316284,
+          "local_end": 1.5,
+          "evidence_indices": [
+            4
+          ],
+          "start": 7.9359999952316285,
+          "end": 8.556000000000001
+        },
+        {
+          "word": "Its",
+          "local_start": 1.9600000381469727,
+          "local_end": 2.119999885559082,
+          "evidence_indices": [
+            5
+          ],
+          "start": 9.016000038146974,
+          "end": 9.175999885559083
+        },
+        {
+          "word": "back",
+          "local_start": 2.119999885559082,
+          "local_end": 2.3399999141693115,
+          "evidence_indices": [
+            6
+          ],
+          "start": 9.175999885559083,
+          "end": 9.395999914169312
+        },
+        {
+          "word": "is",
+          "local_start": 2.3399999141693115,
+          "local_end": 2.5199999809265137,
+          "evidence_indices": [
+            7
+          ],
+          "start": 9.395999914169312,
+          "end": 9.575999980926515
+        },
+        {
+          "word": "gray,",
+          "local_start": 2.5199999809265137,
+          "local_end": 2.7200000286102295,
+          "evidence_indices": [
+            8
+          ],
+          "start": 9.575999980926515,
+          "end": 9.77600002861023
+        },
+        {
+          "word": "too.",
+          "local_start": 2.9200000762939453,
+          "local_end": 2.9600000381469727,
+          "evidence_indices": [
+            9
+          ],
+          "start": 9.976000076293946,
+          "end": 10.016000038146974
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "file": "04.mp3",
+      "text": "Could it be a robin? I'm not sure from this distance.",
+      "audio_sha256": "aaeb3806b8f60ec44107a9f6adcd7a37da8dd019af9eae0a7aab71029622e254",
+      "start": 10.368,
+      "end": 14.088000000000001,
+      "duration": 3.72,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Could",
+          "local_start": 0.0,
+          "local_end": 0.25999999046325684,
+          "evidence_indices": [
+            0
+          ],
+          "start": 10.368,
+          "end": 10.627999990463257
+        },
+        {
+          "word": "it",
+          "local_start": 0.25999999046325684,
+          "local_end": 0.41999998688697815,
+          "evidence_indices": [
+            1
+          ],
+          "start": 10.627999990463257,
+          "end": 10.787999986886978
+        },
+        {
+          "word": "be",
+          "local_start": 0.41999998688697815,
+          "local_end": 0.7599999904632568,
+          "evidence_indices": [
+            2
+          ],
+          "start": 10.787999986886978,
+          "end": 11.127999990463257
+        },
+        {
+          "word": "a",
+          "local_start": 0.7599999904632568,
+          "local_end": 1.0399999618530273,
+          "evidence_indices": [
+            3
+          ],
+          "start": 11.127999990463257,
+          "end": 11.407999961853028
+        },
+        {
+          "word": "robin?",
+          "local_start": 1.0399999618530273,
+          "local_end": 1.340000033378601,
+          "evidence_indices": [
+            4
+          ],
+          "start": 11.407999961853028,
+          "end": 11.708000033378601
+        },
+        {
+          "word": "I'm",
+          "local_start": 2.0799999237060547,
+          "local_end": 2.2799999713897705,
+          "evidence_indices": [
+            5
+          ],
+          "start": 12.447999923706055,
+          "end": 12.64799997138977
+        },
+        {
+          "word": "not",
+          "local_start": 2.2799999713897705,
+          "local_end": 2.5399999618530273,
+          "evidence_indices": [
+            6
+          ],
+          "start": 12.64799997138977,
+          "end": 12.907999961853028
+        },
+        {
+          "word": "sure",
+          "local_start": 2.5399999618530273,
+          "local_end": 2.7200000286102295,
+          "evidence_indices": [
+            7
+          ],
+          "start": 12.907999961853028,
+          "end": 13.08800002861023
+        },
+        {
+          "word": "from",
+          "local_start": 2.7200000286102295,
+          "local_end": 2.880000114440918,
+          "evidence_indices": [
+            8
+          ],
+          "start": 13.08800002861023,
+          "end": 13.248000114440918
+        },
+        {
+          "word": "this",
+          "local_start": 2.880000114440918,
+          "local_end": 3.119999885559082,
+          "evidence_indices": [
+            9
+          ],
+          "start": 13.248000114440918,
+          "end": 13.487999885559082
+        },
+        {
+          "word": "distance.",
+          "local_start": 3.119999885559082,
+          "local_end": 3.440000057220459,
+          "evidence_indices": [
+            10
+          ],
+          "start": 13.487999885559082,
+          "end": 13.80800005722046
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "file": "05.mp3",
+      "text": "Maybe, but let's write down what we can actually see.",
+      "audio_sha256": "6ba4687f3dc46f74631b100e9a75ad63c6e428fd025d55f5ee40e05fdc090340",
+      "start": 14.088000000000001,
+      "end": 17.352,
+      "duration": 3.264,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Maybe,",
+          "local_start": 0.0,
+          "local_end": 0.4399999976158142,
+          "evidence_indices": [
+            0
+          ],
+          "start": 14.088000000000001,
+          "end": 14.527999997615815
+        },
+        {
+          "word": "but",
+          "local_start": 0.6800000071525574,
+          "local_end": 1.0199999809265137,
+          "evidence_indices": [
+            1
+          ],
+          "start": 14.768000007152558,
+          "end": 15.107999980926515
+        },
+        {
+          "word": "let's",
+          "local_start": 1.0199999809265137,
+          "local_end": 1.2599999904632568,
+          "evidence_indices": [
+            2
+          ],
+          "start": 15.107999980926515,
+          "end": 15.347999990463258
+        },
+        {
+          "word": "write",
+          "local_start": 1.2599999904632568,
+          "local_end": 1.4600000381469727,
+          "evidence_indices": [
+            3
+          ],
+          "start": 15.347999990463258,
+          "end": 15.548000038146974
+        },
+        {
+          "word": "down",
+          "local_start": 1.4600000381469727,
+          "local_end": 1.7599999904632568,
+          "evidence_indices": [
+            4
+          ],
+          "start": 15.548000038146974,
+          "end": 15.847999990463258
+        },
+        {
+          "word": "what",
+          "local_start": 1.7599999904632568,
+          "local_end": 1.899999976158142,
+          "evidence_indices": [
+            5
+          ],
+          "start": 15.847999990463258,
+          "end": 15.987999976158143
+        },
+        {
+          "word": "we",
+          "local_start": 1.899999976158142,
+          "local_end": 2.0399999618530273,
+          "evidence_indices": [
+            6
+          ],
+          "start": 15.987999976158143,
+          "end": 16.12799996185303
+        },
+        {
+          "word": "can",
+          "local_start": 2.0399999618530273,
+          "local_end": 2.1600000858306885,
+          "evidence_indices": [
+            7
+          ],
+          "start": 16.12799996185303,
+          "end": 16.24800008583069
+        },
+        {
+          "word": "actually",
+          "local_start": 2.1600000858306885,
+          "local_end": 2.619999885559082,
+          "evidence_indices": [
+            8
+          ],
+          "start": 16.24800008583069,
+          "end": 16.707999885559083
+        },
+        {
+          "word": "see.",
+          "local_start": 2.619999885559082,
+          "local_end": 2.859999895095825,
+          "evidence_indices": [
+            9
+          ],
+          "start": 16.707999885559083,
+          "end": 16.947999895095826
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "file": "06.mp3",
+      "text": "Good idea. I hear a short song coming from that tree.",
+      "audio_sha256": "ee93af42adcae3d14367d8e93e496f26dab792db4048469230b229f814f2f93e",
+      "start": 17.352,
+      "end": 20.712,
+      "duration": 3.36,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Good",
+          "local_start": 0.0,
+          "local_end": 0.2199999988079071,
+          "evidence_indices": [
+            0
+          ],
+          "start": 17.352,
+          "end": 17.571999998807907
+        },
+        {
+          "word": "idea.",
+          "local_start": 0.2199999988079071,
+          "local_end": 0.6200000047683716,
+          "evidence_indices": [
+            1
+          ],
+          "start": 17.571999998807907,
+          "end": 17.972000004768372
+        },
+        {
+          "word": "I",
+          "local_start": 0.9200000166893005,
+          "local_end": 1.3600000143051147,
+          "evidence_indices": [
+            2
+          ],
+          "start": 18.2720000166893,
+          "end": 18.712000014305115
+        },
+        {
+          "word": "hear",
+          "local_start": 1.3600000143051147,
+          "local_end": 1.4600000381469727,
+          "evidence_indices": [
+            3
+          ],
+          "start": 18.712000014305115,
+          "end": 18.812000038146973
+        },
+        {
+          "word": "a",
+          "local_start": 1.4600000381469727,
+          "local_end": 1.659999966621399,
+          "evidence_indices": [
+            4
+          ],
+          "start": 18.812000038146973,
+          "end": 19.0119999666214
+        },
+        {
+          "word": "short",
+          "local_start": 1.659999966621399,
+          "local_end": 1.899999976158142,
+          "evidence_indices": [
+            5
+          ],
+          "start": 19.0119999666214,
+          "end": 19.251999976158142
+        },
+        {
+          "word": "song",
+          "local_start": 1.899999976158142,
+          "local_end": 2.180000066757202,
+          "evidence_indices": [
+            6
+          ],
+          "start": 19.251999976158142,
+          "end": 19.532000066757202
+        },
+        {
+          "word": "coming",
+          "local_start": 2.180000066757202,
+          "local_end": 2.4000000953674316,
+          "evidence_indices": [
+            7
+          ],
+          "start": 19.532000066757202,
+          "end": 19.752000095367432
+        },
+        {
+          "word": "from",
+          "local_start": 2.4000000953674316,
+          "local_end": 2.559999942779541,
+          "evidence_indices": [
+            8
+          ],
+          "start": 19.752000095367432,
+          "end": 19.91199994277954
+        },
+        {
+          "word": "that",
+          "local_start": 2.559999942779541,
+          "local_end": 2.759999990463257,
+          "evidence_indices": [
+            9
+          ],
+          "start": 19.91199994277954,
+          "end": 20.111999990463257
+        },
+        {
+          "word": "tree.",
+          "local_start": 2.759999990463257,
+          "local_end": 2.9600000381469727,
+          "evidence_indices": [
+            10
+          ],
+          "start": 20.111999990463257,
+          "end": 20.312000038146973
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "file": "07.mp3",
+      "text": "I hear it too, but another bird could be singing.",
+      "audio_sha256": "0a6dd7f9416f2800b7b034dad46479f4280667f4e9b9b9599a18bc137a6c9ecc",
+      "start": 20.712,
+      "end": 23.424,
+      "duration": 2.712,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "I",
+          "local_start": 0.0,
+          "local_end": 0.2199999988079071,
+          "evidence_indices": [
+            0
+          ],
+          "start": 20.712,
+          "end": 20.931999998807907
+        },
+        {
+          "word": "hear",
+          "local_start": 0.2199999988079071,
+          "local_end": 0.46000000834465027,
+          "evidence_indices": [
+            1
+          ],
+          "start": 20.931999998807907,
+          "end": 21.17200000834465
+        },
+        {
+          "word": "it",
+          "local_start": 0.46000000834465027,
+          "local_end": 0.6000000238418579,
+          "evidence_indices": [
+            2
+          ],
+          "start": 21.17200000834465,
+          "end": 21.312000023841858
+        },
+        {
+          "word": "too,",
+          "local_start": 0.6000000238418579,
+          "local_end": 0.9200000166893005,
+          "evidence_indices": [
+            3
+          ],
+          "start": 21.312000023841858,
+          "end": 21.6320000166893
+        },
+        {
+          "word": "but",
+          "local_start": 1.1799999475479126,
+          "local_end": 1.3200000524520874,
+          "evidence_indices": [
+            4
+          ],
+          "start": 21.891999947547912,
+          "end": 22.032000052452087
+        },
+        {
+          "word": "another",
+          "local_start": 1.3200000524520874,
+          "local_end": 1.600000023841858,
+          "evidence_indices": [
+            5
+          ],
+          "start": 22.032000052452087,
+          "end": 22.312000023841858
+        },
+        {
+          "word": "bird",
+          "local_start": 1.600000023841858,
+          "local_end": 1.8799999952316284,
+          "evidence_indices": [
+            6
+          ],
+          "start": 22.312000023841858,
+          "end": 22.591999995231628
+        },
+        {
+          "word": "could",
+          "local_start": 1.8799999952316284,
+          "local_end": 2.0399999618530273,
+          "evidence_indices": [
+            7
+          ],
+          "start": 22.591999995231628,
+          "end": 22.751999961853027
+        },
+        {
+          "word": "be",
+          "local_start": 2.0399999618530273,
+          "local_end": 2.200000047683716,
+          "evidence_indices": [
+            8
+          ],
+          "start": 22.751999961853027,
+          "end": 22.912000047683716
+        },
+        {
+          "word": "singing.",
+          "local_start": 2.200000047683716,
+          "local_end": 2.4200000762939453,
+          "evidence_indices": [
+            9
+          ],
+          "start": 22.912000047683716,
+          "end": 23.132000076293945
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "file": "08.mp3",
+      "text": "I'll note the sound separately, then. Oh, the bird just flew away.",
+      "audio_sha256": "9231af0c59c4802469ba5aea0eedf5abb6ddceb681d56b4f30ecd1e38030c5b8",
+      "start": 23.424,
+      "end": 27.983999999999998,
+      "duration": 4.56,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "I'll",
+          "local_start": 0.0,
+          "local_end": 0.30000001192092896,
+          "evidence_indices": [
+            0
+          ],
+          "start": 23.424,
+          "end": 23.72400001192093
+        },
+        {
+          "word": "note",
+          "local_start": 0.30000001192092896,
+          "local_end": 0.6200000047683716,
+          "evidence_indices": [
+            1
+          ],
+          "start": 23.72400001192093,
+          "end": 24.04400000476837
+        },
+        {
+          "word": "the",
+          "local_start": 0.6200000047683716,
+          "local_end": 0.9599999785423279,
+          "evidence_indices": [
+            2
+          ],
+          "start": 24.04400000476837,
+          "end": 24.383999978542327
+        },
+        {
+          "word": "sound",
+          "local_start": 0.9599999785423279,
+          "local_end": 1.2200000286102295,
+          "evidence_indices": [
+            3
+          ],
+          "start": 24.383999978542327,
+          "end": 24.64400002861023
+        },
+        {
+          "word": "separately,",
+          "local_start": 1.2200000286102295,
+          "local_end": 1.659999966621399,
+          "evidence_indices": [
+            4
+          ],
+          "start": 24.64400002861023,
+          "end": 25.0839999666214
+        },
+        {
+          "word": "then.",
+          "local_start": 1.9199999570846558,
+          "local_end": 2.0,
+          "evidence_indices": [
+            5
+          ],
+          "start": 25.343999957084655,
+          "end": 25.424
+        },
+        {
+          "word": "Oh,",
+          "local_start": 2.559999942779541,
+          "local_end": 2.8399999141693115,
+          "evidence_indices": [
+            6
+          ],
+          "start": 25.98399994277954,
+          "end": 26.26399991416931
+        },
+        {
+          "word": "the",
+          "local_start": 2.9000000953674316,
+          "local_end": 3.2200000286102295,
+          "evidence_indices": [
+            7
+          ],
+          "start": 26.32400009536743,
+          "end": 26.64400002861023
+        },
+        {
+          "word": "bird",
+          "local_start": 3.2200000286102295,
+          "local_end": 3.3399999141693115,
+          "evidence_indices": [
+            8
+          ],
+          "start": 26.64400002861023,
+          "end": 26.76399991416931
+        },
+        {
+          "word": "just",
+          "local_start": 3.3399999141693115,
+          "local_end": 3.700000047683716,
+          "evidence_indices": [
+            9
+          ],
+          "start": 26.76399991416931,
+          "end": 27.124000047683715
+        },
+        {
+          "word": "flew",
+          "local_start": 3.700000047683716,
+          "local_end": 3.8399999141693115,
+          "evidence_indices": [
+            10
+          ],
+          "start": 27.124000047683715,
+          "end": 27.26399991416931
+        },
+        {
+          "word": "away.",
+          "local_start": 3.8399999141693115,
+          "local_end": 4.099999904632568,
+          "evidence_indices": [
+            11
+          ],
+          "start": 27.26399991416931,
+          "end": 27.523999904632568
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "file": "09.mp3",
+      "text": "At least we had a good look without getting too close.",
+      "audio_sha256": "ec56bbf9342875c9dbbd3e8a31b99cb875a5236d1c7d30b007adfcaf5907b78a",
+      "start": 27.983999999999998,
+      "end": 31.031999999999996,
+      "duration": 3.048,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "At",
+          "local_start": 0.0,
+          "local_end": 0.23999999463558197,
+          "evidence_indices": [
+            0
+          ],
+          "start": 27.983999999999998,
+          "end": 28.22399999463558
+        },
+        {
+          "word": "least",
+          "local_start": 0.23999999463558197,
+          "local_end": 0.5,
+          "evidence_indices": [
+            1
+          ],
+          "start": 28.22399999463558,
+          "end": 28.483999999999998
+        },
+        {
+          "word": "we",
+          "local_start": 0.5,
+          "local_end": 0.6600000262260437,
+          "evidence_indices": [
+            2
+          ],
+          "start": 28.483999999999998,
+          "end": 28.644000026226042
+        },
+        {
+          "word": "had",
+          "local_start": 0.6600000262260437,
+          "local_end": 0.800000011920929,
+          "evidence_indices": [
+            3
+          ],
+          "start": 28.644000026226042,
+          "end": 28.784000011920927
+        },
+        {
+          "word": "a",
+          "local_start": 0.800000011920929,
+          "local_end": 0.9200000166893005,
+          "evidence_indices": [
+            4
+          ],
+          "start": 28.784000011920927,
+          "end": 28.9040000166893
+        },
+        {
+          "word": "good",
+          "local_start": 0.9200000166893005,
+          "local_end": 1.1399999856948853,
+          "evidence_indices": [
+            5
+          ],
+          "start": 28.9040000166893,
+          "end": 29.123999985694883
+        },
+        {
+          "word": "look",
+          "local_start": 1.1399999856948853,
+          "local_end": 1.399999976158142,
+          "evidence_indices": [
+            6
+          ],
+          "start": 29.123999985694883,
+          "end": 29.38399997615814
+        },
+        {
+          "word": "without",
+          "local_start": 1.399999976158142,
+          "local_end": 1.659999966621399,
+          "evidence_indices": [
+            7
+          ],
+          "start": 29.38399997615814,
+          "end": 29.643999966621397
+        },
+        {
+          "word": "getting",
+          "local_start": 1.659999966621399,
+          "local_end": 1.9199999570846558,
+          "evidence_indices": [
+            8
+          ],
+          "start": 29.643999966621397,
+          "end": 29.903999957084654
+        },
+        {
+          "word": "too",
+          "local_start": 1.9199999570846558,
+          "local_end": 2.319999933242798,
+          "evidence_indices": [
+            9
+          ],
+          "start": 29.903999957084654,
+          "end": 30.303999933242796
+        },
+        {
+          "word": "close.",
+          "local_start": 2.319999933242798,
+          "local_end": 2.619999885559082,
+          "evidence_indices": [
+            10
+          ],
+          "start": 30.303999933242796,
+          "end": 30.60399988555908
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "file": "10.mp3",
+      "text": "Yes. Let's compare our notes with the bird guide later.",
+      "audio_sha256": "1d7b353bcdce80e8a51bde7d900eacb6ee04bd442e6eb1ced35c0fc4ea8ba583",
+      "start": 31.031999999999996,
+      "end": 34.535999999999994,
+      "duration": 3.504,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Yes.",
+          "local_start": 0.0,
+          "local_end": 0.46000000834465027,
+          "evidence_indices": [
+            0
+          ],
+          "start": 31.031999999999996,
+          "end": 31.492000008344647
+        },
+        {
+          "word": "Let's",
+          "local_start": 0.5199999809265137,
+          "local_end": 1.2400000095367432,
+          "evidence_indices": [
+            1
+          ],
+          "start": 31.55199998092651,
+          "end": 32.27200000953674
+        },
+        {
+          "word": "compare",
+          "local_start": 1.2400000095367432,
+          "local_end": 1.4199999570846558,
+          "evidence_indices": [
+            2
+          ],
+          "start": 32.27200000953674,
+          "end": 32.45199995708465
+        },
+        {
+          "word": "our",
+          "local_start": 1.4199999570846558,
+          "local_end": 1.6200000047683716,
+          "evidence_indices": [
+            3
+          ],
+          "start": 32.45199995708465,
+          "end": 32.65200000476837
+        },
+        {
+          "word": "notes",
+          "local_start": 1.6200000047683716,
+          "local_end": 1.7599999904632568,
+          "evidence_indices": [
+            4
+          ],
+          "start": 32.65200000476837,
+          "end": 32.79199999046325
+        },
+        {
+          "word": "with",
+          "local_start": 1.7599999904632568,
+          "local_end": 1.940000057220459,
+          "evidence_indices": [
+            5
+          ],
+          "start": 32.79199999046325,
+          "end": 32.972000057220455
+        },
+        {
+          "word": "the",
+          "local_start": 1.940000057220459,
+          "local_end": 2.140000104904175,
+          "evidence_indices": [
+            6
+          ],
+          "start": 32.972000057220455,
+          "end": 33.17200010490417
+        },
+        {
+          "word": "bird",
+          "local_start": 2.140000104904175,
+          "local_end": 2.319999933242798,
+          "evidence_indices": [
+            7
+          ],
+          "start": 33.17200010490417,
+          "end": 33.351999933242794
+        },
+        {
+          "word": "guide",
+          "local_start": 2.319999933242798,
+          "local_end": 2.640000104904175,
+          "evidence_indices": [
+            8
+          ],
+          "start": 33.351999933242794,
+          "end": 33.67200010490417
+        },
+        {
+          "word": "later.",
+          "local_start": 2.640000104904175,
+          "local_end": 3.1600000858306885,
+          "evidence_indices": [
+            9
+          ],
+          "start": 33.67200010490417,
+          "end": 34.192000085830685
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "file": "11.mp3",
+      "text": "Would you like to sit on that bench for a while?",
+      "audio_sha256": "398495f623b611f40645c542f280fd862501e543ea534cbaa99381bc829085ac",
+      "start": 34.535999999999994,
+      "end": 37.8,
+      "duration": 3.264,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Would",
+          "local_start": 0.0,
+          "local_end": 0.699999988079071,
+          "evidence_indices": [
+            0
+          ],
+          "start": 34.535999999999994,
+          "end": 35.235999988079065
+        },
+        {
+          "word": "you",
+          "local_start": 0.699999988079071,
+          "local_end": 0.8399999737739563,
+          "evidence_indices": [
+            1
+          ],
+          "start": 35.235999988079065,
+          "end": 35.37599997377395
+        },
+        {
+          "word": "like",
+          "local_start": 0.8399999737739563,
+          "local_end": 1.0800000429153442,
+          "evidence_indices": [
+            2
+          ],
+          "start": 35.37599997377395,
+          "end": 35.61600004291534
+        },
+        {
+          "word": "to",
+          "local_start": 1.0800000429153442,
+          "local_end": 1.3200000524520874,
+          "evidence_indices": [
+            3
+          ],
+          "start": 35.61600004291534,
+          "end": 35.85600005245208
+        },
+        {
+          "word": "sit",
+          "local_start": 1.3200000524520874,
+          "local_end": 1.5399999618530273,
+          "evidence_indices": [
+            4
+          ],
+          "start": 35.85600005245208,
+          "end": 36.07599996185302
+        },
+        {
+          "word": "on",
+          "local_start": 1.5399999618530273,
+          "local_end": 1.7599999904632568,
+          "evidence_indices": [
+            5
+          ],
+          "start": 36.07599996185302,
+          "end": 36.29599999046325
+        },
+        {
+          "word": "that",
+          "local_start": 1.7599999904632568,
+          "local_end": 2.0399999618530273,
+          "evidence_indices": [
+            6
+          ],
+          "start": 36.29599999046325,
+          "end": 36.57599996185302
+        },
+        {
+          "word": "bench",
+          "local_start": 2.0399999618530273,
+          "local_end": 2.259999990463257,
+          "evidence_indices": [
+            7
+          ],
+          "start": 36.57599996185302,
+          "end": 36.79599999046325
+        },
+        {
+          "word": "for",
+          "local_start": 2.259999990463257,
+          "local_end": 2.559999942779541,
+          "evidence_indices": [
+            8
+          ],
+          "start": 36.79599999046325,
+          "end": 37.095999942779535
+        },
+        {
+          "word": "a",
+          "local_start": 2.559999942779541,
+          "local_end": 2.640000104904175,
+          "evidence_indices": [
+            9
+          ],
+          "start": 37.095999942779535,
+          "end": 37.17600010490417
+        },
+        {
+          "word": "while?",
+          "local_start": 2.640000104904175,
+          "local_end": 2.8399999141693115,
+          "evidence_indices": [
+            10
+          ],
+          "start": 37.17600010490417,
+          "end": 37.375999914169306
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "file": "12.mp3",
+      "text": "I'd love to. We might see something else from there.",
+      "audio_sha256": "8a625cb854c32a9b0fdfb4729fdb7a6a663055f7a51e2680daf60bf1e12917ba",
+      "start": 37.8,
+      "end": 40.751999999999995,
+      "duration": 2.952,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "I'd",
+          "local_start": 0.0,
+          "local_end": 0.2199999988079071,
+          "evidence_indices": [
+            0
+          ],
+          "start": 37.8,
+          "end": 38.019999998807904
+        },
+        {
+          "word": "love",
+          "local_start": 0.2199999988079071,
+          "local_end": 0.3799999952316284,
+          "evidence_indices": [
+            1
+          ],
+          "start": 38.019999998807904,
+          "end": 38.179999995231626
+        },
+        {
+          "word": "to.",
+          "local_start": 0.3799999952316284,
+          "local_end": 1.0199999809265137,
+          "evidence_indices": [
+            2
+          ],
+          "start": 38.179999995231626,
+          "end": 38.81999998092651
+        },
+        {
+          "word": "We",
+          "local_start": 1.3200000524520874,
+          "local_end": 1.4800000190734863,
+          "evidence_indices": [
+            3
+          ],
+          "start": 39.120000052452085,
+          "end": 39.28000001907348
+        },
+        {
+          "word": "might",
+          "local_start": 1.4800000190734863,
+          "local_end": 1.659999966621399,
+          "evidence_indices": [
+            4
+          ],
+          "start": 39.28000001907348,
+          "end": 39.459999966621396
+        },
+        {
+          "word": "see",
+          "local_start": 1.659999966621399,
+          "local_end": 1.940000057220459,
+          "evidence_indices": [
+            5
+          ],
+          "start": 39.459999966621396,
+          "end": 39.740000057220456
+        },
+        {
+          "word": "something",
+          "local_start": 1.940000057220459,
+          "local_end": 2.240000009536743,
+          "evidence_indices": [
+            6
+          ],
+          "start": 39.740000057220456,
+          "end": 40.04000000953674
+        },
+        {
+          "word": "else",
+          "local_start": 2.240000009536743,
+          "local_end": 2.4600000381469727,
+          "evidence_indices": [
+            7
+          ],
+          "start": 40.04000000953674,
+          "end": 40.26000003814697
+        },
+        {
+          "word": "from",
+          "local_start": 2.4600000381469727,
+          "local_end": 2.5999999046325684,
+          "evidence_indices": [
+            8
+          ],
+          "start": 40.26000003814697,
+          "end": 40.399999904632566
+        },
+        {
+          "word": "there.",
+          "local_start": 2.5999999046325684,
+          "local_end": 2.759999990463257,
+          "evidence_indices": [
+            9
+          ],
+          "start": 40.399999904632566,
+          "end": 40.559999990463254
+        }
+      ]
+    }
+  ]
+}

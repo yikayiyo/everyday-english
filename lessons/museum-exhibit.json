@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-22",
+  "slug": "museum-exhibit",
+  "title": "Finding a Favorite Museum Exhibit",
+  "title_zh": "寻找喜欢的博物馆展览",
+  "context": "Ava 和 Noah 在博物馆选择参观顺序，并安排会合地点。本课属于 2026-11-22 预制系列，题目为原创练习，并非真实考试题。",
+  "voices": {
+    "Ava": "marin",
+    "Noah": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Ava",
+      "en": "The museum has an exhibit about old trains. Want to see it?",
+      "zh": "博物馆有个关于老式火车的展览。想看吗？"
+    },
+    {
+      "speaker": "Noah",
+      "en": "Definitely. I've always liked trains. Where is it?",
+      "zh": "当然。我一直喜欢火车。展览在哪里？"
+    },
+    {
+      "speaker": "Ava",
+      "en": "The map says it's on the second floor, near the stairs.",
+      "zh": "地图上说在二楼，靠近楼梯。"
+    },
+    {
+      "speaker": "Noah",
+      "en": "Great. I also want to see the model town downstairs.",
+      "zh": "太好了。我还想看楼下的城镇模型。"
+    },
+    {
+      "speaker": "Ava",
+      "en": "We could go there afterward. How much time do we have?",
+      "zh": "之后可以去那里。我们有多少时间？"
+    },
+    {
+      "speaker": "Noah",
+      "en": "About an hour before we need to leave for dinner.",
+      "zh": "吃晚饭前大约还有一个小时。"
+    },
+    {
+      "speaker": "Ava",
+      "en": "Then let's spend half an hour with the trains.",
+      "zh": "那我们花半小时看火车吧。"
+    },
+    {
+      "speaker": "Noah",
+      "en": "That works. Can we take pictures in this exhibit?",
+      "zh": "可以。这个展览能拍照吗？"
+    },
+    {
+      "speaker": "Ava",
+      "en": "The sign says photos are fine without flash.",
+      "zh": "指示牌上说可以拍照，但不能用闪光灯。"
+    },
+    {
+      "speaker": "Noah",
+      "en": "I'll turn mine off. That blue train looks interesting.",
+      "zh": "我会把闪光灯关掉。那辆蓝色火车看起来很有意思。"
+    },
+    {
+      "speaker": "Ava",
+      "en": "You can take a closer look. I want to read this label first.",
+      "zh": "你可以走近看看。我想先读一下这块说明牌。"
+    },
+    {
+      "speaker": "Noah",
+      "en": "Sure. Let's meet by the stairs in ten minutes.",
+      "zh": "好。我们十分钟后在楼梯旁碰面。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "Want to see it?",
+      "zh": "想看吗？是口语中省略 Do you 的问法。",
+      "example": "There's a short film. Want to see it?"
+    },
+    {
+      "en": "afterward",
+      "zh": "之后，表示接下来发生。",
+      "example": "We had coffee afterward."
+    },
+    {
+      "en": "That works.",
+      "zh": "可以，表示同意安排。",
+      "example": "Noon? That works for me."
+    },
+    {
+      "en": "without flash",
+      "zh": "不使用闪光灯。",
+      "example": "Please take the picture without flash."
+    },
+    {
+      "en": "take a closer look",
+      "zh": "走近或更仔细地看。",
+      "example": "Take a closer look at the painting."
+    }
+  ],
+  "pronunciation": "museum 的重音在第二音节；closer look 中两个词的首音节都较突出。",
+  "practice": [
+    {
+      "title": "Part 1 · Museums",
+      "prompt": "What do you like to see in a museum?",
+      "answer": "I enjoy seeing old objects from everyday life. They help me imagine how people lived in the past."
+    },
+    {
+      "title": "Part 2 · An interesting exhibit",
+      "prompt": "Describe an exhibit you enjoyed. Say where it was, what you saw, and why you remember it.",
+      "answer": "I visited a small museum with my cousin last year. There was an exhibit about trains, and we saw a model of an old station. I liked the little buildings and the tiny people on the platform. We read a few labels and learned how passengers traveled in the past. My cousin took some photos without flash. I remember it because the model made the history easy to imagine. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Exhibits",
+      "prompt": "How can museums make exhibits interesting for different visitors?",
+      "answer": "They can use clear labels, models, and short recordings. Visitors have different interests and ways of learning, so several ways to explore a subject can help more people enjoy it."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "跟读后与朋友商量参观顺序、剩余时间和会合地点。",
+      "answer": "I want to see the train exhibit first. We have an hour. Let's meet by the stairs afterward."
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-22",
+  "slug": "visiting-a-neighbor",
+  "title": "A Visit Across the Hall",
+  "title_zh": "拜访对门邻居",
+  "context": "新搬来的 Nina 去拜访对门的 Sam，归还误送的信，并约好在楼道聊聊。 本课属于 2026-11-22 预制系列，练习题为原创练习，并非真实考试题。",
+  "voices": {
+    "Nina": "marin",
+    "Sam": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Nina",
+      "en": "Hello, I live across the hall. I think this letter is yours.",
+      "zh": "你好，我住在对门。我想这封信是你的。"
+    },
+    {
+      "speaker": "Sam",
+      "en": "Thanks for bringing it over. I am Sam. You just moved in, right?",
+      "zh": "谢谢你送过来。我叫 Sam。你刚搬来，对吧？"
+    },
+    {
+      "speaker": "Nina",
+      "en": "Yes, I'm Nina. The mail carrier put it in my box by mistake.",
+      "zh": "是的，我叫 Nina。送信员误把它放进我的信箱了。"
+    },
+    {
+      "speaker": "Sam",
+      "en": "I'm glad it reached me. How are you settling in?",
+      "zh": "幸好它送到了。你安顿得怎么样？"
+    },
+    {
+      "speaker": "Nina",
+      "en": "Pretty well, although I'm still looking for the laundry room.",
+      "zh": "还不错，不过我还在找洗衣房。"
+    },
+    {
+      "speaker": "Sam",
+      "en": "It is downstairs, past the elevator and on the left.",
+      "zh": "它在楼下，过了电梯后在左边。"
+    },
+    {
+      "speaker": "Nina",
+      "en": "That helps. Is this a good time to ask about the building?",
+      "zh": "这下明白了。现在方便问问楼里的情况吗？"
+    },
+    {
+      "speaker": "Sam",
+      "en": "I have a call in a few minutes, but I'm free afterward.",
+      "zh": "我几分钟后有个电话，不过之后有空。"
+    },
+    {
+      "speaker": "Nina",
+      "en": "No problem. I can come back later this evening.",
+      "zh": "没关系。我今晚晚些时候可以再过来。"
+    },
+    {
+      "speaker": "Sam",
+      "en": "That would be nice. We can chat in the hallway around seven.",
+      "zh": "好啊。我们可以七点左右在楼道里聊聊。"
+    },
+    {
+      "speaker": "Nina",
+      "en": "I will see you then. Thanks for pointing me in the right direction.",
+      "zh": "那时见。谢谢你给我指路。"
+    },
+    {
+      "speaker": "Sam",
+      "en": "My pleasure, Nina. Welcome to the building!",
+      "zh": "不客气，Nina。欢迎搬到这栋楼！"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "across the hall",
+      "zh": "在走廊对面。",
+      "example": "Our new neighbor lives across the hall."
+    },
+    {
+      "en": "by mistake",
+      "zh": "错误地、无意中。",
+      "example": "I took your pen by mistake."
+    },
+    {
+      "en": "settle in",
+      "zh": "安顿下来并逐渐适应。",
+      "example": "It took me a week to settle in."
+    },
+    {
+      "en": "Is this a good time?",
+      "zh": "现在方便吗？用于先确认对方是否有空。",
+      "example": "Is this a good time to talk about the schedule?"
+    },
+    {
+      "en": "point someone in the right direction",
+      "zh": "为某人指明方向或提供线索。",
+      "example": "The receptionist pointed me in the right direction."
+    }
+  ],
+  "pronunciation": "hall 的元音要拉开，结尾有清晰的 l；settling 的重音在第一个音节 SET。",
+  "practice": [
+    {
+      "title": "Part 1 · Neighbors",
+      "prompt": "How do you usually get to know a new neighbor?",
+      "answer": "I usually introduce myself when we meet in the hallway. A short conversation about the building is an easy way to start."
+    },
+    {
+      "title": "Part 2 · Meeting someone new",
+      "prompt": "Describe a time you met a new neighbor. Say where you met, what you talked about, and how you felt.",
+      "answer": "When I moved into my apartment, I met a neighbor while checking my mailbox. I introduced myself and asked where to leave cardboard boxes. She showed me the room downstairs and told me her name. We talked for a few minutes about the neighborhood. I felt less nervous afterward because I knew someone I could say hello to. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Neighborly connections",
+      "prompt": "Why might it be difficult for neighbors to get to know one another?",
+      "answer": "People may have different schedules and rarely meet. A shared space can make short conversations easier, though everyone also needs privacy."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "跟读送信和约时间的句子，再练习向邻居说明误收到的物品。",
+      "answer": "Hello, I live next door. This package was left at my door by mistake. Is this a good time to give it to you?"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-22",
+  "slug": "choosing-a-gift",
+  "title": "Choosing a Gift for a Teammate",
+  "title_zh": "为队友挑选礼物",
+  "context": "Ava 和 Noah 为即将搬家的队友挑选纪念礼物。 本课为 2026-11-22 预制系列原创练习，并非真实考试题。",
+  "voices": {
+    "Ava": "marin",
+    "Noah": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Ava",
+      "en": "Have you thought about a farewell gift for Priya?",
+      "zh": "你想过给 Priya 买什么告别礼物吗？"
+    },
+    {
+      "speaker": "Noah",
+      "en": "She loves drawing, but I do not know what supplies she has.",
+      "zh": "她喜欢画画，但我不知道她有哪些用品。"
+    },
+    {
+      "speaker": "Ava",
+      "en": "We could choose something personal instead of guessing.",
+      "zh": "我们可以选件有个人意义的东西，不用猜。"
+    },
+    {
+      "speaker": "Noah",
+      "en": "What about a small photo book of our team?",
+      "zh": "做一本我们团队的小相册怎么样？"
+    },
+    {
+      "speaker": "Ava",
+      "en": "I like that. She can take it with her when she moves.",
+      "zh": "我喜欢。她搬家时可以带走。"
+    },
+    {
+      "speaker": "Noah",
+      "en": "Do we have enough pictures from the past year?",
+      "zh": "我们有足够的过去一年的照片吗？"
+    },
+    {
+      "speaker": "Ava",
+      "en": "I have some from our first project and the team lunch.",
+      "zh": "我有第一次合作项目和团队午餐的照片。"
+    },
+    {
+      "speaker": "Noah",
+      "en": "I can ask the others to send their favorites tonight.",
+      "zh": "我可以请其他人今晚发来喜欢的照片。"
+    },
+    {
+      "speaker": "Ava",
+      "en": "Great. We should leave a page for short messages, too.",
+      "zh": "太好了。我们还应该留一页写留言。"
+    },
+    {
+      "speaker": "Noah",
+      "en": "Agreed. Shall we share the cost among the team?",
+      "zh": "同意。我们让团队成员分摊费用好吗？"
+    },
+    {
+      "speaker": "Ava",
+      "en": "Yes. I will check the price before we order it.",
+      "zh": "好。我会在订购前查一下价格。"
+    },
+    {
+      "speaker": "Noah",
+      "en": "Perfect. Once everyone agrees, we can put the book together.",
+      "zh": "太好了。等大家同意后，我们就可以制作相册了。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "farewell gift",
+      "zh": "告别礼物，送给即将离开的人。",
+      "example": "We chose a farewell gift for our coach."
+    },
+    {
+      "en": "instead of guessing",
+      "zh": "不必猜测而改用其他方法。",
+      "example": "Ask about her schedule instead of guessing."
+    },
+    {
+      "en": "What about...?",
+      "zh": "用来提出建议。",
+      "example": "What about a handmade card?"
+    },
+    {
+      "en": "share the cost",
+      "zh": "分摊费用。",
+      "example": "We can share the cost of the flowers."
+    },
+    {
+      "en": "put together",
+      "zh": "制作或组装。",
+      "example": "They put together a book of family stories."
+    }
+  ],
+  "pronunciation": "farewell 重音在第二音节；photo 重音在第一音节。",
+  "practice": [
+    {
+      "title": "Part 1 · Gifts",
+      "prompt": "Do you enjoy choosing gifts?",
+      "answer": "Yes, especially when I know the person well. I try to choose something that reminds them of a good time."
+    },
+    {
+      "title": "Part 2 · A thoughtful gift",
+      "prompt": "Describe a gift you chose for someone. Say who it was for, what it was, and why you chose it.",
+      "answer": "I chose a small photo book for a teammate who was moving away. Several of us sent pictures from our projects and added short messages. We checked the price and shared the cost before ordering it. She could take the book to her new home and remember our time together. I enjoyed making it because everyone contributed a different memory. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Giving",
+      "prompt": "Why can a personal gift be meaningful even if it is inexpensive?",
+      "answer": "A personal gift can show that the giver has paid attention to someone. Shared memories or a thoughtful message may matter more than the price."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "跟读讨论礼物的句子，再为朋友提出方案并说明理由。",
+      "answer": "What about a photo book for Maya? We can add pictures and short messages. It will remind her of our time together."
+    }
+  ]
+}

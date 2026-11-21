@@ -1,0 +1,1483 @@
+{
+  "timing_status": "validated_with_timing_warnings",
+  "timing_warnings": [
+    {
+      "line": 4,
+      "whisper_word_indices": [
+        5
+      ]
+    },
+    {
+      "line": 6,
+      "whisper_word_indices": [
+        2
+      ]
+    }
+  ],
+  "model": "whisper-1",
+  "lesson": "family-recipe",
+  "source_sha256": "31bfcbca3e6fd94020649c9206deec9e3bbeea5e364999a62aaa04bcbef7bd28",
+  "full_track": "dialogue-full.mp3",
+  "full_duration": 39.168,
+  "full_audio_sha256": "a8fb3b9f95b87fc2e94dc7330c2d0c9b7dd6269e63e17ffc4db890c970df84d4",
+  "lines": [
+    {
+      "index": 1,
+      "file": "01.mp3",
+      "text": "Dad, can you show me how Grandma made her tomato soup?",
+      "audio_sha256": "6388c7c717f3c8d681c16895bb03b4a97d3c4cec3ebcda409b6469b020adf028",
+      "start": 0,
+      "end": 3.552,
+      "duration": 3.552,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Dad,",
+          "local_start": 0.0,
+          "local_end": 0.46000000834465027,
+          "evidence_indices": [
+            0
+          ],
+          "start": 0.0,
+          "end": 0.46000000834465027
+        },
+        {
+          "word": "can",
+          "local_start": 0.5600000023841858,
+          "local_end": 0.9599999785423279,
+          "evidence_indices": [
+            1
+          ],
+          "start": 0.5600000023841858,
+          "end": 0.9599999785423279
+        },
+        {
+          "word": "you",
+          "local_start": 0.9599999785423279,
+          "local_end": 1.1799999475479126,
+          "evidence_indices": [
+            2
+          ],
+          "start": 0.9599999785423279,
+          "end": 1.1799999475479126
+        },
+        {
+          "word": "show",
+          "local_start": 1.1799999475479126,
+          "local_end": 1.3200000524520874,
+          "evidence_indices": [
+            3
+          ],
+          "start": 1.1799999475479126,
+          "end": 1.3200000524520874
+        },
+        {
+          "word": "me",
+          "local_start": 1.3200000524520874,
+          "local_end": 1.4800000190734863,
+          "evidence_indices": [
+            4
+          ],
+          "start": 1.3200000524520874,
+          "end": 1.4800000190734863
+        },
+        {
+          "word": "how",
+          "local_start": 1.4800000190734863,
+          "local_end": 1.6799999475479126,
+          "evidence_indices": [
+            5
+          ],
+          "start": 1.4800000190734863,
+          "end": 1.6799999475479126
+        },
+        {
+          "word": "Grandma",
+          "local_start": 1.6799999475479126,
+          "local_end": 2.0199999809265137,
+          "evidence_indices": [
+            6
+          ],
+          "start": 1.6799999475479126,
+          "end": 2.0199999809265137
+        },
+        {
+          "word": "made",
+          "local_start": 2.0199999809265137,
+          "local_end": 2.240000009536743,
+          "evidence_indices": [
+            7
+          ],
+          "start": 2.0199999809265137,
+          "end": 2.240000009536743
+        },
+        {
+          "word": "her",
+          "local_start": 2.240000009536743,
+          "local_end": 2.4800000190734863,
+          "evidence_indices": [
+            8
+          ],
+          "start": 2.240000009536743,
+          "end": 2.4800000190734863
+        },
+        {
+          "word": "tomato",
+          "local_start": 2.4800000190734863,
+          "local_end": 2.7200000286102295,
+          "evidence_indices": [
+            9
+          ],
+          "start": 2.4800000190734863,
+          "end": 2.7200000286102295
+        },
+        {
+          "word": "soup?",
+          "local_start": 2.7200000286102295,
+          "local_end": 3.0199999809265137,
+          "evidence_indices": [
+            10
+          ],
+          "start": 2.7200000286102295,
+          "end": 3.0199999809265137
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "file": "02.mp3",
+      "text": "Of course. She started by cooking an onion in a little oil.",
+      "audio_sha256": "cb0847976348f8e8cf9defcce2cef0b9b2d0d5b132a71c8fa9f3c117f5c7a68c",
+      "start": 3.552,
+      "end": 7.32,
+      "duration": 3.768,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Of",
+          "local_start": 0.0,
+          "local_end": 0.23999999463558197,
+          "evidence_indices": [
+            0
+          ],
+          "start": 3.552,
+          "end": 3.791999994635582
+        },
+        {
+          "word": "course.",
+          "local_start": 0.23999999463558197,
+          "local_end": 0.5799999833106995,
+          "evidence_indices": [
+            1
+          ],
+          "start": 3.791999994635582,
+          "end": 4.131999983310699
+        },
+        {
+          "word": "She",
+          "local_start": 1.059999942779541,
+          "local_end": 1.3799999952316284,
+          "evidence_indices": [
+            2
+          ],
+          "start": 4.611999942779541,
+          "end": 4.931999995231628
+        },
+        {
+          "word": "started",
+          "local_start": 1.3799999952316284,
+          "local_end": 1.7000000476837158,
+          "evidence_indices": [
+            3
+          ],
+          "start": 4.931999995231628,
+          "end": 5.252000047683715
+        },
+        {
+          "word": "by",
+          "local_start": 1.7000000476837158,
+          "local_end": 2.0399999618530273,
+          "evidence_indices": [
+            4
+          ],
+          "start": 5.252000047683715,
+          "end": 5.591999961853027
+        },
+        {
+          "word": "cooking",
+          "local_start": 2.0399999618530273,
+          "local_end": 2.240000009536743,
+          "evidence_indices": [
+            5
+          ],
+          "start": 5.591999961853027,
+          "end": 5.792000009536743
+        },
+        {
+          "word": "an",
+          "local_start": 2.240000009536743,
+          "local_end": 2.5199999809265137,
+          "evidence_indices": [
+            6
+          ],
+          "start": 5.792000009536743,
+          "end": 6.071999980926513
+        },
+        {
+          "word": "onion",
+          "local_start": 2.5199999809265137,
+          "local_end": 2.6600000858306885,
+          "evidence_indices": [
+            7
+          ],
+          "start": 6.071999980926513,
+          "end": 6.212000085830688
+        },
+        {
+          "word": "in",
+          "local_start": 2.6600000858306885,
+          "local_end": 2.9600000381469727,
+          "evidence_indices": [
+            8
+          ],
+          "start": 6.212000085830688,
+          "end": 6.512000038146972
+        },
+        {
+          "word": "a",
+          "local_start": 2.9600000381469727,
+          "local_end": 3.0999999046325684,
+          "evidence_indices": [
+            9
+          ],
+          "start": 6.512000038146972,
+          "end": 6.651999904632568
+        },
+        {
+          "word": "little",
+          "local_start": 3.0999999046325684,
+          "local_end": 3.200000047683716,
+          "evidence_indices": [
+            10
+          ],
+          "start": 6.651999904632568,
+          "end": 6.752000047683715
+        },
+        {
+          "word": "oil.",
+          "local_start": 3.200000047683716,
+          "local_end": 3.440000057220459,
+          "evidence_indices": [
+            11
+          ],
+          "start": 6.752000047683715,
+          "end": 6.992000057220459
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "file": "03.mp3",
+      "text": "Should I cut the onion into small pieces?",
+      "audio_sha256": "8a29e73a4bcf81595f985ab8efed9ef0c804bd4f25fa51c805b18a737b4f5f7d",
+      "start": 7.32,
+      "end": 10.368,
+      "duration": 3.048,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Should",
+          "local_start": 0.0,
+          "local_end": 0.30000001192092896,
+          "evidence_indices": [
+            0
+          ],
+          "start": 7.32,
+          "end": 7.620000011920929
+        },
+        {
+          "word": "I",
+          "local_start": 0.30000001192092896,
+          "local_end": 0.6200000047683716,
+          "evidence_indices": [
+            1
+          ],
+          "start": 7.620000011920929,
+          "end": 7.940000004768372
+        },
+        {
+          "word": "cut",
+          "local_start": 0.6200000047683716,
+          "local_end": 0.7200000286102295,
+          "evidence_indices": [
+            2
+          ],
+          "start": 7.940000004768372,
+          "end": 8.04000002861023
+        },
+        {
+          "word": "the",
+          "local_start": 0.7200000286102295,
+          "local_end": 1.0399999618530273,
+          "evidence_indices": [
+            3
+          ],
+          "start": 8.04000002861023,
+          "end": 8.359999961853028
+        },
+        {
+          "word": "onion",
+          "local_start": 1.0399999618530273,
+          "local_end": 1.2599999904632568,
+          "evidence_indices": [
+            4
+          ],
+          "start": 8.359999961853028,
+          "end": 8.579999990463257
+        },
+        {
+          "word": "into",
+          "local_start": 1.2599999904632568,
+          "local_end": 1.7799999713897705,
+          "evidence_indices": [
+            5
+          ],
+          "start": 8.579999990463257,
+          "end": 9.09999997138977
+        },
+        {
+          "word": "small",
+          "local_start": 1.7799999713897705,
+          "local_end": 2.140000104904175,
+          "evidence_indices": [
+            6
+          ],
+          "start": 9.09999997138977,
+          "end": 9.460000104904175
+        },
+        {
+          "word": "pieces?",
+          "local_start": 2.140000104904175,
+          "local_end": 2.4600000381469727,
+          "evidence_indices": [
+            7
+          ],
+          "start": 9.460000104904175,
+          "end": 9.780000038146973
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "file": "04.mp3",
+      "text": "Yes, please. I'll open the tomatoes while you do that.",
+      "audio_sha256": "80e19b0145f80c85a0de574bdc10f9b2fffc485b1a16c151ed0c63e050845b19",
+      "start": 10.368,
+      "end": 13.728,
+      "duration": 3.36,
+      "zero_word_indices": [
+        5
+      ],
+      "words": [
+        {
+          "word": "Yes,",
+          "local_start": 0.0,
+          "local_end": 0.3400000035762787,
+          "evidence_indices": [
+            0
+          ],
+          "start": 10.368,
+          "end": 10.708000003576279
+        },
+        {
+          "word": "please.",
+          "local_start": 0.41999998688697815,
+          "local_end": 0.699999988079071,
+          "evidence_indices": [
+            1
+          ],
+          "start": 10.787999986886978,
+          "end": 11.067999988079071
+        },
+        {
+          "word": "I'll",
+          "local_start": 1.1799999475479126,
+          "local_end": 1.4800000190734863,
+          "evidence_indices": [
+            2
+          ],
+          "start": 11.547999947547913,
+          "end": 11.848000019073487
+        },
+        {
+          "word": "open",
+          "local_start": 1.4800000190734863,
+          "local_end": 1.6399999856948853,
+          "evidence_indices": [
+            3
+          ],
+          "start": 11.848000019073487,
+          "end": 12.007999985694886
+        },
+        {
+          "word": "the",
+          "local_start": 1.6399999856948853,
+          "local_end": 2.140000104904175,
+          "evidence_indices": [
+            4
+          ],
+          "start": 12.007999985694886,
+          "end": 12.508000104904175
+        },
+        {
+          "word": "tomatoes",
+          "local_start": 2.140000104904175,
+          "local_end": 2.140000104904175,
+          "evidence_indices": [
+            5
+          ],
+          "start": 12.508000104904175,
+          "end": 12.508000104904175
+        },
+        {
+          "word": "while",
+          "local_start": 2.140000104904175,
+          "local_end": 2.4200000762939453,
+          "evidence_indices": [
+            6
+          ],
+          "start": 12.508000104904175,
+          "end": 12.788000076293946
+        },
+        {
+          "word": "you",
+          "local_start": 2.4200000762939453,
+          "local_end": 2.5799999237060547,
+          "evidence_indices": [
+            7
+          ],
+          "start": 12.788000076293946,
+          "end": 12.947999923706055
+        },
+        {
+          "word": "do",
+          "local_start": 2.5799999237060547,
+          "local_end": 2.700000047683716,
+          "evidence_indices": [
+            8
+          ],
+          "start": 12.947999923706055,
+          "end": 13.068000047683716
+        },
+        {
+          "word": "that.",
+          "local_start": 2.700000047683716,
+          "local_end": 2.9600000381469727,
+          "evidence_indices": [
+            9
+          ],
+          "start": 13.068000047683716,
+          "end": 13.328000038146973
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "file": "05.mp3",
+      "text": "The onion is soft now. What goes in next?",
+      "audio_sha256": "c2b469b86aa82d07ba2de57219cb2252736f769a6f37514ac128c5e54decdfbf",
+      "start": 13.728,
+      "end": 16.344,
+      "duration": 2.616,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "The",
+          "local_start": 0.0,
+          "local_end": 0.2800000011920929,
+          "evidence_indices": [
+            0
+          ],
+          "start": 13.728,
+          "end": 14.008000001192093
+        },
+        {
+          "word": "onion",
+          "local_start": 0.2800000011920929,
+          "local_end": 0.41999998688697815,
+          "evidence_indices": [
+            1
+          ],
+          "start": 14.008000001192093,
+          "end": 14.147999986886978
+        },
+        {
+          "word": "is",
+          "local_start": 0.41999998688697815,
+          "local_end": 0.7200000286102295,
+          "evidence_indices": [
+            2
+          ],
+          "start": 14.147999986886978,
+          "end": 14.44800002861023
+        },
+        {
+          "word": "soft",
+          "local_start": 0.7200000286102295,
+          "local_end": 0.8799999952316284,
+          "evidence_indices": [
+            3
+          ],
+          "start": 14.44800002861023,
+          "end": 14.607999995231628
+        },
+        {
+          "word": "now.",
+          "local_start": 0.8799999952316284,
+          "local_end": 1.2200000286102295,
+          "evidence_indices": [
+            4
+          ],
+          "start": 14.607999995231628,
+          "end": 14.94800002861023
+        },
+        {
+          "word": "What",
+          "local_start": 1.2599999904632568,
+          "local_end": 1.7000000476837158,
+          "evidence_indices": [
+            5
+          ],
+          "start": 14.987999990463257,
+          "end": 15.428000047683716
+        },
+        {
+          "word": "goes",
+          "local_start": 1.7000000476837158,
+          "local_end": 1.8600000143051147,
+          "evidence_indices": [
+            6
+          ],
+          "start": 15.428000047683716,
+          "end": 15.588000014305115
+        },
+        {
+          "word": "in",
+          "local_start": 1.8600000143051147,
+          "local_end": 2.0799999237060547,
+          "evidence_indices": [
+            7
+          ],
+          "start": 15.588000014305115,
+          "end": 15.807999923706054
+        },
+        {
+          "word": "next?",
+          "local_start": 2.0799999237060547,
+          "local_end": 2.359999895095825,
+          "evidence_indices": [
+            8
+          ],
+          "start": 15.807999923706054,
+          "end": 16.087999895095827
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "file": "06.mp3",
+      "text": "Add the tomatoes and some water, then let it cook gently.",
+      "audio_sha256": "4755b3e6aeb450c65cb7db5a222ab84e8909c5b243d5fa25dfb5205c9a2590ac",
+      "start": 16.344,
+      "end": 19.848000000000003,
+      "duration": 3.504,
+      "zero_word_indices": [
+        2
+      ],
+      "words": [
+        {
+          "word": "Add",
+          "local_start": 0.0,
+          "local_end": 0.2800000011920929,
+          "evidence_indices": [
+            0
+          ],
+          "start": 16.344,
+          "end": 16.624000001192094
+        },
+        {
+          "word": "the",
+          "local_start": 0.2800000011920929,
+          "local_end": 0.9200000166893005,
+          "evidence_indices": [
+            1
+          ],
+          "start": 16.624000001192094,
+          "end": 17.2640000166893
+        },
+        {
+          "word": "tomatoes",
+          "local_start": 0.9200000166893005,
+          "local_end": 0.9200000166893005,
+          "evidence_indices": [
+            2
+          ],
+          "start": 17.2640000166893,
+          "end": 17.2640000166893
+        },
+        {
+          "word": "and",
+          "local_start": 0.9200000166893005,
+          "local_end": 1.4199999570846558,
+          "evidence_indices": [
+            3
+          ],
+          "start": 17.2640000166893,
+          "end": 17.763999957084657
+        },
+        {
+          "word": "some",
+          "local_start": 1.4199999570846558,
+          "local_end": 1.7000000476837158,
+          "evidence_indices": [
+            4
+          ],
+          "start": 17.763999957084657,
+          "end": 18.044000047683717
+        },
+        {
+          "word": "water,",
+          "local_start": 1.7000000476837158,
+          "local_end": 1.8799999952316284,
+          "evidence_indices": [
+            5
+          ],
+          "start": 18.044000047683717,
+          "end": 18.22399999523163
+        },
+        {
+          "word": "then",
+          "local_start": 2.0999999046325684,
+          "local_end": 2.559999942779541,
+          "evidence_indices": [
+            6
+          ],
+          "start": 18.44399990463257,
+          "end": 18.903999942779542
+        },
+        {
+          "word": "let",
+          "local_start": 2.559999942779541,
+          "local_end": 2.7200000286102295,
+          "evidence_indices": [
+            7
+          ],
+          "start": 18.903999942779542,
+          "end": 19.06400002861023
+        },
+        {
+          "word": "it",
+          "local_start": 2.7200000286102295,
+          "local_end": 2.859999895095825,
+          "evidence_indices": [
+            8
+          ],
+          "start": 19.06400002861023,
+          "end": 19.203999895095826
+        },
+        {
+          "word": "cook",
+          "local_start": 2.859999895095825,
+          "local_end": 2.9800000190734863,
+          "evidence_indices": [
+            9
+          ],
+          "start": 19.203999895095826,
+          "end": 19.324000019073488
+        },
+        {
+          "word": "gently.",
+          "local_start": 2.9800000190734863,
+          "local_end": 3.2799999713897705,
+          "evidence_indices": [
+            10
+          ],
+          "start": 19.324000019073488,
+          "end": 19.62399997138977
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "file": "07.mp3",
+      "text": "Grandma sometimes added a little sugar, didn't she?",
+      "audio_sha256": "a33ed98955fe34aad0044f36669b928c5eb6e9a25e42b3c9e3d72bdbe0918111",
+      "start": 19.848000000000003,
+      "end": 22.512000000000004,
+      "duration": 2.664,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Grandma",
+          "local_start": 0.0,
+          "local_end": 0.4000000059604645,
+          "evidence_indices": [
+            0
+          ],
+          "start": 19.848000000000003,
+          "end": 20.248000005960467
+        },
+        {
+          "word": "sometimes",
+          "local_start": 0.4000000059604645,
+          "local_end": 0.8999999761581421,
+          "evidence_indices": [
+            1
+          ],
+          "start": 20.248000005960467,
+          "end": 20.747999976158145
+        },
+        {
+          "word": "added",
+          "local_start": 0.8999999761581421,
+          "local_end": 1.1799999475479126,
+          "evidence_indices": [
+            2
+          ],
+          "start": 20.747999976158145,
+          "end": 21.027999947547915
+        },
+        {
+          "word": "a",
+          "local_start": 1.1799999475479126,
+          "local_end": 1.2799999713897705,
+          "evidence_indices": [
+            3
+          ],
+          "start": 21.027999947547915,
+          "end": 21.127999971389773
+        },
+        {
+          "word": "little",
+          "local_start": 1.2799999713897705,
+          "local_end": 1.559999942779541,
+          "evidence_indices": [
+            4
+          ],
+          "start": 21.127999971389773,
+          "end": 21.407999942779544
+        },
+        {
+          "word": "sugar,",
+          "local_start": 1.559999942779541,
+          "local_end": 1.8200000524520874,
+          "evidence_indices": [
+            5
+          ],
+          "start": 21.407999942779544,
+          "end": 21.66800005245209
+        },
+        {
+          "word": "didn't",
+          "local_start": 1.9800000190734863,
+          "local_end": 2.140000104904175,
+          "evidence_indices": [
+            6
+          ],
+          "start": 21.82800001907349,
+          "end": 21.988000104904177
+        },
+        {
+          "word": "she?",
+          "local_start": 2.140000104904175,
+          "local_end": 2.319999933242798,
+          "evidence_indices": [
+            7
+          ],
+          "start": 21.988000104904177,
+          "end": 22.1679999332428
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "file": "08.mp3",
+      "text": "She did. She tasted the soup first and added a little if it needed it.",
+      "audio_sha256": "773412e6ac0fa4e069c8dfe4cf8cf7ed6d5a8fa33e6ad441dd309c5881ea982e",
+      "start": 22.512000000000004,
+      "end": 26.280000000000005,
+      "duration": 3.768,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "She",
+          "local_start": 0.0,
+          "local_end": 0.23999999463558197,
+          "evidence_indices": [
+            0
+          ],
+          "start": 22.512000000000004,
+          "end": 22.751999994635586
+        },
+        {
+          "word": "did.",
+          "local_start": 0.23999999463558197,
+          "local_end": 0.5,
+          "evidence_indices": [
+            1
+          ],
+          "start": 22.751999994635586,
+          "end": 23.012000000000004
+        },
+        {
+          "word": "She",
+          "local_start": 0.8600000143051147,
+          "local_end": 1.100000023841858,
+          "evidence_indices": [
+            2
+          ],
+          "start": 23.37200001430512,
+          "end": 23.612000023841862
+        },
+        {
+          "word": "tasted",
+          "local_start": 1.100000023841858,
+          "local_end": 1.2999999523162842,
+          "evidence_indices": [
+            3
+          ],
+          "start": 23.612000023841862,
+          "end": 23.811999952316288
+        },
+        {
+          "word": "the",
+          "local_start": 1.2999999523162842,
+          "local_end": 1.5399999618530273,
+          "evidence_indices": [
+            4
+          ],
+          "start": 23.811999952316288,
+          "end": 24.05199996185303
+        },
+        {
+          "word": "soup",
+          "local_start": 1.5399999618530273,
+          "local_end": 1.6399999856948853,
+          "evidence_indices": [
+            5
+          ],
+          "start": 24.05199996185303,
+          "end": 24.15199998569489
+        },
+        {
+          "word": "first",
+          "local_start": 1.6399999856948853,
+          "local_end": 2.0,
+          "evidence_indices": [
+            6
+          ],
+          "start": 24.15199998569489,
+          "end": 24.512000000000004
+        },
+        {
+          "word": "and",
+          "local_start": 2.0,
+          "local_end": 2.319999933242798,
+          "evidence_indices": [
+            7
+          ],
+          "start": 24.512000000000004,
+          "end": 24.831999933242802
+        },
+        {
+          "word": "added",
+          "local_start": 2.319999933242798,
+          "local_end": 2.640000104904175,
+          "evidence_indices": [
+            8
+          ],
+          "start": 24.831999933242802,
+          "end": 25.15200010490418
+        },
+        {
+          "word": "a",
+          "local_start": 2.640000104904175,
+          "local_end": 2.8399999141693115,
+          "evidence_indices": [
+            9
+          ],
+          "start": 25.15200010490418,
+          "end": 25.351999914169316
+        },
+        {
+          "word": "little",
+          "local_start": 2.8399999141693115,
+          "local_end": 2.9200000762939453,
+          "evidence_indices": [
+            10
+          ],
+          "start": 25.351999914169316,
+          "end": 25.43200007629395
+        },
+        {
+          "word": "if",
+          "local_start": 2.9200000762939453,
+          "local_end": 3.0399999618530273,
+          "evidence_indices": [
+            11
+          ],
+          "start": 25.43200007629395,
+          "end": 25.55199996185303
+        },
+        {
+          "word": "it",
+          "local_start": 3.0399999618530273,
+          "local_end": 3.200000047683716,
+          "evidence_indices": [
+            12
+          ],
+          "start": 25.55199996185303,
+          "end": 25.71200004768372
+        },
+        {
+          "word": "needed",
+          "local_start": 3.200000047683716,
+          "local_end": 3.319999933242798,
+          "evidence_indices": [
+            13
+          ],
+          "start": 25.71200004768372,
+          "end": 25.831999933242802
+        },
+        {
+          "word": "it.",
+          "local_start": 3.319999933242798,
+          "local_end": 3.5,
+          "evidence_indices": [
+            14
+          ],
+          "start": 25.831999933242802,
+          "end": 26.012000000000004
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "file": "09.mp3",
+      "text": "I'll write that down. How do we know when it's ready?",
+      "audio_sha256": "934f76d56e131c172bfcb3cc9898322b0b0f1112f27ee37f3ec0f9571927124f",
+      "start": 26.280000000000005,
+      "end": 28.680000000000003,
+      "duration": 2.4,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "I'll",
+          "local_start": 0.0,
+          "local_end": 0.25999999046325684,
+          "evidence_indices": [
+            0
+          ],
+          "start": 26.280000000000005,
+          "end": 26.53999999046326
+        },
+        {
+          "word": "write",
+          "local_start": 0.25999999046325684,
+          "local_end": 0.3199999928474426,
+          "evidence_indices": [
+            1
+          ],
+          "start": 26.53999999046326,
+          "end": 26.599999992847447
+        },
+        {
+          "word": "that",
+          "local_start": 0.3199999928474426,
+          "local_end": 0.5199999809265137,
+          "evidence_indices": [
+            2
+          ],
+          "start": 26.599999992847447,
+          "end": 26.79999998092652
+        },
+        {
+          "word": "down.",
+          "local_start": 0.5199999809265137,
+          "local_end": 0.7799999713897705,
+          "evidence_indices": [
+            3
+          ],
+          "start": 26.79999998092652,
+          "end": 27.059999971389775
+        },
+        {
+          "word": "How",
+          "local_start": 1.3600000143051147,
+          "local_end": 1.440000057220459,
+          "evidence_indices": [
+            4
+          ],
+          "start": 27.64000001430512,
+          "end": 27.720000057220464
+        },
+        {
+          "word": "do",
+          "local_start": 1.440000057220459,
+          "local_end": 1.5199999809265137,
+          "evidence_indices": [
+            5
+          ],
+          "start": 27.720000057220464,
+          "end": 27.79999998092652
+        },
+        {
+          "word": "we",
+          "local_start": 1.5199999809265137,
+          "local_end": 1.6200000047683716,
+          "evidence_indices": [
+            6
+          ],
+          "start": 27.79999998092652,
+          "end": 27.900000004768376
+        },
+        {
+          "word": "know",
+          "local_start": 1.6200000047683716,
+          "local_end": 1.7599999904632568,
+          "evidence_indices": [
+            7
+          ],
+          "start": 27.900000004768376,
+          "end": 28.03999999046326
+        },
+        {
+          "word": "when",
+          "local_start": 1.7599999904632568,
+          "local_end": 1.899999976158142,
+          "evidence_indices": [
+            8
+          ],
+          "start": 28.03999999046326,
+          "end": 28.179999976158147
+        },
+        {
+          "word": "it's",
+          "local_start": 1.899999976158142,
+          "local_end": 2.0399999618530273,
+          "evidence_indices": [
+            9
+          ],
+          "start": 28.179999976158147,
+          "end": 28.319999961853032
+        },
+        {
+          "word": "ready?",
+          "local_start": 2.0399999618530273,
+          "local_end": 2.2200000286102295,
+          "evidence_indices": [
+            10
+          ],
+          "start": 28.319999961853032,
+          "end": 28.500000028610234
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "file": "10.mp3",
+      "text": "Let's taste it once the tomatoes are soft. We can add a little salt.",
+      "audio_sha256": "1fcecdc2ac5f5778f41902e9d7ceb0df5fa732727041b7f6819af180e2959761",
+      "start": 28.680000000000003,
+      "end": 32.448,
+      "duration": 3.768,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Let's",
+          "local_start": 0.0,
+          "local_end": 0.41999998688697815,
+          "evidence_indices": [
+            0
+          ],
+          "start": 28.680000000000003,
+          "end": 29.09999998688698
+        },
+        {
+          "word": "taste",
+          "local_start": 0.41999998688697815,
+          "local_end": 0.699999988079071,
+          "evidence_indices": [
+            1
+          ],
+          "start": 29.09999998688698,
+          "end": 29.379999988079074
+        },
+        {
+          "word": "it",
+          "local_start": 0.699999988079071,
+          "local_end": 0.8999999761581421,
+          "evidence_indices": [
+            2
+          ],
+          "start": 29.379999988079074,
+          "end": 29.579999976158145
+        },
+        {
+          "word": "once",
+          "local_start": 0.8999999761581421,
+          "local_end": 1.100000023841858,
+          "evidence_indices": [
+            3
+          ],
+          "start": 29.579999976158145,
+          "end": 29.78000002384186
+        },
+        {
+          "word": "the",
+          "local_start": 1.100000023841858,
+          "local_end": 1.2999999523162842,
+          "evidence_indices": [
+            4
+          ],
+          "start": 29.78000002384186,
+          "end": 29.979999952316287
+        },
+        {
+          "word": "tomatoes",
+          "local_start": 1.2999999523162842,
+          "local_end": 1.600000023841858,
+          "evidence_indices": [
+            5
+          ],
+          "start": 29.979999952316287,
+          "end": 30.28000002384186
+        },
+        {
+          "word": "are",
+          "local_start": 1.600000023841858,
+          "local_end": 1.8200000524520874,
+          "evidence_indices": [
+            6
+          ],
+          "start": 30.28000002384186,
+          "end": 30.50000005245209
+        },
+        {
+          "word": "soft.",
+          "local_start": 1.8200000524520874,
+          "local_end": 2.180000066757202,
+          "evidence_indices": [
+            7
+          ],
+          "start": 30.50000005245209,
+          "end": 30.860000066757205
+        },
+        {
+          "word": "We",
+          "local_start": 2.680000066757202,
+          "local_end": 2.759999990463257,
+          "evidence_indices": [
+            8
+          ],
+          "start": 31.360000066757205,
+          "end": 31.43999999046326
+        },
+        {
+          "word": "can",
+          "local_start": 2.759999990463257,
+          "local_end": 2.9200000762939453,
+          "evidence_indices": [
+            9
+          ],
+          "start": 31.43999999046326,
+          "end": 31.60000007629395
+        },
+        {
+          "word": "add",
+          "local_start": 2.9200000762939453,
+          "local_end": 3.0199999809265137,
+          "evidence_indices": [
+            10
+          ],
+          "start": 31.60000007629395,
+          "end": 31.699999980926517
+        },
+        {
+          "word": "a",
+          "local_start": 3.0199999809265137,
+          "local_end": 3.119999885559082,
+          "evidence_indices": [
+            11
+          ],
+          "start": 31.699999980926517,
+          "end": 31.799999885559085
+        },
+        {
+          "word": "little",
+          "local_start": 3.119999885559082,
+          "local_end": 3.299999952316284,
+          "evidence_indices": [
+            12
+          ],
+          "start": 31.799999885559085,
+          "end": 31.979999952316287
+        },
+        {
+          "word": "salt.",
+          "local_start": 3.299999952316284,
+          "local_end": 3.5399999618530273,
+          "evidence_indices": [
+            13
+          ],
+          "start": 31.979999952316287,
+          "end": 32.219999961853034
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "file": "11.mp3",
+      "text": "This tastes like the soup she made on cold days.",
+      "audio_sha256": "4bde4f4b8b6e6f71377e1806afc7f929c8af7aba7e369c937c6f8e2655520829",
+      "start": 32.448,
+      "end": 35.616,
+      "duration": 3.168,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "This",
+          "local_start": 0.0,
+          "local_end": 0.36000001430511475,
+          "evidence_indices": [
+            0
+          ],
+          "start": 32.448,
+          "end": 32.808000014305115
+        },
+        {
+          "word": "tastes",
+          "local_start": 0.36000001430511475,
+          "local_end": 0.7799999713897705,
+          "evidence_indices": [
+            1
+          ],
+          "start": 32.808000014305115,
+          "end": 33.22799997138977
+        },
+        {
+          "word": "like",
+          "local_start": 0.7799999713897705,
+          "local_end": 1.0399999618530273,
+          "evidence_indices": [
+            2
+          ],
+          "start": 33.22799997138977,
+          "end": 33.48799996185303
+        },
+        {
+          "word": "the",
+          "local_start": 1.0399999618530273,
+          "local_end": 1.2599999904632568,
+          "evidence_indices": [
+            3
+          ],
+          "start": 33.48799996185303,
+          "end": 33.70799999046326
+        },
+        {
+          "word": "soup",
+          "local_start": 1.2599999904632568,
+          "local_end": 1.4600000381469727,
+          "evidence_indices": [
+            4
+          ],
+          "start": 33.70799999046326,
+          "end": 33.90800003814697
+        },
+        {
+          "word": "she",
+          "local_start": 1.4600000381469727,
+          "local_end": 1.6799999475479126,
+          "evidence_indices": [
+            5
+          ],
+          "start": 33.90800003814697,
+          "end": 34.12799994754791
+        },
+        {
+          "word": "made",
+          "local_start": 1.6799999475479126,
+          "local_end": 1.840000033378601,
+          "evidence_indices": [
+            6
+          ],
+          "start": 34.12799994754791,
+          "end": 34.2880000333786
+        },
+        {
+          "word": "on",
+          "local_start": 1.840000033378601,
+          "local_end": 2.0399999618530273,
+          "evidence_indices": [
+            7
+          ],
+          "start": 34.2880000333786,
+          "end": 34.48799996185303
+        },
+        {
+          "word": "cold",
+          "local_start": 2.0399999618530273,
+          "local_end": 2.319999933242798,
+          "evidence_indices": [
+            8
+          ],
+          "start": 34.48799996185303,
+          "end": 34.7679999332428
+        },
+        {
+          "word": "days.",
+          "local_start": 2.319999933242798,
+          "local_end": 2.680000066757202,
+          "evidence_indices": [
+            9
+          ],
+          "start": 34.7679999332428,
+          "end": 35.1280000667572
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "file": "12.mp3",
+      "text": "I'm glad you like it. Let's save the recipe for next time.",
+      "audio_sha256": "2653ad9a8220b8afd256e4f8bb63e24acea2e087dc3d3b87110a9d67407c56c6",
+      "start": 35.616,
+      "end": 39.168,
+      "duration": 3.552,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "I'm",
+          "local_start": 0.0,
+          "local_end": 0.2800000011920929,
+          "evidence_indices": [
+            0
+          ],
+          "start": 35.616,
+          "end": 35.89600000119209
+        },
+        {
+          "word": "glad",
+          "local_start": 0.2800000011920929,
+          "local_end": 0.47999998927116394,
+          "evidence_indices": [
+            1
+          ],
+          "start": 35.89600000119209,
+          "end": 36.095999989271164
+        },
+        {
+          "word": "you",
+          "local_start": 0.47999998927116394,
+          "local_end": 0.6399999856948853,
+          "evidence_indices": [
+            2
+          ],
+          "start": 36.095999989271164,
+          "end": 36.255999985694885
+        },
+        {
+          "word": "like",
+          "local_start": 0.6399999856948853,
+          "local_end": 0.8399999737739563,
+          "evidence_indices": [
+            3
+          ],
+          "start": 36.255999985694885,
+          "end": 36.455999973773956
+        },
+        {
+          "word": "it.",
+          "local_start": 0.8399999737739563,
+          "local_end": 1.4800000190734863,
+          "evidence_indices": [
+            4
+          ],
+          "start": 36.455999973773956,
+          "end": 37.096000019073486
+        },
+        {
+          "word": "Let's",
+          "local_start": 1.9199999570846558,
+          "local_end": 2.059999942779541,
+          "evidence_indices": [
+            5
+          ],
+          "start": 37.535999957084655,
+          "end": 37.67599994277954
+        },
+        {
+          "word": "save",
+          "local_start": 2.059999942779541,
+          "local_end": 2.2799999713897705,
+          "evidence_indices": [
+            6
+          ],
+          "start": 37.67599994277954,
+          "end": 37.89599997138977
+        },
+        {
+          "word": "the",
+          "local_start": 2.2799999713897705,
+          "local_end": 2.5399999618530273,
+          "evidence_indices": [
+            7
+          ],
+          "start": 37.89599997138977,
+          "end": 38.15599996185303
+        },
+        {
+          "word": "recipe",
+          "local_start": 2.5399999618530273,
+          "local_end": 2.619999885559082,
+          "evidence_indices": [
+            8
+          ],
+          "start": 38.15599996185303,
+          "end": 38.23599988555908
+        },
+        {
+          "word": "for",
+          "local_start": 2.619999885559082,
+          "local_end": 2.9200000762939453,
+          "evidence_indices": [
+            9
+          ],
+          "start": 38.23599988555908,
+          "end": 38.536000076293945
+        },
+        {
+          "word": "next",
+          "local_start": 2.9200000762939453,
+          "local_end": 3.0399999618530273,
+          "evidence_indices": [
+            10
+          ],
+          "start": 38.536000076293945,
+          "end": 38.65599996185303
+        },
+        {
+          "word": "time.",
+          "local_start": 3.0399999618530273,
+          "local_end": 3.259999990463257,
+          "evidence_indices": [
+            11
+          ],
+          "start": 38.65599996185303,
+          "end": 38.87599999046326
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-22",
+  "slug": "sewing-a-button",
+  "title": "A Button Back in Place",
+  "title_zh": "把纽扣缝回去",
+  "context": "Tessa 的外套纽扣掉了，朋友 Will 帮她找针线，她自己把纽扣缝回原处。 本课属于 2026-11-22 预制系列，练习题为原创练习，并非真实考试题。",
+  "voices": {
+    "Tessa": "marin",
+    "Will": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Tessa",
+      "en": "A button fell off my coat this morning. Do you have a needle and thread?",
+      "zh": "我外套上的一颗纽扣今天早上掉了。你有针线吗？"
+    },
+    {
+      "speaker": "Will",
+      "en": "I do. Did you manage to keep the button?",
+      "zh": "有。你把纽扣留住了吗？"
+    },
+    {
+      "speaker": "Tessa",
+      "en": "Yes, I put it in my pocket before it rolled away.",
+      "zh": "留住了。它滚走前我把它放进了口袋。"
+    },
+    {
+      "speaker": "Will",
+      "en": "Good catch. What color thread would match the coat?",
+      "zh": "幸好你及时收好了。什么颜色的线和外套相配？"
+    },
+    {
+      "speaker": "Tessa",
+      "en": "Dark blue would be close enough. The original thread was blue.",
+      "zh": "深蓝色就差不多。原来的线是蓝色的。"
+    },
+    {
+      "speaker": "Will",
+      "en": "Here is my sewing kit. There is a small pair of scissors inside.",
+      "zh": "这是我的针线盒。里面有一把小剪刀。"
+    },
+    {
+      "speaker": "Tessa",
+      "en": "Thanks. I fixed a button before, but that was a long time ago.",
+      "zh": "谢谢。我以前缝补过纽扣，不过那是很久以前的事了。"
+    },
+    {
+      "speaker": "Will",
+      "en": "Take your time. You can sit at the table where the light is better.",
+      "zh": "慢慢来。你可以坐在桌边，那里的光线更好。"
+    },
+    {
+      "speaker": "Tessa",
+      "en": "That helps. Could you hold the coat while I get started?",
+      "zh": "那太好了。我开始缝的时候，你能帮我拿着外套吗？"
+    },
+    {
+      "speaker": "Will",
+      "en": "Sure. Let me know when you have it in place.",
+      "zh": "当然。放到位了告诉我一声。"
+    },
+    {
+      "speaker": "Tessa",
+      "en": "There, it is secure again. I will trim the loose thread.",
+      "zh": "好了，它又缝牢了。我把多余的线头剪掉。"
+    },
+    {
+      "speaker": "Will",
+      "en": "Great job. You can wear your coat tomorrow.",
+      "zh": "做得真好。明天你可以穿这件外套了。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "fall off",
+      "zh": "掉落、脱落。",
+      "example": "A button fell off my shirt."
+    },
+    {
+      "en": "roll away",
+      "zh": "滚走。",
+      "example": "The coin rolled away under the chair."
+    },
+    {
+      "en": "close enough",
+      "zh": "足够接近，基本合适。",
+      "example": "This shade of blue is close enough."
+    },
+    {
+      "en": "take your time",
+      "zh": "慢慢来，不必着急。",
+      "example": "Take your time choosing a color."
+    },
+    {
+      "en": "in place",
+      "zh": "在正确的位置。",
+      "example": "Hold the label in place while I tape it."
+    }
+  ],
+  "pronunciation": "thread 的 th 是清辅音 /θ/，舌尖轻触上下齿之间；sewn 与 so 韵母相同，末尾有 /n/。",
+  "practice": [
+    {
+      "title": "Part 1 · Clothes",
+      "prompt": "Do you prefer repairing clothes or replacing them?",
+      "answer": "I try to repair small problems first. If a button comes off, sewing it back is usually easier than finding a new coat."
+    },
+    {
+      "title": "Part 2 · Fixing something",
+      "prompt": "Describe a small thing you repaired. Say what was wrong, how you fixed it, and how you felt.",
+      "answer": "A button came off my favorite coat just before a trip. I found the button in my bag and borrowed a sewing kit from a friend. I chose a similar color of thread and sat near a bright window. The job took me a little while because I had not sewn recently. When the button was secure, I felt pleased that I could wear the coat again. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Repairing items",
+      "prompt": "Why do some people replace things instead of repairing them?",
+      "answer": "They may lack the time, tools, or skills to repair an item. Easy access to repair services and clear advice could make fixing things more convenient."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "跟读借针线及请求帮忙的句子，然后说明一件衣服出了什么问题。",
+      "answer": "A button fell off my shirt. Could I borrow your sewing kit? I have the button, and blue thread would match."
+    }
+  ]
+}

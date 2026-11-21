@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-22",
+  "slug": "welcoming-a-guest",
+  "title": "Making a Guest Feel at Home",
+  "title_zh": "欢迎客人来家里",
+  "context": "Tara 的朋友 Alex 首次来她家过夜；她介绍房间并安排早餐。 本课属于 2026-11-22 预制系列，题目是原创口语练习，并非真实考试题。",
+  "voices": {
+    "Tara": "marin",
+    "Alex": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Tara",
+      "en": "Welcome, Alex! Come in and put your bag down.",
+      "zh": "欢迎你，Alex！进来把包放下吧。"
+    },
+    {
+      "speaker": "Alex",
+      "en": "Thanks, Tara. It's good to see you after such a long trip.",
+      "zh": "谢谢，Tara。走了这么远的路，见到你真好。"
+    },
+    {
+      "speaker": "Tara",
+      "en": "You must be tired. Would you like some water first?",
+      "zh": "你一定累了。要先喝点水吗？"
+    },
+    {
+      "speaker": "Alex",
+      "en": "Yes, please. Then could you show me where I can leave my bag?",
+      "zh": "好，谢谢。然后能告诉我把包放在哪里吗？"
+    },
+    {
+      "speaker": "Tara",
+      "en": "Your room is at the end of the hall, next to the bathroom.",
+      "zh": "你的房间在走廊尽头，浴室旁边。"
+    },
+    {
+      "speaker": "Alex",
+      "en": "That's easy to find. Is there a towel I can use?",
+      "zh": "很容易找到。有我可以用的毛巾吗？"
+    },
+    {
+      "speaker": "Tara",
+      "en": "I've put a clean one on the bed, along with an extra blanket.",
+      "zh": "我在床上放了一条干净的毛巾，还有一条备用毯子。"
+    },
+    {
+      "speaker": "Alex",
+      "en": "Perfect. What time do you usually have breakfast?",
+      "zh": "太好了。你通常几点吃早餐？"
+    },
+    {
+      "speaker": "Tara",
+      "en": "Around eight, but there's no need to get up early for me.",
+      "zh": "大约八点，不过你不用为了我早起。"
+    },
+    {
+      "speaker": "Alex",
+      "en": "I might sleep a little longer, if that's all right.",
+      "zh": "如果可以的话，我可能会多睡一会儿。"
+    },
+    {
+      "speaker": "Tara",
+      "en": "Of course. Help yourself to breakfast whenever you're ready.",
+      "zh": "当然。你准备好后随时自己拿早餐吃。"
+    },
+    {
+      "speaker": "Alex",
+      "en": "Thank you. I'll settle in and join you in a little while.",
+      "zh": "谢谢。我先安顿一下，过一会儿来找你。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "put your bag down",
+      "zh": "把包放下。",
+      "example": "Put your bag down beside the chair."
+    },
+    {
+      "en": "at the end of",
+      "zh": "在……尽头。",
+      "example": "The elevator is at the end of the hall."
+    },
+    {
+      "en": "along with",
+      "zh": "连同、还有。",
+      "example": "I packed a hat along with my coat."
+    },
+    {
+      "en": "help yourself to",
+      "zh": "请自取、随意享用。",
+      "example": "Help yourself to some tea."
+    },
+    {
+      "en": "settle in",
+      "zh": "安顿下来，适应新地方。",
+      "example": "It took me a day to settle in."
+    }
+  ],
+  "pronunciation": "towel 通常有两个音节，重音在第一音节；在 help yourself 中注意 help 末尾的 /p/。",
+  "practice": [
+    {
+      "title": "Part 1 · Guests",
+      "prompt": "Do you like having guests stay at your home?",
+      "answer": "Yes, when I have enough space. I enjoy talking over breakfast and showing them around my neighborhood."
+    },
+    {
+      "title": "Part 2 · A visit",
+      "prompt": "Describe a time you visited someone and felt welcome. Say who you visited, what they did, and how you felt.",
+      "answer": "I once stayed with a friend in another city for a weekend. When I arrived, she offered me water and showed me the room where I could sleep. She had put a clean towel on the bed and told me I could have breakfast whenever I was ready. Her small acts of kindness helped me relax after my journey. I felt comfortable asking questions. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Hospitality",
+      "prompt": "Why do small acts of hospitality matter to visitors?",
+      "answer": "Visitors may feel tired or uncertain in an unfamiliar place. Clear information and a warm welcome can help them relax and feel included."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "跟读后欢迎一位留宿朋友，说明房间、毛巾和早餐安排。",
+      "answer": "Welcome! Your room is next to the bathroom. There's a clean towel on the bed. Help yourself to breakfast in the morning."
+    }
+  ]
+}

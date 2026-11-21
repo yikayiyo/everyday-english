@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-22",
+  "slug": "photography-walk",
+  "title": "A Walk to Photograph the City",
+  "title_zh": "城市摄影散步",
+  "context": "Clara 和 Jay 在旧街区约定拍摄主题，并尊重路人的意愿。 本课为 2026-11-22 预制系列原创练习，并非真实考试题。",
+  "voices": {
+    "Clara": "marin",
+    "Jay": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Clara",
+      "en": "Would you like to take a photography walk this Saturday morning?",
+      "zh": "这周六早上你想一起去摄影散步吗？"
+    },
+    {
+      "speaker": "Jay",
+      "en": "Yes. Do you have a place in mind?",
+      "zh": "想啊。你想好去哪里了吗？"
+    },
+    {
+      "speaker": "Clara",
+      "en": "The old streets near the river have interesting doors and signs.",
+      "zh": "河边的老街上有有趣的门和招牌。"
+    },
+    {
+      "speaker": "Jay",
+      "en": "That sounds fun. Should we pick a theme for our pictures?",
+      "zh": "听起来有趣。我们要给照片选个主题吗？"
+    },
+    {
+      "speaker": "Clara",
+      "en": "How about colors? We could each look for three bright details.",
+      "zh": "颜色怎么样？我们可以各自找三个鲜艳的细节。"
+    },
+    {
+      "speaker": "Jay",
+      "en": "I like that. I will bring my camera, but my phone works too.",
+      "zh": "我喜欢。我会带相机，不过手机也可以拍。"
+    },
+    {
+      "speaker": "Clara",
+      "en": "I will use my phone. What if someone is in the picture?",
+      "zh": "我会用手机。如果有人出现在画面里怎么办？"
+    },
+    {
+      "speaker": "Jay",
+      "en": "We can ask before taking a close photo, and respect a no.",
+      "zh": "拍近照前可以先问，并尊重对方的拒绝。"
+    },
+    {
+      "speaker": "Clara",
+      "en": "Agreed. Where should we meet?",
+      "zh": "同意。我们在哪里见？"
+    },
+    {
+      "speaker": "Jay",
+      "en": "At the bridge entrance at nine. We can walk from there.",
+      "zh": "九点在桥的入口处见。我们可以从那里出发。"
+    },
+    {
+      "speaker": "Clara",
+      "en": "Afterward, could we compare our favorite shots over coffee?",
+      "zh": "之后我们能边喝咖啡边比较最喜欢的照片吗？"
+    },
+    {
+      "speaker": "Jay",
+      "en": "Definitely. I am curious to see what catches your eye.",
+      "zh": "当然。我很好奇什么会吸引你的目光。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "have a place in mind",
+      "zh": "心里有想去的地方。",
+      "example": "Do you have a restaurant in mind?"
+    },
+    {
+      "en": "pick a theme",
+      "zh": "选择主题。",
+      "example": "Let us pick a theme for the display."
+    },
+    {
+      "en": "bright details",
+      "zh": "鲜艳的细节。",
+      "example": "The artist added bright details to the painting."
+    },
+    {
+      "en": "favorite shot",
+      "zh": "最喜欢的一张照片；shot 指照片。",
+      "example": "This is my favorite shot from the trip."
+    },
+    {
+      "en": "catch your eye",
+      "zh": "吸引你的注意。",
+      "example": "The red door caught my eye."
+    }
+  ],
+  "pronunciation": "photography 的重音在第二音节；picture 的重音在第一音节，结尾是轻读音节。",
+  "practice": [
+    {
+      "title": "Part 1 · Photos",
+      "prompt": "What do you like taking photos of?",
+      "answer": "I like taking photos of small details, such as colorful doors and street signs. They help me remember a place."
+    },
+    {
+      "title": "Part 2 · A photo walk",
+      "prompt": "Describe a walk where you took photos. Say where you went, what you photographed, and why you enjoyed it.",
+      "answer": "I went for a photo walk with a friend near the river. We chose colors as our theme and looked for bright doors, signs, and flowers along the old streets. I used my phone, while my friend brought a camera. Later we compared our favorite pictures over coffee. It was interesting to see how differently we noticed the same neighborhood. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Photography",
+      "prompt": "How can taking photos change the way people notice a place?",
+      "answer": "Looking for a photo can make people pay attention to details they usually pass by. However, it also helps to put the camera away sometimes and enjoy the place directly."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "跟读约定拍摄主题的对话，邀请朋友并提出尊重路人的做法。",
+      "answer": "Would you like to take a photo walk? We could look for colorful doors. If we want a close photo of someone, we can ask first."
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-22",
+  "slug": "garage-sale",
+  "title": "Finding a Lamp at a Garage Sale",
+  "title_zh": "在车库旧货售卖中挑选台灯",
+  "context": "Tessa 在邻居 Daniel 的车库旧货售卖中寻找阅读灯，两人商量试灯和价格。 本课属于 2026-11-22 预制系列，内容和练习题均为原创，并非真实考试题。",
+  "voices": {
+    "Tessa": "marin",
+    "Daniel": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Tessa",
+      "en": "Good morning! Is this lamp still for sale?",
+      "zh": "早上好！这盏灯还卖吗？"
+    },
+    {
+      "speaker": "Daniel",
+      "en": "Yes, it is. I used it on my desk for years.",
+      "zh": "卖。我在书桌上用了它好多年。"
+    },
+    {
+      "speaker": "Tessa",
+      "en": "I'm looking for a reading lamp. May I turn it on?",
+      "zh": "我正在找一盏阅读灯。我可以打开试试吗？"
+    },
+    {
+      "speaker": "Daniel",
+      "en": "Sure. There's an outlet next to the garage door.",
+      "zh": "当然。车库门旁边有个插座。"
+    },
+    {
+      "speaker": "Tessa",
+      "en": "The light works well, and I like the shade. How much are you asking?",
+      "zh": "灯亮得很好，我也喜欢这个灯罩。你打算卖多少钱？"
+    },
+    {
+      "speaker": "Daniel",
+      "en": "I'm asking ten dollars for it.",
+      "zh": "我想卖十美元。"
+    },
+    {
+      "speaker": "Tessa",
+      "en": "Would you take eight? There's a small scratch on the base.",
+      "zh": "八美元你愿意卖吗？底座上有一道小划痕。"
+    },
+    {
+      "speaker": "Daniel",
+      "en": "Eight is fine. I hadn't noticed the scratch.",
+      "zh": "八美元可以。我之前没注意到那道划痕。"
+    },
+    {
+      "speaker": "Tessa",
+      "en": "Thanks. I have cash. Do you have change for a ten?",
+      "zh": "谢谢。我有现金。你能找开十美元吗？"
+    },
+    {
+      "speaker": "Daniel",
+      "en": "I do. Here's your change, and I'll wrap the cord for you.",
+      "zh": "能。这是找你的钱，我帮你把电线绕好。"
+    },
+    {
+      "speaker": "Tessa",
+      "en": "That's kind of you. It'll fit perfectly on my table.",
+      "zh": "你真贴心。它放在我的桌子上正合适。"
+    },
+    {
+      "speaker": "Daniel",
+      "en": "I'm glad it has a new home. Enjoy your reading!",
+      "zh": "很高兴它有了新主人。祝你阅读愉快！"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "for sale",
+      "zh": "待售。",
+      "example": "Is that bicycle still for sale?"
+    },
+    {
+      "en": "turn it on",
+      "zh": "把它打开，常用于电器。",
+      "example": "Please turn it on to see if the fan works."
+    },
+    {
+      "en": "How much are you asking?",
+      "zh": "你打算卖多少钱？用于询问卖家的要价。",
+      "example": "How much are you asking for the chair?"
+    },
+    {
+      "en": "Would you take... ?",
+      "zh": "……的价格你愿意接受吗？可用于礼貌议价。",
+      "example": "Would you take five dollars for the basket?"
+    },
+    {
+      "en": "have change",
+      "zh": "有零钱可找。",
+      "example": "Do you have change for a twenty?"
+    }
+  ],
+  "pronunciation": "garage 在美式英语中常读作 guh-RAHZH，重音在第二音节；scratch 末尾的 /tʃ/ 像 cheese 开头的音。",
+  "practice": [
+    {
+      "title": "Part 1 · Secondhand items",
+      "prompt": "Do you ever buy secondhand things?",
+      "answer": "Yes. I sometimes buy used books or furniture. I like finding something useful and giving it another home."
+    },
+    {
+      "title": "Part 2 · A useful secondhand purchase",
+      "prompt": "Describe a secondhand thing you bought. Say where you found it, how you chose it, and why it was useful.",
+      "answer": "I bought a small reading lamp at a neighborhood garage sale last summer. I needed more light on my desk, so I asked the seller if I could try it. The lamp worked, although there was a scratch on the base. We agreed on eight dollars, and he wrapped the cord for me. I still use it in the evenings when I read or write. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Reusing things",
+      "prompt": "Why do some people prefer buying used items?",
+      "answer": "Used items may cost less, and buying them can keep useful things in use for longer. Some people also enjoy finding older designs that are hard to find in stores."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "跟读议价部分，再询问一把旧椅子的价格并提出自己的报价。",
+      "answer": "How much are you asking for the chair? Would you take fifteen dollars? I can pay in cash."
+    }
+  ]
+}

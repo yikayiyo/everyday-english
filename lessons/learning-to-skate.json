@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-22",
+  "slug": "learning-to-skate",
+  "title": "First Steps on Ice",
+  "title_zh": "第一次学滑冰",
+  "context": "Lena 在室内冰场初学滑冰，朋友 Max 陪她慢慢练习。 本课属于 2026-11-22 预制系列，内容和练习题均为原创，并非真实考试题。",
+  "voices": {
+    "Lena": "marin",
+    "Max": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Lena",
+      "en": "These skates feel strange. Is it normal to wobble this much?",
+      "zh": "穿着这双冰鞋感觉怪怪的。晃得这么厉害正常吗？"
+    },
+    {
+      "speaker": "Max",
+      "en": "It was the same for me at first. Let's stay near the rail.",
+      "zh": "我刚开始也一样。我们先待在扶手旁边吧。"
+    },
+    {
+      "speaker": "Lena",
+      "en": "I can hold it while I get used to the ice.",
+      "zh": "我可以扶着它，慢慢适应冰面。"
+    },
+    {
+      "speaker": "Max",
+      "en": "That's a good idea. Try bending your knees a little.",
+      "zh": "好主意。试着稍微弯曲膝盖。"
+    },
+    {
+      "speaker": "Lena",
+      "en": "Like this? I feel a little more steady now.",
+      "zh": "这样吗？我现在觉得稳一点了。"
+    },
+    {
+      "speaker": "Max",
+      "en": "Yes. Take small steps, and don't worry about going fast.",
+      "zh": "对。迈小步就好，别急着滑快。"
+    },
+    {
+      "speaker": "Lena",
+      "en": "Would you stay beside me when I let go?",
+      "zh": "我松手的时候，你能待在我旁边吗？"
+    },
+    {
+      "speaker": "Max",
+      "en": "Of course. I'm right here if you need me.",
+      "zh": "当然。需要我的话，我就在这儿。"
+    },
+    {
+      "speaker": "Lena",
+      "en": "I made it to the blue line without holding on!",
+      "zh": "我没扶着东西就滑到蓝线了！"
+    },
+    {
+      "speaker": "Max",
+      "en": "Nice work! Do you want to take a break on the bench?",
+      "zh": "做得好！想去长椅上休息一下吗？"
+    },
+    {
+      "speaker": "Lena",
+      "en": "Yes, my feet could use a rest. Then I'd like to try again.",
+      "zh": "想，我的脚需要休息一下。然后我还想再试试。"
+    },
+    {
+      "speaker": "Max",
+      "en": "Sounds good. You've already made a great start.",
+      "zh": "好啊。你已经有了很好的开始。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "get used to",
+      "zh": "逐渐适应某事或某物。",
+      "example": "It took me a week to get used to my new shoes."
+    },
+    {
+      "en": "hold on",
+      "zh": "抓住或扶住。",
+      "example": "Hold on to the rail as you go down the steps."
+    },
+    {
+      "en": "let go",
+      "zh": "松手。",
+      "example": "She let go of the rope when she reached the ground."
+    },
+    {
+      "en": "take a break",
+      "zh": "休息一下。",
+      "example": "Let's take a break after this page."
+    },
+    {
+      "en": "make a start",
+      "zh": "开始做某事。",
+      "example": "We made a start on the puzzle yesterday."
+    }
+  ],
+  "pronunciation": "skates 的末尾 /ts/ 要两个辅音都发出来；steady 重读第一个音节，后面的音节轻短。",
+  "practice": [
+    {
+      "title": "Part 1 · Learning a sport",
+      "prompt": "Have you ever tried a new sport?",
+      "answer": "Yes. I tried skating with a friend last winter. At first I was nervous, but I enjoyed learning a little at a time."
+    },
+    {
+      "title": "Part 2 · A new physical activity",
+      "prompt": "Describe a physical activity you tried for the first time. Say where you tried it, who helped you, and how you felt.",
+      "answer": "Last winter I tried ice skating at an indoor rink with my friend. I felt unsteady when I first stepped onto the ice, so I stayed close to the rail. My friend showed me how to bend my knees and take small steps. After a short break, I tried again and reached a line without holding on. I was tired but proud, and I wanted to come back. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Learning and confidence",
+      "prompt": "How can beginners become more confident when learning a sport?",
+      "answer": "A patient teacher and a comfortable place to practice can help. Small goals let beginners see their progress, and taking breaks can make the experience more enjoyable."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "跟读对话，再向朋友描述你初学一项运动时的感受，并请求陪伴。",
+      "answer": "I feel a little unsteady on these skates. Could you stay beside me? I want to take a few small steps."
+    }
+  ]
+}

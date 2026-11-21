@@ -1,0 +1,1316 @@
+{
+  "timing_status": "strict_timing_pass",
+  "timing_warnings": [],
+  "model": "whisper-1",
+  "lesson": "picking-up-a-cake",
+  "source_sha256": "5130b08caf952aaaf61e4e2be507594419a251e30d77455ccb15d6a9b59130a8",
+  "full_track": "dialogue-full.mp3",
+  "full_duration": 36.864,
+  "full_audio_sha256": "0e2e251d353e7f056361cb2d3e210b27c2ab9e46845fb0f00f4abcefa9a5f149",
+  "lines": [
+    {
+      "index": 1,
+      "file": "01.mp3",
+      "text": "I am here to pick up a cake I ordered for today.",
+      "audio_sha256": "c5cceb34bf466965a62a5b3f7b67389c55377af3fff97cb2d9c2bd195eed01d7",
+      "start": 0,
+      "end": 3.552,
+      "duration": 3.552,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "I",
+          "local_start": 0.0,
+          "local_end": 0.30000001192092896,
+          "evidence_indices": [
+            0
+          ],
+          "start": 0.0,
+          "end": 0.30000001192092896
+        },
+        {
+          "word": "am",
+          "local_start": 0.30000001192092896,
+          "local_end": 0.5,
+          "evidence_indices": [
+            1
+          ],
+          "start": 0.30000001192092896,
+          "end": 0.5
+        },
+        {
+          "word": "here",
+          "local_start": 0.5,
+          "local_end": 0.8399999737739563,
+          "evidence_indices": [
+            2
+          ],
+          "start": 0.5,
+          "end": 0.8399999737739563
+        },
+        {
+          "word": "to",
+          "local_start": 0.8399999737739563,
+          "local_end": 1.1799999475479126,
+          "evidence_indices": [
+            3
+          ],
+          "start": 0.8399999737739563,
+          "end": 1.1799999475479126
+        },
+        {
+          "word": "pick",
+          "local_start": 1.1799999475479126,
+          "local_end": 1.3200000524520874,
+          "evidence_indices": [
+            4
+          ],
+          "start": 1.1799999475479126,
+          "end": 1.3200000524520874
+        },
+        {
+          "word": "up",
+          "local_start": 1.3200000524520874,
+          "local_end": 1.5,
+          "evidence_indices": [
+            5
+          ],
+          "start": 1.3200000524520874,
+          "end": 1.5
+        },
+        {
+          "word": "a",
+          "local_start": 1.5,
+          "local_end": 1.7200000286102295,
+          "evidence_indices": [
+            6
+          ],
+          "start": 1.5,
+          "end": 1.7200000286102295
+        },
+        {
+          "word": "cake",
+          "local_start": 1.7200000286102295,
+          "local_end": 1.9600000381469727,
+          "evidence_indices": [
+            7
+          ],
+          "start": 1.7200000286102295,
+          "end": 1.9600000381469727
+        },
+        {
+          "word": "I",
+          "local_start": 1.9600000381469727,
+          "local_end": 2.299999952316284,
+          "evidence_indices": [
+            8
+          ],
+          "start": 1.9600000381469727,
+          "end": 2.299999952316284
+        },
+        {
+          "word": "ordered",
+          "local_start": 2.299999952316284,
+          "local_end": 2.4200000762939453,
+          "evidence_indices": [
+            9
+          ],
+          "start": 2.299999952316284,
+          "end": 2.4200000762939453
+        },
+        {
+          "word": "for",
+          "local_start": 2.4200000762939453,
+          "local_end": 2.759999990463257,
+          "evidence_indices": [
+            10
+          ],
+          "start": 2.4200000762939453,
+          "end": 2.759999990463257
+        },
+        {
+          "word": "today.",
+          "local_start": 2.759999990463257,
+          "local_end": 2.9800000190734863,
+          "evidence_indices": [
+            11
+          ],
+          "start": 2.759999990463257,
+          "end": 2.9800000190734863
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "file": "02.mp3",
+      "text": "Certainly. What name is the order under?",
+      "audio_sha256": "70a7f206017709262293f24232a73dd17039cd23907aa4c932ae02e219c261c1",
+      "start": 3.552,
+      "end": 6.359999999999999,
+      "duration": 2.808,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Certainly.",
+          "local_start": 0.0,
+          "local_end": 0.4399999976158142,
+          "evidence_indices": [
+            0
+          ],
+          "start": 3.552,
+          "end": 3.9919999976158143
+        },
+        {
+          "word": "What",
+          "local_start": 1.0800000429153442,
+          "local_end": 1.2200000286102295,
+          "evidence_indices": [
+            1
+          ],
+          "start": 4.632000042915344,
+          "end": 4.772000028610229
+        },
+        {
+          "word": "name",
+          "local_start": 1.2200000286102295,
+          "local_end": 1.4800000190734863,
+          "evidence_indices": [
+            2
+          ],
+          "start": 4.772000028610229,
+          "end": 5.032000019073486
+        },
+        {
+          "word": "is",
+          "local_start": 1.4800000190734863,
+          "local_end": 1.659999966621399,
+          "evidence_indices": [
+            3
+          ],
+          "start": 5.032000019073486,
+          "end": 5.2119999666213985
+        },
+        {
+          "word": "the",
+          "local_start": 1.659999966621399,
+          "local_end": 1.840000033378601,
+          "evidence_indices": [
+            4
+          ],
+          "start": 5.2119999666213985,
+          "end": 5.392000033378601
+        },
+        {
+          "word": "order",
+          "local_start": 1.840000033378601,
+          "local_end": 2.0399999618530273,
+          "evidence_indices": [
+            5
+          ],
+          "start": 5.392000033378601,
+          "end": 5.591999961853027
+        },
+        {
+          "word": "under?",
+          "local_start": 2.0399999618530273,
+          "local_end": 2.319999933242798,
+          "evidence_indices": [
+            6
+          ],
+          "start": 5.591999961853027,
+          "end": 5.8719999332427975
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "file": "03.mp3",
+      "text": "It's under Rosa Chen. It's a chocolate cake for my brother.",
+      "audio_sha256": "7a9b648b922af96758ea1e79517fb057f3123329a77756456bf89e51b060d0a2",
+      "start": 6.359999999999999,
+      "end": 9.767999999999999,
+      "duration": 3.408,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "It's",
+          "local_start": 0.0,
+          "local_end": 0.2199999988079071,
+          "evidence_indices": [
+            0
+          ],
+          "start": 6.359999999999999,
+          "end": 6.5799999988079065
+        },
+        {
+          "word": "under",
+          "local_start": 0.2199999988079071,
+          "local_end": 0.4399999976158142,
+          "evidence_indices": [
+            1
+          ],
+          "start": 6.5799999988079065,
+          "end": 6.799999997615814
+        },
+        {
+          "word": "Rosa",
+          "local_start": 0.4399999976158142,
+          "local_end": 0.7599999904632568,
+          "evidence_indices": [
+            2
+          ],
+          "start": 6.799999997615814,
+          "end": 7.119999990463256
+        },
+        {
+          "word": "Chen.",
+          "local_start": 0.7599999904632568,
+          "local_end": 1.0399999618530273,
+          "evidence_indices": [
+            3
+          ],
+          "start": 7.119999990463256,
+          "end": 7.399999961853027
+        },
+        {
+          "word": "It's",
+          "local_start": 1.6399999856948853,
+          "local_end": 1.7000000476837158,
+          "evidence_indices": [
+            4
+          ],
+          "start": 7.999999985694885,
+          "end": 8.060000047683715
+        },
+        {
+          "word": "a",
+          "local_start": 1.7000000476837158,
+          "local_end": 1.9600000381469727,
+          "evidence_indices": [
+            5
+          ],
+          "start": 8.060000047683715,
+          "end": 8.320000038146972
+        },
+        {
+          "word": "chocolate",
+          "local_start": 1.9600000381469727,
+          "local_end": 2.0999999046325684,
+          "evidence_indices": [
+            6
+          ],
+          "start": 8.320000038146972,
+          "end": 8.459999904632568
+        },
+        {
+          "word": "cake",
+          "local_start": 2.0999999046325684,
+          "local_end": 2.3399999141693115,
+          "evidence_indices": [
+            7
+          ],
+          "start": 8.459999904632568,
+          "end": 8.699999914169311
+        },
+        {
+          "word": "for",
+          "local_start": 2.3399999141693115,
+          "local_end": 2.5,
+          "evidence_indices": [
+            8
+          ],
+          "start": 8.699999914169311,
+          "end": 8.86
+        },
+        {
+          "word": "my",
+          "local_start": 2.5,
+          "local_end": 2.6600000858306885,
+          "evidence_indices": [
+            9
+          ],
+          "start": 8.86,
+          "end": 9.020000085830688
+        },
+        {
+          "word": "brother.",
+          "local_start": 2.6600000858306885,
+          "local_end": 2.819999933242798,
+          "evidence_indices": [
+            10
+          ],
+          "start": 9.020000085830688,
+          "end": 9.179999933242797
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "file": "04.mp3",
+      "text": "I found it. Would you like to check the writing before I close the box?",
+      "audio_sha256": "5c39723d96f84ba17040c907b1ed0eb72cdfc838b8f97d28cf27c5bbdab1bec6",
+      "start": 9.767999999999999,
+      "end": 13.415999999999999,
+      "duration": 3.648,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "I",
+          "local_start": 0.0,
+          "local_end": 0.2800000011920929,
+          "evidence_indices": [
+            0
+          ],
+          "start": 9.767999999999999,
+          "end": 10.048000001192092
+        },
+        {
+          "word": "found",
+          "local_start": 0.2800000011920929,
+          "local_end": 0.41999998688697815,
+          "evidence_indices": [
+            1
+          ],
+          "start": 10.048000001192092,
+          "end": 10.187999986886977
+        },
+        {
+          "word": "it.",
+          "local_start": 0.41999998688697815,
+          "local_end": 0.6800000071525574,
+          "evidence_indices": [
+            2
+          ],
+          "start": 10.187999986886977,
+          "end": 10.448000007152556
+        },
+        {
+          "word": "Would",
+          "local_start": 1.100000023841858,
+          "local_end": 1.2200000286102295,
+          "evidence_indices": [
+            3
+          ],
+          "start": 10.868000023841857,
+          "end": 10.988000028610228
+        },
+        {
+          "word": "you",
+          "local_start": 1.2200000286102295,
+          "local_end": 1.3200000524520874,
+          "evidence_indices": [
+            4
+          ],
+          "start": 10.988000028610228,
+          "end": 11.088000052452086
+        },
+        {
+          "word": "like",
+          "local_start": 1.3200000524520874,
+          "local_end": 1.4800000190734863,
+          "evidence_indices": [
+            5
+          ],
+          "start": 11.088000052452086,
+          "end": 11.248000019073485
+        },
+        {
+          "word": "to",
+          "local_start": 1.4800000190734863,
+          "local_end": 1.6799999475479126,
+          "evidence_indices": [
+            6
+          ],
+          "start": 11.248000019073485,
+          "end": 11.447999947547912
+        },
+        {
+          "word": "check",
+          "local_start": 1.6799999475479126,
+          "local_end": 1.7599999904632568,
+          "evidence_indices": [
+            7
+          ],
+          "start": 11.447999947547912,
+          "end": 11.527999990463256
+        },
+        {
+          "word": "the",
+          "local_start": 1.7599999904632568,
+          "local_end": 1.9600000381469727,
+          "evidence_indices": [
+            8
+          ],
+          "start": 11.527999990463256,
+          "end": 11.728000038146972
+        },
+        {
+          "word": "writing",
+          "local_start": 1.9600000381469727,
+          "local_end": 2.1600000858306885,
+          "evidence_indices": [
+            9
+          ],
+          "start": 11.728000038146972,
+          "end": 11.928000085830687
+        },
+        {
+          "word": "before",
+          "local_start": 2.1600000858306885,
+          "local_end": 2.4200000762939453,
+          "evidence_indices": [
+            10
+          ],
+          "start": 11.928000085830687,
+          "end": 12.188000076293944
+        },
+        {
+          "word": "I",
+          "local_start": 2.4200000762939453,
+          "local_end": 2.619999885559082,
+          "evidence_indices": [
+            11
+          ],
+          "start": 12.188000076293944,
+          "end": 12.387999885559081
+        },
+        {
+          "word": "close",
+          "local_start": 2.619999885559082,
+          "local_end": 2.759999990463257,
+          "evidence_indices": [
+            12
+          ],
+          "start": 12.387999885559081,
+          "end": 12.527999990463256
+        },
+        {
+          "word": "the",
+          "local_start": 2.759999990463257,
+          "local_end": 3.119999885559082,
+          "evidence_indices": [
+            13
+          ],
+          "start": 12.527999990463256,
+          "end": 12.887999885559081
+        },
+        {
+          "word": "box?",
+          "local_start": 3.119999885559082,
+          "local_end": 3.140000104904175,
+          "evidence_indices": [
+            14
+          ],
+          "start": 12.887999885559081,
+          "end": 12.908000104904174
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "file": "05.mp3",
+      "text": "Yes, please. It should say Happy Birthday, Alex.",
+      "audio_sha256": "869e490979ebdf4e8c8a3f9fff6ccdfb7611e60711d1b682cf63cdfdfc631d2b",
+      "start": 13.415999999999999,
+      "end": 16.872,
+      "duration": 3.456,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Yes,",
+          "local_start": 0.0,
+          "local_end": 0.3400000035762787,
+          "evidence_indices": [
+            0
+          ],
+          "start": 13.415999999999999,
+          "end": 13.756000003576277
+        },
+        {
+          "word": "please.",
+          "local_start": 0.47999998927116394,
+          "local_end": 0.7799999713897705,
+          "evidence_indices": [
+            1
+          ],
+          "start": 13.895999989271163,
+          "end": 14.195999971389769
+        },
+        {
+          "word": "It",
+          "local_start": 1.0399999618530273,
+          "local_end": 1.3799999952316284,
+          "evidence_indices": [
+            2
+          ],
+          "start": 14.455999961853026,
+          "end": 14.795999995231627
+        },
+        {
+          "word": "should",
+          "local_start": 1.3799999952316284,
+          "local_end": 1.559999942779541,
+          "evidence_indices": [
+            3
+          ],
+          "start": 14.795999995231627,
+          "end": 14.97599994277954
+        },
+        {
+          "word": "say",
+          "local_start": 1.559999942779541,
+          "local_end": 1.7999999523162842,
+          "evidence_indices": [
+            4
+          ],
+          "start": 14.97599994277954,
+          "end": 15.215999952316283
+        },
+        {
+          "word": "Happy",
+          "local_start": 1.7999999523162842,
+          "local_end": 2.0799999237060547,
+          "evidence_indices": [
+            5
+          ],
+          "start": 15.215999952316283,
+          "end": 15.495999923706053
+        },
+        {
+          "word": "Birthday,",
+          "local_start": 2.0799999237060547,
+          "local_end": 2.5199999809265137,
+          "evidence_indices": [
+            6
+          ],
+          "start": 15.495999923706053,
+          "end": 15.935999980926512
+        },
+        {
+          "word": "Alex.",
+          "local_start": 2.799999952316284,
+          "local_end": 3.0399999618530273,
+          "evidence_indices": [
+            7
+          ],
+          "start": 16.21599995231628,
+          "end": 16.455999961853024
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "file": "06.mp3",
+      "text": "Here it is. Is the spelling correct?",
+      "audio_sha256": "73245a1599ddce30f173ddb221d6344774b78592170f1fc5e8ff89a9da1fe7d4",
+      "start": 16.872,
+      "end": 19.176,
+      "duration": 2.304,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Here",
+          "local_start": 0.0,
+          "local_end": 0.2800000011920929,
+          "evidence_indices": [
+            0
+          ],
+          "start": 16.872,
+          "end": 17.152000001192093
+        },
+        {
+          "word": "it",
+          "local_start": 0.2800000011920929,
+          "local_end": 0.36000001430511475,
+          "evidence_indices": [
+            1
+          ],
+          "start": 17.152000001192093,
+          "end": 17.232000014305115
+        },
+        {
+          "word": "is.",
+          "local_start": 0.36000001430511475,
+          "local_end": 0.7200000286102295,
+          "evidence_indices": [
+            2
+          ],
+          "start": 17.232000014305115,
+          "end": 17.59200002861023
+        },
+        {
+          "word": "Is",
+          "local_start": 1.1200000047683716,
+          "local_end": 1.2400000095367432,
+          "evidence_indices": [
+            3
+          ],
+          "start": 17.99200000476837,
+          "end": 18.112000009536743
+        },
+        {
+          "word": "the",
+          "local_start": 1.2400000095367432,
+          "local_end": 1.5399999618530273,
+          "evidence_indices": [
+            4
+          ],
+          "start": 18.112000009536743,
+          "end": 18.411999961853027
+        },
+        {
+          "word": "spelling",
+          "local_start": 1.5399999618530273,
+          "local_end": 1.6799999475479126,
+          "evidence_indices": [
+            5
+          ],
+          "start": 18.411999961853027,
+          "end": 18.551999947547912
+        },
+        {
+          "word": "correct?",
+          "local_start": 1.6799999475479126,
+          "local_end": 2.0799999237060547,
+          "evidence_indices": [
+            6
+          ],
+          "start": 18.551999947547912,
+          "end": 18.951999923706055
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "file": "07.mp3",
+      "text": "It looks right. The blue letters are lovely, too.",
+      "audio_sha256": "b88f564817f61e0c9abf0b116c8c110a8e616d4970783f18473011c2f927612e",
+      "start": 19.176,
+      "end": 22.296,
+      "duration": 3.12,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "It",
+          "local_start": 0.0,
+          "local_end": 0.23999999463558197,
+          "evidence_indices": [
+            0
+          ],
+          "start": 19.176,
+          "end": 19.41599999463558
+        },
+        {
+          "word": "looks",
+          "local_start": 0.23999999463558197,
+          "local_end": 0.5,
+          "evidence_indices": [
+            1
+          ],
+          "start": 19.41599999463558,
+          "end": 19.676
+        },
+        {
+          "word": "right.",
+          "local_start": 0.5,
+          "local_end": 0.9200000166893005,
+          "evidence_indices": [
+            2
+          ],
+          "start": 19.676,
+          "end": 20.0960000166893
+        },
+        {
+          "word": "The",
+          "local_start": 1.340000033378601,
+          "local_end": 1.4800000190734863,
+          "evidence_indices": [
+            3
+          ],
+          "start": 20.5160000333786,
+          "end": 20.656000019073485
+        },
+        {
+          "word": "blue",
+          "local_start": 1.4800000190734863,
+          "local_end": 1.659999966621399,
+          "evidence_indices": [
+            4
+          ],
+          "start": 20.656000019073485,
+          "end": 20.835999966621397
+        },
+        {
+          "word": "letters",
+          "local_start": 1.659999966621399,
+          "local_end": 1.899999976158142,
+          "evidence_indices": [
+            5
+          ],
+          "start": 20.835999966621397,
+          "end": 21.07599997615814
+        },
+        {
+          "word": "are",
+          "local_start": 1.899999976158142,
+          "local_end": 2.259999990463257,
+          "evidence_indices": [
+            6
+          ],
+          "start": 21.07599997615814,
+          "end": 21.435999990463255
+        },
+        {
+          "word": "lovely,",
+          "local_start": 2.259999990463257,
+          "local_end": 2.5399999618530273,
+          "evidence_indices": [
+            7
+          ],
+          "start": 21.435999990463255,
+          "end": 21.715999961853026
+        },
+        {
+          "word": "too.",
+          "local_start": 2.7799999713897705,
+          "local_end": 2.880000114440918,
+          "evidence_indices": [
+            8
+          ],
+          "start": 21.95599997138977,
+          "end": 22.056000114440916
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "file": "08.mp3",
+      "text": "Great. I will put the lid on and tie the box.",
+      "audio_sha256": "aedb87663cb30a427d35aec68a0be0d419fb3f3cb79caf62f76c27f2d91c58e8",
+      "start": 22.296,
+      "end": 25.296,
+      "duration": 3.0,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Great.",
+          "local_start": 0.0,
+          "local_end": 0.3199999928474426,
+          "evidence_indices": [
+            0
+          ],
+          "start": 22.296,
+          "end": 22.615999992847442
+        },
+        {
+          "word": "I",
+          "local_start": 0.6800000071525574,
+          "local_end": 0.9200000166893005,
+          "evidence_indices": [
+            1
+          ],
+          "start": 22.976000007152557,
+          "end": 23.2160000166893
+        },
+        {
+          "word": "will",
+          "local_start": 0.9200000166893005,
+          "local_end": 1.0800000429153442,
+          "evidence_indices": [
+            2
+          ],
+          "start": 23.2160000166893,
+          "end": 23.376000042915344
+        },
+        {
+          "word": "put",
+          "local_start": 1.0800000429153442,
+          "local_end": 1.2000000476837158,
+          "evidence_indices": [
+            3
+          ],
+          "start": 23.376000042915344,
+          "end": 23.496000047683715
+        },
+        {
+          "word": "the",
+          "local_start": 1.2000000476837158,
+          "local_end": 1.5,
+          "evidence_indices": [
+            4
+          ],
+          "start": 23.496000047683715,
+          "end": 23.796
+        },
+        {
+          "word": "lid",
+          "local_start": 1.5,
+          "local_end": 1.5399999618530273,
+          "evidence_indices": [
+            5
+          ],
+          "start": 23.796,
+          "end": 23.835999961853027
+        },
+        {
+          "word": "on",
+          "local_start": 1.5399999618530273,
+          "local_end": 1.840000033378601,
+          "evidence_indices": [
+            6
+          ],
+          "start": 23.835999961853027,
+          "end": 24.1360000333786
+        },
+        {
+          "word": "and",
+          "local_start": 1.840000033378601,
+          "local_end": 2.0799999237060547,
+          "evidence_indices": [
+            7
+          ],
+          "start": 24.1360000333786,
+          "end": 24.375999923706054
+        },
+        {
+          "word": "tie",
+          "local_start": 2.0799999237060547,
+          "local_end": 2.259999990463257,
+          "evidence_indices": [
+            8
+          ],
+          "start": 24.375999923706054,
+          "end": 24.555999990463256
+        },
+        {
+          "word": "the",
+          "local_start": 2.259999990463257,
+          "local_end": 2.4600000381469727,
+          "evidence_indices": [
+            9
+          ],
+          "start": 24.555999990463256,
+          "end": 24.756000038146972
+        },
+        {
+          "word": "box.",
+          "local_start": 2.4600000381469727,
+          "local_end": 2.700000047683716,
+          "evidence_indices": [
+            10
+          ],
+          "start": 24.756000038146972,
+          "end": 24.996000047683715
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "file": "09.mp3",
+      "text": "Should I hold it flat on the way home?",
+      "audio_sha256": "4c79622b6161cdaf298b9d38de67f35a429a1f7b9667eff349f9599ec697a3c5",
+      "start": 25.296,
+      "end": 27.648,
+      "duration": 2.352,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Should",
+          "local_start": 0.0,
+          "local_end": 0.23999999463558197,
+          "evidence_indices": [
+            0
+          ],
+          "start": 25.296,
+          "end": 25.53599999463558
+        },
+        {
+          "word": "I",
+          "local_start": 0.23999999463558197,
+          "local_end": 0.5600000023841858,
+          "evidence_indices": [
+            1
+          ],
+          "start": 25.53599999463558,
+          "end": 25.856000002384185
+        },
+        {
+          "word": "hold",
+          "local_start": 0.5600000023841858,
+          "local_end": 0.7799999713897705,
+          "evidence_indices": [
+            2
+          ],
+          "start": 25.856000002384185,
+          "end": 26.07599997138977
+        },
+        {
+          "word": "it",
+          "local_start": 0.7799999713897705,
+          "local_end": 1.059999942779541,
+          "evidence_indices": [
+            3
+          ],
+          "start": 26.07599997138977,
+          "end": 26.35599994277954
+        },
+        {
+          "word": "flat",
+          "local_start": 1.059999942779541,
+          "local_end": 1.340000033378601,
+          "evidence_indices": [
+            4
+          ],
+          "start": 26.35599994277954,
+          "end": 26.6360000333786
+        },
+        {
+          "word": "on",
+          "local_start": 1.340000033378601,
+          "local_end": 1.5399999618530273,
+          "evidence_indices": [
+            5
+          ],
+          "start": 26.6360000333786,
+          "end": 26.835999961853027
+        },
+        {
+          "word": "the",
+          "local_start": 1.5399999618530273,
+          "local_end": 1.659999966621399,
+          "evidence_indices": [
+            6
+          ],
+          "start": 26.835999961853027,
+          "end": 26.9559999666214
+        },
+        {
+          "word": "way",
+          "local_start": 1.659999966621399,
+          "local_end": 1.7999999523162842,
+          "evidence_indices": [
+            7
+          ],
+          "start": 26.9559999666214,
+          "end": 27.095999952316284
+        },
+        {
+          "word": "home?",
+          "local_start": 1.7999999523162842,
+          "local_end": 2.0399999618530273,
+          "evidence_indices": [
+            8
+          ],
+          "start": 27.095999952316284,
+          "end": 27.335999961853027
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "file": "10.mp3",
+      "text": "Yes, that will help keep the cake in place.",
+      "audio_sha256": "a6f74664e45c557bd57728b608ad2f26fc2145fb526669e4c72c0b6b99ab6505",
+      "start": 27.648,
+      "end": 30.648,
+      "duration": 3.0,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Yes,",
+          "local_start": 0.0,
+          "local_end": 0.5600000023841858,
+          "evidence_indices": [
+            0
+          ],
+          "start": 27.648,
+          "end": 28.208000002384185
+        },
+        {
+          "word": "that",
+          "local_start": 0.7799999713897705,
+          "local_end": 1.159999966621399,
+          "evidence_indices": [
+            1
+          ],
+          "start": 28.42799997138977,
+          "end": 28.8079999666214
+        },
+        {
+          "word": "will",
+          "local_start": 1.159999966621399,
+          "local_end": 1.3200000524520874,
+          "evidence_indices": [
+            2
+          ],
+          "start": 28.8079999666214,
+          "end": 28.968000052452087
+        },
+        {
+          "word": "help",
+          "local_start": 1.3200000524520874,
+          "local_end": 1.5800000429153442,
+          "evidence_indices": [
+            3
+          ],
+          "start": 28.968000052452087,
+          "end": 29.228000042915344
+        },
+        {
+          "word": "keep",
+          "local_start": 1.5800000429153442,
+          "local_end": 1.7400000095367432,
+          "evidence_indices": [
+            4
+          ],
+          "start": 29.228000042915344,
+          "end": 29.388000009536743
+        },
+        {
+          "word": "the",
+          "local_start": 1.7400000095367432,
+          "local_end": 1.8799999952316284,
+          "evidence_indices": [
+            5
+          ],
+          "start": 29.388000009536743,
+          "end": 29.527999995231628
+        },
+        {
+          "word": "cake",
+          "local_start": 1.8799999952316284,
+          "local_end": 2.059999942779541,
+          "evidence_indices": [
+            6
+          ],
+          "start": 29.527999995231628,
+          "end": 29.70799994277954
+        },
+        {
+          "word": "in",
+          "local_start": 2.059999942779541,
+          "local_end": 2.4000000953674316,
+          "evidence_indices": [
+            7
+          ],
+          "start": 29.70799994277954,
+          "end": 30.04800009536743
+        },
+        {
+          "word": "place.",
+          "local_start": 2.4000000953674316,
+          "local_end": 2.5199999809265137,
+          "evidence_indices": [
+            8
+          ],
+          "start": 30.04800009536743,
+          "end": 30.167999980926513
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "file": "11.mp3",
+      "text": "Thanks. I have a flat space on the car floor for it.",
+      "audio_sha256": "77cb2e0b4d4ac0f55123c7a2b20cf16c11a804d882da82d9a08c1723ef2fa424",
+      "start": 30.648,
+      "end": 34.056,
+      "duration": 3.408,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Thanks.",
+          "local_start": 0.0,
+          "local_end": 0.5199999809265137,
+          "evidence_indices": [
+            0
+          ],
+          "start": 30.648,
+          "end": 31.167999980926513
+        },
+        {
+          "word": "I",
+          "local_start": 1.059999942779541,
+          "local_end": 1.2000000476837158,
+          "evidence_indices": [
+            1
+          ],
+          "start": 31.70799994277954,
+          "end": 31.848000047683716
+        },
+        {
+          "word": "have",
+          "local_start": 1.2000000476837158,
+          "local_end": 1.440000057220459,
+          "evidence_indices": [
+            2
+          ],
+          "start": 31.848000047683716,
+          "end": 32.088000057220455
+        },
+        {
+          "word": "a",
+          "local_start": 1.440000057220459,
+          "local_end": 1.659999966621399,
+          "evidence_indices": [
+            3
+          ],
+          "start": 32.088000057220455,
+          "end": 32.307999966621395
+        },
+        {
+          "word": "flat",
+          "local_start": 1.659999966621399,
+          "local_end": 1.899999976158142,
+          "evidence_indices": [
+            4
+          ],
+          "start": 32.307999966621395,
+          "end": 32.54799997615814
+        },
+        {
+          "word": "space",
+          "local_start": 1.899999976158142,
+          "local_end": 2.2200000286102295,
+          "evidence_indices": [
+            5
+          ],
+          "start": 32.54799997615814,
+          "end": 32.868000028610226
+        },
+        {
+          "word": "on",
+          "local_start": 2.2200000286102295,
+          "local_end": 2.380000114440918,
+          "evidence_indices": [
+            6
+          ],
+          "start": 32.868000028610226,
+          "end": 33.028000114440914
+        },
+        {
+          "word": "the",
+          "local_start": 2.380000114440918,
+          "local_end": 2.5199999809265137,
+          "evidence_indices": [
+            7
+          ],
+          "start": 33.028000114440914,
+          "end": 33.16799998092651
+        },
+        {
+          "word": "car",
+          "local_start": 2.5199999809265137,
+          "local_end": 2.680000066757202,
+          "evidence_indices": [
+            8
+          ],
+          "start": 33.16799998092651,
+          "end": 33.3280000667572
+        },
+        {
+          "word": "floor",
+          "local_start": 2.680000066757202,
+          "local_end": 2.799999952316284,
+          "evidence_indices": [
+            9
+          ],
+          "start": 33.3280000667572,
+          "end": 33.44799995231628
+        },
+        {
+          "word": "for",
+          "local_start": 2.799999952316284,
+          "local_end": 3.0799999237060547,
+          "evidence_indices": [
+            10
+          ],
+          "start": 33.44799995231628,
+          "end": 33.72799992370605
+        },
+        {
+          "word": "it.",
+          "local_start": 3.0799999237060547,
+          "local_end": 3.1600000858306885,
+          "evidence_indices": [
+            11
+          ],
+          "start": 33.72799992370605,
+          "end": 33.808000085830685
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "file": "12.mp3",
+      "text": "That sounds good. Enjoy the celebration!",
+      "audio_sha256": "3f01c976af60d7286b71c17ce20d8b77fd64152daac18cde545fb4ac2d634abb",
+      "start": 34.056,
+      "end": 36.864,
+      "duration": 2.808,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "That",
+          "local_start": 0.0,
+          "local_end": 0.3799999952316284,
+          "evidence_indices": [
+            0
+          ],
+          "start": 34.056,
+          "end": 34.435999995231626
+        },
+        {
+          "word": "sounds",
+          "local_start": 0.3799999952316284,
+          "local_end": 0.7599999904632568,
+          "evidence_indices": [
+            1
+          ],
+          "start": 34.435999995231626,
+          "end": 34.815999990463254
+        },
+        {
+          "word": "good.",
+          "local_start": 0.7599999904632568,
+          "local_end": 1.3200000524520874,
+          "evidence_indices": [
+            2
+          ],
+          "start": 34.815999990463254,
+          "end": 35.376000052452085
+        },
+        {
+          "word": "Enjoy",
+          "local_start": 1.7000000476837158,
+          "local_end": 1.899999976158142,
+          "evidence_indices": [
+            3
+          ],
+          "start": 35.75600004768371,
+          "end": 35.95599997615814
+        },
+        {
+          "word": "the",
+          "local_start": 1.899999976158142,
+          "local_end": 2.119999885559082,
+          "evidence_indices": [
+            4
+          ],
+          "start": 35.95599997615814,
+          "end": 36.17599988555908
+        },
+        {
+          "word": "celebration!",
+          "local_start": 2.119999885559082,
+          "local_end": 2.5,
+          "evidence_indices": [
+            5
+          ],
+          "start": 36.17599988555908,
+          "end": 36.556
+        }
+      ]
+    }
+  ]
+}

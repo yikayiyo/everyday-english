@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-22",
+  "slug": "borrowing-an-umbrella",
+  "title": "An Umbrella for the Walk Home",
+  "title_zh": "借伞走回家",
+  "context": "办公室同事 Nina 发现下雨没带伞，向同事 Carl 借伞并约定归还。 本课属于 2026-11-22 预制系列，内容和练习题均为原创，并非真实考试题。",
+  "voices": {
+    "Nina": "marin",
+    "Carl": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Nina",
+      "en": "The rain is really coming down, and I left my umbrella at home.",
+      "zh": "雨下得真大，而我把伞忘在家里了。"
+    },
+    {
+      "speaker": "Carl",
+      "en": "I have a spare one in my desk. Would you like to borrow it?",
+      "zh": "我桌子里有一把备用的。你想借用吗？"
+    },
+    {
+      "speaker": "Nina",
+      "en": "That would be great. Are you sure you won't need it?",
+      "zh": "那太好了。你确定自己不需要吗？"
+    },
+    {
+      "speaker": "Carl",
+      "en": "I'm getting a ride home, so I won't need it today.",
+      "zh": "有人开车送我回家，所以我今天用不上。"
+    },
+    {
+      "speaker": "Nina",
+      "en": "Thank you. I'll bring it back to the office tomorrow.",
+      "zh": "谢谢。我明天把它带回办公室。"
+    },
+    {
+      "speaker": "Carl",
+      "en": "No problem. It's the blue one with the wooden handle.",
+      "zh": "没问题。就是那把木柄蓝伞。"
+    },
+    {
+      "speaker": "Nina",
+      "en": "I see it. Does it fold up?",
+      "zh": "我看到了。它能折叠吗？"
+    },
+    {
+      "speaker": "Carl",
+      "en": "Yes. Press the button on the handle to close it.",
+      "zh": "能。按手柄上的按钮就能收起来。"
+    },
+    {
+      "speaker": "Nina",
+      "en": "Got it. I'll let it dry before I bring it back.",
+      "zh": "明白了。我会晾干之后再带回来。"
+    },
+    {
+      "speaker": "Carl",
+      "en": "Thanks. You can leave it on my desk if I'm in a meeting.",
+      "zh": "谢谢。如果我在开会，你可以把它放在我桌上。"
+    },
+    {
+      "speaker": "Nina",
+      "en": "I will. I hope your ride gets here soon.",
+      "zh": "好的。希望接你的人快点到。"
+    },
+    {
+      "speaker": "Carl",
+      "en": "Thanks, and have a safe walk home.",
+      "zh": "谢谢，你走回家路上小心。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "come down",
+      "zh": "形容雨或雪下得大。",
+      "example": "The snow was coming down when we left."
+    },
+    {
+      "en": "a spare",
+      "zh": "一个备用物品。",
+      "example": "I keep a spare in my bag."
+    },
+    {
+      "en": "get a ride",
+      "zh": "搭便车或有人开车接送。",
+      "example": "Can you get a ride to the station?"
+    },
+    {
+      "en": "fold up",
+      "zh": "折叠起来。",
+      "example": "This chair folds up for easy storage."
+    },
+    {
+      "en": "let it dry",
+      "zh": "让它晾干。",
+      "example": "Let the towel dry near the window."
+    }
+  ],
+  "pronunciation": "umbrella 重音在第二音节 BREL；spare 开头的 /sp/ 要连在一起，不要在两个辅音中间加元音。",
+  "practice": [
+    {
+      "title": "Part 1 · Rainy days",
+      "prompt": "What do you usually carry on a rainy day?",
+      "answer": "I usually take a small umbrella and a bag that can keep my books dry. I also check the weather before leaving home."
+    },
+    {
+      "title": "Part 2 · Help on a rainy day",
+      "prompt": "Describe a time someone helped you on a rainy day. Say where you were, what happened, and how you thanked them.",
+      "answer": "One afternoon I left work and saw heavy rain outside. I had forgotten my umbrella, and I had a long walk home. A coworker offered me a spare umbrella because she was getting a ride. I thanked her and promised to return it the next day. At home I left it open to dry, and the next morning I put it on her desk with a short thank you note. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Small acts of help",
+      "prompt": "Why can small acts of help matter at work?",
+      "answer": "They can make a difficult moment easier and show that coworkers notice one another. Over time, such kindness may make people feel more comfortable asking for help."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "跟读借伞的对话，再说明忘带伞的情况并约定归还时间。",
+      "answer": "I forgot my umbrella, and it's raining hard. Could I borrow your spare one? I'll bring it back tomorrow."
+    }
+  ]
+}

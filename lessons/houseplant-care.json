@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-22",
+  "slug": "houseplant-care",
+  "title": "Caring for a Houseplant",
+  "title_zh": "照顾室内植物",
+  "context": "Ella 请邻居 Ben 在她出门期间照看一盆室内植物。本课属于 2026-11-22 预制系列，题目为原创练习，并非真实考试题。",
+  "voices": {
+    "Ella": "marin",
+    "Ben": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Ella",
+      "en": "Would you mind looking after my plant while I'm away?",
+      "zh": "我不在的时候，你介意帮我照看一下植物吗？"
+    },
+    {
+      "speaker": "Ben",
+      "en": "Of course not. How long will you be gone?",
+      "zh": "当然不介意。你要离开多久？"
+    },
+    {
+      "speaker": "Ella",
+      "en": "Just a week. It's the plant on the living room shelf.",
+      "zh": "只有一周。就是客厅架子上的那盆植物。"
+    },
+    {
+      "speaker": "Ben",
+      "en": "Does it need a lot of water?",
+      "zh": "它需要很多水吗？"
+    },
+    {
+      "speaker": "Ella",
+      "en": "Not much. I watered it today, so please check the soil next Wednesday.",
+      "zh": "不需要太多。我今天浇过了，所以下周三请检查一下土。"
+    },
+    {
+      "speaker": "Ben",
+      "en": "What should I do if the soil feels dry?",
+      "zh": "如果土摸起来干了，我该怎么办？"
+    },
+    {
+      "speaker": "Ella",
+      "en": "Give it a little water, slowly, until the soil feels damp.",
+      "zh": "慢慢给它浇一点水，直到土摸起来湿润。"
+    },
+    {
+      "speaker": "Ben",
+      "en": "Should I move it closer to the window?",
+      "zh": "我要把它移得离窗户近一点吗？"
+    },
+    {
+      "speaker": "Ella",
+      "en": "Please leave it where it is. The bright light there seems to suit it.",
+      "zh": "请把它留在原处。那里的明亮光线似乎适合它。"
+    },
+    {
+      "speaker": "Ben",
+      "en": "I can do that. I'll send you a picture when I check it.",
+      "zh": "没问题。我检查时给你发张照片。"
+    },
+    {
+      "speaker": "Ella",
+      "en": "Thank you. I'll leave a note beside the pot to remind you.",
+      "zh": "谢谢。我会在花盆旁留张便条提醒你。"
+    },
+    {
+      "speaker": "Ben",
+      "en": "Perfect. Enjoy your trip, and don't worry about the plant.",
+      "zh": "太好了。祝你旅途愉快，别担心植物。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "look after",
+      "zh": "照看、照顾。",
+      "example": "Could you look after my cat tomorrow?"
+    },
+    {
+      "en": "be away",
+      "zh": "不在家或不在某地。",
+      "example": "I'll be away for the weekend."
+    },
+    {
+      "en": "feel dry",
+      "zh": "摸起来干燥。",
+      "example": "The towel still feels dry."
+    },
+    {
+      "en": "leave it where it is",
+      "zh": "把它留在原处。",
+      "example": "The lamp looks good there; leave it where it is."
+    },
+    {
+      "en": "remind you",
+      "zh": "提醒你。",
+      "example": "I'll remind you about the meeting."
+    }
+  ],
+  "pronunciation": "water 在美式英语中间的 t 常读成轻快的闪音；soil 是一个音节，不要拆成两个。",
+  "practice": [
+    {
+      "title": "Part 1 · Plants",
+      "prompt": "Do you keep plants at home?",
+      "answer": "Yes, I have one small plant by my window. I like seeing something green when I work at my desk."
+    },
+    {
+      "title": "Part 2 · Caring for something",
+      "prompt": "Describe something you looked after for someone. Say what it was, what you did, and how it went.",
+      "answer": "My neighbor asked me to look after her houseplant while she visited her family. She showed me where it stood and told me when to check the soil. I went over once during the week and found the soil a little dry, so I gave the plant some water. I also sent her a photo. When she came home, she thanked me, and I was glad I could help. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Responsibility",
+      "prompt": "Why is it helpful to leave clear instructions when someone helps you?",
+      "answer": "Clear instructions make it easier for the other person to know what to do. They can also prevent confusion, especially when the task is unfamiliar or the owner is away."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "跟读后请朋友照看植物，说明检查时间、浇水方式和摆放位置。",
+      "answer": "Could you look after my plant? Please check the soil on Wednesday and leave the pot by the window."
+    }
+  ]
+}

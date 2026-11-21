@@ -1,0 +1,1406 @@
+{
+  "timing_status": "strict_timing_pass",
+  "timing_warnings": [],
+  "model": "whisper-1",
+  "lesson": "bus-stop-change",
+  "source_sha256": "5f9e60bbd5586e01fcaabefa5875c094a2c7e34ad744d89de857f077211eb76e",
+  "full_track": "dialogue-full.mp3",
+  "full_duration": 40.944,
+  "full_audio_sha256": "13529ae991eed77fbba6027acfd87de38f7e62e8e354ee29c919c58d30267803",
+  "lines": [
+    {
+      "index": 1,
+      "file": "01.mp3",
+      "text": "The sign says this bus stop is closed today. Do you know where the bus stops now?",
+      "audio_sha256": "dce2d4d0c60be412173033045a610ee636a1d7b379c96b9ff509d8aba87c5700",
+      "start": 0,
+      "end": 4.704,
+      "duration": 4.704,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "The",
+          "local_start": 0.0,
+          "local_end": 0.23999999463558197,
+          "evidence_indices": [
+            0
+          ],
+          "start": 0.0,
+          "end": 0.23999999463558197
+        },
+        {
+          "word": "sign",
+          "local_start": 0.23999999463558197,
+          "local_end": 0.6000000238418579,
+          "evidence_indices": [
+            1
+          ],
+          "start": 0.23999999463558197,
+          "end": 0.6000000238418579
+        },
+        {
+          "word": "says",
+          "local_start": 0.6000000238418579,
+          "local_end": 0.9200000166893005,
+          "evidence_indices": [
+            2
+          ],
+          "start": 0.6000000238418579,
+          "end": 0.9200000166893005
+        },
+        {
+          "word": "this",
+          "local_start": 0.9200000166893005,
+          "local_end": 1.2000000476837158,
+          "evidence_indices": [
+            3
+          ],
+          "start": 0.9200000166893005,
+          "end": 1.2000000476837158
+        },
+        {
+          "word": "bus",
+          "local_start": 1.2000000476837158,
+          "local_end": 1.4199999570846558,
+          "evidence_indices": [
+            4
+          ],
+          "start": 1.2000000476837158,
+          "end": 1.4199999570846558
+        },
+        {
+          "word": "stop",
+          "local_start": 1.4199999570846558,
+          "local_end": 1.6399999856948853,
+          "evidence_indices": [
+            5
+          ],
+          "start": 1.4199999570846558,
+          "end": 1.6399999856948853
+        },
+        {
+          "word": "is",
+          "local_start": 1.6399999856948853,
+          "local_end": 1.840000033378601,
+          "evidence_indices": [
+            6
+          ],
+          "start": 1.6399999856948853,
+          "end": 1.840000033378601
+        },
+        {
+          "word": "closed",
+          "local_start": 1.840000033378601,
+          "local_end": 2.140000104904175,
+          "evidence_indices": [
+            7
+          ],
+          "start": 1.840000033378601,
+          "end": 2.140000104904175
+        },
+        {
+          "word": "today.",
+          "local_start": 2.140000104904175,
+          "local_end": 2.5,
+          "evidence_indices": [
+            8
+          ],
+          "start": 2.140000104904175,
+          "end": 2.5
+        },
+        {
+          "word": "Do",
+          "local_start": 3.0999999046325684,
+          "local_end": 3.200000047683716,
+          "evidence_indices": [
+            9
+          ],
+          "start": 3.0999999046325684,
+          "end": 3.200000047683716
+        },
+        {
+          "word": "you",
+          "local_start": 3.200000047683716,
+          "local_end": 3.299999952316284,
+          "evidence_indices": [
+            10
+          ],
+          "start": 3.200000047683716,
+          "end": 3.299999952316284
+        },
+        {
+          "word": "know",
+          "local_start": 3.299999952316284,
+          "local_end": 3.4800000190734863,
+          "evidence_indices": [
+            11
+          ],
+          "start": 3.299999952316284,
+          "end": 3.4800000190734863
+        },
+        {
+          "word": "where",
+          "local_start": 3.4800000190734863,
+          "local_end": 3.619999885559082,
+          "evidence_indices": [
+            12
+          ],
+          "start": 3.4800000190734863,
+          "end": 3.619999885559082
+        },
+        {
+          "word": "the",
+          "local_start": 3.619999885559082,
+          "local_end": 3.7799999713897705,
+          "evidence_indices": [
+            13
+          ],
+          "start": 3.619999885559082,
+          "end": 3.7799999713897705
+        },
+        {
+          "word": "bus",
+          "local_start": 3.7799999713897705,
+          "local_end": 3.9000000953674316,
+          "evidence_indices": [
+            14
+          ],
+          "start": 3.7799999713897705,
+          "end": 3.9000000953674316
+        },
+        {
+          "word": "stops",
+          "local_start": 3.9000000953674316,
+          "local_end": 4.159999847412109,
+          "evidence_indices": [
+            15
+          ],
+          "start": 3.9000000953674316,
+          "end": 4.159999847412109
+        },
+        {
+          "word": "now?",
+          "local_start": 4.159999847412109,
+          "local_end": 4.460000038146973,
+          "evidence_indices": [
+            16
+          ],
+          "start": 4.159999847412109,
+          "end": 4.460000038146973
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "file": "02.mp3",
+      "text": "I just read the notice. There's a temporary stop across the street.",
+      "audio_sha256": "44cfec55233850900ff31d1f4a431446f6e11d262384ab2ee03ff6231afc6ef2",
+      "start": 4.704,
+      "end": 8.952,
+      "duration": 4.248,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "I",
+          "local_start": 0.0,
+          "local_end": 0.20000000298023224,
+          "evidence_indices": [
+            0
+          ],
+          "start": 4.704,
+          "end": 4.904000002980232
+        },
+        {
+          "word": "just",
+          "local_start": 0.20000000298023224,
+          "local_end": 0.5400000214576721,
+          "evidence_indices": [
+            1
+          ],
+          "start": 4.904000002980232,
+          "end": 5.244000021457672
+        },
+        {
+          "word": "read",
+          "local_start": 0.5400000214576721,
+          "local_end": 0.8799999952316284,
+          "evidence_indices": [
+            2
+          ],
+          "start": 5.244000021457672,
+          "end": 5.583999995231628
+        },
+        {
+          "word": "the",
+          "local_start": 0.8799999952316284,
+          "local_end": 1.1799999475479126,
+          "evidence_indices": [
+            3
+          ],
+          "start": 5.583999995231628,
+          "end": 5.883999947547912
+        },
+        {
+          "word": "notice.",
+          "local_start": 1.1799999475479126,
+          "local_end": 1.5,
+          "evidence_indices": [
+            4
+          ],
+          "start": 5.883999947547912,
+          "end": 6.204
+        },
+        {
+          "word": "There's",
+          "local_start": 2.059999942779541,
+          "local_end": 2.200000047683716,
+          "evidence_indices": [
+            5
+          ],
+          "start": 6.763999942779541,
+          "end": 6.904000047683716
+        },
+        {
+          "word": "a",
+          "local_start": 2.200000047683716,
+          "local_end": 2.4200000762939453,
+          "evidence_indices": [
+            6
+          ],
+          "start": 6.904000047683716,
+          "end": 7.124000076293945
+        },
+        {
+          "word": "temporary",
+          "local_start": 2.4200000762939453,
+          "local_end": 2.7200000286102295,
+          "evidence_indices": [
+            7
+          ],
+          "start": 7.124000076293945,
+          "end": 7.424000028610229
+        },
+        {
+          "word": "stop",
+          "local_start": 2.7200000286102295,
+          "local_end": 3.180000066757202,
+          "evidence_indices": [
+            8
+          ],
+          "start": 7.424000028610229,
+          "end": 7.884000066757202
+        },
+        {
+          "word": "across",
+          "local_start": 3.180000066757202,
+          "local_end": 3.5999999046325684,
+          "evidence_indices": [
+            9
+          ],
+          "start": 7.884000066757202,
+          "end": 8.303999904632569
+        },
+        {
+          "word": "the",
+          "local_start": 3.5999999046325684,
+          "local_end": 3.799999952316284,
+          "evidence_indices": [
+            10
+          ],
+          "start": 8.303999904632569,
+          "end": 8.503999952316285
+        },
+        {
+          "word": "street.",
+          "local_start": 3.799999952316284,
+          "local_end": 4.0,
+          "evidence_indices": [
+            11
+          ],
+          "start": 8.503999952316285,
+          "end": 8.704
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "file": "03.mp3",
+      "text": "Is it near the coffee shop on the corner?",
+      "audio_sha256": "99473e041e3aab8532dcfeafb70f94e75db0d28a2f3c7802a957d2f25ab292d1",
+      "start": 8.952,
+      "end": 11.568,
+      "duration": 2.616,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Is",
+          "local_start": 0.0,
+          "local_end": 0.5,
+          "evidence_indices": [
+            0
+          ],
+          "start": 8.952,
+          "end": 9.452
+        },
+        {
+          "word": "it",
+          "local_start": 0.5,
+          "local_end": 0.7400000095367432,
+          "evidence_indices": [
+            1
+          ],
+          "start": 9.452,
+          "end": 9.692000009536743
+        },
+        {
+          "word": "near",
+          "local_start": 0.7400000095367432,
+          "local_end": 0.8999999761581421,
+          "evidence_indices": [
+            2
+          ],
+          "start": 9.692000009536743,
+          "end": 9.851999976158142
+        },
+        {
+          "word": "the",
+          "local_start": 0.8999999761581421,
+          "local_end": 1.2400000095367432,
+          "evidence_indices": [
+            3
+          ],
+          "start": 9.851999976158142,
+          "end": 10.192000009536743
+        },
+        {
+          "word": "coffee",
+          "local_start": 1.2400000095367432,
+          "local_end": 1.399999976158142,
+          "evidence_indices": [
+            4
+          ],
+          "start": 10.192000009536743,
+          "end": 10.351999976158142
+        },
+        {
+          "word": "shop",
+          "local_start": 1.399999976158142,
+          "local_end": 1.659999966621399,
+          "evidence_indices": [
+            5
+          ],
+          "start": 10.351999976158142,
+          "end": 10.611999966621399
+        },
+        {
+          "word": "on",
+          "local_start": 1.659999966621399,
+          "local_end": 1.7599999904632568,
+          "evidence_indices": [
+            6
+          ],
+          "start": 10.611999966621399,
+          "end": 10.711999990463257
+        },
+        {
+          "word": "the",
+          "local_start": 1.7599999904632568,
+          "local_end": 1.899999976158142,
+          "evidence_indices": [
+            7
+          ],
+          "start": 10.711999990463257,
+          "end": 10.851999976158142
+        },
+        {
+          "word": "corner?",
+          "local_start": 1.899999976158142,
+          "local_end": 2.0799999237060547,
+          "evidence_indices": [
+            8
+          ],
+          "start": 10.851999976158142,
+          "end": 11.031999923706055
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "file": "04.mp3",
+      "text": "Yes, just beyond it. You can see a yellow sign by the bench.",
+      "audio_sha256": "7dab8cc9691c97c955746a49ac12dc47c246b04a37dbee339bdbd7b415535239",
+      "start": 11.568,
+      "end": 15.576,
+      "duration": 4.008,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Yes,",
+          "local_start": 0.0,
+          "local_end": 0.46000000834465027,
+          "evidence_indices": [
+            0
+          ],
+          "start": 11.568,
+          "end": 12.02800000834465
+        },
+        {
+          "word": "just",
+          "local_start": 0.7799999713897705,
+          "local_end": 1.0800000429153442,
+          "evidence_indices": [
+            1
+          ],
+          "start": 12.34799997138977,
+          "end": 12.648000042915344
+        },
+        {
+          "word": "beyond",
+          "local_start": 1.0800000429153442,
+          "local_end": 1.3600000143051147,
+          "evidence_indices": [
+            2
+          ],
+          "start": 12.648000042915344,
+          "end": 12.928000014305114
+        },
+        {
+          "word": "it.",
+          "local_start": 1.3600000143051147,
+          "local_end": 1.6200000047683716,
+          "evidence_indices": [
+            3
+          ],
+          "start": 12.928000014305114,
+          "end": 13.188000004768371
+        },
+        {
+          "word": "You",
+          "local_start": 2.0399999618530273,
+          "local_end": 2.0999999046325684,
+          "evidence_indices": [
+            4
+          ],
+          "start": 13.607999961853027,
+          "end": 13.667999904632568
+        },
+        {
+          "word": "can",
+          "local_start": 2.0999999046325684,
+          "local_end": 2.319999933242798,
+          "evidence_indices": [
+            5
+          ],
+          "start": 13.667999904632568,
+          "end": 13.887999933242797
+        },
+        {
+          "word": "see",
+          "local_start": 2.319999933242798,
+          "local_end": 2.4200000762939453,
+          "evidence_indices": [
+            6
+          ],
+          "start": 13.887999933242797,
+          "end": 13.988000076293945
+        },
+        {
+          "word": "a",
+          "local_start": 2.4200000762939453,
+          "local_end": 2.640000104904175,
+          "evidence_indices": [
+            7
+          ],
+          "start": 13.988000076293945,
+          "end": 14.208000104904174
+        },
+        {
+          "word": "yellow",
+          "local_start": 2.640000104904175,
+          "local_end": 2.819999933242798,
+          "evidence_indices": [
+            8
+          ],
+          "start": 14.208000104904174,
+          "end": 14.387999933242797
+        },
+        {
+          "word": "sign",
+          "local_start": 2.819999933242798,
+          "local_end": 3.140000104904175,
+          "evidence_indices": [
+            9
+          ],
+          "start": 14.387999933242797,
+          "end": 14.708000104904174
+        },
+        {
+          "word": "by",
+          "local_start": 3.140000104904175,
+          "local_end": 3.3399999141693115,
+          "evidence_indices": [
+            10
+          ],
+          "start": 14.708000104904174,
+          "end": 14.907999914169311
+        },
+        {
+          "word": "the",
+          "local_start": 3.3399999141693115,
+          "local_end": 3.4800000190734863,
+          "evidence_indices": [
+            11
+          ],
+          "start": 14.907999914169311,
+          "end": 15.048000019073486
+        },
+        {
+          "word": "bench.",
+          "local_start": 3.4800000190734863,
+          "local_end": 3.740000009536743,
+          "evidence_indices": [
+            12
+          ],
+          "start": 15.048000019073486,
+          "end": 15.308000009536743
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "file": "05.mp3",
+      "text": "I'm taking the number six downtown. Does it stop there too?",
+      "audio_sha256": "ae9afe856cb3305a50577c54ac89bd19fb7fad37d65258431d3859ffb547b5b6",
+      "start": 15.576,
+      "end": 19.632,
+      "duration": 4.056,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "I'm",
+          "local_start": 0.0,
+          "local_end": 0.3799999952316284,
+          "evidence_indices": [
+            0
+          ],
+          "start": 15.576,
+          "end": 15.955999995231629
+        },
+        {
+          "word": "taking",
+          "local_start": 0.3799999952316284,
+          "local_end": 0.699999988079071,
+          "evidence_indices": [
+            1
+          ],
+          "start": 15.955999995231629,
+          "end": 16.27599998807907
+        },
+        {
+          "word": "the",
+          "local_start": 0.699999988079071,
+          "local_end": 1.0199999809265137,
+          "evidence_indices": [
+            2
+          ],
+          "start": 16.27599998807907,
+          "end": 16.595999980926514
+        },
+        {
+          "word": "number",
+          "local_start": 1.0199999809265137,
+          "local_end": 1.2200000286102295,
+          "evidence_indices": [
+            3
+          ],
+          "start": 16.595999980926514,
+          "end": 16.79600002861023
+        },
+        {
+          "word": "six",
+          "local_start": 1.2200000286102295,
+          "local_end": 1.600000023841858,
+          "evidence_indices": [
+            4
+          ],
+          "start": 16.79600002861023,
+          "end": 17.17600002384186
+        },
+        {
+          "word": "downtown.",
+          "local_start": 1.600000023841858,
+          "local_end": 2.1600000858306885,
+          "evidence_indices": [
+            5
+          ],
+          "start": 17.17600002384186,
+          "end": 17.73600008583069
+        },
+        {
+          "word": "Does",
+          "local_start": 2.680000066757202,
+          "local_end": 2.7799999713897705,
+          "evidence_indices": [
+            6
+          ],
+          "start": 18.256000066757203,
+          "end": 18.35599997138977
+        },
+        {
+          "word": "it",
+          "local_start": 2.7799999713897705,
+          "local_end": 2.9600000381469727,
+          "evidence_indices": [
+            7
+          ],
+          "start": 18.35599997138977,
+          "end": 18.536000038146973
+        },
+        {
+          "word": "stop",
+          "local_start": 2.9600000381469727,
+          "local_end": 3.1600000858306885,
+          "evidence_indices": [
+            8
+          ],
+          "start": 18.536000038146973,
+          "end": 18.73600008583069
+        },
+        {
+          "word": "there",
+          "local_start": 3.1600000858306885,
+          "local_end": 3.4000000953674316,
+          "evidence_indices": [
+            9
+          ],
+          "start": 18.73600008583069,
+          "end": 18.976000095367432
+        },
+        {
+          "word": "too?",
+          "local_start": 3.4000000953674316,
+          "local_end": 3.640000104904175,
+          "evidence_indices": [
+            10
+          ],
+          "start": 18.976000095367432,
+          "end": 19.216000104904175
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "file": "06.mp3",
+      "text": "The notice lists the number six, so it looks like it does.",
+      "audio_sha256": "83635d01d9c016ee510c2b14c0e7cdb0baa71e4ed915a8f81445cd99f7158335",
+      "start": 19.632,
+      "end": 22.896,
+      "duration": 3.264,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "The",
+          "local_start": 0.0,
+          "local_end": 0.2199999988079071,
+          "evidence_indices": [
+            0
+          ],
+          "start": 19.632,
+          "end": 19.85199999880791
+        },
+        {
+          "word": "notice",
+          "local_start": 0.2199999988079071,
+          "local_end": 0.5,
+          "evidence_indices": [
+            1
+          ],
+          "start": 19.85199999880791,
+          "end": 20.132
+        },
+        {
+          "word": "lists",
+          "local_start": 0.5,
+          "local_end": 0.8199999928474426,
+          "evidence_indices": [
+            2
+          ],
+          "start": 20.132,
+          "end": 20.451999992847444
+        },
+        {
+          "word": "the",
+          "local_start": 0.8199999928474426,
+          "local_end": 1.0800000429153442,
+          "evidence_indices": [
+            3
+          ],
+          "start": 20.451999992847444,
+          "end": 20.712000042915346
+        },
+        {
+          "word": "number",
+          "local_start": 1.0800000429153442,
+          "local_end": 1.2599999904632568,
+          "evidence_indices": [
+            4
+          ],
+          "start": 20.712000042915346,
+          "end": 20.89199999046326
+        },
+        {
+          "word": "six,",
+          "local_start": 1.2599999904632568,
+          "local_end": 1.6399999856948853,
+          "evidence_indices": [
+            5
+          ],
+          "start": 20.89199999046326,
+          "end": 21.271999985694887
+        },
+        {
+          "word": "so",
+          "local_start": 1.940000057220459,
+          "local_end": 2.140000104904175,
+          "evidence_indices": [
+            6
+          ],
+          "start": 21.57200005722046,
+          "end": 21.772000104904176
+        },
+        {
+          "word": "it",
+          "local_start": 2.140000104904175,
+          "local_end": 2.2799999713897705,
+          "evidence_indices": [
+            7
+          ],
+          "start": 21.772000104904176,
+          "end": 21.911999971389772
+        },
+        {
+          "word": "looks",
+          "local_start": 2.2799999713897705,
+          "local_end": 2.4000000953674316,
+          "evidence_indices": [
+            8
+          ],
+          "start": 21.911999971389772,
+          "end": 22.032000095367433
+        },
+        {
+          "word": "like",
+          "local_start": 2.4000000953674316,
+          "local_end": 2.5999999046325684,
+          "evidence_indices": [
+            9
+          ],
+          "start": 22.032000095367433,
+          "end": 22.23199990463257
+        },
+        {
+          "word": "it",
+          "local_start": 2.5999999046325684,
+          "local_end": 2.7200000286102295,
+          "evidence_indices": [
+            10
+          ],
+          "start": 22.23199990463257,
+          "end": 22.35200002861023
+        },
+        {
+          "word": "does.",
+          "local_start": 2.7200000286102295,
+          "local_end": 2.9000000953674316,
+          "evidence_indices": [
+            11
+          ],
+          "start": 22.35200002861023,
+          "end": 22.532000095367433
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "file": "07.mp3",
+      "text": "Good. Is there a crosswalk nearby?",
+      "audio_sha256": "06f864e23e76cfb426dbe6ca2e2655d6746fbc7df5271768ea65ad0358d04af3",
+      "start": 22.896,
+      "end": 25.296,
+      "duration": 2.4,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Good.",
+          "local_start": 0.0,
+          "local_end": 0.36000001430511475,
+          "evidence_indices": [
+            0
+          ],
+          "start": 22.896,
+          "end": 23.256000014305116
+        },
+        {
+          "word": "Is",
+          "local_start": 0.5199999809265137,
+          "local_end": 1.0,
+          "evidence_indices": [
+            1
+          ],
+          "start": 23.415999980926514,
+          "end": 23.896
+        },
+        {
+          "word": "there",
+          "local_start": 1.0,
+          "local_end": 1.1399999856948853,
+          "evidence_indices": [
+            2
+          ],
+          "start": 23.896,
+          "end": 24.035999985694886
+        },
+        {
+          "word": "a",
+          "local_start": 1.1399999856948853,
+          "local_end": 1.3600000143051147,
+          "evidence_indices": [
+            3
+          ],
+          "start": 24.035999985694886,
+          "end": 24.256000014305116
+        },
+        {
+          "word": "crosswalk",
+          "local_start": 1.3600000143051147,
+          "local_end": 1.6799999475479126,
+          "evidence_indices": [
+            4
+          ],
+          "start": 24.256000014305116,
+          "end": 24.575999947547913
+        },
+        {
+          "word": "nearby?",
+          "local_start": 1.6799999475479126,
+          "local_end": 1.8600000143051147,
+          "evidence_indices": [
+            5
+          ],
+          "start": 24.575999947547913,
+          "end": 24.756000014305116
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "file": "08.mp3",
+      "text": "There's one at the traffic light. Let's cross there.",
+      "audio_sha256": "129934dc9bf2eb4a8b83f59ea09f0f16ace3a0dc89308896d786f72659770886",
+      "start": 25.296,
+      "end": 28.2,
+      "duration": 2.904,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "There's",
+          "local_start": 0.0,
+          "local_end": 0.5,
+          "evidence_indices": [
+            0
+          ],
+          "start": 25.296,
+          "end": 25.796
+        },
+        {
+          "word": "one",
+          "local_start": 0.5,
+          "local_end": 0.7599999904632568,
+          "evidence_indices": [
+            1
+          ],
+          "start": 25.796,
+          "end": 26.055999990463256
+        },
+        {
+          "word": "at",
+          "local_start": 0.7599999904632568,
+          "local_end": 0.9599999785423279,
+          "evidence_indices": [
+            2
+          ],
+          "start": 26.055999990463256,
+          "end": 26.255999978542327
+        },
+        {
+          "word": "the",
+          "local_start": 0.9599999785423279,
+          "local_end": 1.0800000429153442,
+          "evidence_indices": [
+            3
+          ],
+          "start": 26.255999978542327,
+          "end": 26.376000042915344
+        },
+        {
+          "word": "traffic",
+          "local_start": 1.0800000429153442,
+          "local_end": 1.2999999523162842,
+          "evidence_indices": [
+            4
+          ],
+          "start": 26.376000042915344,
+          "end": 26.595999952316284
+        },
+        {
+          "word": "light.",
+          "local_start": 1.2999999523162842,
+          "local_end": 1.7200000286102295,
+          "evidence_indices": [
+            5
+          ],
+          "start": 26.595999952316284,
+          "end": 27.01600002861023
+        },
+        {
+          "word": "Let's",
+          "local_start": 2.059999942779541,
+          "local_end": 2.1600000858306885,
+          "evidence_indices": [
+            6
+          ],
+          "start": 27.35599994277954,
+          "end": 27.456000085830688
+        },
+        {
+          "word": "cross",
+          "local_start": 2.1600000858306885,
+          "local_end": 2.359999895095825,
+          "evidence_indices": [
+            7
+          ],
+          "start": 27.456000085830688,
+          "end": 27.655999895095825
+        },
+        {
+          "word": "there.",
+          "local_start": 2.359999895095825,
+          "local_end": 2.5999999046325684,
+          "evidence_indices": [
+            8
+          ],
+          "start": 27.655999895095825,
+          "end": 27.895999904632568
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "file": "09.mp3",
+      "text": "Thanks. I almost waited at the old stop.",
+      "audio_sha256": "0500746202a4e1dc4be20af3a14bf88517d3969ecdb788fe49c99eb51476d8a9",
+      "start": 28.2,
+      "end": 31.008,
+      "duration": 2.808,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Thanks.",
+          "local_start": 0.0,
+          "local_end": 0.46000000834465027,
+          "evidence_indices": [
+            0
+          ],
+          "start": 28.2,
+          "end": 28.66000000834465
+        },
+        {
+          "word": "I",
+          "local_start": 0.6399999856948853,
+          "local_end": 1.059999942779541,
+          "evidence_indices": [
+            1
+          ],
+          "start": 28.839999985694885,
+          "end": 29.25999994277954
+        },
+        {
+          "word": "almost",
+          "local_start": 1.059999942779541,
+          "local_end": 1.2799999713897705,
+          "evidence_indices": [
+            2
+          ],
+          "start": 29.25999994277954,
+          "end": 29.47999997138977
+        },
+        {
+          "word": "waited",
+          "local_start": 1.2799999713897705,
+          "local_end": 1.5399999618530273,
+          "evidence_indices": [
+            3
+          ],
+          "start": 29.47999997138977,
+          "end": 29.739999961853027
+        },
+        {
+          "word": "at",
+          "local_start": 1.5399999618530273,
+          "local_end": 1.7400000095367432,
+          "evidence_indices": [
+            4
+          ],
+          "start": 29.739999961853027,
+          "end": 29.940000009536742
+        },
+        {
+          "word": "the",
+          "local_start": 1.7400000095367432,
+          "local_end": 1.9199999570846558,
+          "evidence_indices": [
+            5
+          ],
+          "start": 29.940000009536742,
+          "end": 30.119999957084655
+        },
+        {
+          "word": "old",
+          "local_start": 1.9199999570846558,
+          "local_end": 2.0999999046325684,
+          "evidence_indices": [
+            6
+          ],
+          "start": 30.119999957084655,
+          "end": 30.299999904632568
+        },
+        {
+          "word": "stop.",
+          "local_start": 2.0999999046325684,
+          "local_end": 2.380000114440918,
+          "evidence_indices": [
+            7
+          ],
+          "start": 30.299999904632568,
+          "end": 30.580000114440917
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "file": "10.mp3",
+      "text": "I did too. The construction surprised me this morning.",
+      "audio_sha256": "d869a23d2e02a5b92ee3347c373bc83e2564307bfc8c61997c70c0faffc51c91",
+      "start": 31.008,
+      "end": 34.368,
+      "duration": 3.36,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "I",
+          "local_start": 0.0,
+          "local_end": 0.23999999463558197,
+          "evidence_indices": [
+            0
+          ],
+          "start": 31.008,
+          "end": 31.24799999463558
+        },
+        {
+          "word": "did",
+          "local_start": 0.23999999463558197,
+          "local_end": 0.41999998688697815,
+          "evidence_indices": [
+            1
+          ],
+          "start": 31.24799999463558,
+          "end": 31.427999986886977
+        },
+        {
+          "word": "too.",
+          "local_start": 0.41999998688697815,
+          "local_end": 1.1799999475479126,
+          "evidence_indices": [
+            2
+          ],
+          "start": 31.427999986886977,
+          "end": 32.18799994754791
+        },
+        {
+          "word": "The",
+          "local_start": 1.5,
+          "local_end": 1.559999942779541,
+          "evidence_indices": [
+            3
+          ],
+          "start": 32.507999999999996,
+          "end": 32.56799994277954
+        },
+        {
+          "word": "construction",
+          "local_start": 1.559999942779541,
+          "local_end": 2.0399999618530273,
+          "evidence_indices": [
+            4
+          ],
+          "start": 32.56799994277954,
+          "end": 33.04799996185302
+        },
+        {
+          "word": "surprised",
+          "local_start": 2.0399999618530273,
+          "local_end": 2.559999942779541,
+          "evidence_indices": [
+            5
+          ],
+          "start": 33.04799996185302,
+          "end": 33.56799994277954
+        },
+        {
+          "word": "me",
+          "local_start": 2.559999942779541,
+          "local_end": 2.7200000286102295,
+          "evidence_indices": [
+            6
+          ],
+          "start": 33.56799994277954,
+          "end": 33.728000028610225
+        },
+        {
+          "word": "this",
+          "local_start": 2.7200000286102295,
+          "local_end": 2.9600000381469727,
+          "evidence_indices": [
+            7
+          ],
+          "start": 33.728000028610225,
+          "end": 33.96800003814697
+        },
+        {
+          "word": "morning.",
+          "local_start": 2.9600000381469727,
+          "local_end": 3.1600000858306885,
+          "evidence_indices": [
+            8
+          ],
+          "start": 33.96800003814697,
+          "end": 34.168000085830684
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "file": "11.mp3",
+      "text": "Here's the yellow sign, and the number six is on it.",
+      "audio_sha256": "f71d48343b3aae9d71e591c6624b6d1bc1b902bdbf4ce881956935fbc1914cc6",
+      "start": 34.368,
+      "end": 37.824000000000005,
+      "duration": 3.456,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Here's",
+          "local_start": 0.0,
+          "local_end": 0.4399999976158142,
+          "evidence_indices": [
+            0
+          ],
+          "start": 34.368,
+          "end": 34.807999997615816
+        },
+        {
+          "word": "the",
+          "local_start": 0.4399999976158142,
+          "local_end": 0.6399999856948853,
+          "evidence_indices": [
+            1
+          ],
+          "start": 34.807999997615816,
+          "end": 35.00799998569489
+        },
+        {
+          "word": "yellow",
+          "local_start": 0.6399999856948853,
+          "local_end": 0.8799999952316284,
+          "evidence_indices": [
+            2
+          ],
+          "start": 35.00799998569489,
+          "end": 35.24799999523163
+        },
+        {
+          "word": "sign,",
+          "local_start": 0.8799999952316284,
+          "local_end": 1.2799999713897705,
+          "evidence_indices": [
+            3
+          ],
+          "start": 35.24799999523163,
+          "end": 35.64799997138977
+        },
+        {
+          "word": "and",
+          "local_start": 1.6799999475479126,
+          "local_end": 1.7599999904632568,
+          "evidence_indices": [
+            4
+          ],
+          "start": 36.047999947547915,
+          "end": 36.12799999046326
+        },
+        {
+          "word": "the",
+          "local_start": 1.7599999904632568,
+          "local_end": 1.9600000381469727,
+          "evidence_indices": [
+            5
+          ],
+          "start": 36.12799999046326,
+          "end": 36.328000038146975
+        },
+        {
+          "word": "number",
+          "local_start": 1.9600000381469727,
+          "local_end": 2.200000047683716,
+          "evidence_indices": [
+            6
+          ],
+          "start": 36.328000038146975,
+          "end": 36.56800004768372
+        },
+        {
+          "word": "six",
+          "local_start": 2.200000047683716,
+          "local_end": 2.5999999046325684,
+          "evidence_indices": [
+            7
+          ],
+          "start": 36.56800004768372,
+          "end": 36.96799990463257
+        },
+        {
+          "word": "is",
+          "local_start": 2.5999999046325684,
+          "local_end": 2.859999895095825,
+          "evidence_indices": [
+            8
+          ],
+          "start": 36.96799990463257,
+          "end": 37.22799989509583
+        },
+        {
+          "word": "on",
+          "local_start": 2.859999895095825,
+          "local_end": 3.0199999809265137,
+          "evidence_indices": [
+            9
+          ],
+          "start": 37.22799989509583,
+          "end": 37.387999980926516
+        },
+        {
+          "word": "it.",
+          "local_start": 3.0199999809265137,
+          "local_end": 3.200000047683716,
+          "evidence_indices": [
+            10
+          ],
+          "start": 37.387999980926516,
+          "end": 37.56800004768372
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "file": "12.mp3",
+      "text": "Great. We found it before the bus arrived.",
+      "audio_sha256": "38e651f46bbcc00fc5ba5605c2cd51e4ef45140f37813b7330780dcb63ad33d7",
+      "start": 37.824000000000005,
+      "end": 40.944,
+      "duration": 3.12,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Great.",
+          "local_start": 0.0,
+          "local_end": 0.41999998688697815,
+          "evidence_indices": [
+            0
+          ],
+          "start": 37.824000000000005,
+          "end": 38.24399998688698
+        },
+        {
+          "word": "We",
+          "local_start": 0.8999999761581421,
+          "local_end": 1.3600000143051147,
+          "evidence_indices": [
+            1
+          ],
+          "start": 38.72399997615815,
+          "end": 39.18400001430512
+        },
+        {
+          "word": "found",
+          "local_start": 1.3600000143051147,
+          "local_end": 1.5199999809265137,
+          "evidence_indices": [
+            2
+          ],
+          "start": 39.18400001430512,
+          "end": 39.34399998092652
+        },
+        {
+          "word": "it",
+          "local_start": 1.5199999809265137,
+          "local_end": 1.6799999475479126,
+          "evidence_indices": [
+            3
+          ],
+          "start": 39.34399998092652,
+          "end": 39.50399994754792
+        },
+        {
+          "word": "before",
+          "local_start": 1.6799999475479126,
+          "local_end": 1.9199999570846558,
+          "evidence_indices": [
+            4
+          ],
+          "start": 39.50399994754792,
+          "end": 39.74399995708466
+        },
+        {
+          "word": "the",
+          "local_start": 1.9199999570846558,
+          "local_end": 2.119999885559082,
+          "evidence_indices": [
+            5
+          ],
+          "start": 39.74399995708466,
+          "end": 39.94399988555909
+        },
+        {
+          "word": "bus",
+          "local_start": 2.119999885559082,
+          "local_end": 2.2799999713897705,
+          "evidence_indices": [
+            6
+          ],
+          "start": 39.94399988555909,
+          "end": 40.103999971389776
+        },
+        {
+          "word": "arrived.",
+          "local_start": 2.2799999713897705,
+          "local_end": 2.6600000858306885,
+          "evidence_indices": [
+            7
+          ],
+          "start": 40.103999971389776,
+          "end": 40.484000085830694
+        }
+      ]
+    }
+  ]
+}

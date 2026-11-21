@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-22",
+  "slug": "organizing-a-desk",
+  "title": "Making Space on a Crowded Desk",
+  "title_zh": "整理拥挤的书桌",
+  "context": "Clara 收拾堆满纸张的书桌，室友 Jamie 帮她区分需要保留和处理的物品。 本课属于 2026-11-22 预制系列，内容和练习题均为原创，并非真实考试题。",
+  "voices": {
+    "Clara": "marin",
+    "Jamie": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Clara",
+      "en": "I can't find my notebook under all these papers.",
+      "zh": "这么多纸堆在一起，我找不到笔记本了。"
+    },
+    {
+      "speaker": "Jamie",
+      "en": "Let's clear a little space first. Are these receipts still useful?",
+      "zh": "我们先腾出一点地方吧。这些收据还有用吗？"
+    },
+    {
+      "speaker": "Clara",
+      "en": "Some are. I'll check the dates before I throw any away.",
+      "zh": "有些有用。我扔之前会先看看日期。"
+    },
+    {
+      "speaker": "Jamie",
+      "en": "I'll put the pens in this cup while you sort them.",
+      "zh": "你整理收据的时候，我把笔放进这个杯子里。"
+    },
+    {
+      "speaker": "Clara",
+      "en": "Thanks. The notebook was under that stack of mail!",
+      "zh": "谢谢。笔记本原来在那一叠邮件下面！"
+    },
+    {
+      "speaker": "Jamie",
+      "en": "Would a tray help you keep new mail together?",
+      "zh": "用个托盘把新邮件放在一起会有帮助吗？"
+    },
+    {
+      "speaker": "Clara",
+      "en": "Yes. I can put the tray on the left side of the desk.",
+      "zh": "会。我可以把托盘放在桌子左边。"
+    },
+    {
+      "speaker": "Jamie",
+      "en": "What about the charger that's stretched across the table?",
+      "zh": "那根横在桌上的充电线怎么办？"
+    },
+    {
+      "speaker": "Clara",
+      "en": "I'll unplug it and coil it up when I'm not using it.",
+      "zh": "不用的时候我会拔掉插头，把它绕好。"
+    },
+    {
+      "speaker": "Jamie",
+      "en": "There's enough room for your notebook now.",
+      "zh": "现在有足够的空间放你的笔记本了。"
+    },
+    {
+      "speaker": "Clara",
+      "en": "Much better. I'll spend a few minutes sorting the desk each Friday.",
+      "zh": "好多了。我以后每周五花几分钟整理桌面。"
+    },
+    {
+      "speaker": "Jamie",
+      "en": "That sounds doable. Now you can start your work.",
+      "zh": "听起来可以做到。现在你可以开始工作了。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "clear space",
+      "zh": "腾出空间。",
+      "example": "Let's clear some space for the new shelf."
+    },
+    {
+      "en": "throw away",
+      "zh": "扔掉。",
+      "example": "Don't throw away that envelope yet."
+    },
+    {
+      "en": "sort",
+      "zh": "分类整理。",
+      "example": "I'll sort the photos by date."
+    },
+    {
+      "en": "a stack of",
+      "zh": "一叠……。",
+      "example": "There's a stack of magazines by the sofa."
+    },
+    {
+      "en": "coil up",
+      "zh": "把线等盘绕起来。",
+      "example": "Coil up the cable and put it in the drawer."
+    }
+  ],
+  "pronunciation": "desk 末尾 /sk/ 都要发出；charger 重读第一音节，开头和中间的字母组合都含 /dʒ/ 音。",
+  "practice": [
+    {
+      "title": "Part 1 · Workspaces",
+      "prompt": "Do you prefer a tidy desk?",
+      "answer": "Yes. I find it easier to focus when I can find my notebook and pens. I try to clear my desk at the end of the day."
+    },
+    {
+      "title": "Part 2 · Organizing a space",
+      "prompt": "Describe a space you organized. Say what it was like before, what you did, and how you felt afterward.",
+      "answer": "My desk was covered with papers, and I kept losing my notebook. One weekend my roommate helped me make space. I checked some old receipts while he put the pens in a cup. We found my notebook under a stack of mail and placed a tray on the desk for new letters. Afterward I could see the surface again, and starting my work felt much easier. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Organization",
+      "prompt": "How can an organized workspace affect the way people work?",
+      "answer": "It can save time because useful things are easier to find. However, people organize differently, so a system should fit the work they actually do."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "跟读整理过程，再说明你如何处理桌上的纸张和充电线。",
+      "answer": "I'll check these papers before I throw any away. I can put the new mail in a tray and coil up the charger."
+    }
+  ]
+}

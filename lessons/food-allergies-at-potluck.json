@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-22",
+  "slug": "food-allergies-at-potluck",
+  "title": "Checking Ingredients at a Potluck",
+  "title_zh": "聚餐时确认食物成分",
+  "context": "Nina 在朋友 Sam 的聚餐中对花生过敏；两人查看包装并在无法确认食物成分时选择不吃。 本课属于 2026-11-22 预制系列，题目是原创口语练习，并非真实考试题。",
+  "voices": {
+    "Nina": "marin",
+    "Sam": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Nina",
+      "en": "Everything looks lovely, Sam. Could I ask about the snacks?",
+      "zh": "Sam，这些食物看起来真不错。我能问问零食的事吗？"
+    },
+    {
+      "speaker": "Sam",
+      "en": "Sure. What would you like to know?",
+      "zh": "当然。你想了解什么？"
+    },
+    {
+      "speaker": "Nina",
+      "en": "I have a peanut allergy. Do you still have the package for these crackers?",
+      "zh": "我对花生过敏。你还留着这些饼干的包装吗？"
+    },
+    {
+      "speaker": "Sam",
+      "en": "Yes, it's in the kitchen. Let's read the label together.",
+      "zh": "有，在厨房。我们一起看看标签吧。"
+    },
+    {
+      "speaker": "Nina",
+      "en": "Thanks. I want to check the ingredients and any allergy information.",
+      "zh": "谢谢。我想看看配料和过敏原相关信息。"
+    },
+    {
+      "speaker": "Sam",
+      "en": "Here's the package. Take your time.",
+      "zh": "包装在这儿。你慢慢看。"
+    },
+    {
+      "speaker": "Nina",
+      "en": "The crackers aren't a choice I'm comfortable with, so I'll skip them.",
+      "zh": "这些饼干让我不太放心，我就不吃了。"
+    },
+    {
+      "speaker": "Sam",
+      "en": "Of course. I also brought some fruit in its original container.",
+      "zh": "当然可以。我还带了一些水果，装在原来的容器里。"
+    },
+    {
+      "speaker": "Nina",
+      "en": "May I check that label too?",
+      "zh": "我可以也看看那个标签吗？"
+    },
+    {
+      "speaker": "Sam",
+      "en": "Absolutely. I don't know what's in the homemade dip, though.",
+      "zh": "当然可以。不过我不知道自制蘸酱里有什么。"
+    },
+    {
+      "speaker": "Nina",
+      "en": "Then I'll pass on the dip. I'll have the fruit after checking it.",
+      "zh": "那我就不吃蘸酱了。检查过以后我吃水果。"
+    },
+    {
+      "speaker": "Sam",
+      "en": "Sounds good. Thanks for telling me what you need.",
+      "zh": "好。谢谢你告诉我你的需求。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "have an allergy",
+      "zh": "对某物过敏；可接 to 加具体物质。",
+      "example": "I have an allergy to peanuts."
+    },
+    {
+      "en": "read the label",
+      "zh": "阅读包装标签。",
+      "example": "Please read the label on the jar."
+    },
+    {
+      "en": "take your time",
+      "zh": "慢慢来，不必着急。",
+      "example": "Take your time choosing a seat."
+    },
+    {
+      "en": "skip it",
+      "zh": "不吃、不参加或跳过。",
+      "example": "I'll skip dessert today, thanks."
+    },
+    {
+      "en": "pass on",
+      "zh": "婉拒某物。",
+      "example": "I'll pass on the sauce, thank you."
+    }
+  ],
+  "pronunciation": "allergy 重音在第一个音节；label 也重读第一个音节，末尾是轻读的 bəl。",
+  "practice": [
+    {
+      "title": "Part 1 · Sharing food",
+      "prompt": "Do you enjoy sharing food with friends?",
+      "answer": "Yes. I like trying different dishes, and I appreciate it when friends tell me what is in them."
+    },
+    {
+      "title": "Part 2 · A meal with others",
+      "prompt": "Describe a meal you shared with other people. Say where it was, what you ate, and what made it memorable.",
+      "answer": "A friend invited me to a lunch where everyone brought something. I brought sliced fruit in its original container. Before eating, one guest asked about the ingredients in a snack, and we looked at the package together. She chose the fruit after checking its label and politely declined a dip with unknown ingredients. I remember the lunch because everyone listened and made her feel welcome. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Inclusive gatherings",
+      "prompt": "How can hosts help guests with different food needs feel welcome?",
+      "answer": "Hosts can ask guests about their needs in advance and keep ingredient information available. They can also respect a guest's decision to avoid a dish without making them feel uncomfortable."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "跟读后礼貌说明过敏情况，要求查看标签，并婉拒无法确认成分的食物。",
+      "answer": "I have a peanut allergy. May I check the package? I can't confirm what's in the dip, so I'll pass, thank you."
+    }
+  ]
+}

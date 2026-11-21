@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-22",
+  "slug": "community-garden",
+  "title": "A Morning at the Community Garden",
+  "title_zh": "社区花园的早晨",
+  "context": "Lena 首次参加花园整理活动，向组织者 Sam 了解如何帮忙。本课属于 2026-11-22 预制系列，题目为原创练习，并非真实考试题。",
+  "voices": {
+    "Lena": "marin",
+    "Sam": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Lena",
+      "en": "Is this the community garden workday?",
+      "zh": "今天是社区花园的劳动日吗？"
+    },
+    {
+      "speaker": "Sam",
+      "en": "It is. Are you here to help?",
+      "zh": "是的。你是来帮忙的吗？"
+    },
+    {
+      "speaker": "Lena",
+      "en": "Yes, but I'm new here. Where should I start?",
+      "zh": "是的，不过我是新来的。我该从哪里开始？"
+    },
+    {
+      "speaker": "Sam",
+      "en": "We're picking up leaves from the paths. Would you like to help?",
+      "zh": "我们正在清理小路上的落叶。你愿意帮忙吗？"
+    },
+    {
+      "speaker": "Lena",
+      "en": "Sure. Where can I find a rake?",
+      "zh": "当然。哪里能找到耙子？"
+    },
+    {
+      "speaker": "Sam",
+      "en": "There's one beside the shed. The empty bags are there, too.",
+      "zh": "棚屋旁边有一把。空袋子也在那里。"
+    },
+    {
+      "speaker": "Lena",
+      "en": "Should I put all the leaves in the bags?",
+      "zh": "我要把所有落叶都装进袋子吗？"
+    },
+    {
+      "speaker": "Sam",
+      "en": "Please leave the pile by the fence. We're saving it for compost.",
+      "zh": "请留下围栏旁边那堆。我们要留着堆肥。"
+    },
+    {
+      "speaker": "Lena",
+      "en": "Got it. I can clear the path near the gate first.",
+      "zh": "明白了。我可以先清理大门附近的小路。"
+    },
+    {
+      "speaker": "Sam",
+      "en": "Thanks. I'll take the other side, and we can meet in the middle.",
+      "zh": "谢谢。我清理另一边，我们可以在中间碰头。"
+    },
+    {
+      "speaker": "Lena",
+      "en": "The path is clear now. Where should these bags go?",
+      "zh": "小路现在清理干净了。这些袋子放哪里？"
+    },
+    {
+      "speaker": "Sam",
+      "en": "Next to the shed, please. Thanks for helping out today.",
+      "zh": "请放在棚屋旁边。谢谢你今天来帮忙。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "Where should I start?",
+      "zh": "我该从哪里开始？用于询问第一步。",
+      "example": "Where should I start with these boxes?"
+    },
+    {
+      "en": "clear the path",
+      "zh": "清理小路，使通道畅通。",
+      "example": "We cleared the path after the storm."
+    },
+    {
+      "en": "beside the shed",
+      "zh": "在棚屋旁边。beside 表示在旁边。",
+      "example": "The wheelbarrow is beside the shed."
+    },
+    {
+      "en": "save it for",
+      "zh": "留着用于某事。",
+      "example": "Save the paper for your drawing."
+    },
+    {
+      "en": "help out",
+      "zh": "帮忙做事。",
+      "example": "My cousin helped out at the event."
+    }
+  ],
+  "pronunciation": "community 重音在第二音节；path 结尾的 th 用舌尖轻触上齿送气。",
+  "practice": [
+    {
+      "title": "Part 1 · Gardens",
+      "prompt": "Do you enjoy spending time in gardens?",
+      "answer": "Yes. I like quiet gardens because I can walk slowly and notice the plants. I sometimes visit one near my home after work."
+    },
+    {
+      "title": "Part 2 · Working together",
+      "prompt": "Describe a time you helped with a shared space. Say where it was, what you did, and how you felt.",
+      "answer": "Last fall I helped clean a small garden near my apartment. A neighbor invited me to join a group on Saturday morning. We picked up leaves and put them in bags, and another person swept the path. I had never met some of the helpers before, so we introduced ourselves while we worked. When we finished, the path looked much tidier. I felt useful and enjoyed meeting people nearby. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Shared spaces",
+      "prompt": "Why do shared spaces need people to work together?",
+      "answer": "One person may not have enough time to care for a shared space. When people divide the work, the job becomes easier, and they can discuss what the space needs."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "跟读后扮演新志愿者，询问从哪里开始、工具在哪里，并确认落叶如何处理。",
+      "answer": "Where should I start? Is there a rake I can use? Should I put these leaves in a bag?"
+    }
+  ]
+}

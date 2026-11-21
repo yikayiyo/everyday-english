@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-22",
+  "slug": "volunteer-shelter",
+  "title": "Volunteering at an Animal Shelter",
+  "title_zh": "在动物收容所做志愿者",
+  "context": "新志愿者 Hana 向动物收容所工作人员 Luis 了解当天的任务和指导安排。 本课为 2026-11-22 预制系列原创练习，并非真实考试题。",
+  "voices": {
+    "Hana": "marin",
+    "Luis": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Hana",
+      "en": "This is my first day volunteering here. Where should I start?",
+      "zh": "这是我第一天在这里做志愿者。我应该从哪里开始？"
+    },
+    {
+      "speaker": "Luis",
+      "en": "Welcome, Hana. Today we need help folding clean towels for the cats.",
+      "zh": "欢迎你，Hana。今天我们需要人帮猫咪叠干净的毛巾。"
+    },
+    {
+      "speaker": "Hana",
+      "en": "I can do that. Where should I put them?",
+      "zh": "我可以做。叠好放在哪里？"
+    },
+    {
+      "speaker": "Luis",
+      "en": "Please stack them on the shelves in the supply room.",
+      "zh": "请把它们叠放在储物间的架子上。"
+    },
+    {
+      "speaker": "Hana",
+      "en": "I would also love to spend time with the animals.",
+      "zh": "我也很想和动物们待一会儿。"
+    },
+    {
+      "speaker": "Luis",
+      "en": "After the towels, I can introduce you to a calm cat named Pepper.",
+      "zh": "叠完毛巾后，我可以介绍你认识一只叫 Pepper 的温顺猫咪。"
+    },
+    {
+      "speaker": "Hana",
+      "en": "That sounds lovely. Is there anything I should know first?",
+      "zh": "太好了。我需要先了解什么吗？"
+    },
+    {
+      "speaker": "Luis",
+      "en": "I will show you how our staff approach her and stay with you.",
+      "zh": "我会示范我们工作人员怎样接近她，并陪着你。"
+    },
+    {
+      "speaker": "Hana",
+      "en": "Thank you. I do not want to make her nervous.",
+      "zh": "谢谢。我不想让她紧张。"
+    },
+    {
+      "speaker": "Luis",
+      "en": "That is thoughtful. We let each animal set the pace.",
+      "zh": "你想得很周到。我们让每只动物按自己的节奏来。"
+    },
+    {
+      "speaker": "Hana",
+      "en": "I will start with the towels while you finish your work.",
+      "zh": "那我先叠毛巾，你继续忙。"
+    },
+    {
+      "speaker": "Luis",
+      "en": "Great. I will meet you in the supply room shortly.",
+      "zh": "好。我一会儿到储物间找你。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "volunteer",
+      "zh": "做志愿者，无偿帮忙。",
+      "example": "I volunteer at a local food pantry."
+    },
+    {
+      "en": "supply room",
+      "zh": "存放用品的房间。",
+      "example": "The extra paper is in the supply room."
+    },
+    {
+      "en": "spend time with",
+      "zh": "花时间陪伴。",
+      "example": "She likes to spend time with her grandparents."
+    },
+    {
+      "en": "make someone nervous",
+      "zh": "让某人紧张。",
+      "example": "A loud noise can make the dog nervous."
+    },
+    {
+      "en": "set the pace",
+      "zh": "决定进行的节奏。",
+      "example": "Let the beginner set the pace of the walk."
+    }
+  ],
+  "pronunciation": "volunteer 重音在最后一个音节；shelter 重音在第一音节，结尾的 r 用美式卷舌音。",
+  "practice": [
+    {
+      "title": "Part 1 · Helping",
+      "prompt": "Have you ever helped an organization in your community?",
+      "answer": "Yes. I helped a local shelter sort clean towels. It was a small task, but it gave the staff more time for other work."
+    },
+    {
+      "title": "Part 2 · A volunteer experience",
+      "prompt": "Describe a volunteer activity you would like to try. Say where you would go, what you would do, and why.",
+      "answer": "I would like to volunteer at an animal shelter near my home. On my first visit, I could help fold clean towels and organize supplies. I would also ask a staff member to show me how to spend time with a calm cat. I would follow their guidance and let the animal move at its own pace. I think the work would be useful and rewarding. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Volunteering",
+      "prompt": "Why do organizations need volunteers for both simple and skilled tasks?",
+      "answer": "Simple tasks still take time, so volunteers can help staff focus on work that needs special training. Clear guidance also helps everyone understand their role."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "跟读第一天询问任务的对话，再说明你愿意做什么以及需要什么指导。",
+      "answer": "Where should I start? I can fold the clean towels. Could you show me where to put them?"
+    }
+  ]
+}

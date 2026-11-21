@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-22",
+  "slug": "weather-plans",
+  "title": "A Windy Day Backup Plan",
+  "title_zh": "大风天的备选安排",
+  "context": "Amy 和 Ben 原本打算在湖边放风筝，看到大风预报后改约室内活动。 本课属于 2026-11-22 预制系列，练习题为原创练习，并非真实考试题。",
+  "voices": {
+    "Amy": "marin",
+    "Ben": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Amy",
+      "en": "Are we still flying kites by the lake tomorrow?",
+      "zh": "我们明天还去湖边放风筝吗？"
+    },
+    {
+      "speaker": "Ben",
+      "en": "I checked the forecast, and it says the wind may be very strong.",
+      "zh": "我看了天气预报，说风可能会很大。"
+    },
+    {
+      "speaker": "Amy",
+      "en": "That might make it hard to enjoy ourselves. Should we make another plan?",
+      "zh": "那可能很难玩得尽兴。我们要不要另做安排？"
+    },
+    {
+      "speaker": "Ben",
+      "en": "Yes. There is a small indoor climbing center near the lake.",
+      "zh": "好。湖附近有一家小型室内攀岩中心。"
+    },
+    {
+      "speaker": "Amy",
+      "en": "I have never tried climbing. Do they have a beginner session?",
+      "zh": "我从没试过攀岩。他们有初学者课程吗？"
+    },
+    {
+      "speaker": "Ben",
+      "en": "Their website lists one at ten tomorrow, but we should check for space.",
+      "zh": "他们网站上列了明天十点的一场，不过我们应该确认还有没有名额。"
+    },
+    {
+      "speaker": "Amy",
+      "en": "I can call them this afternoon and ask.",
+      "zh": "我今天下午可以打电话问问。"
+    },
+    {
+      "speaker": "Ben",
+      "en": "Thanks. If it is full, we could play table tennis at my place.",
+      "zh": "谢谢。如果满了，我们可以在我家打乒乓球。"
+    },
+    {
+      "speaker": "Amy",
+      "en": "That works for me. I will message you after the call.",
+      "zh": "我没问题。打完电话我给你发消息。"
+    },
+    {
+      "speaker": "Ben",
+      "en": "Great. We can save the kites for a calmer day.",
+      "zh": "太好了。我们可以等风小些的时候再放风筝。"
+    },
+    {
+      "speaker": "Amy",
+      "en": "Hi Ben, I just called the center. They had two places available, so I booked the session.",
+      "zh": "嗨，Ben，我刚给攀岩中心打了电话。他们还有两个名额，所以我预订了那场课。"
+    },
+    {
+      "speaker": "Ben",
+      "en": "Perfect. See you at the entrance a little before ten.",
+      "zh": "太好了。十点前一点在入口见。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "check the forecast",
+      "zh": "查看天气预报。",
+      "example": "I will check the forecast before we leave."
+    },
+    {
+      "en": "make another plan",
+      "zh": "另做安排。",
+      "example": "If the park is closed, we can make another plan."
+    },
+    {
+      "en": "beginner session",
+      "zh": "初学者场次或课程。",
+      "example": "The pool offers a beginner session on Saturday."
+    },
+    {
+      "en": "check for space",
+      "zh": "确认是否还有名额或空间。",
+      "example": "Call the studio to check for space."
+    },
+    {
+      "en": "save it for another day",
+      "zh": "留待改天做。",
+      "example": "Let us save the walk for another day."
+    }
+  ],
+  "pronunciation": "weather 的 th 发浊辅音 /ð/，声带振动；wind 作“风”时元音与 win 相同。",
+  "practice": [
+    {
+      "title": "Part 1 · Weather",
+      "prompt": "Does the weather affect your plans?",
+      "answer": "Yes. I prefer to exercise outdoors on mild days, but I choose an indoor activity when the weather makes being outside unpleasant."
+    },
+    {
+      "title": "Part 2 · A changed plan",
+      "prompt": "Describe a plan you changed because of the weather. Say what you planned, what happened, and what you did instead.",
+      "answer": "A friend and I planned to fly kites by a lake one weekend. The forecast said the wind might be very strong, so we discussed an indoor option. I called a climbing center and found two places in a beginner session. We met there in the morning and learned the basic moves with an instructor. It was different from our original plan, but we had fun trying something new. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Planning",
+      "prompt": "Why is it useful to have an alternative plan for outdoor activities?",
+      "answer": "Weather can change, so an alternative helps people use their time well. It can also reduce disappointment when a group has already arranged to meet."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "跟读讨论天气和备选安排的句子，然后把一次户外计划改到室内。",
+      "answer": "The forecast says it may be very windy. Shall we make another plan? We could try the indoor climbing center instead."
+    }
+  ]
+}

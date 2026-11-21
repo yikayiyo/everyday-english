@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-22",
+  "slug": "setting-up-wifi",
+  "title": "Connecting to the New Wi-Fi",
+  "title_zh": "连接新家的无线网络",
+  "context": "新住户 Nina 和室友 Owen 根据路由器标签连接家庭网络并确认连接成功。 本课为 2026-11-22 预制系列原创练习，并非真实考试题。",
+  "voices": {
+    "Nina": "marin",
+    "Owen": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Nina",
+      "en": "I cannot find our new Wi-Fi network on my laptop.",
+      "zh": "我的笔记本电脑找不到新家的无线网络。"
+    },
+    {
+      "speaker": "Owen",
+      "en": "The router is on. What network names can you see?",
+      "zh": "路由器开着。你能看到哪些网络名称？"
+    },
+    {
+      "speaker": "Nina",
+      "en": "I see one called Maple Home and another called Maple Guest.",
+      "zh": "我看到一个叫 Maple Home，另一个叫 Maple Guest。"
+    },
+    {
+      "speaker": "Owen",
+      "en": "Maple Home is ours. The name is on the label under the router.",
+      "zh": "Maple Home 是我们的。路由器底部的标签上有名称。"
+    },
+    {
+      "speaker": "Nina",
+      "en": "Found it. Is the password on that label, too?",
+      "zh": "找到了。密码也在标签上吗？"
+    },
+    {
+      "speaker": "Owen",
+      "en": "Yes. Be careful: the last character is a number, not a letter.",
+      "zh": "是的。注意，最后一个字符是数字，不是字母。"
+    },
+    {
+      "speaker": "Nina",
+      "en": "Thanks. I will type it again slowly.",
+      "zh": "谢谢。我会再慢慢输入一遍。"
+    },
+    {
+      "speaker": "Owen",
+      "en": "Does the laptop say it is connected now?",
+      "zh": "笔记本电脑现在显示已连接吗？"
+    },
+    {
+      "speaker": "Nina",
+      "en": "Yes, but let me open a page to check.",
+      "zh": "显示了，不过让我打开网页确认一下。"
+    },
+    {
+      "speaker": "Owen",
+      "en": "Good idea. My phone connected earlier, so the network is working for me.",
+      "zh": "好主意。我的手机刚才连上了，所以网络在我这边是正常的。"
+    },
+    {
+      "speaker": "Nina",
+      "en": "The page loaded. I must have typed the password wrong before.",
+      "zh": "网页加载出来了。我之前肯定是输错密码了。"
+    },
+    {
+      "speaker": "Owen",
+      "en": "Glad it works. Keep the password private when guests visit.",
+      "zh": "能用了就好。客人来时注意保管好密码。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "network name",
+      "zh": "网络名称，用来辨认要连接的网络。",
+      "example": "The network name appears on the screen."
+    },
+    {
+      "en": "on the label",
+      "zh": "在标签上。",
+      "example": "The model number is on the label."
+    },
+    {
+      "en": "type it again",
+      "zh": "再输入一次。",
+      "example": "Please type it again slowly."
+    },
+    {
+      "en": "open a page",
+      "zh": "打开网页。",
+      "example": "Open a page to test your connection."
+    },
+    {
+      "en": "load",
+      "zh": "加载，指网页内容显示出来。",
+      "example": "The page took a moment to load."
+    }
+  ],
+  "pronunciation": "router 在美式英语中常读作 ROW-ter；password 重音在第一音节。",
+  "practice": [
+    {
+      "title": "Part 1 · Internet",
+      "prompt": "What do you usually use the internet for at home?",
+      "answer": "I use it to talk with family, read the news, and watch short videos in the evening."
+    },
+    {
+      "title": "Part 2 · Solving a small problem",
+      "prompt": "Describe a small problem with a device that you solved. Say what happened, what you tried, and how it ended.",
+      "answer": "When I moved into a new apartment, my laptop would not connect to the Wi-Fi. My roommate showed me the network name and password on the router label. I noticed that I had entered a letter where there was a number. I typed the password again and opened a page to test it. The page loaded, and I felt relieved that we had found the mistake. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Technology",
+      "prompt": "Why can simple instructions make technology easier to use?",
+      "answer": "Clear instructions help people find the next step without feeling lost. They can also prevent small mistakes that waste time."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "跟读确认网络名称和密码的句子，再描述如何检查连接。",
+      "answer": "I can see the network name on the label. I will type the password carefully and open a page to check the connection."
+    }
+  ]
+}

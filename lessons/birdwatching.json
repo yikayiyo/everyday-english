@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-22",
+  "slug": "birdwatching",
+  "title": "A Quiet Morning Watching Birds",
+  "title_zh": "安静地观察鸟儿",
+  "context": "Mina 和朋友 Theo 在公园观察鸟儿，通过颜色和叫声记录所见，不确定时不急于认种。 本课属于 2026-11-22 预制系列，内容和练习题均为原创，并非真实考试题。",
+  "voices": {
+    "Mina": "marin",
+    "Theo": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Mina",
+      "en": "There's a small bird on that low branch. Can you see it?",
+      "zh": "那根低树枝上有只小鸟。你看见了吗？"
+    },
+    {
+      "speaker": "Theo",
+      "en": "Yes, I see it. Its chest looks orange from here.",
+      "zh": "看见了。从这里看，它的胸部是橙色的。"
+    },
+    {
+      "speaker": "Mina",
+      "en": "I'll look through my binoculars. Its back is gray, too.",
+      "zh": "我用双筒望远镜看看。它的背也是灰色的。"
+    },
+    {
+      "speaker": "Theo",
+      "en": "Could it be a robin? I'm not sure from this distance.",
+      "zh": "会不会是知更鸟？隔这么远我不太确定。"
+    },
+    {
+      "speaker": "Mina",
+      "en": "Maybe, but let's write down what we can actually see.",
+      "zh": "也许吧，不过我们先记下实际看到的特征。"
+    },
+    {
+      "speaker": "Theo",
+      "en": "Good idea. I hear a short song coming from that tree.",
+      "zh": "好主意。我听见那棵树上传来一段短促的鸟鸣。"
+    },
+    {
+      "speaker": "Mina",
+      "en": "I hear it too, but another bird could be singing.",
+      "zh": "我也听到了，不过也可能是另一只鸟在叫。"
+    },
+    {
+      "speaker": "Theo",
+      "en": "I'll note the sound separately, then. Oh, the bird just flew away.",
+      "zh": "那我把声音单独记下来。哦，鸟刚飞走了。"
+    },
+    {
+      "speaker": "Mina",
+      "en": "At least we had a good look without getting too close.",
+      "zh": "至少我们没有靠得太近，而且看得很清楚。"
+    },
+    {
+      "speaker": "Theo",
+      "en": "Yes. Let's compare our notes with the bird guide later.",
+      "zh": "是的。我们待会儿拿笔记和鸟类图鉴对照一下。"
+    },
+    {
+      "speaker": "Mina",
+      "en": "Would you like to sit on that bench for a while?",
+      "zh": "你想去那张长椅上坐一会儿吗？"
+    },
+    {
+      "speaker": "Theo",
+      "en": "I'd love to. We might see something else from there.",
+      "zh": "好啊。我们坐在那里也许还能看到别的鸟。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "from here",
+      "zh": "从这里看或听。",
+      "example": "The mountains look blue from here."
+    },
+    {
+      "en": "look through",
+      "zh": "透过某物观看。",
+      "example": "Look through the window at the garden."
+    },
+    {
+      "en": "write down",
+      "zh": "写下、记下。",
+      "example": "Write down the address before you leave."
+    },
+    {
+      "en": "fly away",
+      "zh": "飞走。",
+      "example": "The butterfly flew away when the wind picked up."
+    },
+    {
+      "en": "compare with",
+      "zh": "与……对照、比较。",
+      "example": "Compare your drawing with the photo."
+    }
+  ],
+  "pronunciation": "bird 中的 r 是美式卷舌音；binoculars 的重音在第二音节 NOC，不需要把每个字母分别读出。",
+  "practice": [
+    {
+      "title": "Part 1 · Birds",
+      "prompt": "Do you notice birds where you live?",
+      "answer": "Yes. I often see small birds near the trees outside my apartment. I enjoy hearing them in the morning, although I cannot name all of them."
+    },
+    {
+      "title": "Part 2 · Watching an animal",
+      "prompt": "Describe a time you watched an animal. Say where you were, what the animal did, and what you noticed.",
+      "answer": "One morning I watched a small bird in a park with a friend. It sat on a low branch, and we could see its orange chest and gray back. We were not certain what kind of bird it was, so we wrote down the colors instead of guessing. After it flew away, we sat on a bench and compared our notes with a bird guide. It was a peaceful way to spend the morning. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Observing nature",
+      "prompt": "Why might observing nature be useful for city residents?",
+      "answer": "It can encourage people to slow down and notice the living things around them. Shared green spaces also give residents a place to learn and spend time outdoors."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "跟读观察鸟儿的对话，描述颜色与位置；不确定鸟的种类时坦诚说明。",
+      "answer": "There's a small bird on that branch. Its chest looks orange, but I'm not sure what kind it is. Let's write down what we see."
+    }
+  ]
+}

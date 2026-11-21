@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-22",
+  "slug": "choosing-a-podcast",
+  "title": "Finding a Podcast for the Commute",
+  "title_zh": "挑选通勤播客",
+  "context": "Maya 和 Noah 想找一档适合坐公交时听的播客，比较时长、话题和语速。 本课属于 2026-11-22 预制系列，题目是原创口语练习，并非真实考试题。",
+  "voices": {
+    "Maya": "marin",
+    "Noah": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Maya",
+      "en": "My bus ride feels long lately. Do you know a good podcast?",
+      "zh": "最近坐公交感觉很漫长。你知道什么好播客吗？"
+    },
+    {
+      "speaker": "Noah",
+      "en": "What kind of topics do you like listening to?",
+      "zh": "你喜欢听哪类话题？"
+    },
+    {
+      "speaker": "Maya",
+      "en": "I enjoy stories about everyday life, especially short ones.",
+      "zh": "我喜欢日常生活故事，尤其是简短的。"
+    },
+    {
+      "speaker": "Noah",
+      "en": "There's a show about people and their unusual jobs.",
+      "zh": "有一档节目讲人们和他们不寻常的工作。"
+    },
+    {
+      "speaker": "Maya",
+      "en": "That sounds interesting. How long do the episodes usually last?",
+      "zh": "听起来很有意思。每集通常有多长？"
+    },
+    {
+      "speaker": "Noah",
+      "en": "Most are around twenty minutes, about the length of your ride.",
+      "zh": "大多数大约二十分钟，和你的车程差不多。"
+    },
+    {
+      "speaker": "Maya",
+      "en": "Do the guests speak quickly? I sometimes miss details.",
+      "zh": "嘉宾说话快吗？我有时会漏掉细节。"
+    },
+    {
+      "speaker": "Noah",
+      "en": "Some do, but you can slow the playback in the app.",
+      "zh": "有些人说得快，不过你可以在应用里调慢播放速度。"
+    },
+    {
+      "speaker": "Maya",
+      "en": "That's helpful. Is there a transcript I can read later?",
+      "zh": "这很有帮助。有没有文字稿可以之后看？"
+    },
+    {
+      "speaker": "Noah",
+      "en": "The episode page has one for the interview I heard.",
+      "zh": "我听过的那期采访在节目页面上有文字稿。"
+    },
+    {
+      "speaker": "Maya",
+      "en": "I'll try that episode on my way home today.",
+      "zh": "我今天回家路上试着听听那一集。"
+    },
+    {
+      "speaker": "Noah",
+      "en": "Let me know what you think. We can compare favorite stories.",
+      "zh": "告诉我你的感受。我们可以聊聊各自最喜欢的故事。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "what kind of",
+      "zh": "哪一种或哪一类。",
+      "example": "What kind of music do you enjoy?"
+    },
+    {
+      "en": "around twenty minutes",
+      "zh": "大约二十分钟；around 表示约数。",
+      "example": "The walk takes around twenty minutes."
+    },
+    {
+      "en": "miss details",
+      "zh": "漏掉细节。",
+      "example": "I missed some details in the story."
+    },
+    {
+      "en": "slow the playback",
+      "zh": "调慢播放速度。",
+      "example": "You can slow the playback in this app."
+    },
+    {
+      "en": "let me know",
+      "zh": "告诉我。",
+      "example": "Let me know when you get home."
+    }
+  ],
+  "pronunciation": "podcast 重读第一个音节；episode 重读第一个音节，结尾为 /soʊd/，最后发 /d/。",
+  "practice": [
+    {
+      "title": "Part 1 · Listening",
+      "prompt": "When do you usually listen to podcasts or other audio?",
+      "answer": "I usually listen on the bus. A short story makes the ride feel more enjoyable."
+    },
+    {
+      "title": "Part 2 · Something interesting you listened to",
+      "prompt": "Describe something interesting you listened to. Say what it was, when you heard it, and why you liked it.",
+      "answer": "I listened to a podcast interview during my ride home last week. A woman talked about her job repairing old musical instruments. The episode was about twenty minutes long, so I finished it before I reached my stop. I liked hearing how she learned the work from her grandfather. Later I read the transcript to understand a few details I had missed. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Audio and learning",
+      "prompt": "Why might audio programs be useful for learning?",
+      "answer": "People can listen while traveling or doing simple tasks. They can also replay difficult parts, although a transcript may help when the sound or topic is unfamiliar."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "跟读后描述你想听的播客，并询问时长和文字稿。",
+      "answer": "I'd like a podcast about everyday life. How long are the episodes? Is there a transcript I can read?"
+    }
+  ]
+}

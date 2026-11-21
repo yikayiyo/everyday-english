@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-22",
+  "slug": "fixing-a-flat-tire",
+  "title": "Calling for Help with a Flat Tire",
+  "title_zh": "轮胎漏气时寻求专业帮助",
+  "context": "停车场里，Rachel 发现车胎漏气；朋友 Omar 陪她联系道路救援，并等专业人员处理。 本课属于 2026-11-22 预制系列，练习题为原创练习，并非真实考试题。",
+  "voices": {
+    "Rachel": "marin",
+    "Omar": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Rachel",
+      "en": "My car tire looks flat. I do not think I should drive on it.",
+      "zh": "我的车胎看起来瘪了。我觉得不该继续开。"
+    },
+    {
+      "speaker": "Omar",
+      "en": "Let us stay here in the parking lot and call for help.",
+      "zh": "我们留在停车场这里，打电话求助吧。"
+    },
+    {
+      "speaker": "Rachel",
+      "en": "I have the number for my roadside assistance service.",
+      "zh": "我有道路救援服务的电话号码。"
+    },
+    {
+      "speaker": "Omar",
+      "en": "Good. Tell them where the car is and what you can see.",
+      "zh": "好。告诉他们车在哪里，以及你看到的情况。"
+    },
+    {
+      "speaker": "Rachel",
+      "en": "I told them we are in the lot beside the grocery store.",
+      "zh": "我告诉他们我们在杂货店旁的停车场。"
+    },
+    {
+      "speaker": "Omar",
+      "en": "Did they say when someone might arrive?",
+      "zh": "他们说了大概什么时候会有人来吗？"
+    },
+    {
+      "speaker": "Rachel",
+      "en": "They expect a technician in about forty minutes, depending on traffic.",
+      "zh": "他们预计技师大约四十分钟后到，具体要看路况。"
+    },
+    {
+      "speaker": "Omar",
+      "en": "We can wait inside the store if you prefer.",
+      "zh": "如果你愿意，我们可以到店里等。"
+    },
+    {
+      "speaker": "Rachel",
+      "en": "Thanks. I gave them my number so they can call when they arrive.",
+      "zh": "谢谢。我把号码给了他们，他们到了可以打给我。"
+    },
+    {
+      "speaker": "Omar",
+      "en": "Do you know whether they can repair it here?",
+      "zh": "你知道他们能否在这里修好吗？"
+    },
+    {
+      "speaker": "Rachel",
+      "en": "They said the technician will inspect it first and explain the options.",
+      "zh": "他们说技师会先检查，再说明有哪些选择。"
+    },
+    {
+      "speaker": "Omar",
+      "en": "That sounds sensible. Let us wait for the professional.",
+      "zh": "这样很妥当。我们等专业人员来吧。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "a flat tire",
+      "zh": "瘪胎、漏气的轮胎。",
+      "example": "I noticed a flat tire in the parking lot."
+    },
+    {
+      "en": "roadside assistance",
+      "zh": "道路救援服务。",
+      "example": "She called roadside assistance for help."
+    },
+    {
+      "en": "depending on traffic",
+      "zh": "取决于路况。",
+      "example": "The trip could take an hour, depending on traffic."
+    },
+    {
+      "en": "inspect it first",
+      "zh": "先检查它。",
+      "example": "The mechanic will inspect it first."
+    },
+    {
+      "en": "explain the options",
+      "zh": "说明可选方案。",
+      "example": "The technician will explain the options after checking."
+    }
+  ],
+  "pronunciation": "tire 在美式英语中通常读作一个音节或接近一个音节，尾部带 r 音；technician 重音在中间的 NI 音节。",
+  "practice": [
+    {
+      "title": "Part 1 · Travel problems",
+      "prompt": "What do you do when a journey does not go as planned?",
+      "answer": "I try to find a safe place to stop and then contact someone who can help. I also let the people waiting for me know about the delay."
+    },
+    {
+      "title": "Part 2 · Getting help",
+      "prompt": "Describe a time you needed help during a journey. Say what happened, whom you contacted, and how the situation ended.",
+      "answer": "Once I noticed that a tire looked flat when I returned to my car in a parking lot. I stayed there and called my roadside assistance service. I explained my location and gave them my phone number. A technician arrived after a wait and inspected the tire. The technician explained the available options, and I arranged to have the tire dealt with professionally. I was relieved that I had asked for help. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Asking for help",
+      "prompt": "Why do some people hesitate to ask for professional help?",
+      "answer": "They may worry about the cost or think they should solve every problem themselves. Clear information about the service can help them decide what support they need."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "跟读说明位置和询问到达时间的句子，再练习向救援人员描述情况。",
+      "answer": "My tire looks flat. I am in the parking lot beside the grocery store. Could you send someone to inspect it?"
+    }
+  ]
+}

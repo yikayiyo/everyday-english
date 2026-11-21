@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-22",
+  "slug": "picking-up-a-cake",
+  "title": "Picking Up a Birthday Cake",
+  "title_zh": "领取生日蛋糕",
+  "context": "Rosa 到甜品店领取预订的蛋糕，店员 Daniel 帮她核对文字。 本课为 2026-11-22 预制系列原创练习，并非真实考试题。",
+  "voices": {
+    "Rosa": "marin",
+    "Daniel": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Rosa",
+      "en": "I am here to pick up a cake I ordered for today.",
+      "zh": "我是来领取今天预订的蛋糕的。"
+    },
+    {
+      "speaker": "Daniel",
+      "en": "Certainly. What name is the order under?",
+      "zh": "好的。订单登记的是哪个名字？"
+    },
+    {
+      "speaker": "Rosa",
+      "en": "It's under Rosa Chen. It's a chocolate cake for my brother.",
+      "zh": "名字是 Rosa Chen。那是给我弟弟订的巧克力蛋糕。"
+    },
+    {
+      "speaker": "Daniel",
+      "en": "I found it. Would you like to check the writing before I close the box?",
+      "zh": "找到了。我盖盒子前你想检查一下上面的字吗？"
+    },
+    {
+      "speaker": "Rosa",
+      "en": "Yes, please. It should say Happy Birthday, Alex.",
+      "zh": "好的。上面应该写着“生日快乐，Alex”。"
+    },
+    {
+      "speaker": "Daniel",
+      "en": "Here it is. Is the spelling correct?",
+      "zh": "给你看。拼写正确吗？"
+    },
+    {
+      "speaker": "Rosa",
+      "en": "It looks right. The blue letters are lovely, too.",
+      "zh": "看起来没错。蓝色的字也很漂亮。"
+    },
+    {
+      "speaker": "Daniel",
+      "en": "Great. I will put the lid on and tie the box.",
+      "zh": "太好了。我来盖好盖子并系好盒子。"
+    },
+    {
+      "speaker": "Rosa",
+      "en": "Should I hold it flat on the way home?",
+      "zh": "回家路上我需要平着拿吗？"
+    },
+    {
+      "speaker": "Daniel",
+      "en": "Yes, that will help keep the cake in place.",
+      "zh": "是的，这样有助于蛋糕保持原位。"
+    },
+    {
+      "speaker": "Rosa",
+      "en": "Thanks. I have a flat space on the car floor for it.",
+      "zh": "谢谢。我的车地板上有平坦的地方可以放。"
+    },
+    {
+      "speaker": "Daniel",
+      "en": "That sounds good. Enjoy the celebration!",
+      "zh": "听起来不错。祝你们庆祝愉快！"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "pick up an order",
+      "zh": "领取订单。",
+      "example": "I will pick up my order after work."
+    },
+    {
+      "en": "under the name",
+      "zh": "登记在某个名字下。",
+      "example": "The reservation is under the name Lee."
+    },
+    {
+      "en": "check the spelling",
+      "zh": "检查拼写。",
+      "example": "Please check the spelling on the card."
+    },
+    {
+      "en": "hold it flat",
+      "zh": "平稳地托着，不倾斜。",
+      "example": "Hold the tray flat as you carry it."
+    },
+    {
+      "en": "in place",
+      "zh": "在原位，不移位。",
+      "example": "The lid keeps the papers in place."
+    }
+  ],
+  "pronunciation": "birthday 重音在第一音节，th 发 /θ/，舌尖轻触上下齿间；chocolate 通常读作两个音节。",
+  "practice": [
+    {
+      "title": "Part 1 · Celebrations",
+      "prompt": "Do you usually have cake at celebrations?",
+      "answer": "Sometimes. My family likes to share a small cake on birthdays, and we choose a flavor the birthday person enjoys."
+    },
+    {
+      "title": "Part 2 · A special cake",
+      "prompt": "Describe a cake you shared at a celebration. Say what it looked like, who shared it, and why you remember it.",
+      "answer": "For my brother's birthday, I picked up a chocolate cake from a small bakery. It had blue letters spelling his name on top. I checked the writing before the worker closed the box, then carried it carefully to the car. At home, our family sang together and shared the cake. My brother smiled when he saw his name, which made the day special. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Celebrations",
+      "prompt": "Why do people often include special food in celebrations?",
+      "answer": "Special food can make an occasion feel different from an ordinary day. Sharing it also gives people a simple way to spend time together."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "跟读核对订单的对话，再说明名字并确认蛋糕上的文字。",
+      "answer": "I'm here to pick up an order under Lee. Could I check the writing? Yes, the name is spelled correctly."
+    }
+  ]
+}

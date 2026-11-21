@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-22",
+  "slug": "planning-a-hike",
+  "title": "Choosing a Trail for a First Hike",
+  "title_zh": "为第一次徒步选择路线",
+  "context": "Molly 和 Evan 为初次同行的短途徒步挑选路线，确认集合和出发前查询信息。 本课为 2026-11-22 预制系列原创练习，并非真实考试题。",
+  "voices": {
+    "Molly": "marin",
+    "Evan": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Molly",
+      "en": "Would you like to go hiking with me next Sunday?",
+      "zh": "下周日你愿意和我一起徒步吗？"
+    },
+    {
+      "speaker": "Evan",
+      "en": "Yes, but I am new to hiking. Could we choose an easy trail?",
+      "zh": "愿意，不过我是徒步新手。我们能选一条简单的路线吗？"
+    },
+    {
+      "speaker": "Molly",
+      "en": "Of course. The park map shows a short loop around the lake.",
+      "zh": "当然。公园地图上有一条绕湖的短环线。"
+    },
+    {
+      "speaker": "Evan",
+      "en": "That sounds manageable. Is there a place to rest along it?",
+      "zh": "听起来我能走下来。沿途有休息的地方吗？"
+    },
+    {
+      "speaker": "Molly",
+      "en": "The map shows benches near the water. We can take breaks.",
+      "zh": "地图上显示水边有长椅。我们可以休息。"
+    },
+    {
+      "speaker": "Evan",
+      "en": "Great. I will bring water and comfortable walking shoes.",
+      "zh": "太好了。我会带水，穿舒服的步行鞋。"
+    },
+    {
+      "speaker": "Molly",
+      "en": "I will bring a small snack and check the park updates before we leave.",
+      "zh": "我会带点零食，并在出发前查看公园的最新信息。"
+    },
+    {
+      "speaker": "Evan",
+      "en": "Good idea. If the trail is closed, we can choose another day.",
+      "zh": "好主意。如果路线关闭，我们可以改天再去。"
+    },
+    {
+      "speaker": "Molly",
+      "en": "Where should we meet?",
+      "zh": "我们在哪里见面？"
+    },
+    {
+      "speaker": "Evan",
+      "en": "How about the park entrance at nine in the morning?",
+      "zh": "早上九点在公园入口怎么样？"
+    },
+    {
+      "speaker": "Molly",
+      "en": "That works. We can turn back if either of us feels tired.",
+      "zh": "可以。如果我们任何一个人觉得累，就可以往回走。"
+    },
+    {
+      "speaker": "Evan",
+      "en": "Perfect. I am looking forward to a relaxed walk together.",
+      "zh": "太好了。我很期待一起轻松地走一走。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "easy trail",
+      "zh": "容易走的步道。",
+      "example": "We chose an easy trail for our first walk."
+    },
+    {
+      "en": "a short loop",
+      "zh": "一段短的环线，回到出发处附近。",
+      "example": "The map shows a short loop through the woods."
+    },
+    {
+      "en": "take a break",
+      "zh": "休息一下。",
+      "example": "Let us take a break by the bench."
+    },
+    {
+      "en": "park updates",
+      "zh": "公园发布的最新信息。",
+      "example": "Check the park updates before your visit."
+    },
+    {
+      "en": "turn back",
+      "zh": "往回走，折返。",
+      "example": "We decided to turn back before dark."
+    }
+  ],
+  "pronunciation": "hiking 重音在第一音节，开头元音与 high 相同；trail 以 /tr/ 开头，结尾有清楚的 /l/。",
+  "practice": [
+    {
+      "title": "Part 1 · Walking",
+      "prompt": "Do you enjoy walking outdoors?",
+      "answer": "Yes. I like walking on quiet paths in the morning because it helps me relax and notice the trees."
+    },
+    {
+      "title": "Part 2 · A walk you planned",
+      "prompt": "Describe a walk you planned with someone. Say where you went, how you prepared, and what you enjoyed.",
+      "answer": "I planned a short walk around a lake with a friend who was new to hiking. We looked at the park map and chose a loop with benches where we could rest. We brought water, wore comfortable shoes, and checked the park updates before leaving. We agreed that either of us could turn back if tired. I enjoyed having time to talk without rushing. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Outdoor activities",
+      "prompt": "Why is it helpful to choose an outdoor activity that fits everyone in a group?",
+      "answer": "People have different experience and energy levels. Choosing a suitable activity makes it easier for everyone to join in and enjoy the time together."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "跟读商量路线的对话，再邀请朋友徒步并说明准备和折返安排。",
+      "answer": "Would you like to try the short lake loop? We can bring water and check park updates first. If either of us gets tired, we can turn back."
+    }
+  ]
+}

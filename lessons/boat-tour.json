@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-22",
+  "slug": "boat-tour",
+  "title": "A Harbor Boat Tour",
+  "title_zh": "港口游船之旅",
+  "context": "Clara 和售票员 Daniel 讨论港口游船的座位和登船地点，并选定下午的航次。 本课属于 2026-11-22 预制系列，题目是原创口语练习，并非真实考试题。",
+  "voices": {
+    "Clara": "marin",
+    "Daniel": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Clara",
+      "en": "Good morning. Are there any harbor boat tours this afternoon?",
+      "zh": "早上好。今天下午有游览港口的船吗？"
+    },
+    {
+      "speaker": "Daniel",
+      "en": "Yes, our next tour leaves at two and takes about an hour.",
+      "zh": "有，下一班两点出发，游览大约一小时。"
+    },
+    {
+      "speaker": "Clara",
+      "en": "That sounds good. Can we sit outside during the trip?",
+      "zh": "听起来不错。途中可以坐在室外吗？"
+    },
+    {
+      "speaker": "Daniel",
+      "en": "Yes, there are outdoor seats, as well as seats inside.",
+      "zh": "可以，室外和室内都有座位。"
+    },
+    {
+      "speaker": "Clara",
+      "en": "My father prefers the shade. Is there a covered area?",
+      "zh": "我父亲喜欢阴凉处。有遮阳的地方吗？"
+    },
+    {
+      "speaker": "Daniel",
+      "en": "There is a roof over part of the upper deck.",
+      "zh": "上层甲板有一部分有顶棚。"
+    },
+    {
+      "speaker": "Clara",
+      "en": "Great. Where do we get on the boat?",
+      "zh": "太好了。我们在哪里登船？"
+    },
+    {
+      "speaker": "Daniel",
+      "en": "At the pier behind this building. Look for the blue sign.",
+      "zh": "在这栋楼后面的码头。找蓝色的标牌。"
+    },
+    {
+      "speaker": "Clara",
+      "en": "Should we be there before two?",
+      "zh": "我们应该两点前到那里吗？"
+    },
+    {
+      "speaker": "Daniel",
+      "en": "Please arrive fifteen minutes early for this tour.",
+      "zh": "这班船请提前十五分钟到。"
+    },
+    {
+      "speaker": "Clara",
+      "en": "Then I'd like a pair of tickets for that tour, please.",
+      "zh": "那我想买两张这班游船的票。"
+    },
+    {
+      "speaker": "Daniel",
+      "en": "Here you are. Enjoy the view from the water!",
+      "zh": "给您。祝你们从水上欣赏美景愉快！"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "as well as",
+      "zh": "以及，也有；连接并列的信息。",
+      "example": "The room has a desk as well as a bed."
+    },
+    {
+      "en": "covered area",
+      "zh": "有遮盖的区域。",
+      "example": "We found a covered area near the entrance."
+    },
+    {
+      "en": "get on",
+      "zh": "登上交通工具。",
+      "example": "We got on the ferry together."
+    },
+    {
+      "en": "look for",
+      "zh": "寻找；注意辨认。",
+      "example": "Look for the red door on the left."
+    },
+    {
+      "en": "arrive early",
+      "zh": "提前到达。",
+      "example": "Let's arrive early to find our seats."
+    }
+  ],
+  "pronunciation": "harbor 的重音在第一个音节；在 get on 中，get 末尾的 /t/ 可自然连到 on 的元音。",
+  "practice": [
+    {
+      "title": "Part 1 · Trips on water",
+      "prompt": "Do you enjoy traveling by boat?",
+      "answer": "Yes, I do. I like seeing familiar places from the water, especially on a calm day."
+    },
+    {
+      "title": "Part 2 · A memorable short trip",
+      "prompt": "Describe a short trip you enjoyed. Say where you went, who went with you, and what made it memorable.",
+      "answer": "Last summer I took a short boat trip around a harbor with my father. We sat under a roof on the upper deck and watched the boats pass. A guide pointed out an old bridge and a small island. My father took pictures while I enjoyed the cool air. The trip lasted about an hour, but it felt like a lovely break from the city. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Seeing a place",
+      "prompt": "How can a guided tour change the way people see a place?",
+      "answer": "A guide can point out details visitors might miss and explain their history. However, some people prefer exploring at their own pace, so both choices can be useful."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "跟读后扮演游客，询问出发时间、座位和登船地点。",
+      "answer": "When does the boat leave? Is there a covered seat? Where should I get on?"
+    }
+  ]
+}
