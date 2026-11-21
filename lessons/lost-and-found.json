@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-20",
+  "slug": "lost-and-found",
+  "title": "Reporting a Lost Phone",
+  "title_zh": "在火车站失物招领处挂失手机",
+  "context": "Maya 下班后发现手机落在通勤火车上。她赶到联合车站的失物招领处，工作人员 Owen 根据车次、时间和手机外观，在今早的登记里找到一部刚被上交的黑色蓝壳手机。Maya 认出锁屏壁纸是她的狗在海边的照片，出示驾照并在领取表上签字后取回了手机，今天没有手续费。",
+  "voices": {
+    "Owen": "cedar",
+    "Maya": "marin"
+  },
+  "dialogue": [
+    {
+      "speaker": "Owen",
+      "en": "Hi there. How can I help you today?",
+      "zh": "你好。今天有什么可以帮你的？"
+    },
+    {
+      "speaker": "Maya",
+      "en": "Hi. I think I left my phone on the train, and I was hoping someone turned it in.",
+      "zh": "你好。我好像把手机落在火车上了，希望已经有人交过来了。"
+    },
+    {
+      "speaker": "Owen",
+      "en": "I'm sorry to hear that. Which train were you on, and about what time did you get off?",
+      "zh": "听到这个我很遗憾。你坐的是哪趟车，大概什么时候下车的？"
+    },
+    {
+      "speaker": "Maya",
+      "en": "I was on the 8:15 into Union Station, and I got off around 8:40. It's a black phone with a blue case.",
+      "zh": "我坐的是 8:15 到联合车站的那趟，大概 8:40 下的车。是一部黑色手机，配蓝色手机壳。"
+    },
+    {
+      "speaker": "Owen",
+      "en": "Okay. Let me check this morning's log. A commuter turned in a black phone with a blue case about twenty minutes ago.",
+      "zh": "好的。我先查一下今早的登记。大约二十分钟前，有位乘客交来一部黑色、蓝色壳的手机。"
+    },
+    {
+      "speaker": "Maya",
+      "en": "That sounds like mine. Is there a way I can confirm it's mine?",
+      "zh": "听起来像我的。有办法确认是我的吗？"
+    },
+    {
+      "speaker": "Owen",
+      "en": "I can show you the lock screen through the bag. If you recognize the wallpaper, I'll have you sign for it.",
+      "zh": "我可以隔着袋子让你看锁屏。如果你能认出壁纸，就请你签字领取。"
+    },
+    {
+      "speaker": "Maya",
+      "en": "Yes, that's it. The wallpaper is a photo of my dog at the beach.",
+      "zh": "对，就是它。壁纸是我的狗在海边的照片。"
+    },
+    {
+      "speaker": "Owen",
+      "en": "Perfect. I'll need to see a photo ID, and then you can sign this claim form.",
+      "zh": "太好了。我需要看一下带照片的证件，然后请你签一下这张领取表。"
+    },
+    {
+      "speaker": "Maya",
+      "en": "Here's my driver's license. Is there a fee to pick it up?",
+      "zh": "这是我的驾照。取回手机需要收费吗？"
+    },
+    {
+      "speaker": "Owen",
+      "en": "There's no fee today. Just sign here, and please keep an eye on your belongings on the train next time.",
+      "zh": "今天不收费。在这里签字就行。下次在火车上请看好自己的随身物品。"
+    },
+    {
+      "speaker": "Maya",
+      "en": "I will. Thank you so much for holding on to it. I really thought it was gone.",
+      "zh": "我会的。非常感谢你们帮我保管。我真以为再也找不回来了。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "Turn something in",
+      "zh": "上交（捡到的失物）。在失物招领处，常说 someone turned it in，表示有人把捡到的东西交了过来。",
+      "example": "I think I left my phone on the train, and I was hoping someone turned it in."
+    },
+    {
+      "en": "Get off",
+      "zh": "下车。上车是 get on，下车是 get off，后面常接 the train，也可以说出大概时间。",
+      "example": "Which train were you on, and about what time did you get off?"
+    },
+    {
+      "en": "Sign for it",
+      "zh": "签字领取。取回失物时，工作人员通常会让你签字确认这件东西是你领走的。",
+      "example": "If you recognize the wallpaper, I'll have you sign for it."
+    },
+    {
+      "en": "Claim form",
+      "zh": "领取表。取失物时要签署的表格，用来记录是谁领走了物品。",
+      "example": "I'll need to see a photo ID, and then you can sign this claim form."
+    },
+    {
+      "en": "Hold on to something",
+      "zh": "暂为保管、先留着。对失物招领处帮忙保管物品表示感谢时很常用。",
+      "example": "Thank you so much for holding on to it."
+    }
+  ],
+  "pronunciation": "练习 Union 的开头是 /j/，读作 YOON-yun /ˈjuːnjən/。commuter 的重音在第二音节，读作 kuh-MYOO-ter /kəˈmjuːtər/。wallpaper 的重音在第一音节，读作 WALL-pay-per /ˈwɔːlpeɪpər/。belongings 的重音在第二音节，读作 bi-LONG-ingz /bɪˈlɔːŋɪŋz/。license 读作 LY-suhns /ˈlaɪsns/。",
+  "practice": [
+    {
+      "title": "Part 1 · Lost things",
+      "prompt": "Have you ever lost your phone or wallet? What do you do if you lose something important?",
+      "answer": "Yes, I once left my phone on the train. I went to the lost and found as soon as I could and described it, including the case and the lock-screen wallpaper. Luckily, someone had turned it in, so I showed my ID and signed a claim form. Now I try to keep a closer eye on my belongings in public places."
+    },
+    {
+      "title": "Part 2 · A time you lost something important",
+      "prompt": "Describe a time you lost something important. Say what you lost, where you were, what you did to find it, and how it ended.",
+      "answer": "I lost my phone on the 8:15 train into Union Station. When I got off around 8:40, I realized it was gone, so I went straight to the lost and found. I told the staff the train time and said it was a black phone with a blue case. They had a phone that someone had turned in, and I recognized the wallpaper of my dog at the beach. I showed my driver's license, signed the claim form, and got it back with no fee. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Lost property in public places",
+      "prompt": "Why do people often lose things on trains or in stations, and how can public places help them get those things back?",
+      "answer": "People often lose things on trains because they are in a hurry, or they are carrying bags and getting off quickly. Stations can help by having a clear lost and found office, keeping a log of items, and asking for a description or photo ID before giving something back. It also helps when other passengers turn things in instead of leaving them on a seat."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "先听完整对话，再逐句跟读。最后练习在失物招领处说明情况：东西掉在哪趟车上、什么时候下车、物品长什么样，以及如何确认、出示证件和签字领取。",
+      "answer": "用 4–6 句说明你丢失的物品，并询问是否已有人上交、如何确认是你的、要不要证件和手续费。"
+    }
+  ]
+}
