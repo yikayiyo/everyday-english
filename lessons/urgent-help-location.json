@@ -1,0 +1,124 @@
+{
+  "supplement_id": "S09",
+  "date": "2026-11-22",
+  "slug": "urgent-help-location",
+  "title": "Requesting Urgent Help and Giving a Location",
+  "title_zh": "紧急求助与说明位置",
+  "context": "虚构的美国场景：Maya 在虚构的 Willow Falls 市 Pine Park 东门附近看到一人倒在地上，拨打 911。接线员 Alex 核对位置和虚构回拨号码，请她留在线上听从指引。本对话仅为语言练习片段，并非完整的紧急调度流程；真实紧急情况请拨打当地紧急号码并遵循接线员指示。",
+  "voices": {
+    "Maya": "marin",
+    "Alex": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Maya",
+      "en": "I need urgent help. Someone is lying on the ground at Pine Park on Oak Street in Willow Falls.",
+      "zh": "我需要紧急帮助。有人倒在 Willow Falls 市 Oak Street 上 Pine Park 的地上。"
+    },
+    {
+      "speaker": "Alex",
+      "en": "I am the dispatcher. Where in Pine Park on Oak Street are you?",
+      "zh": "我是接线员。你在 Oak Street 上 Pine Park 的什么位置？"
+    },
+    {
+      "speaker": "Maya",
+      "en": "I am just inside the east gate, beside the red information sign.",
+      "zh": "我在东门内侧，就在红色信息牌旁边。"
+    },
+    {
+      "speaker": "Alex",
+      "en": "Just inside the east gate beside the red sign, correct?",
+      "zh": "就在东门内侧的红色牌子旁边，对吗？"
+    },
+    {
+      "speaker": "Maya",
+      "en": "Yes, that is correct. The person is not speaking to me.",
+      "zh": "是的，没错。那个人没有和我说话。"
+    },
+    {
+      "speaker": "Alex",
+      "en": "Help is being sent. What number can we call you back on?",
+      "zh": "救援正在派出。我们可以用哪个号码回拨给你？"
+    },
+    {
+      "speaker": "Maya",
+      "en": "The number is 202-555-0147.",
+      "zh": "号码是 202-555-0147。"
+    },
+    {
+      "speaker": "Alex",
+      "en": "I heard 202-555-0147. Is that right?",
+      "zh": "我听到的是 202-555-0147。对吗？"
+    },
+    {
+      "speaker": "Maya",
+      "en": "Yes. I am still beside the east gate.",
+      "zh": "对。我还在东门旁边。"
+    },
+    {
+      "speaker": "Alex",
+      "en": "Please stay on the line and listen to my instructions.",
+      "zh": "请不要挂断电话，听我的指示。"
+    },
+    {
+      "speaker": "Maya",
+      "en": "I will stay on the line. Please tell me what to do.",
+      "zh": "我会保持通话。请告诉我该怎么做。"
+    },
+    {
+      "speaker": "Alex",
+      "en": "I am here with you. Keep listening while help is on the way.",
+      "zh": "我会一直和你通话。救援赶来时请继续听我说。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "I need urgent help",
+      "zh": "我需要紧急帮助，用于清楚说明求助目的。",
+      "example": "I need urgent help at the park."
+    },
+    {
+      "en": "just inside the east gate",
+      "zh": "就在东门内侧，说明相对于入口的位置。",
+      "example": "I am just inside the east gate."
+    },
+    {
+      "en": "beside the sign",
+      "zh": "在牌子旁边，用醒目标志辅助定位。",
+      "example": "We are beside the red sign."
+    },
+    {
+      "en": "call you back",
+      "zh": "给你回拨，用于确认可联系的号码。",
+      "example": "What number can we call you back on?"
+    },
+    {
+      "en": "stay on the line",
+      "zh": "保持通话，不要挂断。",
+      "example": "Please stay on the line."
+    }
+  ],
+  "pronunciation": "urgent 重音在第一音节 /ˈɝːdʒənt/；location 重音在第二音节 /loʊˈkeɪʃən/。朗读号码时逐个数字说清楚，并停顿核对。",
+  "practice": [
+    {
+      "title": "Part 1 · Giving a location",
+      "prompt": "How would you describe where you are in an unfamiliar place?",
+      "answer": "I would look for an entrance, a street name, or a clear sign. Then I would describe my position beside it."
+    },
+    {
+      "title": "Part 2 · Asking for help",
+      "prompt": "Describe an imagined situation where you need urgent help in a public place. Explain what you would say and how you would give your location.",
+      "answer": "In an imaginary situation, I am near the entrance of a public park and see someone lying on the ground. I call the local emergency service and clearly ask for help. I give the park name, the entrance, and a nearby sign. I describe only what I can observe and give a callback number when asked. I stay on the line and listen carefully to the dispatcher. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Clear communication",
+      "prompt": "Why is a precise location useful when asking for urgent help?",
+      "answer": "A precise location can help responders find the caller. Repeating a landmark or entrance gives both people a chance to correct a misunderstanding."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "先听完整对话，再逐句跟读，再完成口头练习。",
+      "answer": "用四到六句请求帮助，说明可观察情况、入口和标志，复述虚构回拨号码并表示会听从接线员指导。"
+    }
+  ]
+}

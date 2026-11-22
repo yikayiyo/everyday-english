@@ -1,0 +1,124 @@
+{
+  "supplement_id": "S03",
+  "date": "2026-11-22",
+  "slug": "ride-pickup-confirmation",
+  "title": "Confirming a Ride Pickup",
+  "title_zh": "叫车确认上车地点",
+  "context": "乘客 Maya 和司机 Cole 通过叫车应用联系。Maya 在图书馆东门，Cole 原在西门；他们重新约在东门，并在上车前核对应用中的司机、车辆和目的地。",
+  "voices": {
+    "Maya": "marin",
+    "Cole": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Maya",
+      "en": "Hello, this is Maya. Are you Cole, my driver?",
+      "zh": "你好，我是 Maya。你是我的司机 Cole 吗？"
+    },
+    {
+      "speaker": "Cole",
+      "en": "Yes, I am Cole. I am at the library west entrance.",
+      "zh": "是的，我是 Cole。我在图书馆西门。"
+    },
+    {
+      "speaker": "Maya",
+      "en": "I am at the east entrance. Could you meet me here instead?",
+      "zh": "我在东门。你能改到这里接我吗？"
+    },
+    {
+      "speaker": "Cole",
+      "en": "Yes, I will drive around to the east entrance.",
+      "zh": "可以，我会开到东门。"
+    },
+    {
+      "speaker": "Maya",
+      "en": "Thank you. I am beside the sign for the east entrance.",
+      "zh": "谢谢。我在东门标志旁边。"
+    },
+    {
+      "speaker": "Cole",
+      "en": "I see the sign now, and I have stopped beside it.",
+      "zh": "我现在看到标志了，已经停在旁边。"
+    },
+    {
+      "speaker": "Maya",
+      "en": "Before I get in, my app shows Cole and a blue car. Is that you?",
+      "zh": "上车前我确认一下：我的应用显示司机是 Cole，车是蓝色的。是你吗？"
+    },
+    {
+      "speaker": "Cole",
+      "en": "Yes. Please also check the license plate against your app.",
+      "zh": "是的。也请你对照应用核对一下车牌。"
+    },
+    {
+      "speaker": "Maya",
+      "en": "The plate matches. What destination do you have?",
+      "zh": "车牌一致。你看到的目的地是哪里？"
+    },
+    {
+      "speaker": "Cole",
+      "en": "The City Museum. Is that where you are going?",
+      "zh": "市博物馆。你要去那里吗？"
+    },
+    {
+      "speaker": "Maya",
+      "en": "Yes, that matches my app. I will get in now.",
+      "zh": "对，和我应用里的一致。我现在上车。"
+    },
+    {
+      "speaker": "Cole",
+      "en": "Great. The door is unlocked. Welcome aboard.",
+      "zh": "好的，车门没锁。请上车。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "pickup location",
+      "zh": "上车地点；用于确认司机在哪里接乘客。",
+      "example": "Is the east entrance your pickup location?"
+    },
+    {
+      "en": "meet me here",
+      "zh": "在这里接我或与我会合；可用来重新约地点。",
+      "example": "Could you meet me here instead?"
+    },
+    {
+      "en": "drive around",
+      "zh": "绕路开过去；用于车辆前往建筑物另一侧。",
+      "example": "I will drive around to the east entrance."
+    },
+    {
+      "en": "license plate",
+      "zh": "车牌；上车前可与应用中的信息核对。",
+      "example": "The license plate matches the app."
+    },
+    {
+      "en": "match",
+      "zh": "一致、相符；用于确认两处信息相同。",
+      "example": "The destination matches my app."
+    }
+  ],
+  "pronunciation": "entrance /ˈɛntrəns/ 重音在第一音节；vehicle /ˈviːɪkəl/ 重音在第一音节。练习 license plate 时，license 的 c 读 /s/，plate 末尾的 /t/ 不要加元音。",
+  "practice": [
+    {
+      "title": "Part 1 · Getting around",
+      "prompt": "How do you usually travel to a new place?",
+      "answer": "I usually take a bus or request a ride. Before I leave, I check the pickup location and the destination."
+    },
+    {
+      "title": "Part 2 · A journey",
+      "prompt": "Describe a journey when you had to arrange a pickup. Say where you were, how you communicated, and what happened.",
+      "answer": "Last weekend I requested a ride from a library to a museum. I waited at the east entrance, but the driver was at the west entrance. I told him where I was and asked him to meet me at the east entrance. Before getting in, I checked his name and the car and plate against the app. We also confirmed the destination, and then I got in. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Travel communication",
+      "prompt": "Why can a clear pickup location matter when people travel?",
+      "answer": "A clear location saves time and helps people find each other. A recognizable entrance or sign can be more useful than simply naming a large building."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "先逐句跟读，再扮演乘客：说明入口不同，重新约定地点，上车前对照应用核对司机、车辆和目的地。",
+      "answer": "用 4–6 句完成确认；同伴扮演司机，回应地点并说出目的地。"
+    }
+  ]
+}

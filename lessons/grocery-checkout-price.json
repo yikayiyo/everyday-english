@@ -1,0 +1,124 @@
+{
+  "supplement_id": "S02",
+  "date": "2026-11-22",
+  "slug": "grocery-checkout-price",
+  "title": "Checking Out and Clarifying a Price",
+  "title_zh": "超市结账与价格核对",
+  "context": "顾客 Amy 在超市收银台发现一盒麦片扫描价高于货架标价。收银员 Leo 核实标价后修改价格，Amy 核对新价格并刷卡付款。",
+  "voices": {
+    "Amy": "marin",
+    "Leo": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Amy",
+      "en": "The cereal scanned at six dollars, but I saw five dollars on the shelf.",
+      "zh": "这盒麦片扫出来是六美元，但我在货架上看到的是五美元。"
+    },
+    {
+      "speaker": "Leo",
+      "en": "Let me check the shelf label for that cereal.",
+      "zh": "我来核对一下那款麦片的货架标签。"
+    },
+    {
+      "speaker": "Amy",
+      "en": "Thank you. It was the label under the large box.",
+      "zh": "谢谢。标签在大盒麦片的下面。"
+    },
+    {
+      "speaker": "Leo",
+      "en": "I checked it. The label does say five dollars for this box.",
+      "zh": "我查过了。标签上这盒确实是五美元。"
+    },
+    {
+      "speaker": "Amy",
+      "en": "Could you change the price, please?",
+      "zh": "请问你能修改价格吗？"
+    },
+    {
+      "speaker": "Leo",
+      "en": "Yes. I have changed it from six dollars to five.",
+      "zh": "可以。我已经从六美元改成五美元了。"
+    },
+    {
+      "speaker": "Amy",
+      "en": "I can see five dollars on the screen now. Thank you.",
+      "zh": "我现在看到屏幕上是五美元了。谢谢。"
+    },
+    {
+      "speaker": "Leo",
+      "en": "You are welcome. That is the last item.",
+      "zh": "不客气。这是最后一件商品。"
+    },
+    {
+      "speaker": "Amy",
+      "en": "Can I pay with a card?",
+      "zh": "我可以刷卡吗？"
+    },
+    {
+      "speaker": "Leo",
+      "en": "Yes. Please insert your card in the reader.",
+      "zh": "可以。请把卡插入读卡器。"
+    },
+    {
+      "speaker": "Amy",
+      "en": "The payment went through. May I have a receipt?",
+      "zh": "付款成功了。我可以要一张收据吗？"
+    },
+    {
+      "speaker": "Leo",
+      "en": "Of course. Here is your receipt. Have a good day.",
+      "zh": "当然可以。这是你的收据。祝你今天愉快。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "scan at",
+      "zh": "扫描显示为某个价格；用于描述收银机上的价格。",
+      "example": "This item scanned at six dollars."
+    },
+    {
+      "en": "shelf label",
+      "zh": "货架标签；可用来指明看到的标价。",
+      "example": "Could you check the shelf label?"
+    },
+    {
+      "en": "change the price",
+      "zh": "修改价格；询问收银员能否更正时使用。",
+      "example": "Could you change the price, please?"
+    },
+    {
+      "en": "pay with a card",
+      "zh": "刷卡付款；询问付款方式。",
+      "example": "Can I pay with a card?"
+    },
+    {
+      "en": "go through",
+      "zh": "成功完成；付款时表示交易已成功。",
+      "example": "The payment went through."
+    }
+  ],
+  "pronunciation": "price /praɪs/ 和 receipt /rɪˈsiːt/ 都有清晰的 /s/；receipt 中的 p 不发音，重音在第二音节。练习 shelf label 时分别读清两个词的开头。",
+  "practice": [
+    {
+      "title": "Part 1 · Shopping",
+      "prompt": "Do you check prices when you shop for food?",
+      "answer": "Yes. I compare prices on the shelf and look at the screen at checkout. It helps me notice a mistake."
+    },
+    {
+      "title": "Part 2 · A shopping experience",
+      "prompt": "Describe a time you checked a price while shopping. Say what you bought, what you noticed, and what happened.",
+      "answer": "I bought a box of cereal at a supermarket near my home. At checkout, I noticed that the screen showed a higher price than the shelf label. I told the cashier what I had seen and asked her to check. She looked at the label and changed the price. I checked the screen again, paid by card, and thanked her for her help. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Prices in shops",
+      "prompt": "Why is it useful for stores to show prices clearly?",
+      "answer": "Clear prices help customers decide what to buy and plan their spending. They also make it easier for staff and customers to notice and correct mistakes."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "先逐句跟读，再扮演顾客说明货架价与扫描价不同，请对方核对并确认付款方式。",
+      "answer": "用 4–6 句练习；同伴扮演收银员，核对并告知修改后的价格。"
+    }
+  ]
+}

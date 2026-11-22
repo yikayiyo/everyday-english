@@ -1,0 +1,124 @@
+{
+  "supplement_id": "S07",
+  "date": "2026-11-22",
+  "slug": "neighbor-noise-boundary",
+  "title": "Discussing Noise with a Neighbor",
+  "title_zh": "与邻居协商噪声边界",
+  "context": "Nina 和 Sam 住在不同公寓。最近几晚 Sam 的电视声音影响 Nina 入睡，两人在门口商量安静安排。",
+  "voices": {
+    "Nina": "marin",
+    "Sam": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Nina",
+      "en": "Sam, could we talk about the TV sound from your apartment?",
+      "zh": "Sam，我们能谈谈你公寓里的电视声音吗？"
+    },
+    {
+      "speaker": "Sam",
+      "en": "Sure, Nina. Has it been bothering you?",
+      "zh": "当然，Nina。它一直在打扰你吗？"
+    },
+    {
+      "speaker": "Nina",
+      "en": "Yes. I have heard it late for the past few nights, and I cannot fall asleep.",
+      "zh": "是的。过去几个晚上我深夜都听得到，睡不着。"
+    },
+    {
+      "speaker": "Sam",
+      "en": "I am sorry. I did not realize you could hear it through the wall.",
+      "zh": "对不起。我不知道你隔着墙也能听见。"
+    },
+    {
+      "speaker": "Nina",
+      "en": "Could you lower it after ten at night?",
+      "zh": "晚上十点后你能把声音调低吗？"
+    },
+    {
+      "speaker": "Sam",
+      "en": "I can. Would a low volume after ten work for you?",
+      "zh": "可以。十点后开小声一点，对你可以吗？"
+    },
+    {
+      "speaker": "Nina",
+      "en": "Yes, that would help. I usually go to bed around then.",
+      "zh": "可以，那会有帮助。我通常那时候睡觉。"
+    },
+    {
+      "speaker": "Sam",
+      "en": "I will also move the TV away from our shared wall.",
+      "zh": "我还会把电视移离我们共用的墙。"
+    },
+    {
+      "speaker": "Nina",
+      "en": "Thank you. May I let you know if I can still hear it?",
+      "zh": "谢谢。如果我还是听得到，可以告诉你吗？"
+    },
+    {
+      "speaker": "Sam",
+      "en": "Please do. You can knock on my door the next day.",
+      "zh": "请告诉我。你可以第二天来敲我的门。"
+    },
+    {
+      "speaker": "Nina",
+      "en": "That sounds good. I appreciate you talking about it.",
+      "zh": "好。谢谢你愿意商量这件事。"
+    },
+    {
+      "speaker": "Sam",
+      "en": "Of course. I hope tonight is quieter.",
+      "zh": "当然。希望今晚能安静一些。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "bothering you",
+      "zh": "打扰你，用于询问对方是否受到影响。",
+      "example": "Has the noise been bothering you?"
+    },
+    {
+      "en": "fall asleep",
+      "zh": "入睡，强调进入睡眠的过程。",
+      "example": "I cannot fall asleep with the TV on."
+    },
+    {
+      "en": "turn it down",
+      "zh": "把声音调低，可用于电视或音乐。",
+      "example": "Could you turn it down after ten?"
+    },
+    {
+      "en": "a low volume",
+      "zh": "较低的音量，用来描述声音大小。",
+      "example": "A low volume would help me sleep."
+    },
+    {
+      "en": "let you know",
+      "zh": "告诉你情况，适合约定后续反馈。",
+      "example": "I will let you know if I still hear it."
+    }
+  ],
+  "pronunciation": "volume 的重音在第一音节 /ˈvɑːljuːm/；asleep 的重音在第二音节 /əˈsliːp/。练习 lower it，连贯说出两个词。",
+  "practice": [
+    {
+      "title": "Part 1 · Quiet places",
+      "prompt": "When do you like to have a quiet place?",
+      "answer": "I like a quiet place in the evening, especially when I am getting ready for bed. It helps me relax."
+    },
+    {
+      "title": "Part 2 · A neighbor",
+      "prompt": "Describe a conversation with a neighbor about a shared concern. Explain the concern and what happened.",
+      "answer": "A neighbor and I once talked about a bright light outside our doors. It shone into my room at night, so I explained the problem politely. My neighbor had not noticed it and offered to change its direction. We agreed to see if that helped for a few days. Afterward I thanked her because my room was much darker and I could sleep more comfortably. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Living near others",
+      "prompt": "How can neighbors discuss a problem calmly?",
+      "answer": "They can describe its effect and ask for a specific change. Listening and agreeing on a way to follow up can also help."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "先听完整对话，再逐句跟读，再完成口头练习。",
+      "answer": "用四到六句描述持续的声音和影响，提出具体时间，并约定如何再次沟通。"
+    }
+  ]
+}

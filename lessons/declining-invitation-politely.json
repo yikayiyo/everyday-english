@@ -1,0 +1,124 @@
+{
+  "supplement_id": "S08",
+  "date": "2026-11-22",
+  "slug": "declining-invitation-politely",
+  "title": "Declining an Invitation",
+  "title_zh": "礼貌拒绝邀请",
+  "context": "Leo 邀请朋友 Maya 周六共进晚餐。Maya 感谢邀请并明确婉拒，不需要详细解释；Leo 尊重她的决定。",
+  "voices": {
+    "Maya": "marin",
+    "Leo": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Leo",
+      "en": "Maya, would you like to join us for dinner on Saturday?",
+      "zh": "Maya，周六你愿意和我们一起吃晚饭吗？"
+    },
+    {
+      "speaker": "Maya",
+      "en": "Thanks for inviting me, Leo, but I cannot make it.",
+      "zh": "谢谢你邀请我，Leo，不过我去不了。"
+    },
+    {
+      "speaker": "Leo",
+      "en": "I understand. We will miss you.",
+      "zh": "我明白。我们会想念你的。"
+    },
+    {
+      "speaker": "Maya",
+      "en": "That is kind of you. I need a quiet evening at home.",
+      "zh": "你真贴心。我需要在家安静地度过一个晚上。"
+    },
+    {
+      "speaker": "Leo",
+      "en": "Of course. I hope you have a restful evening.",
+      "zh": "当然。希望你度过一个放松的晚上。"
+    },
+    {
+      "speaker": "Maya",
+      "en": "Thank you. Who else is coming to dinner?",
+      "zh": "谢谢。还有谁会来吃晚饭？"
+    },
+    {
+      "speaker": "Leo",
+      "en": "A few friends from our art class are coming.",
+      "zh": "我们美术课上的几个朋友会来。"
+    },
+    {
+      "speaker": "Maya",
+      "en": "Please say hello to them for me.",
+      "zh": "请代我向他们问好。"
+    },
+    {
+      "speaker": "Leo",
+      "en": "I will. We are trying a new restaurant downtown.",
+      "zh": "我会的。我们要去市中心尝试一家新餐厅。"
+    },
+    {
+      "speaker": "Maya",
+      "en": "That sounds nice. I hope you all enjoy it.",
+      "zh": "听起来不错。希望你们玩得开心。"
+    },
+    {
+      "speaker": "Leo",
+      "en": "Thanks. I will tell you about it next week.",
+      "zh": "谢谢。我下周会告诉你情况。"
+    },
+    {
+      "speaker": "Maya",
+      "en": "I would like that. Have a lovely dinner!",
+      "zh": "我很乐意听。祝你们晚餐愉快！"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "Thanks for inviting me",
+      "zh": "谢谢你邀请我，用于表达感谢。",
+      "example": "Thanks for inviting me to dinner."
+    },
+    {
+      "en": "I cannot make it",
+      "zh": "我去不了，清楚而礼貌地拒绝邀请。",
+      "example": "I cannot make it on Saturday."
+    },
+    {
+      "en": "a quiet evening",
+      "zh": "一个安静的夜晚，可简短说明自己的需要。",
+      "example": "I need a quiet evening at home."
+    },
+    {
+      "en": "say hello to them for me",
+      "zh": "代我向他们问好。",
+      "example": "Please say hello to your friends for me."
+    },
+    {
+      "en": "Have a lovely dinner",
+      "zh": "祝晚餐愉快，用于友好结束谈话。",
+      "example": "Have a lovely dinner tonight."
+    }
+  ],
+  "pronunciation": "inviting 重音在第二音节 /ɪnˈvaɪtɪŋ/；Saturday 重音在第一音节 /ˈsætərdeɪ/。说 cannot make it 时突出 cannot，使拒绝清楚。",
+  "practice": [
+    {
+      "title": "Part 1 · Invitations",
+      "prompt": "How do you respond when a friend invites you somewhere?",
+      "answer": "I thank my friend and check whether I am free. If I cannot go, I say so clearly and kindly."
+    },
+    {
+      "title": "Part 2 · An invitation",
+      "prompt": "Describe an invitation you could not accept. Say who invited you, what it was for, and how you responded.",
+      "answer": "A friend once invited me to a weekend concert. I was tired after a busy week and wanted to stay home, so I thanked her and said I could not make it. I did not give a long explanation. She understood and went with other friends. The next week she told me about the music, and I was glad she had enjoyed the evening. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Personal boundaries",
+      "prompt": "Why can it be useful to decline an invitation clearly?",
+      "answer": "A clear answer helps the other person plan. It can also protect your time while keeping the conversation respectful."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "先听完整对话，再逐句跟读，再完成口头练习。",
+      "answer": "用三到五句感谢邀请、明确拒绝并友好结束；如有意愿，可以提出其他安排。"
+    }
+  ]
+}

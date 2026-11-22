@@ -1,0 +1,124 @@
+{
+  "supplement_id": "S06",
+  "date": "2026-11-22",
+  "slug": "calling-in-sick-work",
+  "title": "Calling in Sick",
+  "title_zh": "向工作单位请病假",
+  "context": "Maya 身体不适，早晨致电主管 Ben，说明今天不能上班，并商量本团队的报备、交接和后续联系。",
+  "voices": {
+    "Maya": "marin",
+    "Ben": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Maya",
+      "en": "Good morning, Ben. I am not feeling well, so I cannot come to work today.",
+      "zh": "早上好，Ben。我身体不舒服，所以今天不能来上班。"
+    },
+    {
+      "speaker": "Ben",
+      "en": "I am sorry you are feeling unwell, Maya. Thanks for letting me know.",
+      "zh": "Maya，听说你不舒服，我很遗憾。谢谢你告诉我。"
+    },
+    {
+      "speaker": "Maya",
+      "en": "How should I report my absence?",
+      "zh": "我应该怎样报备缺勤？"
+    },
+    {
+      "speaker": "Ben",
+      "en": "For our team, please send me a short email when you can.",
+      "zh": "我们团队请你方便的时候给我发一封简短邮件。"
+    },
+    {
+      "speaker": "Maya",
+      "en": "I can do that. The order list is in our shared folder.",
+      "zh": "可以。订单清单在我们的共享文件夹里。"
+    },
+    {
+      "speaker": "Ben",
+      "en": "Thanks. Does anything on it need attention today?",
+      "zh": "谢谢。上面有什么今天需要处理的吗？"
+    },
+    {
+      "speaker": "Maya",
+      "en": "Yes. The Green Street order needs a final check before it goes out.",
+      "zh": "有。Green Street 的订单发出前需要最后核对。"
+    },
+    {
+      "speaker": "Ben",
+      "en": "I will ask Lee to check it. You do not need to work on it today.",
+      "zh": "我会请 Lee 核对。你今天不需要处理它。"
+    },
+    {
+      "speaker": "Maya",
+      "en": "Thank you. When would you like me to update you?",
+      "zh": "谢谢。你希望我什么时候向你报告情况？"
+    },
+    {
+      "speaker": "Ben",
+      "en": "Could you let me know by four this afternoon about tomorrow?",
+      "zh": "你能今天下午四点前告诉我明天的情况吗？"
+    },
+    {
+      "speaker": "Maya",
+      "en": "Yes, I will email you now and update you by four.",
+      "zh": "可以，我现在给你发邮件，四点前向你报告。"
+    },
+    {
+      "speaker": "Ben",
+      "en": "That works. Take care, Maya.",
+      "zh": "可以。Maya，保重。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "call in sick",
+      "zh": "打电话请病假，向单位告知因病缺勤。",
+      "example": "I need to call in sick today."
+    },
+    {
+      "en": "report my absence",
+      "zh": "报备缺勤，询问告知单位的方式。",
+      "example": "How should I report my absence?"
+    },
+    {
+      "en": "shared folder",
+      "zh": "共享文件夹，团队成员可在其中查看文件。",
+      "example": "The list is in our shared folder."
+    },
+    {
+      "en": "need attention",
+      "zh": "需要处理，指某事需要有人关注。",
+      "example": "This order needs attention today."
+    },
+    {
+      "en": "update you",
+      "zh": "向你报告最新情况。",
+      "example": "I will update you this afternoon."
+    }
+  ],
+  "pronunciation": "absence 重音在第一音节 /ˈæbsəns/；update 作动词时重音在第二音节 /ʌpˈdeɪt/。练习连读 send me，同时保持两个词清楚。",
+  "practice": [
+    {
+      "title": "Part 1 · Work updates",
+      "prompt": "How do you tell someone you cannot attend an activity?",
+      "answer": "I tell them as soon as I can. I give a short reason and say when I can update them."
+    },
+    {
+      "title": "Part 2 · A change of plans",
+      "prompt": "Describe a time you changed plans because you felt unwell. Explain what you did and how you told others.",
+      "answer": "Last spring, I woke up feeling unwell on a workday. I called my supervisor and said I could not come in. I kept the reason brief and told her where to find the list I had prepared. She arranged for a colleague to check it. Later that afternoon, I sent an update about the next day. I felt relieved because everyone knew what to do. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Sharing work",
+      "prompt": "Why is a clear handoff useful when someone is absent?",
+      "answer": "It helps others find the work and understand what needs attention. A short update can prevent delays without sharing private details."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "先听完整对话，再逐句跟读，再完成口头练习。",
+      "answer": "用四到六句报备缺勤，询问方式，说明一项交接，并确认何时更新。"
+    }
+  ]
+}

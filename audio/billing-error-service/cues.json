@@ -1,0 +1,1699 @@
+{
+  "timing_status": "strict_timing_pass",
+  "timing_warnings": [],
+  "model": "whisper-1",
+  "lesson": "billing-error-service",
+  "source_sha256": "92cbc1218af2250965ca5eb197e9a533d1b9cf5de33cf31fb15b79c331ac74f9",
+  "full_track": "dialogue-full.mp3",
+  "full_duration": 49.824,
+  "full_audio_sha256": "8aac9e4848b64e743295f755207a423d5e4b9f1c90aca98696749ab869098a48",
+  "lines": [
+    {
+      "index": 1,
+      "file": "01.mp3",
+      "text": "I am calling about a charge on my internet bill that I do not recognize.",
+      "audio_sha256": "a86742eaab43f76de7fef719ffd3dfc23cd81ab0c3ccfdcf439a6b165a944c51",
+      "start": 0,
+      "end": 4.104,
+      "duration": 4.104,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "I",
+          "local_start": 0.0,
+          "local_end": 0.2800000011920929,
+          "evidence_indices": [
+            0
+          ],
+          "start": 0.0,
+          "end": 0.2800000011920929
+        },
+        {
+          "word": "am",
+          "local_start": 0.2800000011920929,
+          "local_end": 0.4399999976158142,
+          "evidence_indices": [
+            1
+          ],
+          "start": 0.2800000011920929,
+          "end": 0.4399999976158142
+        },
+        {
+          "word": "calling",
+          "local_start": 0.4399999976158142,
+          "local_end": 0.7400000095367432,
+          "evidence_indices": [
+            2
+          ],
+          "start": 0.4399999976158142,
+          "end": 0.7400000095367432
+        },
+        {
+          "word": "about",
+          "local_start": 0.7400000095367432,
+          "local_end": 1.059999942779541,
+          "evidence_indices": [
+            3
+          ],
+          "start": 0.7400000095367432,
+          "end": 1.059999942779541
+        },
+        {
+          "word": "a",
+          "local_start": 1.059999942779541,
+          "local_end": 1.159999966621399,
+          "evidence_indices": [
+            4
+          ],
+          "start": 1.059999942779541,
+          "end": 1.159999966621399
+        },
+        {
+          "word": "charge",
+          "local_start": 1.159999966621399,
+          "local_end": 1.4800000190734863,
+          "evidence_indices": [
+            5
+          ],
+          "start": 1.159999966621399,
+          "end": 1.4800000190734863
+        },
+        {
+          "word": "on",
+          "local_start": 1.4800000190734863,
+          "local_end": 1.6399999856948853,
+          "evidence_indices": [
+            6
+          ],
+          "start": 1.4800000190734863,
+          "end": 1.6399999856948853
+        },
+        {
+          "word": "my",
+          "local_start": 1.6399999856948853,
+          "local_end": 1.8600000143051147,
+          "evidence_indices": [
+            7
+          ],
+          "start": 1.6399999856948853,
+          "end": 1.8600000143051147
+        },
+        {
+          "word": "internet",
+          "local_start": 1.8600000143051147,
+          "local_end": 2.140000104904175,
+          "evidence_indices": [
+            8
+          ],
+          "start": 1.8600000143051147,
+          "end": 2.140000104904175
+        },
+        {
+          "word": "bill",
+          "local_start": 2.140000104904175,
+          "local_end": 2.4200000762939453,
+          "evidence_indices": [
+            9
+          ],
+          "start": 2.140000104904175,
+          "end": 2.4200000762939453
+        },
+        {
+          "word": "that",
+          "local_start": 2.4200000762939453,
+          "local_end": 2.559999942779541,
+          "evidence_indices": [
+            10
+          ],
+          "start": 2.4200000762939453,
+          "end": 2.559999942779541
+        },
+        {
+          "word": "I",
+          "local_start": 2.559999942779541,
+          "local_end": 2.819999933242798,
+          "evidence_indices": [
+            11
+          ],
+          "start": 2.559999942779541,
+          "end": 2.819999933242798
+        },
+        {
+          "word": "do",
+          "local_start": 2.819999933242798,
+          "local_end": 2.9600000381469727,
+          "evidence_indices": [
+            12
+          ],
+          "start": 2.819999933242798,
+          "end": 2.9600000381469727
+        },
+        {
+          "word": "not",
+          "local_start": 2.9600000381469727,
+          "local_end": 3.1600000858306885,
+          "evidence_indices": [
+            13
+          ],
+          "start": 2.9600000381469727,
+          "end": 3.1600000858306885
+        },
+        {
+          "word": "recognize.",
+          "local_start": 3.1600000858306885,
+          "local_end": 3.4600000381469727,
+          "evidence_indices": [
+            14
+          ],
+          "start": 3.1600000858306885,
+          "end": 3.4600000381469727
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "file": "02.mp3",
+      "text": "I can help with that. Which charge are you asking about?",
+      "audio_sha256": "fac5aa9843eb648cf8c42209dc72f4b2c867ca854d27a5c21718345c8cb65894",
+      "start": 4.104,
+      "end": 7.656000000000001,
+      "duration": 3.552,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "I",
+          "local_start": 0.0,
+          "local_end": 0.20000000298023224,
+          "evidence_indices": [
+            0
+          ],
+          "start": 4.104,
+          "end": 4.304000002980232
+        },
+        {
+          "word": "can",
+          "local_start": 0.20000000298023224,
+          "local_end": 0.36000001430511475,
+          "evidence_indices": [
+            1
+          ],
+          "start": 4.304000002980232,
+          "end": 4.464000014305115
+        },
+        {
+          "word": "help",
+          "local_start": 0.36000001430511475,
+          "local_end": 0.6200000047683716,
+          "evidence_indices": [
+            2
+          ],
+          "start": 4.464000014305115,
+          "end": 4.724000004768372
+        },
+        {
+          "word": "with",
+          "local_start": 0.6200000047683716,
+          "local_end": 0.9200000166893005,
+          "evidence_indices": [
+            3
+          ],
+          "start": 4.724000004768372,
+          "end": 5.024000016689301
+        },
+        {
+          "word": "that.",
+          "local_start": 0.9200000166893005,
+          "local_end": 1.2000000476837158,
+          "evidence_indices": [
+            4
+          ],
+          "start": 5.024000016689301,
+          "end": 5.304000047683716
+        },
+        {
+          "word": "Which",
+          "local_start": 1.840000033378601,
+          "local_end": 1.9800000190734863,
+          "evidence_indices": [
+            5
+          ],
+          "start": 5.944000033378601,
+          "end": 6.084000019073486
+        },
+        {
+          "word": "charge",
+          "local_start": 1.9800000190734863,
+          "local_end": 2.4200000762939453,
+          "evidence_indices": [
+            6
+          ],
+          "start": 6.084000019073486,
+          "end": 6.524000076293945
+        },
+        {
+          "word": "are",
+          "local_start": 2.4200000762939453,
+          "local_end": 2.5799999237060547,
+          "evidence_indices": [
+            7
+          ],
+          "start": 6.524000076293945,
+          "end": 6.683999923706055
+        },
+        {
+          "word": "you",
+          "local_start": 2.5799999237060547,
+          "local_end": 2.759999990463257,
+          "evidence_indices": [
+            8
+          ],
+          "start": 6.683999923706055,
+          "end": 6.863999990463257
+        },
+        {
+          "word": "asking",
+          "local_start": 2.759999990463257,
+          "local_end": 2.9600000381469727,
+          "evidence_indices": [
+            9
+          ],
+          "start": 6.863999990463257,
+          "end": 7.064000038146973
+        },
+        {
+          "word": "about?",
+          "local_start": 2.9600000381469727,
+          "local_end": 3.259999990463257,
+          "evidence_indices": [
+            10
+          ],
+          "start": 7.064000038146973,
+          "end": 7.363999990463257
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "file": "03.mp3",
+      "text": "There is a twenty-dollar installation charge on this month's bill.",
+      "audio_sha256": "3f29e6eab4797484368df28cf6db2e722c53fcb762dc848a0851f4413a79a768",
+      "start": 7.656000000000001,
+      "end": 11.208,
+      "duration": 3.552,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "There",
+          "local_start": 0.0,
+          "local_end": 0.3199999928474426,
+          "evidence_indices": [
+            0
+          ],
+          "start": 7.656000000000001,
+          "end": 7.975999992847443
+        },
+        {
+          "word": "is",
+          "local_start": 0.3199999928474426,
+          "local_end": 0.6399999856948853,
+          "evidence_indices": [
+            1
+          ],
+          "start": 7.975999992847443,
+          "end": 8.295999985694886
+        },
+        {
+          "word": "a",
+          "local_start": 0.6399999856948853,
+          "local_end": 0.9399999976158142,
+          "evidence_indices": [
+            2
+          ],
+          "start": 8.295999985694886,
+          "end": 8.595999997615815
+        },
+        {
+          "word": "twenty-dollar",
+          "local_start": 0.9399999976158142,
+          "local_end": 1.5800000429153442,
+          "evidence_indices": [
+            3,
+            4
+          ],
+          "start": 8.595999997615815,
+          "end": 9.236000042915345
+        },
+        {
+          "word": "installation",
+          "local_start": 1.5800000429153442,
+          "local_end": 2.0799999237060547,
+          "evidence_indices": [
+            5
+          ],
+          "start": 9.236000042915345,
+          "end": 9.735999923706055
+        },
+        {
+          "word": "charge",
+          "local_start": 2.0799999237060547,
+          "local_end": 2.5,
+          "evidence_indices": [
+            6
+          ],
+          "start": 9.735999923706055,
+          "end": 10.156
+        },
+        {
+          "word": "on",
+          "local_start": 2.5,
+          "local_end": 2.680000066757202,
+          "evidence_indices": [
+            7
+          ],
+          "start": 10.156,
+          "end": 10.336000066757203
+        },
+        {
+          "word": "this",
+          "local_start": 2.680000066757202,
+          "local_end": 2.9000000953674316,
+          "evidence_indices": [
+            8
+          ],
+          "start": 10.336000066757203,
+          "end": 10.556000095367432
+        },
+        {
+          "word": "month's",
+          "local_start": 2.9000000953674316,
+          "local_end": 3.259999990463257,
+          "evidence_indices": [
+            9
+          ],
+          "start": 10.556000095367432,
+          "end": 10.915999990463257
+        },
+        {
+          "word": "bill.",
+          "local_start": 3.259999990463257,
+          "local_end": 3.299999952316284,
+          "evidence_indices": [
+            10
+          ],
+          "start": 10.915999990463257,
+          "end": 10.955999952316285
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "file": "04.mp3",
+      "text": "I see the charge. The bill describes it as an installation fee.",
+      "audio_sha256": "92433431de691c6872fbdd9fd92d3981b7a65d0d906c353df029cfc5b2a6d403",
+      "start": 11.208,
+      "end": 15.815999999999999,
+      "duration": 4.608,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "I",
+          "local_start": 0.0,
+          "local_end": 0.47999998927116394,
+          "evidence_indices": [
+            0
+          ],
+          "start": 11.208,
+          "end": 11.687999989271164
+        },
+        {
+          "word": "see",
+          "local_start": 0.47999998927116394,
+          "local_end": 0.7400000095367432,
+          "evidence_indices": [
+            1
+          ],
+          "start": 11.687999989271164,
+          "end": 11.948000009536743
+        },
+        {
+          "word": "the",
+          "local_start": 0.7400000095367432,
+          "local_end": 0.9800000190734863,
+          "evidence_indices": [
+            2
+          ],
+          "start": 11.948000009536743,
+          "end": 12.188000019073487
+        },
+        {
+          "word": "charge.",
+          "local_start": 0.9800000190734863,
+          "local_end": 1.3200000524520874,
+          "evidence_indices": [
+            3
+          ],
+          "start": 12.188000019073487,
+          "end": 12.528000052452088
+        },
+        {
+          "word": "The",
+          "local_start": 1.5399999618530273,
+          "local_end": 2.0,
+          "evidence_indices": [
+            4
+          ],
+          "start": 12.747999961853028,
+          "end": 13.208
+        },
+        {
+          "word": "bill",
+          "local_start": 2.0,
+          "local_end": 2.119999885559082,
+          "evidence_indices": [
+            5
+          ],
+          "start": 13.208,
+          "end": 13.327999885559082
+        },
+        {
+          "word": "describes",
+          "local_start": 2.119999885559082,
+          "local_end": 2.5999999046325684,
+          "evidence_indices": [
+            6
+          ],
+          "start": 13.327999885559082,
+          "end": 13.807999904632569
+        },
+        {
+          "word": "it",
+          "local_start": 2.5999999046325684,
+          "local_end": 2.759999990463257,
+          "evidence_indices": [
+            7
+          ],
+          "start": 13.807999904632569,
+          "end": 13.967999990463257
+        },
+        {
+          "word": "as",
+          "local_start": 2.759999990463257,
+          "local_end": 3.1600000858306885,
+          "evidence_indices": [
+            8
+          ],
+          "start": 13.967999990463257,
+          "end": 14.368000085830689
+        },
+        {
+          "word": "an",
+          "local_start": 3.1600000858306885,
+          "local_end": 3.380000114440918,
+          "evidence_indices": [
+            9
+          ],
+          "start": 14.368000085830689,
+          "end": 14.588000114440918
+        },
+        {
+          "word": "installation",
+          "local_start": 3.380000114440918,
+          "local_end": 3.7200000286102295,
+          "evidence_indices": [
+            10
+          ],
+          "start": 14.588000114440918,
+          "end": 14.92800002861023
+        },
+        {
+          "word": "fee.",
+          "local_start": 3.7200000286102295,
+          "local_end": 4.0,
+          "evidence_indices": [
+            11
+          ],
+          "start": 14.92800002861023,
+          "end": 15.208
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "file": "05.mp3",
+      "text": "I did not request an installation this month. Could you check the record?",
+      "audio_sha256": "a14feb5065a929a36a92f22a87b0b0143b8d0bf230505aa20d2e7222c306a673",
+      "start": 15.815999999999999,
+      "end": 19.32,
+      "duration": 3.504,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "I",
+          "local_start": 0.0,
+          "local_end": 0.20000000298023224,
+          "evidence_indices": [
+            0
+          ],
+          "start": 15.815999999999999,
+          "end": 16.01600000298023
+        },
+        {
+          "word": "did",
+          "local_start": 0.20000000298023224,
+          "local_end": 0.36000001430511475,
+          "evidence_indices": [
+            1
+          ],
+          "start": 16.01600000298023,
+          "end": 16.176000014305114
+        },
+        {
+          "word": "not",
+          "local_start": 0.36000001430511475,
+          "local_end": 0.6399999856948853,
+          "evidence_indices": [
+            2
+          ],
+          "start": 16.176000014305114,
+          "end": 16.455999985694884
+        },
+        {
+          "word": "request",
+          "local_start": 0.6399999856948853,
+          "local_end": 0.9599999785423279,
+          "evidence_indices": [
+            3
+          ],
+          "start": 16.455999985694884,
+          "end": 16.775999978542327
+        },
+        {
+          "word": "an",
+          "local_start": 0.9599999785423279,
+          "local_end": 1.2400000095367432,
+          "evidence_indices": [
+            4
+          ],
+          "start": 16.775999978542327,
+          "end": 17.056000009536742
+        },
+        {
+          "word": "installation",
+          "local_start": 1.2400000095367432,
+          "local_end": 1.5800000429153442,
+          "evidence_indices": [
+            5
+          ],
+          "start": 17.056000009536742,
+          "end": 17.396000042915343
+        },
+        {
+          "word": "this",
+          "local_start": 1.5800000429153442,
+          "local_end": 1.9199999570846558,
+          "evidence_indices": [
+            6
+          ],
+          "start": 17.396000042915343,
+          "end": 17.735999957084655
+        },
+        {
+          "word": "month.",
+          "local_start": 1.9199999570846558,
+          "local_end": 2.1600000858306885,
+          "evidence_indices": [
+            7
+          ],
+          "start": 17.735999957084655,
+          "end": 17.976000085830687
+        },
+        {
+          "word": "Could",
+          "local_start": 2.640000104904175,
+          "local_end": 2.7200000286102295,
+          "evidence_indices": [
+            8
+          ],
+          "start": 18.456000104904174,
+          "end": 18.53600002861023
+        },
+        {
+          "word": "you",
+          "local_start": 2.7200000286102295,
+          "local_end": 2.859999895095825,
+          "evidence_indices": [
+            9
+          ],
+          "start": 18.53600002861023,
+          "end": 18.675999895095824
+        },
+        {
+          "word": "check",
+          "local_start": 2.859999895095825,
+          "local_end": 3.0,
+          "evidence_indices": [
+            10
+          ],
+          "start": 18.675999895095824,
+          "end": 18.816
+        },
+        {
+          "word": "the",
+          "local_start": 3.0,
+          "local_end": 3.2200000286102295,
+          "evidence_indices": [
+            11
+          ],
+          "start": 18.816,
+          "end": 19.03600002861023
+        },
+        {
+          "word": "record?",
+          "local_start": 3.2200000286102295,
+          "local_end": 3.3399999141693115,
+          "evidence_indices": [
+            12
+          ],
+          "start": 19.03600002861023,
+          "end": 19.15599991416931
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "file": "06.mp3",
+      "text": "Yes. I will ask our billing team to review the service record.",
+      "audio_sha256": "b1d75e2763c4384d9091135a7a625046e47f4e4e8eba1518a9344d43249b0fe8",
+      "start": 19.32,
+      "end": 22.824,
+      "duration": 3.504,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Yes.",
+          "local_start": 0.0,
+          "local_end": 0.5400000214576721,
+          "evidence_indices": [
+            0
+          ],
+          "start": 19.32,
+          "end": 19.860000021457672
+        },
+        {
+          "word": "I",
+          "local_start": 0.7599999904632568,
+          "local_end": 1.0199999809265137,
+          "evidence_indices": [
+            1
+          ],
+          "start": 20.079999990463257,
+          "end": 20.339999980926514
+        },
+        {
+          "word": "will",
+          "local_start": 1.0199999809265137,
+          "local_end": 1.2000000476837158,
+          "evidence_indices": [
+            2
+          ],
+          "start": 20.339999980926514,
+          "end": 20.520000047683716
+        },
+        {
+          "word": "ask",
+          "local_start": 1.2000000476837158,
+          "local_end": 1.3600000143051147,
+          "evidence_indices": [
+            3
+          ],
+          "start": 20.520000047683716,
+          "end": 20.680000014305115
+        },
+        {
+          "word": "our",
+          "local_start": 1.3600000143051147,
+          "local_end": 1.600000023841858,
+          "evidence_indices": [
+            4
+          ],
+          "start": 20.680000014305115,
+          "end": 20.920000023841858
+        },
+        {
+          "word": "billing",
+          "local_start": 1.600000023841858,
+          "local_end": 1.7999999523162842,
+          "evidence_indices": [
+            5
+          ],
+          "start": 20.920000023841858,
+          "end": 21.119999952316284
+        },
+        {
+          "word": "team",
+          "local_start": 1.7999999523162842,
+          "local_end": 2.119999885559082,
+          "evidence_indices": [
+            6
+          ],
+          "start": 21.119999952316284,
+          "end": 21.439999885559082
+        },
+        {
+          "word": "to",
+          "local_start": 2.119999885559082,
+          "local_end": 2.4000000953674316,
+          "evidence_indices": [
+            7
+          ],
+          "start": 21.439999885559082,
+          "end": 21.720000095367432
+        },
+        {
+          "word": "review",
+          "local_start": 2.4000000953674316,
+          "local_end": 2.4800000190734863,
+          "evidence_indices": [
+            8
+          ],
+          "start": 21.720000095367432,
+          "end": 21.800000019073487
+        },
+        {
+          "word": "the",
+          "local_start": 2.4800000190734863,
+          "local_end": 2.700000047683716,
+          "evidence_indices": [
+            9
+          ],
+          "start": 21.800000019073487,
+          "end": 22.020000047683716
+        },
+        {
+          "word": "service",
+          "local_start": 2.700000047683716,
+          "local_end": 2.9200000762939453,
+          "evidence_indices": [
+            10
+          ],
+          "start": 22.020000047683716,
+          "end": 22.240000076293946
+        },
+        {
+          "word": "record.",
+          "local_start": 2.9200000762939453,
+          "local_end": 3.200000047683716,
+          "evidence_indices": [
+            11
+          ],
+          "start": 22.240000076293946,
+          "end": 22.520000047683716
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "file": "07.mp3",
+      "text": "Does that mean the charge is already removed?",
+      "audio_sha256": "c497040763958be52cef76d5666a72797786c9d28f8c438e93e2e29e74d908c1",
+      "start": 22.824,
+      "end": 25.392000000000003,
+      "duration": 2.568,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Does",
+          "local_start": 0.0,
+          "local_end": 0.20000000298023224,
+          "evidence_indices": [
+            0
+          ],
+          "start": 22.824,
+          "end": 23.024000002980234
+        },
+        {
+          "word": "that",
+          "local_start": 0.20000000298023224,
+          "local_end": 0.4399999976158142,
+          "evidence_indices": [
+            1
+          ],
+          "start": 23.024000002980234,
+          "end": 23.263999997615816
+        },
+        {
+          "word": "mean",
+          "local_start": 0.4399999976158142,
+          "local_end": 0.6399999856948853,
+          "evidence_indices": [
+            2
+          ],
+          "start": 23.263999997615816,
+          "end": 23.463999985694887
+        },
+        {
+          "word": "the",
+          "local_start": 0.6399999856948853,
+          "local_end": 0.8600000143051147,
+          "evidence_indices": [
+            3
+          ],
+          "start": 23.463999985694887,
+          "end": 23.684000014305116
+        },
+        {
+          "word": "charge",
+          "local_start": 0.8600000143051147,
+          "local_end": 1.1200000047683716,
+          "evidence_indices": [
+            4
+          ],
+          "start": 23.684000014305116,
+          "end": 23.944000004768373
+        },
+        {
+          "word": "is",
+          "local_start": 1.1200000047683716,
+          "local_end": 1.3200000524520874,
+          "evidence_indices": [
+            5
+          ],
+          "start": 23.944000004768373,
+          "end": 24.14400005245209
+        },
+        {
+          "word": "already",
+          "local_start": 1.3200000524520874,
+          "local_end": 1.7000000476837158,
+          "evidence_indices": [
+            6
+          ],
+          "start": 24.14400005245209,
+          "end": 24.524000047683717
+        },
+        {
+          "word": "removed?",
+          "local_start": 1.7000000476837158,
+          "local_end": 2.0399999618530273,
+          "evidence_indices": [
+            7
+          ],
+          "start": 24.524000047683717,
+          "end": 24.86399996185303
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "file": "08.mp3",
+      "text": "Not yet. The team needs to review it before making a decision.",
+      "audio_sha256": "674c2d9ffe0c249cfbb984405787ed04030b2f5522807fcc6048d272ef8bc21f",
+      "start": 25.392000000000003,
+      "end": 29.544000000000004,
+      "duration": 4.152,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Not",
+          "local_start": 0.0,
+          "local_end": 0.3799999952316284,
+          "evidence_indices": [
+            0
+          ],
+          "start": 25.392000000000003,
+          "end": 25.77199999523163
+        },
+        {
+          "word": "yet.",
+          "local_start": 0.3799999952316284,
+          "local_end": 0.6800000071525574,
+          "evidence_indices": [
+            1
+          ],
+          "start": 25.77199999523163,
+          "end": 26.07200000715256
+        },
+        {
+          "word": "The",
+          "local_start": 1.1799999475479126,
+          "local_end": 1.340000033378601,
+          "evidence_indices": [
+            2
+          ],
+          "start": 26.571999947547916,
+          "end": 26.732000033378604
+        },
+        {
+          "word": "team",
+          "local_start": 1.340000033378601,
+          "local_end": 1.5800000429153442,
+          "evidence_indices": [
+            3
+          ],
+          "start": 26.732000033378604,
+          "end": 26.972000042915347
+        },
+        {
+          "word": "needs",
+          "local_start": 1.5800000429153442,
+          "local_end": 1.7999999523162842,
+          "evidence_indices": [
+            4
+          ],
+          "start": 26.972000042915347,
+          "end": 27.191999952316287
+        },
+        {
+          "word": "to",
+          "local_start": 1.7999999523162842,
+          "local_end": 2.059999942779541,
+          "evidence_indices": [
+            5
+          ],
+          "start": 27.191999952316287,
+          "end": 27.451999942779544
+        },
+        {
+          "word": "review",
+          "local_start": 2.059999942779541,
+          "local_end": 2.2200000286102295,
+          "evidence_indices": [
+            6
+          ],
+          "start": 27.451999942779544,
+          "end": 27.612000028610233
+        },
+        {
+          "word": "it",
+          "local_start": 2.2200000286102295,
+          "local_end": 2.4000000953674316,
+          "evidence_indices": [
+            7
+          ],
+          "start": 27.612000028610233,
+          "end": 27.792000095367435
+        },
+        {
+          "word": "before",
+          "local_start": 2.4000000953674316,
+          "local_end": 2.799999952316284,
+          "evidence_indices": [
+            8
+          ],
+          "start": 27.792000095367435,
+          "end": 28.191999952316287
+        },
+        {
+          "word": "making",
+          "local_start": 2.799999952316284,
+          "local_end": 3.059999942779541,
+          "evidence_indices": [
+            9
+          ],
+          "start": 28.191999952316287,
+          "end": 28.451999942779544
+        },
+        {
+          "word": "a",
+          "local_start": 3.059999942779541,
+          "local_end": 3.2799999713897705,
+          "evidence_indices": [
+            10
+          ],
+          "start": 28.451999942779544,
+          "end": 28.671999971389774
+        },
+        {
+          "word": "decision.",
+          "local_start": 3.2799999713897705,
+          "local_end": 3.5,
+          "evidence_indices": [
+            11
+          ],
+          "start": 28.671999971389774,
+          "end": 28.892000000000003
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "file": "09.mp3",
+      "text": "When should I expect an update, and where will I find it?",
+      "audio_sha256": "5d02d96e055c661270f5a5e7e90bb63d74a48db0f90e106be7f3733e6c881c30",
+      "start": 29.544000000000004,
+      "end": 32.544000000000004,
+      "duration": 3.0,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "When",
+          "local_start": 0.0,
+          "local_end": 0.30000001192092896,
+          "evidence_indices": [
+            0
+          ],
+          "start": 29.544000000000004,
+          "end": 29.844000011920933
+        },
+        {
+          "word": "should",
+          "local_start": 0.30000001192092896,
+          "local_end": 0.5199999809265137,
+          "evidence_indices": [
+            1
+          ],
+          "start": 29.844000011920933,
+          "end": 30.063999980926518
+        },
+        {
+          "word": "I",
+          "local_start": 0.5199999809265137,
+          "local_end": 0.6200000047683716,
+          "evidence_indices": [
+            2
+          ],
+          "start": 30.063999980926518,
+          "end": 30.164000004768376
+        },
+        {
+          "word": "expect",
+          "local_start": 0.6200000047683716,
+          "local_end": 0.9800000190734863,
+          "evidence_indices": [
+            3
+          ],
+          "start": 30.164000004768376,
+          "end": 30.52400001907349
+        },
+        {
+          "word": "an",
+          "local_start": 0.9800000190734863,
+          "local_end": 1.1799999475479126,
+          "evidence_indices": [
+            4
+          ],
+          "start": 30.52400001907349,
+          "end": 30.723999947547917
+        },
+        {
+          "word": "update,",
+          "local_start": 1.1799999475479126,
+          "local_end": 1.4600000381469727,
+          "evidence_indices": [
+            5
+          ],
+          "start": 30.723999947547917,
+          "end": 31.004000038146977
+        },
+        {
+          "word": "and",
+          "local_start": 1.8200000524520874,
+          "local_end": 1.9800000190734863,
+          "evidence_indices": [
+            6
+          ],
+          "start": 31.36400005245209,
+          "end": 31.52400001907349
+        },
+        {
+          "word": "where",
+          "local_start": 1.9800000190734863,
+          "local_end": 2.119999885559082,
+          "evidence_indices": [
+            7
+          ],
+          "start": 31.52400001907349,
+          "end": 31.663999885559086
+        },
+        {
+          "word": "will",
+          "local_start": 2.119999885559082,
+          "local_end": 2.259999990463257,
+          "evidence_indices": [
+            8
+          ],
+          "start": 31.663999885559086,
+          "end": 31.80399999046326
+        },
+        {
+          "word": "I",
+          "local_start": 2.259999990463257,
+          "local_end": 2.4600000381469727,
+          "evidence_indices": [
+            9
+          ],
+          "start": 31.80399999046326,
+          "end": 32.00400003814698
+        },
+        {
+          "word": "find",
+          "local_start": 2.4600000381469727,
+          "local_end": 2.5999999046325684,
+          "evidence_indices": [
+            10
+          ],
+          "start": 32.00400003814698,
+          "end": 32.14399990463257
+        },
+        {
+          "word": "it?",
+          "local_start": 2.5999999046325684,
+          "local_end": 2.7200000286102295,
+          "evidence_indices": [
+            11
+          ],
+          "start": 32.14399990463257,
+          "end": 32.26400002861023
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "file": "10.mp3",
+      "text": "We expect an update by Friday on your bill page. Your reference is B-42.",
+      "audio_sha256": "65f2bb7829a97fcf4762269d2fa6e65c3097b5949f184be2f83b56f497a6c8f1",
+      "start": 32.544000000000004,
+      "end": 38.256,
+      "duration": 5.712,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "We",
+          "local_start": 0.0,
+          "local_end": 0.25999999046325684,
+          "evidence_indices": [
+            0
+          ],
+          "start": 32.544000000000004,
+          "end": 32.80399999046326
+        },
+        {
+          "word": "expect",
+          "local_start": 0.25999999046325684,
+          "local_end": 0.7200000286102295,
+          "evidence_indices": [
+            1
+          ],
+          "start": 32.80399999046326,
+          "end": 33.26400002861023
+        },
+        {
+          "word": "an",
+          "local_start": 0.7200000286102295,
+          "local_end": 1.0,
+          "evidence_indices": [
+            2
+          ],
+          "start": 33.26400002861023,
+          "end": 33.544000000000004
+        },
+        {
+          "word": "update",
+          "local_start": 1.0,
+          "local_end": 1.2799999713897705,
+          "evidence_indices": [
+            3
+          ],
+          "start": 33.544000000000004,
+          "end": 33.823999971389775
+        },
+        {
+          "word": "by",
+          "local_start": 1.2799999713897705,
+          "local_end": 1.6799999475479126,
+          "evidence_indices": [
+            4
+          ],
+          "start": 33.823999971389775,
+          "end": 34.22399994754792
+        },
+        {
+          "word": "Friday",
+          "local_start": 1.6799999475479126,
+          "local_end": 2.0,
+          "evidence_indices": [
+            5
+          ],
+          "start": 34.22399994754792,
+          "end": 34.544000000000004
+        },
+        {
+          "word": "on",
+          "local_start": 2.0,
+          "local_end": 2.380000114440918,
+          "evidence_indices": [
+            6
+          ],
+          "start": 34.544000000000004,
+          "end": 34.92400011444092
+        },
+        {
+          "word": "your",
+          "local_start": 2.380000114440918,
+          "local_end": 2.5,
+          "evidence_indices": [
+            7
+          ],
+          "start": 34.92400011444092,
+          "end": 35.044000000000004
+        },
+        {
+          "word": "bill",
+          "local_start": 2.5,
+          "local_end": 2.680000066757202,
+          "evidence_indices": [
+            8
+          ],
+          "start": 35.044000000000004,
+          "end": 35.224000066757206
+        },
+        {
+          "word": "page.",
+          "local_start": 2.680000066757202,
+          "local_end": 2.9800000190734863,
+          "evidence_indices": [
+            9
+          ],
+          "start": 35.224000066757206,
+          "end": 35.52400001907349
+        },
+        {
+          "word": "Your",
+          "local_start": 3.5999999046325684,
+          "local_end": 3.740000009536743,
+          "evidence_indices": [
+            10
+          ],
+          "start": 36.14399990463257,
+          "end": 36.28400000953675
+        },
+        {
+          "word": "reference",
+          "local_start": 3.740000009536743,
+          "local_end": 4.139999866485596,
+          "evidence_indices": [
+            11
+          ],
+          "start": 36.28400000953675,
+          "end": 36.6839998664856
+        },
+        {
+          "word": "is",
+          "local_start": 4.139999866485596,
+          "local_end": 4.599999904632568,
+          "evidence_indices": [
+            12
+          ],
+          "start": 36.6839998664856,
+          "end": 37.14399990463257
+        },
+        {
+          "word": "B-42.",
+          "local_start": 4.599999904632568,
+          "local_end": 5.300000190734863,
+          "evidence_indices": [
+            13,
+            14
+          ],
+          "start": 37.14399990463257,
+          "end": 37.84400019073487
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "file": "11.mp3",
+      "text": "B-42, and I should check the bill page on Friday for the expected update. Is that right?",
+      "audio_sha256": "a05b5289cf9a1b19c9dea716831082bac55dea5e1d0fecdbd6e4150a6b399aeb",
+      "start": 38.256,
+      "end": 43.872,
+      "duration": 5.616,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "B-42,",
+          "local_start": 0.0,
+          "local_end": 0.9200000166893005,
+          "evidence_indices": [
+            0,
+            1
+          ],
+          "start": 38.256,
+          "end": 39.1760000166893
+        },
+        {
+          "word": "and",
+          "local_start": 1.4800000190734863,
+          "local_end": 1.5399999618530273,
+          "evidence_indices": [
+            2
+          ],
+          "start": 39.73600001907349,
+          "end": 39.79599996185303
+        },
+        {
+          "word": "I",
+          "local_start": 1.5399999618530273,
+          "local_end": 1.6200000047683716,
+          "evidence_indices": [
+            3
+          ],
+          "start": 39.79599996185303,
+          "end": 39.87600000476837
+        },
+        {
+          "word": "should",
+          "local_start": 1.6200000047683716,
+          "local_end": 1.7799999713897705,
+          "evidence_indices": [
+            4
+          ],
+          "start": 39.87600000476837,
+          "end": 40.03599997138977
+        },
+        {
+          "word": "check",
+          "local_start": 1.7799999713897705,
+          "local_end": 2.0,
+          "evidence_indices": [
+            5
+          ],
+          "start": 40.03599997138977,
+          "end": 40.256
+        },
+        {
+          "word": "the",
+          "local_start": 2.0,
+          "local_end": 2.2200000286102295,
+          "evidence_indices": [
+            6
+          ],
+          "start": 40.256,
+          "end": 40.47600002861023
+        },
+        {
+          "word": "bill",
+          "local_start": 2.2200000286102295,
+          "local_end": 2.359999895095825,
+          "evidence_indices": [
+            7
+          ],
+          "start": 40.47600002861023,
+          "end": 40.615999895095825
+        },
+        {
+          "word": "page",
+          "local_start": 2.359999895095825,
+          "local_end": 2.619999885559082,
+          "evidence_indices": [
+            8
+          ],
+          "start": 40.615999895095825,
+          "end": 40.87599988555908
+        },
+        {
+          "word": "on",
+          "local_start": 2.619999885559082,
+          "local_end": 2.9000000953674316,
+          "evidence_indices": [
+            9
+          ],
+          "start": 40.87599988555908,
+          "end": 41.15600009536743
+        },
+        {
+          "word": "Friday",
+          "local_start": 2.9000000953674316,
+          "local_end": 3.180000066757202,
+          "evidence_indices": [
+            10
+          ],
+          "start": 41.15600009536743,
+          "end": 41.4360000667572
+        },
+        {
+          "word": "for",
+          "local_start": 3.180000066757202,
+          "local_end": 3.4800000190734863,
+          "evidence_indices": [
+            11
+          ],
+          "start": 41.4360000667572,
+          "end": 41.73600001907349
+        },
+        {
+          "word": "the",
+          "local_start": 3.4800000190734863,
+          "local_end": 3.640000104904175,
+          "evidence_indices": [
+            12
+          ],
+          "start": 41.73600001907349,
+          "end": 41.896000104904175
+        },
+        {
+          "word": "expected",
+          "local_start": 3.640000104904175,
+          "local_end": 4.059999942779541,
+          "evidence_indices": [
+            13
+          ],
+          "start": 41.896000104904175,
+          "end": 42.31599994277954
+        },
+        {
+          "word": "update.",
+          "local_start": 4.059999942779541,
+          "local_end": 4.460000038146973,
+          "evidence_indices": [
+            14
+          ],
+          "start": 42.31599994277954,
+          "end": 42.71600003814697
+        },
+        {
+          "word": "Is",
+          "local_start": 4.860000133514404,
+          "local_end": 5.039999961853027,
+          "evidence_indices": [
+            15
+          ],
+          "start": 43.116000133514405,
+          "end": 43.29599996185303
+        },
+        {
+          "word": "that",
+          "local_start": 5.039999961853027,
+          "local_end": 5.179999828338623,
+          "evidence_indices": [
+            16
+          ],
+          "start": 43.29599996185303,
+          "end": 43.43599982833862
+        },
+        {
+          "word": "right?",
+          "local_start": 5.179999828338623,
+          "local_end": 5.360000133514404,
+          "evidence_indices": [
+            17
+          ],
+          "start": 43.43599982833862,
+          "end": 43.616000133514405
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "file": "12.mp3",
+      "text": "That is right. We expect an update by then. Thank you for bringing the charge to our attention.",
+      "audio_sha256": "cd1ad779bd036914d9b786bc682f0019c1b580773379957316dd4726332a18c6",
+      "start": 43.872,
+      "end": 49.824,
+      "duration": 5.952,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "That",
+          "local_start": 0.0,
+          "local_end": 0.3400000035762787,
+          "evidence_indices": [
+            0
+          ],
+          "start": 43.872,
+          "end": 44.21200000357628
+        },
+        {
+          "word": "is",
+          "local_start": 0.3400000035762787,
+          "local_end": 0.5,
+          "evidence_indices": [
+            1
+          ],
+          "start": 44.21200000357628,
+          "end": 44.372
+        },
+        {
+          "word": "right.",
+          "local_start": 0.5,
+          "local_end": 0.8199999928474426,
+          "evidence_indices": [
+            2
+          ],
+          "start": 44.372,
+          "end": 44.69199999284744
+        },
+        {
+          "word": "We",
+          "local_start": 1.0800000429153442,
+          "local_end": 1.440000057220459,
+          "evidence_indices": [
+            3
+          ],
+          "start": 44.952000042915344,
+          "end": 45.31200005722046
+        },
+        {
+          "word": "expect",
+          "local_start": 1.440000057220459,
+          "local_end": 1.7599999904632568,
+          "evidence_indices": [
+            4
+          ],
+          "start": 45.31200005722046,
+          "end": 45.63199999046326
+        },
+        {
+          "word": "an",
+          "local_start": 1.7599999904632568,
+          "local_end": 2.0199999809265137,
+          "evidence_indices": [
+            5
+          ],
+          "start": 45.63199999046326,
+          "end": 45.891999980926514
+        },
+        {
+          "word": "update",
+          "local_start": 2.0199999809265137,
+          "local_end": 2.1600000858306885,
+          "evidence_indices": [
+            6
+          ],
+          "start": 45.891999980926514,
+          "end": 46.03200008583069
+        },
+        {
+          "word": "by",
+          "local_start": 2.1600000858306885,
+          "local_end": 2.4200000762939453,
+          "evidence_indices": [
+            7
+          ],
+          "start": 46.03200008583069,
+          "end": 46.292000076293945
+        },
+        {
+          "word": "then.",
+          "local_start": 2.4200000762939453,
+          "local_end": 2.740000009536743,
+          "evidence_indices": [
+            8
+          ],
+          "start": 46.292000076293945,
+          "end": 46.61200000953674
+        },
+        {
+          "word": "Thank",
+          "local_start": 3.559999942779541,
+          "local_end": 3.8399999141693115,
+          "evidence_indices": [
+            9
+          ],
+          "start": 47.43199994277954,
+          "end": 47.71199991416931
+        },
+        {
+          "word": "you",
+          "local_start": 3.8399999141693115,
+          "local_end": 4.0,
+          "evidence_indices": [
+            10
+          ],
+          "start": 47.71199991416931,
+          "end": 47.872
+        },
+        {
+          "word": "for",
+          "local_start": 4.0,
+          "local_end": 4.320000171661377,
+          "evidence_indices": [
+            11
+          ],
+          "start": 47.872,
+          "end": 48.19200017166138
+        },
+        {
+          "word": "bringing",
+          "local_start": 4.320000171661377,
+          "local_end": 4.460000038146973,
+          "evidence_indices": [
+            12
+          ],
+          "start": 48.19200017166138,
+          "end": 48.33200003814697
+        },
+        {
+          "word": "the",
+          "local_start": 4.460000038146973,
+          "local_end": 4.699999809265137,
+          "evidence_indices": [
+            13
+          ],
+          "start": 48.33200003814697,
+          "end": 48.57199980926514
+        },
+        {
+          "word": "charge",
+          "local_start": 4.699999809265137,
+          "local_end": 4.960000038146973,
+          "evidence_indices": [
+            14
+          ],
+          "start": 48.57199980926514,
+          "end": 48.83200003814697
+        },
+        {
+          "word": "to",
+          "local_start": 4.960000038146973,
+          "local_end": 5.099999904632568,
+          "evidence_indices": [
+            15
+          ],
+          "start": 48.83200003814697,
+          "end": 48.97199990463257
+        },
+        {
+          "word": "our",
+          "local_start": 5.099999904632568,
+          "local_end": 5.300000190734863,
+          "evidence_indices": [
+            16
+          ],
+          "start": 48.97199990463257,
+          "end": 49.17200019073486
+        },
+        {
+          "word": "attention.",
+          "local_start": 5.300000190734863,
+          "local_end": 5.480000019073486,
+          "evidence_indices": [
+            17
+          ],
+          "start": 49.17200019073486,
+          "end": 49.352000019073486
+        }
+      ]
+    }
+  ]
+}

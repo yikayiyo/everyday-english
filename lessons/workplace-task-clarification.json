@@ -1,0 +1,124 @@
+{
+  "supplement_id": "S05",
+  "date": "2026-11-22",
+  "slug": "workplace-task-clarification",
+  "title": "Clarifying a Task at Work",
+  "title_zh": "工作中澄清任务与求助",
+  "context": "同事 Ella 和 Noah 正在准备每周销售表。Ella 不理解如何筛选本周数据，请 Noah 示范；她复述步骤、截止时间和发送给 Noah 核对的下一步。",
+  "voices": {
+    "Ella": "marin",
+    "Noah": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Ella",
+      "en": "I am working on the weekly sales table, but I do not understand the filter step.",
+      "zh": "我正在做每周销售表，但不明白筛选这一步。"
+    },
+    {
+      "speaker": "Noah",
+      "en": "The filter lets you show only this week's entries.",
+      "zh": "筛选功能可以让你只显示本周的条目。"
+    },
+    {
+      "speaker": "Ella",
+      "en": "Could you show me how to do that?",
+      "zh": "你能示范一下怎么做吗？"
+    },
+    {
+      "speaker": "Noah",
+      "en": "Sure. Click the date filter, then select this week.",
+      "zh": "当然。点击日期筛选，再选择本周。"
+    },
+    {
+      "speaker": "Ella",
+      "en": "I see. Do I save the filtered table as a new file?",
+      "zh": "我明白了。我要把筛选后的表格另存为新文件吗？"
+    },
+    {
+      "speaker": "Noah",
+      "en": "Yes. Save a copy, then send it to me to check.",
+      "zh": "是的。保存一个副本，然后发给我核对。"
+    },
+    {
+      "speaker": "Ella",
+      "en": "Let me check: filter for this week, save a copy, and send it to you.",
+      "zh": "我确认一下：筛选本周数据，保存副本，然后发给你。"
+    },
+    {
+      "speaker": "Noah",
+      "en": "That is right. Please send it by three this afternoon.",
+      "zh": "对。请在今天下午三点前发给我。"
+    },
+    {
+      "speaker": "Ella",
+      "en": "You will have it by three today. I will send it to you first.",
+      "zh": "你今天三点前就能收到。我会先把它发给你。"
+    },
+    {
+      "speaker": "Noah",
+      "en": "Exactly. I will check it before we share it with the team.",
+      "zh": "没错。我会在我们分享给团队之前核对。"
+    },
+    {
+      "speaker": "Ella",
+      "en": "I have applied the filter and saved the copy. I will send it now.",
+      "zh": "我已经筛选并保存了副本，现在发给你。"
+    },
+    {
+      "speaker": "Noah",
+      "en": "Thanks, Ella. I will look for it and let you know after I check it.",
+      "zh": "谢谢，Ella。我会留意接收，核对后告诉你。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "filter for",
+      "zh": "筛选出符合条件的数据；常用于表格。",
+      "example": "Filter for this week's entries."
+    },
+    {
+      "en": "Could you show me how?",
+      "zh": "你能示范一下怎么做吗？不理解步骤时可以使用。",
+      "example": "Could you show me how to use the filter?"
+    },
+    {
+      "en": "save a copy",
+      "zh": "保存一个副本；保留原文件并另存一份。",
+      "example": "Please save a copy before you send it."
+    },
+    {
+      "en": "Let me check",
+      "zh": "我确认一下；复述前用来核对理解。",
+      "example": "Let me check: you need it by three?"
+    },
+    {
+      "en": "by three",
+      "zh": "三点前，最迟三点；by 表示截止时间。",
+      "example": "Please send me the table by three."
+    }
+  ],
+  "pronunciation": "filter /ˈfɪltər/ 重音在第一音节，末尾 /r/ 可轻卷舌；copy /ˈkɑːpi/ 重音在第一音节。说 by three 时，注意 three 的 /θ/：舌尖轻触上下齿之间。",
+  "practice": [
+    {
+      "title": "Part 1 · Learning at work",
+      "prompt": "What do you do when you do not understand a task?",
+      "answer": "I ask a coworker to show me the step I do not understand. Then I explain it back to make sure I can do it."
+    },
+    {
+      "title": "Part 2 · Learning a task",
+      "prompt": "Describe a task someone helped you learn. Say what the task was, what help you received, and what you did next.",
+      "answer": "At work I once needed to prepare a weekly sales table. I did not know how to filter the dates, so I asked a coworker to show me. He clicked the date filter and selected the current week. I repeated the steps and checked when he needed the file. Then I saved a copy and sent it to him before the deadline. His explanation helped me feel more confident. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Asking for help",
+      "prompt": "How can coworkers make it easier to ask for help?",
+      "answer": "They can listen without making someone feel embarrassed and demonstrate one step at a time. Checking the deadline and the next action also helps everyone understand the task."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "先逐句跟读，再说明一个不懂的工作步骤，请同伴示范并复述截止时间与下一步。",
+      "answer": "用 4–6 句练习；同伴示范后，你确认步骤、交付对象和时间。"
+    }
+  ]
+}

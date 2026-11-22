@@ -1,0 +1,1149 @@
+{
+  "timing_status": "validated_with_timing_warnings",
+  "timing_warnings": [
+    {
+      "line": 3,
+      "whisper_word_indices": [
+        4,
+        6
+      ]
+    }
+  ],
+  "model": "whisper-1",
+  "lesson": "asking-for-repeat-and-spelling",
+  "source_sha256": "4518916382327ef4c212d610746c6916a1ff6d534e624460227b723d9cccf484",
+  "full_track": "dialogue-full.mp3",
+  "full_duration": 52.104,
+  "full_audio_sha256": "e1c8f122c37bd098ca61d9f94572015c0061aacb727804f95996788bebdad3f8",
+  "lines": [
+    {
+      "index": 1,
+      "file": "01.mp3",
+      "text": "I would like information about the reading group. Could you call me back?",
+      "audio_sha256": "0e94da0a2bb8c36db8b6e26fb4f650da9eef3bcb2fe227efc331db29a9250d5d",
+      "start": 0,
+      "end": 3.552,
+      "duration": 3.552,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "I",
+          "local_start": 0.0,
+          "local_end": 0.1599999964237213,
+          "evidence_indices": [
+            0
+          ],
+          "start": 0.0,
+          "end": 0.1599999964237213
+        },
+        {
+          "word": "would",
+          "local_start": 0.1599999964237213,
+          "local_end": 0.30000001192092896,
+          "evidence_indices": [
+            1
+          ],
+          "start": 0.1599999964237213,
+          "end": 0.30000001192092896
+        },
+        {
+          "word": "like",
+          "local_start": 0.30000001192092896,
+          "local_end": 0.5,
+          "evidence_indices": [
+            2
+          ],
+          "start": 0.30000001192092896,
+          "end": 0.5
+        },
+        {
+          "word": "information",
+          "local_start": 0.5,
+          "local_end": 1.0199999809265137,
+          "evidence_indices": [
+            3
+          ],
+          "start": 0.5,
+          "end": 1.0199999809265137
+        },
+        {
+          "word": "about",
+          "local_start": 1.0199999809265137,
+          "local_end": 1.2400000095367432,
+          "evidence_indices": [
+            4
+          ],
+          "start": 1.0199999809265137,
+          "end": 1.2400000095367432
+        },
+        {
+          "word": "the",
+          "local_start": 1.2400000095367432,
+          "local_end": 1.3799999952316284,
+          "evidence_indices": [
+            5
+          ],
+          "start": 1.2400000095367432,
+          "end": 1.3799999952316284
+        },
+        {
+          "word": "reading",
+          "local_start": 1.3799999952316284,
+          "local_end": 1.6200000047683716,
+          "evidence_indices": [
+            6
+          ],
+          "start": 1.3799999952316284,
+          "end": 1.6200000047683716
+        },
+        {
+          "word": "group.",
+          "local_start": 1.6200000047683716,
+          "local_end": 1.899999976158142,
+          "evidence_indices": [
+            7
+          ],
+          "start": 1.6200000047683716,
+          "end": 1.899999976158142
+        },
+        {
+          "word": "Could",
+          "local_start": 2.359999895095825,
+          "local_end": 2.4800000190734863,
+          "evidence_indices": [
+            8
+          ],
+          "start": 2.359999895095825,
+          "end": 2.4800000190734863
+        },
+        {
+          "word": "you",
+          "local_start": 2.4800000190734863,
+          "local_end": 2.6600000858306885,
+          "evidence_indices": [
+            9
+          ],
+          "start": 2.4800000190734863,
+          "end": 2.6600000858306885
+        },
+        {
+          "word": "call",
+          "local_start": 2.6600000858306885,
+          "local_end": 2.740000009536743,
+          "evidence_indices": [
+            10
+          ],
+          "start": 2.6600000858306885,
+          "end": 2.740000009536743
+        },
+        {
+          "word": "me",
+          "local_start": 2.740000009536743,
+          "local_end": 2.9000000953674316,
+          "evidence_indices": [
+            11
+          ],
+          "start": 2.740000009536743,
+          "end": 2.9000000953674316
+        },
+        {
+          "word": "back?",
+          "local_start": 2.9000000953674316,
+          "local_end": 3.180000066757202,
+          "evidence_indices": [
+            12
+          ],
+          "start": 2.9000000953674316,
+          "end": 3.180000066757202
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "file": "02.mp3",
+      "text": "Certainly. Could you tell me your name?",
+      "audio_sha256": "1c9b721f04940eddcf2d5798a31644ab9ec416db441fa5dd00cc7be05ed59890",
+      "start": 3.552,
+      "end": 5.904,
+      "duration": 2.352,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Certainly.",
+          "local_start": 0.0,
+          "local_end": 0.46000000834465027,
+          "evidence_indices": [
+            0
+          ],
+          "start": 3.552,
+          "end": 4.01200000834465
+        },
+        {
+          "word": "Could",
+          "local_start": 0.8999999761581421,
+          "local_end": 1.2999999523162842,
+          "evidence_indices": [
+            1
+          ],
+          "start": 4.451999976158142,
+          "end": 4.851999952316284
+        },
+        {
+          "word": "you",
+          "local_start": 1.2999999523162842,
+          "local_end": 1.440000057220459,
+          "evidence_indices": [
+            2
+          ],
+          "start": 4.851999952316284,
+          "end": 4.992000057220459
+        },
+        {
+          "word": "tell",
+          "local_start": 1.440000057220459,
+          "local_end": 1.600000023841858,
+          "evidence_indices": [
+            3
+          ],
+          "start": 4.992000057220459,
+          "end": 5.1520000238418575
+        },
+        {
+          "word": "me",
+          "local_start": 1.600000023841858,
+          "local_end": 1.7599999904632568,
+          "evidence_indices": [
+            4
+          ],
+          "start": 5.1520000238418575,
+          "end": 5.311999990463256
+        },
+        {
+          "word": "your",
+          "local_start": 1.7599999904632568,
+          "local_end": 1.9600000381469727,
+          "evidence_indices": [
+            5
+          ],
+          "start": 5.311999990463256,
+          "end": 5.512000038146972
+        },
+        {
+          "word": "name?",
+          "local_start": 1.9600000381469727,
+          "local_end": 2.0999999046325684,
+          "evidence_indices": [
+            6
+          ],
+          "start": 5.512000038146972,
+          "end": 5.651999904632568
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "file": "03.mp3",
+      "text": "It is Maya Lee. Lee is spelled L-E-E.",
+      "audio_sha256": "96b8daf8ff1cdb451e02073caeb02382c8a47d6257575783253685b609862cd7",
+      "start": 5.904,
+      "end": 10.152000000000001,
+      "duration": 4.248,
+      "zero_word_indices": [
+        4,
+        6
+      ],
+      "words": [
+        {
+          "word": "It",
+          "local_start": 0.0,
+          "local_end": 0.18000000715255737,
+          "evidence_indices": [
+            0
+          ],
+          "start": 5.904,
+          "end": 6.084000007152557
+        },
+        {
+          "word": "is",
+          "local_start": 0.18000000715255737,
+          "local_end": 0.47999998927116394,
+          "evidence_indices": [
+            1
+          ],
+          "start": 6.084000007152557,
+          "end": 6.383999989271164
+        },
+        {
+          "word": "Maya",
+          "local_start": 0.47999998927116394,
+          "local_end": 0.8399999737739563,
+          "evidence_indices": [
+            2
+          ],
+          "start": 6.383999989271164,
+          "end": 6.743999973773956
+        },
+        {
+          "word": "Lee.",
+          "local_start": 0.8399999737739563,
+          "local_end": 1.3200000524520874,
+          "evidence_indices": [
+            3
+          ],
+          "start": 6.743999973773956,
+          "end": 7.224000052452087
+        },
+        {
+          "word": "Lee",
+          "local_start": 2.0999999046325684,
+          "local_end": 2.0999999046325684,
+          "evidence_indices": [
+            4
+          ],
+          "start": 8.003999904632568,
+          "end": 8.003999904632568
+        },
+        {
+          "word": "is",
+          "local_start": 2.0999999046325684,
+          "local_end": 2.680000066757202,
+          "evidence_indices": [
+            5
+          ],
+          "start": 8.003999904632568,
+          "end": 8.584000066757202
+        },
+        {
+          "word": "spelled",
+          "local_start": 2.680000066757202,
+          "local_end": 2.680000066757202,
+          "evidence_indices": [
+            6
+          ],
+          "start": 8.584000066757202,
+          "end": 8.584000066757202
+        },
+        {
+          "word": "L-E-E.",
+          "local_start": 2.680000066757202,
+          "local_end": 3.940000057220459,
+          "evidence_indices": [
+            7,
+            8,
+            9
+          ],
+          "start": 8.584000066757202,
+          "end": 9.844000057220459
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "file": "04.mp3",
+      "text": "Thank you, Maya Lee. What is your callback number?",
+      "audio_sha256": "af02a373b16b5d28f5b642b78d59c5083615273b0a183e3457c1e0ff782cd263",
+      "start": 10.152000000000001,
+      "end": 13.752,
+      "duration": 3.6,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Thank",
+          "local_start": 0.0,
+          "local_end": 0.36000001430511475,
+          "evidence_indices": [
+            0
+          ],
+          "start": 10.152000000000001,
+          "end": 10.512000014305116
+        },
+        {
+          "word": "you,",
+          "local_start": 0.36000001430511475,
+          "local_end": 0.6000000238418579,
+          "evidence_indices": [
+            1
+          ],
+          "start": 10.512000014305116,
+          "end": 10.752000023841859
+        },
+        {
+          "word": "Maya",
+          "local_start": 1.0199999809265137,
+          "local_end": 1.340000033378601,
+          "evidence_indices": [
+            2
+          ],
+          "start": 11.171999980926515,
+          "end": 11.492000033378602
+        },
+        {
+          "word": "Lee.",
+          "local_start": 1.340000033378601,
+          "local_end": 1.6399999856948853,
+          "evidence_indices": [
+            3
+          ],
+          "start": 11.492000033378602,
+          "end": 11.791999985694886
+        },
+        {
+          "word": "What",
+          "local_start": 2.200000047683716,
+          "local_end": 2.2200000286102295,
+          "evidence_indices": [
+            4
+          ],
+          "start": 12.352000047683717,
+          "end": 12.37200002861023
+        },
+        {
+          "word": "is",
+          "local_start": 2.2200000286102295,
+          "local_end": 2.319999933242798,
+          "evidence_indices": [
+            5
+          ],
+          "start": 12.37200002861023,
+          "end": 12.471999933242799
+        },
+        {
+          "word": "your",
+          "local_start": 2.319999933242798,
+          "local_end": 2.5,
+          "evidence_indices": [
+            6
+          ],
+          "start": 12.471999933242799,
+          "end": 12.652000000000001
+        },
+        {
+          "word": "callback",
+          "local_start": 2.5,
+          "local_end": 2.8399999141693115,
+          "evidence_indices": [
+            7
+          ],
+          "start": 12.652000000000001,
+          "end": 12.991999914169313
+        },
+        {
+          "word": "number?",
+          "local_start": 2.8399999141693115,
+          "local_end": 3.059999942779541,
+          "evidence_indices": [
+            8
+          ],
+          "start": 12.991999914169313,
+          "end": 13.211999942779542
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "file": "05.mp3",
+      "text": "It is 202-555-0146.",
+      "audio_sha256": "319fda0620409eb3f6ddb34e9a1399caf008add9cf17c266075443a61f754787",
+      "start": 13.752,
+      "end": 18.456,
+      "duration": 4.704,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "It",
+          "local_start": 0.0,
+          "local_end": 0.2199999988079071,
+          "evidence_indices": [
+            0
+          ],
+          "start": 13.752,
+          "end": 13.971999998807908
+        },
+        {
+          "word": "is",
+          "local_start": 0.2199999988079071,
+          "local_end": 0.6000000238418579,
+          "evidence_indices": [
+            1
+          ],
+          "start": 13.971999998807908,
+          "end": 14.352000023841859
+        },
+        {
+          "word": "202-555-0146.",
+          "local_start": 0.6000000238418579,
+          "local_end": 4.519999980926514,
+          "evidence_indices": [
+            2,
+            3,
+            4
+          ],
+          "start": 14.352000023841859,
+          "end": 18.271999980926516
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "file": "06.mp3",
+      "text": "Could you say that again more slowly, please?",
+      "audio_sha256": "f2f5a1897aa327652aef0f54f26210cf5fdb8d4d5c365dd811f1135ab7c80c71",
+      "start": 18.456,
+      "end": 21.864,
+      "duration": 3.408,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Could",
+          "local_start": 0.0,
+          "local_end": 0.25999999046325684,
+          "evidence_indices": [
+            0
+          ],
+          "start": 18.456,
+          "end": 18.715999990463256
+        },
+        {
+          "word": "you",
+          "local_start": 0.25999999046325684,
+          "local_end": 0.46000000834465027,
+          "evidence_indices": [
+            1
+          ],
+          "start": 18.715999990463256,
+          "end": 18.91600000834465
+        },
+        {
+          "word": "say",
+          "local_start": 0.46000000834465027,
+          "local_end": 0.699999988079071,
+          "evidence_indices": [
+            2
+          ],
+          "start": 18.91600000834465,
+          "end": 19.15599998807907
+        },
+        {
+          "word": "that",
+          "local_start": 0.699999988079071,
+          "local_end": 0.8799999952316284,
+          "evidence_indices": [
+            3
+          ],
+          "start": 19.15599998807907,
+          "end": 19.335999995231628
+        },
+        {
+          "word": "again",
+          "local_start": 0.8799999952316284,
+          "local_end": 1.4600000381469727,
+          "evidence_indices": [
+            4
+          ],
+          "start": 19.335999995231628,
+          "end": 19.916000038146972
+        },
+        {
+          "word": "more",
+          "local_start": 1.4600000381469727,
+          "local_end": 1.899999976158142,
+          "evidence_indices": [
+            5
+          ],
+          "start": 19.916000038146972,
+          "end": 20.35599997615814
+        },
+        {
+          "word": "slowly,",
+          "local_start": 1.899999976158142,
+          "local_end": 2.2799999713897705,
+          "evidence_indices": [
+            6
+          ],
+          "start": 20.35599997615814,
+          "end": 20.73599997138977
+        },
+        {
+          "word": "please?",
+          "local_start": 2.6600000858306885,
+          "local_end": 2.859999895095825,
+          "evidence_indices": [
+            7
+          ],
+          "start": 21.116000085830688,
+          "end": 21.315999895095825
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "file": "07.mp3",
+      "text": "Of course. It is 202-555-0146.",
+      "audio_sha256": "9933f3bcdcd1172a91a27bcb10fd139bc5796202c78a7fa090c51f33bfc509a4",
+      "start": 21.864,
+      "end": 27.216,
+      "duration": 5.352,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Of",
+          "local_start": 0.0,
+          "local_end": 0.5199999809265137,
+          "evidence_indices": [
+            0
+          ],
+          "start": 21.864,
+          "end": 22.383999980926514
+        },
+        {
+          "word": "course.",
+          "local_start": 0.5199999809265137,
+          "local_end": 0.6200000047683716,
+          "evidence_indices": [
+            1
+          ],
+          "start": 22.383999980926514,
+          "end": 22.484000004768372
+        },
+        {
+          "word": "It",
+          "local_start": 0.7400000095367432,
+          "local_end": 1.2400000095367432,
+          "evidence_indices": [
+            2
+          ],
+          "start": 22.604000009536744,
+          "end": 23.104000009536744
+        },
+        {
+          "word": "is",
+          "local_start": 1.2400000095367432,
+          "local_end": 1.5800000429153442,
+          "evidence_indices": [
+            3
+          ],
+          "start": 23.104000009536744,
+          "end": 23.444000042915345
+        },
+        {
+          "word": "202-555-0146.",
+          "local_start": 1.5800000429153442,
+          "local_end": 5.059999942779541,
+          "evidence_indices": [
+            4,
+            5,
+            6
+          ],
+          "start": 23.444000042915345,
+          "end": 26.923999942779542
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "file": "08.mp3",
+      "text": "Let me repeat that: 202-555-0147. Is that right?",
+      "audio_sha256": "73c2d49f8d6305cb119ab74612543c6206b21afff7008da2e5e895a10bca2e11",
+      "start": 27.216,
+      "end": 32.976,
+      "duration": 5.76,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Let",
+          "local_start": 0.0,
+          "local_end": 0.23999999463558197,
+          "evidence_indices": [
+            0
+          ],
+          "start": 27.216,
+          "end": 27.455999994635583
+        },
+        {
+          "word": "me",
+          "local_start": 0.23999999463558197,
+          "local_end": 0.4000000059604645,
+          "evidence_indices": [
+            1
+          ],
+          "start": 27.455999994635583,
+          "end": 27.616000005960466
+        },
+        {
+          "word": "repeat",
+          "local_start": 0.4000000059604645,
+          "local_end": 0.6200000047683716,
+          "evidence_indices": [
+            2
+          ],
+          "start": 27.616000005960466,
+          "end": 27.836000004768373
+        },
+        {
+          "word": "that:",
+          "local_start": 0.6200000047683716,
+          "local_end": 0.8999999761581421,
+          "evidence_indices": [
+            3
+          ],
+          "start": 27.836000004768373,
+          "end": 28.115999976158143
+        },
+        {
+          "word": "202-555-0147.",
+          "local_start": 1.7000000476837158,
+          "local_end": 4.480000019073486,
+          "evidence_indices": [
+            4,
+            5,
+            6
+          ],
+          "start": 28.916000047683717,
+          "end": 31.696000019073487
+        },
+        {
+          "word": "Is",
+          "local_start": 5.0,
+          "local_end": 5.079999923706055,
+          "evidence_indices": [
+            7
+          ],
+          "start": 32.216,
+          "end": 32.295999923706056
+        },
+        {
+          "word": "that",
+          "local_start": 5.079999923706055,
+          "local_end": 5.21999979019165,
+          "evidence_indices": [
+            8
+          ],
+          "start": 32.295999923706056,
+          "end": 32.43599979019165
+        },
+        {
+          "word": "right?",
+          "local_start": 5.21999979019165,
+          "local_end": 5.400000095367432,
+          "evidence_indices": [
+            9
+          ],
+          "start": 32.43599979019165,
+          "end": 32.61600009536743
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "file": "09.mp3",
+      "text": "Almost. The last digit is six, not seven: 202-555-0146.",
+      "audio_sha256": "56892ba33cbd35a099bfa4586033a469ebf042761982526c8a52e4e15baf7461",
+      "start": 32.976,
+      "end": 39.936,
+      "duration": 6.96,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Almost.",
+          "local_start": 0.0,
+          "local_end": 0.5600000023841858,
+          "evidence_indices": [
+            0
+          ],
+          "start": 32.976,
+          "end": 33.536000002384185
+        },
+        {
+          "word": "The",
+          "local_start": 1.0,
+          "local_end": 1.1399999856948853,
+          "evidence_indices": [
+            1
+          ],
+          "start": 33.976,
+          "end": 34.115999985694884
+        },
+        {
+          "word": "last",
+          "local_start": 1.1399999856948853,
+          "local_end": 1.4199999570846558,
+          "evidence_indices": [
+            2
+          ],
+          "start": 34.115999985694884,
+          "end": 34.395999957084655
+        },
+        {
+          "word": "digit",
+          "local_start": 1.4199999570846558,
+          "local_end": 1.600000023841858,
+          "evidence_indices": [
+            3
+          ],
+          "start": 34.395999957084655,
+          "end": 34.57600002384186
+        },
+        {
+          "word": "is",
+          "local_start": 1.600000023841858,
+          "local_end": 1.840000033378601,
+          "evidence_indices": [
+            4
+          ],
+          "start": 34.57600002384186,
+          "end": 34.8160000333786
+        },
+        {
+          "word": "six,",
+          "local_start": 1.840000033378601,
+          "local_end": 2.240000009536743,
+          "evidence_indices": [
+            5
+          ],
+          "start": 34.8160000333786,
+          "end": 35.21600000953674
+        },
+        {
+          "word": "not",
+          "local_start": 2.5199999809265137,
+          "local_end": 2.640000104904175,
+          "evidence_indices": [
+            6
+          ],
+          "start": 35.49599998092651,
+          "end": 35.616000104904174
+        },
+        {
+          "word": "seven:",
+          "local_start": 2.640000104904175,
+          "local_end": 2.940000057220459,
+          "evidence_indices": [
+            7
+          ],
+          "start": 35.616000104904174,
+          "end": 35.91600005722046
+        },
+        {
+          "word": "202-555-0146.",
+          "local_start": 3.6600000858306885,
+          "local_end": 6.71999979019165,
+          "evidence_indices": [
+            8,
+            9,
+            10
+          ],
+          "start": 36.63600008583069,
+          "end": 39.69599979019165
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "file": "10.mp3",
+      "text": "Thank you for correcting me. I have 202-555-0146.",
+      "audio_sha256": "1ae6bd9cc8cc9377dc8615f3072f2eb35d35b409fff8c872f2716377e665d7bf",
+      "start": 39.936,
+      "end": 46.248,
+      "duration": 6.312,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Thank",
+          "local_start": 0.0,
+          "local_end": 0.41999998688697815,
+          "evidence_indices": [
+            0
+          ],
+          "start": 39.936,
+          "end": 40.35599998688698
+        },
+        {
+          "word": "you",
+          "local_start": 0.41999998688697815,
+          "local_end": 0.6000000238418579,
+          "evidence_indices": [
+            1
+          ],
+          "start": 40.35599998688698,
+          "end": 40.53600002384186
+        },
+        {
+          "word": "for",
+          "local_start": 0.6000000238418579,
+          "local_end": 0.9200000166893005,
+          "evidence_indices": [
+            2
+          ],
+          "start": 40.53600002384186,
+          "end": 40.8560000166893
+        },
+        {
+          "word": "correcting",
+          "local_start": 0.9200000166893005,
+          "local_end": 1.2000000476837158,
+          "evidence_indices": [
+            3
+          ],
+          "start": 40.8560000166893,
+          "end": 41.136000047683716
+        },
+        {
+          "word": "me.",
+          "local_start": 1.2000000476837158,
+          "local_end": 1.5,
+          "evidence_indices": [
+            4
+          ],
+          "start": 41.136000047683716,
+          "end": 41.436
+        },
+        {
+          "word": "I",
+          "local_start": 2.1600000858306885,
+          "local_end": 2.299999952316284,
+          "evidence_indices": [
+            5
+          ],
+          "start": 42.09600008583069,
+          "end": 42.235999952316284
+        },
+        {
+          "word": "have",
+          "local_start": 2.299999952316284,
+          "local_end": 2.619999885559082,
+          "evidence_indices": [
+            6
+          ],
+          "start": 42.235999952316284,
+          "end": 42.55599988555908
+        },
+        {
+          "word": "202-555-0146.",
+          "local_start": 2.619999885559082,
+          "local_end": 6.099999904632568,
+          "evidence_indices": [
+            7,
+            8,
+            9
+          ],
+          "start": 42.55599988555908,
+          "end": 46.03599990463257
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "file": "11.mp3",
+      "text": "That is correct. When should I expect your call?",
+      "audio_sha256": "e069c8d51a6992305449cd8dbc750afaf65f9ea1a27b8a766fc933549abb1702",
+      "start": 46.248,
+      "end": 49.248,
+      "duration": 3.0,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "That",
+          "local_start": 0.0,
+          "local_end": 0.30000001192092896,
+          "evidence_indices": [
+            0
+          ],
+          "start": 46.248,
+          "end": 46.54800001192093
+        },
+        {
+          "word": "is",
+          "local_start": 0.30000001192092896,
+          "local_end": 0.6000000238418579,
+          "evidence_indices": [
+            1
+          ],
+          "start": 46.54800001192093,
+          "end": 46.848000023841855
+        },
+        {
+          "word": "correct.",
+          "local_start": 0.6000000238418579,
+          "local_end": 0.9399999976158142,
+          "evidence_indices": [
+            2
+          ],
+          "start": 46.848000023841855,
+          "end": 47.18799999761581
+        },
+        {
+          "word": "When",
+          "local_start": 1.5800000429153442,
+          "local_end": 1.7200000286102295,
+          "evidence_indices": [
+            3
+          ],
+          "start": 47.82800004291534,
+          "end": 47.96800002861023
+        },
+        {
+          "word": "should",
+          "local_start": 1.7200000286102295,
+          "local_end": 1.8799999952316284,
+          "evidence_indices": [
+            4
+          ],
+          "start": 47.96800002861023,
+          "end": 48.127999995231626
+        },
+        {
+          "word": "I",
+          "local_start": 1.8799999952316284,
+          "local_end": 2.0,
+          "evidence_indices": [
+            5
+          ],
+          "start": 48.127999995231626,
+          "end": 48.248
+        },
+        {
+          "word": "expect",
+          "local_start": 2.0,
+          "local_end": 2.319999933242798,
+          "evidence_indices": [
+            6
+          ],
+          "start": 48.248,
+          "end": 48.567999933242795
+        },
+        {
+          "word": "your",
+          "local_start": 2.319999933242798,
+          "local_end": 2.4800000190734863,
+          "evidence_indices": [
+            7
+          ],
+          "start": 48.567999933242795,
+          "end": 48.728000019073484
+        },
+        {
+          "word": "call?",
+          "local_start": 2.4800000190734863,
+          "local_end": 2.640000104904175,
+          "evidence_indices": [
+            8
+          ],
+          "start": 48.728000019073484,
+          "end": 48.88800010490417
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "file": "12.mp3",
+      "text": "I will call you tomorrow afternoon with the group details.",
+      "audio_sha256": "1bbb8240d0e37b49a31fddd8b327b81aa4334d18825d83bcd6c9bbd8e796b1e5",
+      "start": 49.248,
+      "end": 52.104,
+      "duration": 2.856,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "I",
+          "local_start": 0.0,
+          "local_end": 0.20000000298023224,
+          "evidence_indices": [
+            0
+          ],
+          "start": 49.248,
+          "end": 49.44800000298023
+        },
+        {
+          "word": "will",
+          "local_start": 0.20000000298023224,
+          "local_end": 0.3799999952316284,
+          "evidence_indices": [
+            1
+          ],
+          "start": 49.44800000298023,
+          "end": 49.627999995231626
+        },
+        {
+          "word": "call",
+          "local_start": 0.3799999952316284,
+          "local_end": 0.5600000023841858,
+          "evidence_indices": [
+            2
+          ],
+          "start": 49.627999995231626,
+          "end": 49.80800000238418
+        },
+        {
+          "word": "you",
+          "local_start": 0.5600000023841858,
+          "local_end": 0.800000011920929,
+          "evidence_indices": [
+            3
+          ],
+          "start": 49.80800000238418,
+          "end": 50.04800001192093
+        },
+        {
+          "word": "tomorrow",
+          "local_start": 0.800000011920929,
+          "local_end": 1.059999942779541,
+          "evidence_indices": [
+            4
+          ],
+          "start": 50.04800001192093,
+          "end": 50.30799994277954
+        },
+        {
+          "word": "afternoon",
+          "local_start": 1.059999942779541,
+          "local_end": 1.5399999618530273,
+          "evidence_indices": [
+            5
+          ],
+          "start": 50.30799994277954,
+          "end": 50.787999961853025
+        },
+        {
+          "word": "with",
+          "local_start": 1.5399999618530273,
+          "local_end": 1.7599999904632568,
+          "evidence_indices": [
+            6
+          ],
+          "start": 50.787999961853025,
+          "end": 51.007999990463254
+        },
+        {
+          "word": "the",
+          "local_start": 1.7599999904632568,
+          "local_end": 1.899999976158142,
+          "evidence_indices": [
+            7
+          ],
+          "start": 51.007999990463254,
+          "end": 51.14799997615814
+        },
+        {
+          "word": "group",
+          "local_start": 1.899999976158142,
+          "local_end": 2.059999942779541,
+          "evidence_indices": [
+            8
+          ],
+          "start": 51.14799997615814,
+          "end": 51.30799994277954
+        },
+        {
+          "word": "details.",
+          "local_start": 2.059999942779541,
+          "local_end": 2.4200000762939453,
+          "evidence_indices": [
+            9
+          ],
+          "start": 51.30799994277954,
+          "end": 51.66800007629394
+        }
+      ]
+    }
+  ]
+}

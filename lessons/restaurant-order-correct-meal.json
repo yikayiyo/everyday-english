@@ -1,0 +1,124 @@
+{
+  "supplement_id": "S01",
+  "date": "2026-11-22",
+  "slug": "restaurant-order-correct-meal",
+  "title": "Ordering a Meal and Fixing an Order",
+  "title_zh": "餐厅点餐与纠正错菜",
+  "context": "Nina 在餐厅坐下后向服务员 Ben 点烤鸡配米饭。服务员误上了鱼，核对后换成烤鸡；饭后 Nina 核对账单并付款。",
+  "voices": {
+    "Nina": "marin",
+    "Ben": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Nina",
+      "en": "Could I have the chicken, please? Is it grilled or fried?",
+      "zh": "请给我鸡肉，好吗？是烤的还是炸的？"
+    },
+    {
+      "speaker": "Ben",
+      "en": "It is grilled, and it comes with rice or potatoes.",
+      "zh": "是烤的，配米饭或土豆。"
+    },
+    {
+      "speaker": "Nina",
+      "en": "Rice, please. Does the chicken come with a sauce?",
+      "zh": "请配米饭。鸡肉带酱汁吗？"
+    },
+    {
+      "speaker": "Ben",
+      "en": "Yes. The sauce comes on the side. I will put your order in.",
+      "zh": "是的，酱汁另外放。我这就下单。"
+    },
+    {
+      "speaker": "Nina",
+      "en": "Excuse me, I ordered chicken, but this looks like fish. Could you check?",
+      "zh": "不好意思，我点的是鸡肉，但这看起来像鱼。能帮我核对一下吗？"
+    },
+    {
+      "speaker": "Ben",
+      "en": "You are right. I brought the wrong plate. I am sorry; I will get your chicken.",
+      "zh": "你说得对，我拿错了餐盘。很抱歉，我去拿你的鸡肉。"
+    },
+    {
+      "speaker": "Nina",
+      "en": "Thank you. I will wait for the chicken and rice.",
+      "zh": "谢谢，我等鸡肉和米饭。"
+    },
+    {
+      "speaker": "Ben",
+      "en": "Here is your grilled chicken with rice and the sauce on the side.",
+      "zh": "这是你的烤鸡配米饭，酱汁另外放。"
+    },
+    {
+      "speaker": "Nina",
+      "en": "That is what I ordered. Thank you.",
+      "zh": "这就是我点的，谢谢。"
+    },
+    {
+      "speaker": "Ben",
+      "en": "You are welcome. Here is your check whenever you are ready.",
+      "zh": "不客气。你准备好付款时，这是账单。"
+    },
+    {
+      "speaker": "Nina",
+      "en": "I have finished, thanks. The check shows one chicken meal, right? May I pay by card?",
+      "zh": "我吃完了，谢谢。账单上是一份鸡肉餐，对吗？我可以刷卡吗？"
+    },
+    {
+      "speaker": "Ben",
+      "en": "Yes, one chicken meal. You can pay by card right here.",
+      "zh": "对，一份鸡肉餐。你可以在这里刷卡。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "Could I have ...?",
+      "zh": "请给我……？点餐时礼貌提出所需。",
+      "example": "Could I have the grilled chicken, please?"
+    },
+    {
+      "en": "come with",
+      "zh": "配有、附带；用于询问餐点包含什么。",
+      "example": "Does the meal come with rice?"
+    },
+    {
+      "en": "on the side",
+      "zh": "另外放在旁边；常用于酱汁等配料。",
+      "example": "Could I have the dressing on the side?"
+    },
+    {
+      "en": "Could you check?",
+      "zh": "能帮我核对一下吗？用于委婉提出疑问。",
+      "example": "This looks different from my order. Could you check?"
+    },
+    {
+      "en": "the check",
+      "zh": "账单；美式英语中在餐厅可用这个词。",
+      "example": "Could we have the check, please?"
+    }
+  ],
+  "pronunciation": "grilled /ɡrɪld/ 结尾有 /ld/，不要加一个音节；check /tʃɛk/ 开头是 /tʃ/。练习 Could you check? 时将 could you 自然连读，保持 check 清楚。",
+  "practice": [
+    {
+      "title": "Part 1 · Eating out",
+      "prompt": "What do you usually order when you eat out?",
+      "answer": "I often order grilled chicken with rice. I like simple meals, and I usually ask for the sauce on the side."
+    },
+    {
+      "title": "Part 2 · A meal away from home",
+      "prompt": "Describe a meal you had away from home. Say where you ate, what you ordered, and what made the meal memorable.",
+      "answer": "Last month I had lunch at a small restaurant near my office. I ordered grilled chicken with rice because I wanted a warm, simple meal. The server brought fish by mistake, so I politely explained what I had ordered. She checked and brought the chicken. It was tasty, and I thanked her for helping me. I would happily eat there again. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Restaurant service",
+      "prompt": "How can customers and restaurant staff solve a mistake calmly?",
+      "answer": "A customer can explain the problem clearly and give the staff a chance to check. Staff can listen, apologize, and explain what they can do next."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "先逐句跟读，再扮演顾客：点主菜、询问做法，礼貌指出错菜并核对账单。",
+      "answer": "用 4–6 句完成点餐和纠错；换一种主菜，再请同伴回应。"
+    }
+  ]
+}

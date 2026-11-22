@@ -1,0 +1,1573 @@
+{
+  "timing_status": "validated_with_timing_warnings",
+  "timing_warnings": [
+    {
+      "line": 7,
+      "whisper_word_indices": [
+        9
+      ]
+    },
+    {
+      "line": 11,
+      "whisper_word_indices": [
+        15
+      ]
+    }
+  ],
+  "model": "whisper-1",
+  "lesson": "restaurant-order-correct-meal",
+  "source_sha256": "1256d2b747565ce266f9243f92c27c03874ae9133f9992ac754f8e30d3666346",
+  "full_track": "dialogue-full.mp3",
+  "full_duration": 44.928,
+  "full_audio_sha256": "74e48e7f2a0a96d498f7b1e5ddd7bdd4c2fbeb9d609af2bd2427342c73ed3bf8",
+  "lines": [
+    {
+      "index": 1,
+      "file": "01.mp3",
+      "text": "Could I have the chicken, please? Is it grilled or fried?",
+      "audio_sha256": "92d298d18f3c8862a826a774ee7e7c9b085d3399273f21cf726b8382379e23d2",
+      "start": 0,
+      "end": 3.36,
+      "duration": 3.36,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Could",
+          "local_start": 0.0,
+          "local_end": 0.2199999988079071,
+          "evidence_indices": [
+            0
+          ],
+          "start": 0.0,
+          "end": 0.2199999988079071
+        },
+        {
+          "word": "I",
+          "local_start": 0.2199999988079071,
+          "local_end": 0.36000001430511475,
+          "evidence_indices": [
+            1
+          ],
+          "start": 0.2199999988079071,
+          "end": 0.36000001430511475
+        },
+        {
+          "word": "have",
+          "local_start": 0.36000001430511475,
+          "local_end": 0.5,
+          "evidence_indices": [
+            2
+          ],
+          "start": 0.36000001430511475,
+          "end": 0.5
+        },
+        {
+          "word": "the",
+          "local_start": 0.5,
+          "local_end": 0.6800000071525574,
+          "evidence_indices": [
+            3
+          ],
+          "start": 0.5,
+          "end": 0.6800000071525574
+        },
+        {
+          "word": "chicken,",
+          "local_start": 0.6800000071525574,
+          "local_end": 0.800000011920929,
+          "evidence_indices": [
+            4
+          ],
+          "start": 0.6800000071525574,
+          "end": 0.800000011920929
+        },
+        {
+          "word": "please?",
+          "local_start": 1.159999966621399,
+          "local_end": 1.2200000286102295,
+          "evidence_indices": [
+            5
+          ],
+          "start": 1.159999966621399,
+          "end": 1.2200000286102295
+        },
+        {
+          "word": "Is",
+          "local_start": 1.940000057220459,
+          "local_end": 2.0,
+          "evidence_indices": [
+            6
+          ],
+          "start": 1.940000057220459,
+          "end": 2.0
+        },
+        {
+          "word": "it",
+          "local_start": 2.0,
+          "local_end": 2.1600000858306885,
+          "evidence_indices": [
+            7
+          ],
+          "start": 2.0,
+          "end": 2.1600000858306885
+        },
+        {
+          "word": "grilled",
+          "local_start": 2.1600000858306885,
+          "local_end": 2.319999933242798,
+          "evidence_indices": [
+            8
+          ],
+          "start": 2.1600000858306885,
+          "end": 2.319999933242798
+        },
+        {
+          "word": "or",
+          "local_start": 2.319999933242798,
+          "local_end": 2.5999999046325684,
+          "evidence_indices": [
+            9
+          ],
+          "start": 2.319999933242798,
+          "end": 2.5999999046325684
+        },
+        {
+          "word": "fried?",
+          "local_start": 2.5999999046325684,
+          "local_end": 2.799999952316284,
+          "evidence_indices": [
+            10
+          ],
+          "start": 2.5999999046325684,
+          "end": 2.799999952316284
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "file": "02.mp3",
+      "text": "It is grilled, and it comes with rice or potatoes.",
+      "audio_sha256": "14218a4580979ca3ff72b56b6ec6101c536c754cd69555ff28fdbd826d8ff907",
+      "start": 3.36,
+      "end": 6.48,
+      "duration": 3.12,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "It",
+          "local_start": 0.0,
+          "local_end": 0.18000000715255737,
+          "evidence_indices": [
+            0
+          ],
+          "start": 3.36,
+          "end": 3.5400000071525572
+        },
+        {
+          "word": "is",
+          "local_start": 0.18000000715255737,
+          "local_end": 0.41999998688697815,
+          "evidence_indices": [
+            1
+          ],
+          "start": 3.5400000071525572,
+          "end": 3.779999986886978
+        },
+        {
+          "word": "grilled,",
+          "local_start": 0.41999998688697815,
+          "local_end": 0.7200000286102295,
+          "evidence_indices": [
+            2
+          ],
+          "start": 3.779999986886978,
+          "end": 4.080000028610229
+        },
+        {
+          "word": "and",
+          "local_start": 1.1799999475479126,
+          "local_end": 1.2400000095367432,
+          "evidence_indices": [
+            3
+          ],
+          "start": 4.539999947547912,
+          "end": 4.600000009536743
+        },
+        {
+          "word": "it",
+          "local_start": 1.2400000095367432,
+          "local_end": 1.3799999952316284,
+          "evidence_indices": [
+            4
+          ],
+          "start": 4.600000009536743,
+          "end": 4.739999995231628
+        },
+        {
+          "word": "comes",
+          "local_start": 1.3799999952316284,
+          "local_end": 1.5,
+          "evidence_indices": [
+            5
+          ],
+          "start": 4.739999995231628,
+          "end": 4.859999999999999
+        },
+        {
+          "word": "with",
+          "local_start": 1.5,
+          "local_end": 1.8200000524520874,
+          "evidence_indices": [
+            6
+          ],
+          "start": 4.859999999999999,
+          "end": 5.180000052452087
+        },
+        {
+          "word": "rice",
+          "local_start": 1.8200000524520874,
+          "local_end": 2.0,
+          "evidence_indices": [
+            7
+          ],
+          "start": 5.180000052452087,
+          "end": 5.359999999999999
+        },
+        {
+          "word": "or",
+          "local_start": 2.0,
+          "local_end": 2.2799999713897705,
+          "evidence_indices": [
+            8
+          ],
+          "start": 5.359999999999999,
+          "end": 5.63999997138977
+        },
+        {
+          "word": "potatoes.",
+          "local_start": 2.2799999713897705,
+          "local_end": 2.5399999618530273,
+          "evidence_indices": [
+            9
+          ],
+          "start": 5.63999997138977,
+          "end": 5.899999961853027
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "file": "03.mp3",
+      "text": "Rice, please. Does the chicken come with a sauce?",
+      "audio_sha256": "d0a6820ea86c032dd3abaae7bffafa09454ff485ea43af4e71b59fa5cf87fa77",
+      "start": 6.48,
+      "end": 9.384,
+      "duration": 2.904,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Rice,",
+          "local_start": 0.0,
+          "local_end": 0.41999998688697815,
+          "evidence_indices": [
+            0
+          ],
+          "start": 6.48,
+          "end": 6.899999986886979
+        },
+        {
+          "word": "please.",
+          "local_start": 0.7599999904632568,
+          "local_end": 0.9200000166893005,
+          "evidence_indices": [
+            1
+          ],
+          "start": 7.239999990463257,
+          "end": 7.400000016689301
+        },
+        {
+          "word": "Does",
+          "local_start": 1.1399999856948853,
+          "local_end": 1.3200000524520874,
+          "evidence_indices": [
+            2
+          ],
+          "start": 7.619999985694886,
+          "end": 7.800000052452088
+        },
+        {
+          "word": "the",
+          "local_start": 1.3200000524520874,
+          "local_end": 1.559999942779541,
+          "evidence_indices": [
+            3
+          ],
+          "start": 7.800000052452088,
+          "end": 8.039999942779541
+        },
+        {
+          "word": "chicken",
+          "local_start": 1.559999942779541,
+          "local_end": 1.7000000476837158,
+          "evidence_indices": [
+            4
+          ],
+          "start": 8.039999942779541,
+          "end": 8.180000047683716
+        },
+        {
+          "word": "come",
+          "local_start": 1.7000000476837158,
+          "local_end": 1.9800000190734863,
+          "evidence_indices": [
+            5
+          ],
+          "start": 8.180000047683716,
+          "end": 8.460000019073487
+        },
+        {
+          "word": "with",
+          "local_start": 1.9800000190734863,
+          "local_end": 2.0999999046325684,
+          "evidence_indices": [
+            6
+          ],
+          "start": 8.460000019073487,
+          "end": 8.579999904632569
+        },
+        {
+          "word": "a",
+          "local_start": 2.0999999046325684,
+          "local_end": 2.5,
+          "evidence_indices": [
+            7
+          ],
+          "start": 8.579999904632569,
+          "end": 8.98
+        },
+        {
+          "word": "sauce?",
+          "local_start": 2.5,
+          "local_end": 2.5199999809265137,
+          "evidence_indices": [
+            8
+          ],
+          "start": 8.98,
+          "end": 8.999999980926514
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "file": "04.mp3",
+      "text": "Yes. The sauce comes on the side. I will put your order in.",
+      "audio_sha256": "843f0a1589bcbcbb32efa1ff6f982537c39d0f3f311937285e876654d076cfb7",
+      "start": 9.384,
+      "end": 13.344000000000001,
+      "duration": 3.96,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Yes.",
+          "local_start": 0.0,
+          "local_end": 0.46000000834465027,
+          "evidence_indices": [
+            0
+          ],
+          "start": 9.384,
+          "end": 9.84400000834465
+        },
+        {
+          "word": "The",
+          "local_start": 0.8199999928474426,
+          "local_end": 1.100000023841858,
+          "evidence_indices": [
+            1
+          ],
+          "start": 10.203999992847443,
+          "end": 10.484000023841858
+        },
+        {
+          "word": "sauce",
+          "local_start": 1.100000023841858,
+          "local_end": 1.4800000190734863,
+          "evidence_indices": [
+            2
+          ],
+          "start": 10.484000023841858,
+          "end": 10.864000019073487
+        },
+        {
+          "word": "comes",
+          "local_start": 1.4800000190734863,
+          "local_end": 1.7200000286102295,
+          "evidence_indices": [
+            3
+          ],
+          "start": 10.864000019073487,
+          "end": 11.10400002861023
+        },
+        {
+          "word": "on",
+          "local_start": 1.7200000286102295,
+          "local_end": 1.8600000143051147,
+          "evidence_indices": [
+            4
+          ],
+          "start": 11.10400002861023,
+          "end": 11.244000014305115
+        },
+        {
+          "word": "the",
+          "local_start": 1.8600000143051147,
+          "local_end": 2.0199999809265137,
+          "evidence_indices": [
+            5
+          ],
+          "start": 11.244000014305115,
+          "end": 11.403999980926514
+        },
+        {
+          "word": "side.",
+          "local_start": 2.0199999809265137,
+          "local_end": 2.240000009536743,
+          "evidence_indices": [
+            6
+          ],
+          "start": 11.403999980926514,
+          "end": 11.624000009536744
+        },
+        {
+          "word": "I",
+          "local_start": 2.9000000953674316,
+          "local_end": 2.9800000190734863,
+          "evidence_indices": [
+            7
+          ],
+          "start": 12.284000095367432,
+          "end": 12.364000019073487
+        },
+        {
+          "word": "will",
+          "local_start": 2.9800000190734863,
+          "local_end": 3.119999885559082,
+          "evidence_indices": [
+            8
+          ],
+          "start": 12.364000019073487,
+          "end": 12.503999885559082
+        },
+        {
+          "word": "put",
+          "local_start": 3.119999885559082,
+          "local_end": 3.240000009536743,
+          "evidence_indices": [
+            9
+          ],
+          "start": 12.503999885559082,
+          "end": 12.624000009536744
+        },
+        {
+          "word": "your",
+          "local_start": 3.240000009536743,
+          "local_end": 3.4200000762939453,
+          "evidence_indices": [
+            10
+          ],
+          "start": 12.624000009536744,
+          "end": 12.804000076293946
+        },
+        {
+          "word": "order",
+          "local_start": 3.4200000762939453,
+          "local_end": 3.5799999237060547,
+          "evidence_indices": [
+            11
+          ],
+          "start": 12.804000076293946,
+          "end": 12.963999923706055
+        },
+        {
+          "word": "in.",
+          "local_start": 3.5799999237060547,
+          "local_end": 3.859999895095825,
+          "evidence_indices": [
+            12
+          ],
+          "start": 12.963999923706055,
+          "end": 13.243999895095826
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "file": "05.mp3",
+      "text": "Excuse me, I ordered chicken, but this looks like fish. Could you check?",
+      "audio_sha256": "4493174faec745f07ccafb3ff748102f552374c19d07845ead10ad8da84f5a13",
+      "start": 13.344000000000001,
+      "end": 18.6,
+      "duration": 5.256,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Excuse",
+          "local_start": 0.0,
+          "local_end": 0.47999998927116394,
+          "evidence_indices": [
+            0
+          ],
+          "start": 13.344000000000001,
+          "end": 13.823999989271165
+        },
+        {
+          "word": "me,",
+          "local_start": 0.47999998927116394,
+          "local_end": 0.800000011920929,
+          "evidence_indices": [
+            1
+          ],
+          "start": 13.823999989271165,
+          "end": 14.14400001192093
+        },
+        {
+          "word": "I",
+          "local_start": 0.800000011920929,
+          "local_end": 1.2799999713897705,
+          "evidence_indices": [
+            2
+          ],
+          "start": 14.14400001192093,
+          "end": 14.623999971389772
+        },
+        {
+          "word": "ordered",
+          "local_start": 1.2799999713897705,
+          "local_end": 1.559999942779541,
+          "evidence_indices": [
+            3
+          ],
+          "start": 14.623999971389772,
+          "end": 14.903999942779542
+        },
+        {
+          "word": "chicken,",
+          "local_start": 1.559999942779541,
+          "local_end": 1.9800000190734863,
+          "evidence_indices": [
+            4
+          ],
+          "start": 14.903999942779542,
+          "end": 15.324000019073488
+        },
+        {
+          "word": "but",
+          "local_start": 2.2200000286102295,
+          "local_end": 2.3399999141693115,
+          "evidence_indices": [
+            5
+          ],
+          "start": 15.56400002861023,
+          "end": 15.683999914169313
+        },
+        {
+          "word": "this",
+          "local_start": 2.3399999141693115,
+          "local_end": 2.7799999713897705,
+          "evidence_indices": [
+            6
+          ],
+          "start": 15.683999914169313,
+          "end": 16.12399997138977
+        },
+        {
+          "word": "looks",
+          "local_start": 2.7799999713897705,
+          "local_end": 3.0799999237060547,
+          "evidence_indices": [
+            7
+          ],
+          "start": 16.12399997138977,
+          "end": 16.423999923706056
+        },
+        {
+          "word": "like",
+          "local_start": 3.0799999237060547,
+          "local_end": 3.380000114440918,
+          "evidence_indices": [
+            8
+          ],
+          "start": 16.423999923706056,
+          "end": 16.72400011444092
+        },
+        {
+          "word": "fish.",
+          "local_start": 3.380000114440918,
+          "local_end": 3.680000066757202,
+          "evidence_indices": [
+            9
+          ],
+          "start": 16.72400011444092,
+          "end": 17.024000066757203
+        },
+        {
+          "word": "Could",
+          "local_start": 4.0,
+          "local_end": 4.579999923706055,
+          "evidence_indices": [
+            10
+          ],
+          "start": 17.344,
+          "end": 17.923999923706056
+        },
+        {
+          "word": "you",
+          "local_start": 4.579999923706055,
+          "local_end": 4.739999771118164,
+          "evidence_indices": [
+            11
+          ],
+          "start": 17.923999923706056,
+          "end": 18.083999771118165
+        },
+        {
+          "word": "check?",
+          "local_start": 4.739999771118164,
+          "local_end": 4.980000019073486,
+          "evidence_indices": [
+            12
+          ],
+          "start": 18.083999771118165,
+          "end": 18.324000019073488
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "file": "06.mp3",
+      "text": "You are right. I brought the wrong plate. I am sorry; I will get your chicken.",
+      "audio_sha256": "c58fbd5f270c630cea4fac1ca440ecad206210b892a1a3ea58f4a6c3ef78ba92",
+      "start": 18.6,
+      "end": 23.904000000000003,
+      "duration": 5.304,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "You",
+          "local_start": 0.0,
+          "local_end": 0.23999999463558197,
+          "evidence_indices": [
+            0
+          ],
+          "start": 18.6,
+          "end": 18.839999994635583
+        },
+        {
+          "word": "are",
+          "local_start": 0.23999999463558197,
+          "local_end": 0.46000000834465027,
+          "evidence_indices": [
+            1
+          ],
+          "start": 18.839999994635583,
+          "end": 19.06000000834465
+        },
+        {
+          "word": "right.",
+          "local_start": 0.46000000834465027,
+          "local_end": 0.7400000095367432,
+          "evidence_indices": [
+            2
+          ],
+          "start": 19.06000000834465,
+          "end": 19.340000009536745
+        },
+        {
+          "word": "I",
+          "local_start": 1.1799999475479126,
+          "local_end": 1.4600000381469727,
+          "evidence_indices": [
+            3
+          ],
+          "start": 19.779999947547914,
+          "end": 20.060000038146974
+        },
+        {
+          "word": "brought",
+          "local_start": 1.4600000381469727,
+          "local_end": 1.600000023841858,
+          "evidence_indices": [
+            4
+          ],
+          "start": 20.060000038146974,
+          "end": 20.20000002384186
+        },
+        {
+          "word": "the",
+          "local_start": 1.600000023841858,
+          "local_end": 1.840000033378601,
+          "evidence_indices": [
+            5
+          ],
+          "start": 20.20000002384186,
+          "end": 20.440000033378602
+        },
+        {
+          "word": "wrong",
+          "local_start": 1.840000033378601,
+          "local_end": 2.1600000858306885,
+          "evidence_indices": [
+            6
+          ],
+          "start": 20.440000033378602,
+          "end": 20.76000008583069
+        },
+        {
+          "word": "plate.",
+          "local_start": 2.1600000858306885,
+          "local_end": 2.4800000190734863,
+          "evidence_indices": [
+            7
+          ],
+          "start": 20.76000008583069,
+          "end": 21.080000019073488
+        },
+        {
+          "word": "I",
+          "local_start": 3.119999885559082,
+          "local_end": 3.259999990463257,
+          "evidence_indices": [
+            8
+          ],
+          "start": 21.719999885559083,
+          "end": 21.85999999046326
+        },
+        {
+          "word": "am",
+          "local_start": 3.259999990463257,
+          "local_end": 3.380000114440918,
+          "evidence_indices": [
+            9
+          ],
+          "start": 21.85999999046326,
+          "end": 21.98000011444092
+        },
+        {
+          "word": "sorry;",
+          "local_start": 3.380000114440918,
+          "local_end": 3.6600000858306885,
+          "evidence_indices": [
+            10
+          ],
+          "start": 21.98000011444092,
+          "end": 22.26000008583069
+        },
+        {
+          "word": "I",
+          "local_start": 4.0,
+          "local_end": 4.300000190734863,
+          "evidence_indices": [
+            11
+          ],
+          "start": 22.6,
+          "end": 22.900000190734865
+        },
+        {
+          "word": "will",
+          "local_start": 4.300000190734863,
+          "local_end": 4.420000076293945,
+          "evidence_indices": [
+            12
+          ],
+          "start": 22.900000190734865,
+          "end": 23.020000076293947
+        },
+        {
+          "word": "get",
+          "local_start": 4.420000076293945,
+          "local_end": 4.559999942779541,
+          "evidence_indices": [
+            13
+          ],
+          "start": 23.020000076293947,
+          "end": 23.159999942779542
+        },
+        {
+          "word": "your",
+          "local_start": 4.559999942779541,
+          "local_end": 4.78000020980835,
+          "evidence_indices": [
+            14
+          ],
+          "start": 23.159999942779542,
+          "end": 23.38000020980835
+        },
+        {
+          "word": "chicken.",
+          "local_start": 4.78000020980835,
+          "local_end": 4.880000114440918,
+          "evidence_indices": [
+            15
+          ],
+          "start": 23.38000020980835,
+          "end": 23.48000011444092
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "file": "07.mp3",
+      "text": "Thank you. I will wait for the chicken and rice.",
+      "audio_sha256": "9703baba901efd8405f8611f7fc827a6b14e5f4139a02ec73e0b53e2220d30ad",
+      "start": 23.904000000000003,
+      "end": 26.808000000000003,
+      "duration": 2.904,
+      "zero_word_indices": [
+        9
+      ],
+      "words": [
+        {
+          "word": "Thank",
+          "local_start": 0.0,
+          "local_end": 0.23999999463558197,
+          "evidence_indices": [
+            0
+          ],
+          "start": 23.904000000000003,
+          "end": 24.143999994635585
+        },
+        {
+          "word": "you.",
+          "local_start": 0.23999999463558197,
+          "local_end": 0.4399999976158142,
+          "evidence_indices": [
+            1
+          ],
+          "start": 24.143999994635585,
+          "end": 24.343999997615818
+        },
+        {
+          "word": "I",
+          "local_start": 0.8799999952316284,
+          "local_end": 1.0199999809265137,
+          "evidence_indices": [
+            2
+          ],
+          "start": 24.783999995231632,
+          "end": 24.923999980926517
+        },
+        {
+          "word": "will",
+          "local_start": 1.0199999809265137,
+          "local_end": 1.2200000286102295,
+          "evidence_indices": [
+            3
+          ],
+          "start": 24.923999980926517,
+          "end": 25.124000028610233
+        },
+        {
+          "word": "wait",
+          "local_start": 1.2200000286102295,
+          "local_end": 1.4199999570846558,
+          "evidence_indices": [
+            4
+          ],
+          "start": 25.124000028610233,
+          "end": 25.32399995708466
+        },
+        {
+          "word": "for",
+          "local_start": 1.4199999570846558,
+          "local_end": 1.6399999856948853,
+          "evidence_indices": [
+            5
+          ],
+          "start": 25.32399995708466,
+          "end": 25.54399998569489
+        },
+        {
+          "word": "the",
+          "local_start": 1.6399999856948853,
+          "local_end": 1.8799999952316284,
+          "evidence_indices": [
+            6
+          ],
+          "start": 25.54399998569489,
+          "end": 25.783999995231632
+        },
+        {
+          "word": "chicken",
+          "local_start": 1.8799999952316284,
+          "local_end": 2.0199999809265137,
+          "evidence_indices": [
+            7
+          ],
+          "start": 25.783999995231632,
+          "end": 25.923999980926517
+        },
+        {
+          "word": "and",
+          "local_start": 2.0199999809265137,
+          "local_end": 2.559999942779541,
+          "evidence_indices": [
+            8
+          ],
+          "start": 25.923999980926517,
+          "end": 26.463999942779544
+        },
+        {
+          "word": "rice.",
+          "local_start": 2.559999942779541,
+          "local_end": 2.559999942779541,
+          "evidence_indices": [
+            9
+          ],
+          "start": 26.463999942779544,
+          "end": 26.463999942779544
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "file": "08.mp3",
+      "text": "Here is your grilled chicken with rice and the sauce on the side.",
+      "audio_sha256": "580ae8559ebd60283a5dde5703621097e5c5ba985c3bbb8694079ff99b897b01",
+      "start": 26.808000000000003,
+      "end": 30.576000000000004,
+      "duration": 3.768,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Here",
+          "local_start": 0.0,
+          "local_end": 0.7400000095367432,
+          "evidence_indices": [
+            0
+          ],
+          "start": 26.808000000000003,
+          "end": 27.548000009536747
+        },
+        {
+          "word": "is",
+          "local_start": 0.7400000095367432,
+          "local_end": 0.8600000143051147,
+          "evidence_indices": [
+            1
+          ],
+          "start": 27.548000009536747,
+          "end": 27.668000014305118
+        },
+        {
+          "word": "your",
+          "local_start": 0.8600000143051147,
+          "local_end": 1.059999942779541,
+          "evidence_indices": [
+            2
+          ],
+          "start": 27.668000014305118,
+          "end": 27.867999942779544
+        },
+        {
+          "word": "grilled",
+          "local_start": 1.059999942779541,
+          "local_end": 1.2400000095367432,
+          "evidence_indices": [
+            3
+          ],
+          "start": 27.867999942779544,
+          "end": 28.048000009536747
+        },
+        {
+          "word": "chicken",
+          "local_start": 1.2400000095367432,
+          "local_end": 1.5199999809265137,
+          "evidence_indices": [
+            4
+          ],
+          "start": 28.048000009536747,
+          "end": 28.327999980926517
+        },
+        {
+          "word": "with",
+          "local_start": 1.5199999809265137,
+          "local_end": 2.0,
+          "evidence_indices": [
+            5
+          ],
+          "start": 28.327999980926517,
+          "end": 28.808000000000003
+        },
+        {
+          "word": "rice",
+          "local_start": 2.0,
+          "local_end": 2.259999990463257,
+          "evidence_indices": [
+            6
+          ],
+          "start": 28.808000000000003,
+          "end": 29.06799999046326
+        },
+        {
+          "word": "and",
+          "local_start": 2.259999990463257,
+          "local_end": 2.559999942779541,
+          "evidence_indices": [
+            7
+          ],
+          "start": 29.06799999046326,
+          "end": 29.367999942779544
+        },
+        {
+          "word": "the",
+          "local_start": 2.559999942779541,
+          "local_end": 2.759999990463257,
+          "evidence_indices": [
+            8
+          ],
+          "start": 29.367999942779544,
+          "end": 29.56799999046326
+        },
+        {
+          "word": "sauce",
+          "local_start": 2.759999990463257,
+          "local_end": 2.9600000381469727,
+          "evidence_indices": [
+            9
+          ],
+          "start": 29.56799999046326,
+          "end": 29.768000038146976
+        },
+        {
+          "word": "on",
+          "local_start": 2.9600000381469727,
+          "local_end": 3.119999885559082,
+          "evidence_indices": [
+            10
+          ],
+          "start": 29.768000038146976,
+          "end": 29.927999885559085
+        },
+        {
+          "word": "the",
+          "local_start": 3.119999885559082,
+          "local_end": 3.259999990463257,
+          "evidence_indices": [
+            11
+          ],
+          "start": 29.927999885559085,
+          "end": 30.06799999046326
+        },
+        {
+          "word": "side.",
+          "local_start": 3.259999990463257,
+          "local_end": 3.5399999618530273,
+          "evidence_indices": [
+            12
+          ],
+          "start": 30.06799999046326,
+          "end": 30.34799996185303
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "file": "09.mp3",
+      "text": "That is what I ordered. Thank you.",
+      "audio_sha256": "7c540e528462a86e04e79bae4e852ddc9aec92eea34006744eb42b9f85e29e87",
+      "start": 30.576000000000004,
+      "end": 32.496,
+      "duration": 1.92,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "That",
+          "local_start": 0.0,
+          "local_end": 0.23999999463558197,
+          "evidence_indices": [
+            0
+          ],
+          "start": 30.576000000000004,
+          "end": 30.815999994635586
+        },
+        {
+          "word": "is",
+          "local_start": 0.23999999463558197,
+          "local_end": 0.3799999952316284,
+          "evidence_indices": [
+            1
+          ],
+          "start": 30.815999994635586,
+          "end": 30.955999995231632
+        },
+        {
+          "word": "what",
+          "local_start": 0.3799999952316284,
+          "local_end": 0.5,
+          "evidence_indices": [
+            2
+          ],
+          "start": 30.955999995231632,
+          "end": 31.076000000000004
+        },
+        {
+          "word": "I",
+          "local_start": 0.5,
+          "local_end": 0.6399999856948853,
+          "evidence_indices": [
+            3
+          ],
+          "start": 31.076000000000004,
+          "end": 31.21599998569489
+        },
+        {
+          "word": "ordered.",
+          "local_start": 0.6399999856948853,
+          "local_end": 0.9599999785423279,
+          "evidence_indices": [
+            4
+          ],
+          "start": 31.21599998569489,
+          "end": 31.535999978542332
+        },
+        {
+          "word": "Thank",
+          "local_start": 1.399999976158142,
+          "local_end": 1.5800000429153442,
+          "evidence_indices": [
+            5
+          ],
+          "start": 31.975999976158146,
+          "end": 32.15600004291535
+        },
+        {
+          "word": "you.",
+          "local_start": 1.5800000429153442,
+          "local_end": 1.7400000095367432,
+          "evidence_indices": [
+            6
+          ],
+          "start": 32.15600004291535,
+          "end": 32.31600000953675
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "file": "10.mp3",
+      "text": "You are welcome. Here is your check whenever you are ready.",
+      "audio_sha256": "8cdf5dc18c1e8b2627c94ae8998c5b3d66c4965fefdca6821548e5eb3bc2afc5",
+      "start": 32.496,
+      "end": 35.760000000000005,
+      "duration": 3.264,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "You",
+          "local_start": 0.0,
+          "local_end": 0.20000000298023224,
+          "evidence_indices": [
+            0
+          ],
+          "start": 32.496,
+          "end": 32.696000002980234
+        },
+        {
+          "word": "are",
+          "local_start": 0.20000000298023224,
+          "local_end": 0.36000001430511475,
+          "evidence_indices": [
+            1
+          ],
+          "start": 32.696000002980234,
+          "end": 32.85600001430512
+        },
+        {
+          "word": "welcome.",
+          "local_start": 0.36000001430511475,
+          "local_end": 0.6399999856948853,
+          "evidence_indices": [
+            2
+          ],
+          "start": 32.85600001430512,
+          "end": 33.13599998569489
+        },
+        {
+          "word": "Here",
+          "local_start": 1.159999966621399,
+          "local_end": 1.2999999523162842,
+          "evidence_indices": [
+            3
+          ],
+          "start": 33.6559999666214,
+          "end": 33.795999952316286
+        },
+        {
+          "word": "is",
+          "local_start": 1.2999999523162842,
+          "local_end": 1.4800000190734863,
+          "evidence_indices": [
+            4
+          ],
+          "start": 33.795999952316286,
+          "end": 33.97600001907349
+        },
+        {
+          "word": "your",
+          "local_start": 1.4800000190734863,
+          "local_end": 1.6399999856948853,
+          "evidence_indices": [
+            5
+          ],
+          "start": 33.97600001907349,
+          "end": 34.13599998569489
+        },
+        {
+          "word": "check",
+          "local_start": 1.6399999856948853,
+          "local_end": 1.8799999952316284,
+          "evidence_indices": [
+            6
+          ],
+          "start": 34.13599998569489,
+          "end": 34.37599999523163
+        },
+        {
+          "word": "whenever",
+          "local_start": 1.8799999952316284,
+          "local_end": 2.3399999141693115,
+          "evidence_indices": [
+            7
+          ],
+          "start": 34.37599999523163,
+          "end": 34.835999914169314
+        },
+        {
+          "word": "you",
+          "local_start": 2.3399999141693115,
+          "local_end": 2.4800000190734863,
+          "evidence_indices": [
+            8
+          ],
+          "start": 34.835999914169314,
+          "end": 34.97600001907349
+        },
+        {
+          "word": "are",
+          "local_start": 2.4800000190734863,
+          "local_end": 2.700000047683716,
+          "evidence_indices": [
+            9
+          ],
+          "start": 34.97600001907349,
+          "end": 35.19600004768372
+        },
+        {
+          "word": "ready.",
+          "local_start": 2.700000047683716,
+          "local_end": 2.799999952316284,
+          "evidence_indices": [
+            10
+          ],
+          "start": 35.19600004768372,
+          "end": 35.295999952316286
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "file": "11.mp3",
+      "text": "I have finished, thanks. The check shows one chicken meal, right? May I pay by card?",
+      "audio_sha256": "566f5feb4fc2df440ef26eab727b04ec54c68744c7969a1701d86cf8fd520bb9",
+      "start": 35.760000000000005,
+      "end": 42.072,
+      "duration": 6.312,
+      "zero_word_indices": [
+        15
+      ],
+      "words": [
+        {
+          "word": "I",
+          "local_start": 0.0,
+          "local_end": 0.20000000298023224,
+          "evidence_indices": [
+            0
+          ],
+          "start": 35.760000000000005,
+          "end": 35.96000000298024
+        },
+        {
+          "word": "have",
+          "local_start": 0.20000000298023224,
+          "local_end": 0.4000000059604645,
+          "evidence_indices": [
+            1
+          ],
+          "start": 35.96000000298024,
+          "end": 36.16000000596047
+        },
+        {
+          "word": "finished,",
+          "local_start": 0.4000000059604645,
+          "local_end": 0.7599999904632568,
+          "evidence_indices": [
+            2
+          ],
+          "start": 36.16000000596047,
+          "end": 36.51999999046326
+        },
+        {
+          "word": "thanks.",
+          "local_start": 1.3200000524520874,
+          "local_end": 1.4800000190734863,
+          "evidence_indices": [
+            3
+          ],
+          "start": 37.08000005245209,
+          "end": 37.24000001907349
+        },
+        {
+          "word": "The",
+          "local_start": 2.059999942779541,
+          "local_end": 2.1600000858306885,
+          "evidence_indices": [
+            4
+          ],
+          "start": 37.819999942779546,
+          "end": 37.920000085830694
+        },
+        {
+          "word": "check",
+          "local_start": 2.1600000858306885,
+          "local_end": 2.3399999141693115,
+          "evidence_indices": [
+            5
+          ],
+          "start": 37.920000085830694,
+          "end": 38.09999991416932
+        },
+        {
+          "word": "shows",
+          "local_start": 2.3399999141693115,
+          "local_end": 2.619999885559082,
+          "evidence_indices": [
+            6
+          ],
+          "start": 38.09999991416932,
+          "end": 38.37999988555909
+        },
+        {
+          "word": "one",
+          "local_start": 2.619999885559082,
+          "local_end": 3.0399999618530273,
+          "evidence_indices": [
+            7
+          ],
+          "start": 38.37999988555909,
+          "end": 38.79999996185303
+        },
+        {
+          "word": "chicken",
+          "local_start": 3.0399999618530273,
+          "local_end": 3.259999990463257,
+          "evidence_indices": [
+            8
+          ],
+          "start": 38.79999996185303,
+          "end": 39.01999999046326
+        },
+        {
+          "word": "meal,",
+          "local_start": 3.259999990463257,
+          "local_end": 3.5,
+          "evidence_indices": [
+            9
+          ],
+          "start": 39.01999999046326,
+          "end": 39.260000000000005
+        },
+        {
+          "word": "right?",
+          "local_start": 3.799999952316284,
+          "local_end": 4.099999904632568,
+          "evidence_indices": [
+            10
+          ],
+          "start": 39.55999995231629,
+          "end": 39.85999990463257
+        },
+        {
+          "word": "May",
+          "local_start": 4.900000095367432,
+          "local_end": 5.019999980926514,
+          "evidence_indices": [
+            11
+          ],
+          "start": 40.66000009536744,
+          "end": 40.77999998092652
+        },
+        {
+          "word": "I",
+          "local_start": 5.019999980926514,
+          "local_end": 5.21999979019165,
+          "evidence_indices": [
+            12
+          ],
+          "start": 40.77999998092652,
+          "end": 40.979999790191656
+        },
+        {
+          "word": "pay",
+          "local_start": 5.21999979019165,
+          "local_end": 5.320000171661377,
+          "evidence_indices": [
+            13
+          ],
+          "start": 40.979999790191656,
+          "end": 41.08000017166138
+        },
+        {
+          "word": "by",
+          "local_start": 5.320000171661377,
+          "local_end": 5.71999979019165,
+          "evidence_indices": [
+            14
+          ],
+          "start": 41.08000017166138,
+          "end": 41.479999790191656
+        },
+        {
+          "word": "card?",
+          "local_start": 5.71999979019165,
+          "local_end": 5.71999979019165,
+          "evidence_indices": [
+            15
+          ],
+          "start": 41.479999790191656,
+          "end": 41.479999790191656
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "file": "12.mp3",
+      "text": "Yes, one chicken meal. You can pay by card right here.",
+      "audio_sha256": "77db1aea47bbeafcb8ecd6a8598885dba9275e67a96f271fe3c2d7ff4b6907bf",
+      "start": 42.072,
+      "end": 44.928000000000004,
+      "duration": 2.856,
+      "zero_word_indices": [],
+      "words": [
+        {
+          "word": "Yes,",
+          "local_start": 0.0,
+          "local_end": 0.4000000059604645,
+          "evidence_indices": [
+            0
+          ],
+          "start": 42.072,
+          "end": 42.47200000596047
+        },
+        {
+          "word": "one",
+          "local_start": 0.5600000023841858,
+          "local_end": 0.7799999713897705,
+          "evidence_indices": [
+            1
+          ],
+          "start": 42.63200000238419,
+          "end": 42.85199997138977
+        },
+        {
+          "word": "chicken",
+          "local_start": 0.7799999713897705,
+          "local_end": 0.9399999976158142,
+          "evidence_indices": [
+            2
+          ],
+          "start": 42.85199997138977,
+          "end": 43.01199999761582
+        },
+        {
+          "word": "meal.",
+          "local_start": 0.9399999976158142,
+          "local_end": 1.1399999856948853,
+          "evidence_indices": [
+            3
+          ],
+          "start": 43.01199999761582,
+          "end": 43.21199998569489
+        },
+        {
+          "word": "You",
+          "local_start": 1.4800000190734863,
+          "local_end": 1.5399999618530273,
+          "evidence_indices": [
+            4
+          ],
+          "start": 43.55200001907349,
+          "end": 43.61199996185303
+        },
+        {
+          "word": "can",
+          "local_start": 1.5399999618530273,
+          "local_end": 1.7000000476837158,
+          "evidence_indices": [
+            5
+          ],
+          "start": 43.61199996185303,
+          "end": 43.77200004768372
+        },
+        {
+          "word": "pay",
+          "local_start": 1.7000000476837158,
+          "local_end": 1.8200000524520874,
+          "evidence_indices": [
+            6
+          ],
+          "start": 43.77200004768372,
+          "end": 43.89200005245209
+        },
+        {
+          "word": "by",
+          "local_start": 1.8200000524520874,
+          "local_end": 2.0199999809265137,
+          "evidence_indices": [
+            7
+          ],
+          "start": 43.89200005245209,
+          "end": 44.091999980926516
+        },
+        {
+          "word": "card",
+          "local_start": 2.0199999809265137,
+          "local_end": 2.240000009536743,
+          "evidence_indices": [
+            8
+          ],
+          "start": 44.091999980926516,
+          "end": 44.312000009536746
+        },
+        {
+          "word": "right",
+          "local_start": 2.240000009536743,
+          "local_end": 2.4600000381469727,
+          "evidence_indices": [
+            9
+          ],
+          "start": 44.312000009536746,
+          "end": 44.532000038146975
+        },
+        {
+          "word": "here.",
+          "local_start": 2.4600000381469727,
+          "local_end": 2.619999885559082,
+          "evidence_indices": [
+            10
+          ],
+          "start": 44.532000038146975,
+          "end": 44.691999885559085
+        }
+      ]
+    }
+  ]
+}

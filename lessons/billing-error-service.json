@@ -1,0 +1,124 @@
+{
+  "supplement_id": "S10",
+  "date": "2026-11-22",
+  "slug": "billing-error-service",
+  "title": "Questioning an Unexpected Bill",
+  "title_zh": "账单异常与查询处理",
+  "context": "Nina 发现家庭网络服务本月账单上有一笔不认识的安装费，致电客服 Owen。Owen 登记核查，并预计周五前在账单页面更新结果。",
+  "voices": {
+    "Nina": "marin",
+    "Owen": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Nina",
+      "en": "I am calling about a charge on my internet bill that I do not recognize.",
+      "zh": "我打电话是想询问网络账单上一笔我不认识的费用。"
+    },
+    {
+      "speaker": "Owen",
+      "en": "I can help with that. Which charge are you asking about?",
+      "zh": "我可以帮你。你问的是哪一笔费用？"
+    },
+    {
+      "speaker": "Nina",
+      "en": "There is a twenty-dollar installation charge on this month's bill.",
+      "zh": "本月账单上有一笔二十美元的安装费。"
+    },
+    {
+      "speaker": "Owen",
+      "en": "I see the charge. The bill describes it as an installation fee.",
+      "zh": "我看到了这笔费用。账单上将它列为安装费。"
+    },
+    {
+      "speaker": "Nina",
+      "en": "I did not request an installation this month. Could you check the record?",
+      "zh": "我这个月没有申请安装。你能核查一下记录吗？"
+    },
+    {
+      "speaker": "Owen",
+      "en": "Yes. I will ask our billing team to review the service record.",
+      "zh": "可以。我会请账务团队核查服务记录。"
+    },
+    {
+      "speaker": "Nina",
+      "en": "Does that mean the charge is already removed?",
+      "zh": "这是不是意味着费用已经取消了？"
+    },
+    {
+      "speaker": "Owen",
+      "en": "Not yet. The team needs to review it before making a decision.",
+      "zh": "还没有。团队需要先核查，然后才能作决定。"
+    },
+    {
+      "speaker": "Nina",
+      "en": "When should I expect an update, and where will I find it?",
+      "zh": "我什么时候可以收到更新，在哪里能看到？"
+    },
+    {
+      "speaker": "Owen",
+      "en": "We expect an update by Friday on your bill page. Your reference is B-42.",
+      "zh": "我们预计周五前在你的账单页面更新。你的查询编号是 B-42。"
+    },
+    {
+      "speaker": "Nina",
+      "en": "B-42, and I should check the bill page on Friday for the expected update. Is that right?",
+      "zh": "B-42，我应该周五查看账单页面，看看预计的更新是否出来了，对吗？"
+    },
+    {
+      "speaker": "Owen",
+      "en": "That is right. We expect an update by then. Thank you for bringing the charge to our attention.",
+      "zh": "对。我们预计届时会有更新。谢谢你告知我们这笔费用。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "a charge I do not recognize",
+      "zh": "一笔我不认识的费用，用于指出账单疑问。",
+      "example": "There is a charge I do not recognize."
+    },
+    {
+      "en": "installation fee",
+      "zh": "安装费，指账单上列出的安装服务费用。",
+      "example": "The bill lists an installation fee."
+    },
+    {
+      "en": "check the record",
+      "zh": "核查记录，请对方查看相关信息。",
+      "example": "Could you check the service record?"
+    },
+    {
+      "en": "review the charge",
+      "zh": "核查这笔费用，不表示已经做出处理决定。",
+      "example": "The billing team will review the charge."
+    },
+    {
+      "en": "reference number",
+      "zh": "查询编号，可用于后续跟进。",
+      "example": "I wrote down the reference number."
+    }
+  ],
+  "pronunciation": "installation 的重音在第三音节 /ˌɪnstəˈleɪʃən/；charge 以 /dʒ/ 结尾，不要多加元音。reference 的重音在第一音节 /ˈrefərəns/。",
+  "practice": [
+    {
+      "title": "Part 1 · Checking bills",
+      "prompt": "Do you usually check bills before paying them?",
+      "answer": "Yes. I look at the total and any charges I do not recognize. If something is unclear, I ask the provider to explain it."
+    },
+    {
+      "title": "Part 2 · A billing question",
+      "prompt": "Describe an imagined time you questioned a bill. Say what surprised you, whom you contacted, and how you followed up.",
+      "answer": "Imagine that I notice a service charge on my internet bill that I do not understand. I call the provider and explain which charge I am asking about. The agent reads the description, but I still need more information, so I ask for a review of the service record. I write down the reference number and the expected update date. Then I check the bill page for the result. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Billing information",
+      "prompt": "Why should service providers explain charges clearly?",
+      "answer": "Clear descriptions help customers understand what they are paying for. They also make it easier to identify a possible mistake and ask for a review."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "先听完整对话，再逐句跟读，再完成口头练习。",
+      "answer": "用四到六句指出费用、请求解释和核查，复述查询编号及预计更新的时间和位置。"
+    }
+  ]
+}

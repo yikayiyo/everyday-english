@@ -1,0 +1,124 @@
+{
+  "supplement_id": "S04",
+  "date": "2026-11-22",
+  "slug": "asking-for-repeat-and-spelling",
+  "title": "Asking for Repetition and Spelling",
+  "title_zh": "请求重复并拼写联系方式",
+  "context": "在虚构的社区读书活动咨询电话中，Maya 留下姓名和虚构的美国回拨号码。工作人员 Ben 请求慢说并复述；Maya 纠正了一个听错的数字。",
+  "voices": {
+    "Maya": "marin",
+    "Ben": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Maya",
+      "en": "I would like information about the reading group. Could you call me back?",
+      "zh": "我想了解读书小组的信息。你能给我回电话吗？"
+    },
+    {
+      "speaker": "Ben",
+      "en": "Certainly. Could you tell me your name?",
+      "zh": "当然。请告诉我你的名字好吗？"
+    },
+    {
+      "speaker": "Maya",
+      "en": "It is Maya Lee. Lee is spelled L-E-E.",
+      "zh": "我叫 Maya Lee。Lee 拼作 L-E-E。"
+    },
+    {
+      "speaker": "Ben",
+      "en": "Thank you, Maya Lee. What is your callback number?",
+      "zh": "谢谢，Maya Lee。你的回拨号码是多少？"
+    },
+    {
+      "speaker": "Maya",
+      "en": "It is 202-555-0146.",
+      "zh": "号码是 202-555-0146。"
+    },
+    {
+      "speaker": "Ben",
+      "en": "Could you say that again more slowly, please?",
+      "zh": "请你再慢一点说一遍好吗？"
+    },
+    {
+      "speaker": "Maya",
+      "en": "Of course. It is 202-555-0146.",
+      "zh": "当然。是 202-555-0146。"
+    },
+    {
+      "speaker": "Ben",
+      "en": "Let me repeat that: 202-555-0147. Is that right?",
+      "zh": "我复述一下：202-555-0147。对吗？"
+    },
+    {
+      "speaker": "Maya",
+      "en": "Almost. The last digit is six, not seven: 202-555-0146.",
+      "zh": "差一点。最后一位是六，不是七：202-555-0146。"
+    },
+    {
+      "speaker": "Ben",
+      "en": "Thank you for correcting me. I have 202-555-0146.",
+      "zh": "谢谢你纠正我。我记下的是 202-555-0146。"
+    },
+    {
+      "speaker": "Maya",
+      "en": "That is correct. When should I expect your call?",
+      "zh": "对了。我大概什么时候会接到回电？"
+    },
+    {
+      "speaker": "Ben",
+      "en": "I will call you tomorrow afternoon with the group details.",
+      "zh": "我明天下午会打电话告诉你小组的详情。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "Could you say that again?",
+      "zh": "能再说一遍吗？没有听清时可礼貌请求重复。",
+      "example": "Could you say that again more slowly, please?"
+    },
+    {
+      "en": "be spelled",
+      "zh": "拼作；用于说明单词或姓名的字母顺序。",
+      "example": "Lee is spelled L-E-E."
+    },
+    {
+      "en": "callback number",
+      "zh": "回拨号码；指对方之后可以拨打的号码。",
+      "example": "What is your callback number?"
+    },
+    {
+      "en": "Let me repeat that",
+      "zh": "我复述一下；用于核对听到的信息。",
+      "example": "Let me repeat that to make sure I heard you."
+    },
+    {
+      "en": "last digit",
+      "zh": "最后一位数字；适合指出号码中的具体错误。",
+      "example": "The last digit is six, not seven."
+    }
+  ],
+  "pronunciation": "字母 L 读 /ɛl/，E 读 /iː/；拼写 L-E-E 时依次说出一个 L 和两个 E。six /sɪks/ 与 seven /ˈsɛvən/ 开头相似，要读清后半部分；digit /ˈdɪdʒɪt/ 重音在第一音节。",
+  "practice": [
+    {
+      "title": "Part 1 · Phone calls",
+      "prompt": "What do you do when you cannot hear someone on the phone?",
+      "answer": "I ask the person to repeat the information more slowly. Then I repeat it back so we can check it together."
+    },
+    {
+      "title": "Part 2 · Clear communication",
+      "prompt": "Describe a time you needed to check information on a phone call. Say who you spoke to, what you checked, and why.",
+      "answer": "I once called a community group to ask about its reading sessions. The person taking my message asked for my name and a callback number. I spelled my last name one letter at a time and said the number slowly. She repeated the number, but one digit was wrong. I corrected it, and she repeated the full number again. We agreed that she would call the next afternoon. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Misunderstandings",
+      "prompt": "Why do misunderstandings happen on phone calls, and how can people reduce them?",
+      "answer": "People cannot always hear clearly, and similar sounds can be confusing. Speaking slowly and repeating important details can help both people notice mistakes."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "先逐句跟读。使用虚构姓名和号码，拼出姓氏、请求慢说、复述号码并纠正一位数字。",
+      "answer": "两人轮流练习；逐字母说出姓氏，逐位说出虚构号码，并在结束前确认完整号码。"
+    }
+  ]
+}
