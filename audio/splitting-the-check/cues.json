@@ -1,0 +1,1162 @@
+{
+  "model": "whisper-1",
+  "lesson": "splitting-the-check",
+  "full_track": "dialogue-full.mp3",
+  "full_duration": 47.472,
+  "lines": [
+    {
+      "index": 1,
+      "file": "01.mp3",
+      "text": "Excuse me, could we get the check, please?",
+      "audio_sha256": "efaa7dc247e2768f092ae8244653ae281ccf9ffa9e94a4e9232f6a51ca485e66",
+      "start": 0.0,
+      "end": 2.4,
+      "duration": 2.4,
+      "words": [
+        {
+          "word": "Excuse",
+          "start": 0.0,
+          "end": 0.44,
+          "local_start": 0.0,
+          "local_end": 0.44
+        },
+        {
+          "word": "me,",
+          "start": 0.44,
+          "end": 0.72,
+          "local_start": 0.44,
+          "local_end": 0.72
+        },
+        {
+          "word": "could",
+          "start": 1.14,
+          "end": 1.2,
+          "local_start": 1.14,
+          "local_end": 1.2
+        },
+        {
+          "word": "we",
+          "start": 1.2,
+          "end": 1.34,
+          "local_start": 1.2,
+          "local_end": 1.34
+        },
+        {
+          "word": "get",
+          "start": 1.34,
+          "end": 1.42,
+          "local_start": 1.34,
+          "local_end": 1.42
+        },
+        {
+          "word": "the",
+          "start": 1.42,
+          "end": 1.62,
+          "local_start": 1.42,
+          "local_end": 1.62
+        },
+        {
+          "word": "check,",
+          "start": 1.62,
+          "end": 1.76,
+          "local_start": 1.62,
+          "local_end": 1.76
+        },
+        {
+          "word": "please?",
+          "start": 2.02,
+          "end": 2.12,
+          "local_start": 2.02,
+          "local_end": 2.12
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "file": "02.mp3",
+      "text": "Of course. Would you like that all on one bill, or would you like to split it?",
+      "audio_sha256": "2a646aa0779f5dadea6f8cca3784c0a1fbf60781292176860c1055f8c6a7a8c0",
+      "start": 2.4,
+      "end": 6.36,
+      "duration": 3.96,
+      "words": [
+        {
+          "word": "Of",
+          "start": 2.74,
+          "end": 3.06,
+          "local_start": 0.34,
+          "local_end": 0.66
+        },
+        {
+          "word": "course.",
+          "start": 3.06,
+          "end": 3.32,
+          "local_start": 0.66,
+          "local_end": 0.92
+        },
+        {
+          "word": "Would",
+          "start": 3.52,
+          "end": 3.64,
+          "local_start": 1.12,
+          "local_end": 1.24
+        },
+        {
+          "word": "you",
+          "start": 3.64,
+          "end": 3.76,
+          "local_start": 1.24,
+          "local_end": 1.36
+        },
+        {
+          "word": "like",
+          "start": 3.76,
+          "end": 3.92,
+          "local_start": 1.36,
+          "local_end": 1.52
+        },
+        {
+          "word": "that",
+          "start": 3.92,
+          "end": 4.1,
+          "local_start": 1.52,
+          "local_end": 1.7
+        },
+        {
+          "word": "all",
+          "start": 4.1,
+          "end": 4.24,
+          "local_start": 1.7,
+          "local_end": 1.84
+        },
+        {
+          "word": "on",
+          "start": 4.24,
+          "end": 4.38,
+          "local_start": 1.84,
+          "local_end": 1.98
+        },
+        {
+          "word": "one",
+          "start": 4.38,
+          "end": 4.62,
+          "local_start": 1.98,
+          "local_end": 2.22
+        },
+        {
+          "word": "bill,",
+          "start": 4.62,
+          "end": 4.72,
+          "local_start": 2.22,
+          "local_end": 2.32
+        },
+        {
+          "word": "or",
+          "start": 4.9,
+          "end": 5.28,
+          "local_start": 2.5,
+          "local_end": 2.88
+        },
+        {
+          "word": "would",
+          "start": 5.28,
+          "end": 5.4,
+          "local_start": 2.88,
+          "local_end": 3.0
+        },
+        {
+          "word": "you",
+          "start": 5.4,
+          "end": 5.5,
+          "local_start": 3.0,
+          "local_end": 3.1
+        },
+        {
+          "word": "like",
+          "start": 5.5,
+          "end": 5.64,
+          "local_start": 3.1,
+          "local_end": 3.24
+        },
+        {
+          "word": "to",
+          "start": 5.64,
+          "end": 5.94,
+          "local_start": 3.24,
+          "local_end": 3.54
+        },
+        {
+          "word": "split",
+          "start": 5.94,
+          "end": 5.94,
+          "local_start": 3.54,
+          "local_end": 3.54
+        },
+        {
+          "word": "it?",
+          "start": 5.94,
+          "end": 6.1,
+          "local_start": 3.54,
+          "local_end": 3.7
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "file": "03.mp3",
+      "text": "Could we split it evenly between two cards?",
+      "audio_sha256": "87906c24328419b29f24507b7b87a5f1d47b8d68fa3938df25cedc910a1c9868",
+      "start": 6.36,
+      "end": 9.168,
+      "duration": 2.808,
+      "words": [
+        {
+          "word": "Could",
+          "start": 6.36,
+          "end": 6.56,
+          "local_start": 0.0,
+          "local_end": 0.2
+        },
+        {
+          "word": "we",
+          "start": 6.56,
+          "end": 6.84,
+          "local_start": 0.2,
+          "local_end": 0.48
+        },
+        {
+          "word": "split",
+          "start": 6.84,
+          "end": 7.06,
+          "local_start": 0.48,
+          "local_end": 0.7
+        },
+        {
+          "word": "it",
+          "start": 7.06,
+          "end": 7.38,
+          "local_start": 0.7,
+          "local_end": 1.02
+        },
+        {
+          "word": "evenly",
+          "start": 7.38,
+          "end": 7.56,
+          "local_start": 1.02,
+          "local_end": 1.2
+        },
+        {
+          "word": "between",
+          "start": 7.56,
+          "end": 7.98,
+          "local_start": 1.2,
+          "local_end": 1.62
+        },
+        {
+          "word": "two",
+          "start": 7.98,
+          "end": 8.3,
+          "local_start": 1.62,
+          "local_end": 1.94
+        },
+        {
+          "word": "cards?",
+          "start": 8.3,
+          "end": 8.68,
+          "local_start": 1.94,
+          "local_end": 2.32
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "file": "04.mp3",
+      "text": "Sure. Are you paying with two credit cards?",
+      "audio_sha256": "3c707517d49bd225bebeb506bde414a269101dc7938e7d6a2c9427e7d9520a81",
+      "start": 9.168,
+      "end": 12.12,
+      "duration": 2.952,
+      "words": [
+        {
+          "word": "Sure.",
+          "start": 9.168,
+          "end": 9.568,
+          "local_start": 0.0,
+          "local_end": 0.4
+        },
+        {
+          "word": "Are",
+          "start": 9.908,
+          "end": 10.328,
+          "local_start": 0.74,
+          "local_end": 1.16
+        },
+        {
+          "word": "you",
+          "start": 10.328,
+          "end": 10.548,
+          "local_start": 1.16,
+          "local_end": 1.38
+        },
+        {
+          "word": "paying",
+          "start": 10.548,
+          "end": 10.768,
+          "local_start": 1.38,
+          "local_end": 1.6
+        },
+        {
+          "word": "with",
+          "start": 10.768,
+          "end": 11.048,
+          "local_start": 1.6,
+          "local_end": 1.88
+        },
+        {
+          "word": "two",
+          "start": 11.048,
+          "end": 11.308,
+          "local_start": 1.88,
+          "local_end": 2.14
+        },
+        {
+          "word": "credit",
+          "start": 11.308,
+          "end": 11.508,
+          "local_start": 2.14,
+          "local_end": 2.34
+        },
+        {
+          "word": "cards?",
+          "start": 11.508,
+          "end": 11.788,
+          "local_start": 2.34,
+          "local_end": 2.62
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "file": "05.mp3",
+      "text": "Yes. One is mine, and the other is my friend's.",
+      "audio_sha256": "38944d3084866fd7a600f2ed234eaaf3d8ab7ea0eb2faf417d739b1af0c744df",
+      "start": 12.12,
+      "end": 16.032,
+      "duration": 3.912,
+      "words": [
+        {
+          "word": "Yes.",
+          "start": 12.12,
+          "end": 12.72,
+          "local_start": 0.0,
+          "local_end": 0.6
+        },
+        {
+          "word": "One",
+          "start": 13.0,
+          "end": 13.42,
+          "local_start": 0.88,
+          "local_end": 1.3
+        },
+        {
+          "word": "is",
+          "start": 13.42,
+          "end": 13.56,
+          "local_start": 1.3,
+          "local_end": 1.44
+        },
+        {
+          "word": "mine,",
+          "start": 13.56,
+          "end": 13.9,
+          "local_start": 1.44,
+          "local_end": 1.78
+        },
+        {
+          "word": "and",
+          "start": 13.92,
+          "end": 14.38,
+          "local_start": 1.8,
+          "local_end": 2.26
+        },
+        {
+          "word": "the",
+          "start": 14.38,
+          "end": 14.54,
+          "local_start": 2.26,
+          "local_end": 2.42
+        },
+        {
+          "word": "other",
+          "start": 14.54,
+          "end": 14.66,
+          "local_start": 2.42,
+          "local_end": 2.54
+        },
+        {
+          "word": "is",
+          "start": 14.66,
+          "end": 14.82,
+          "local_start": 2.54,
+          "local_end": 2.7
+        },
+        {
+          "word": "my",
+          "start": 14.82,
+          "end": 15.0,
+          "local_start": 2.7,
+          "local_end": 2.88
+        },
+        {
+          "word": "friend's.",
+          "start": 15.0,
+          "end": 15.46,
+          "local_start": 2.88,
+          "local_end": 3.34
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "file": "06.mp3",
+      "text": "No problem. The total is sixty-four dollars, so that's thirty-two dollars each, before tip.",
+      "audio_sha256": "f836f68198e30cedca9a6c1082740f790db19b0b143a22af28087a0295fb0e7e",
+      "start": 16.032,
+      "end": 21.192,
+      "duration": 5.16,
+      "words": [
+        {
+          "word": "No",
+          "start": 16.032,
+          "end": 16.272,
+          "local_start": 0.0,
+          "local_end": 0.24
+        },
+        {
+          "word": "problem.",
+          "start": 16.272,
+          "end": 16.592,
+          "local_start": 0.24,
+          "local_end": 0.56
+        },
+        {
+          "word": "The",
+          "start": 16.972,
+          "end": 17.112,
+          "local_start": 0.94,
+          "local_end": 1.08
+        },
+        {
+          "word": "total",
+          "start": 17.112,
+          "end": 17.312,
+          "local_start": 1.08,
+          "local_end": 1.28
+        },
+        {
+          "word": "is",
+          "start": 17.312,
+          "end": 17.532,
+          "local_start": 1.28,
+          "local_end": 1.5
+        },
+        {
+          "word": "sixty-four",
+          "start": 17.532,
+          "end": 18.072,
+          "local_start": 1.5,
+          "local_end": 2.04
+        },
+        {
+          "word": "dollars,",
+          "start": 18.072,
+          "end": 18.452,
+          "local_start": 2.04,
+          "local_end": 2.42
+        },
+        {
+          "word": "so",
+          "start": 18.712,
+          "end": 18.812,
+          "local_start": 2.68,
+          "local_end": 2.78
+        },
+        {
+          "word": "that's",
+          "start": 18.812,
+          "end": 19.052,
+          "local_start": 2.78,
+          "local_end": 3.02
+        },
+        {
+          "word": "thirty-two",
+          "start": 19.052,
+          "end": 19.392,
+          "local_start": 3.02,
+          "local_end": 3.36
+        },
+        {
+          "word": "dollars",
+          "start": 19.392,
+          "end": 19.692,
+          "local_start": 3.36,
+          "local_end": 3.66
+        },
+        {
+          "word": "each,",
+          "start": 19.692,
+          "end": 20.032,
+          "local_start": 3.66,
+          "local_end": 4.0
+        },
+        {
+          "word": "before",
+          "start": 20.412,
+          "end": 20.572,
+          "local_start": 4.38,
+          "local_end": 4.54
+        },
+        {
+          "word": "tip.",
+          "start": 20.572,
+          "end": 20.832,
+          "local_start": 4.54,
+          "local_end": 4.8
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "file": "07.mp3",
+      "text": "That sounds right. Can we add a twenty percent tip on each card?",
+      "audio_sha256": "22c2db4eae72271402b3d8dd2aee520a10d6235d610cdda9073d725be8263520",
+      "start": 21.192,
+      "end": 25.2,
+      "duration": 4.008,
+      "words": [
+        {
+          "word": "That",
+          "start": 21.192,
+          "end": 21.452,
+          "local_start": 0.0,
+          "local_end": 0.26
+        },
+        {
+          "word": "sounds",
+          "start": 21.452,
+          "end": 21.712,
+          "local_start": 0.26,
+          "local_end": 0.52
+        },
+        {
+          "word": "right.",
+          "start": 21.712,
+          "end": 22.092,
+          "local_start": 0.52,
+          "local_end": 0.9
+        },
+        {
+          "word": "Can",
+          "start": 22.492,
+          "end": 22.652,
+          "local_start": 1.3,
+          "local_end": 1.46
+        },
+        {
+          "word": "we",
+          "start": 22.652,
+          "end": 22.872,
+          "local_start": 1.46,
+          "local_end": 1.68
+        },
+        {
+          "word": "add",
+          "start": 22.872,
+          "end": 23.012,
+          "local_start": 1.68,
+          "local_end": 1.82
+        },
+        {
+          "word": "a",
+          "start": 23.012,
+          "end": 23.232,
+          "local_start": 1.82,
+          "local_end": 2.04
+        },
+        {
+          "word": "twenty",
+          "start": 23.232,
+          "end": 23.452,
+          "local_start": 2.04,
+          "local_end": 2.26
+        },
+        {
+          "word": "percent",
+          "start": 23.452,
+          "end": 23.812,
+          "local_start": 2.26,
+          "local_end": 2.62
+        },
+        {
+          "word": "tip",
+          "start": 23.812,
+          "end": 24.112,
+          "local_start": 2.62,
+          "local_end": 2.92
+        },
+        {
+          "word": "on",
+          "start": 24.112,
+          "end": 24.332,
+          "local_start": 2.92,
+          "local_end": 3.14
+        },
+        {
+          "word": "each",
+          "start": 24.332,
+          "end": 24.612,
+          "local_start": 3.14,
+          "local_end": 3.42
+        },
+        {
+          "word": "card?",
+          "start": 24.612,
+          "end": 24.832,
+          "local_start": 3.42,
+          "local_end": 3.64
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "file": "08.mp3",
+      "text": "Yes. I'll add that now. I can bring the receipts over in a minute.",
+      "audio_sha256": "03570a441107e7c0786fb4128f86e95c980c9ffe1a8118b60f3af0ab69ad7fb6",
+      "start": 25.2,
+      "end": 29.4,
+      "duration": 4.2,
+      "words": [
+        {
+          "word": "Yes.",
+          "start": 25.2,
+          "end": 26.12,
+          "local_start": 0.0,
+          "local_end": 0.92
+        },
+        {
+          "word": "I'll",
+          "start": 26.28,
+          "end": 26.52,
+          "local_start": 1.08,
+          "local_end": 1.32
+        },
+        {
+          "word": "add",
+          "start": 26.52,
+          "end": 26.72,
+          "local_start": 1.32,
+          "local_end": 1.52
+        },
+        {
+          "word": "that",
+          "start": 26.72,
+          "end": 26.88,
+          "local_start": 1.52,
+          "local_end": 1.68
+        },
+        {
+          "word": "now.",
+          "start": 26.88,
+          "end": 27.16,
+          "local_start": 1.68,
+          "local_end": 1.96
+        },
+        {
+          "word": "I",
+          "start": 27.58,
+          "end": 27.66,
+          "local_start": 2.38,
+          "local_end": 2.46
+        },
+        {
+          "word": "can",
+          "start": 27.66,
+          "end": 27.84,
+          "local_start": 2.46,
+          "local_end": 2.64
+        },
+        {
+          "word": "bring",
+          "start": 27.84,
+          "end": 27.96,
+          "local_start": 2.64,
+          "local_end": 2.76
+        },
+        {
+          "word": "the",
+          "start": 27.96,
+          "end": 28.38,
+          "local_start": 2.76,
+          "local_end": 3.18
+        },
+        {
+          "word": "receipts",
+          "start": 28.38,
+          "end": 28.38,
+          "local_start": 3.18,
+          "local_end": 3.18
+        },
+        {
+          "word": "over",
+          "start": 28.38,
+          "end": 28.68,
+          "local_start": 3.18,
+          "local_end": 3.48
+        },
+        {
+          "word": "in",
+          "start": 28.68,
+          "end": 28.82,
+          "local_start": 3.48,
+          "local_end": 3.62
+        },
+        {
+          "word": "a",
+          "start": 28.82,
+          "end": 29.06,
+          "local_start": 3.62,
+          "local_end": 3.86
+        },
+        {
+          "word": "minute.",
+          "start": 29.06,
+          "end": 29.06,
+          "local_start": 3.86,
+          "local_end": 3.86
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "file": "09.mp3",
+      "text": "Thank you. Do you need both cards at the same time?",
+      "audio_sha256": "10276bc7b1365feaba1eaa15a99e605db273398d385dfe339aeeeaeeff5a9f2b",
+      "start": 29.4,
+      "end": 31.8,
+      "duration": 2.4,
+      "words": [
+        {
+          "word": "Thank",
+          "start": 29.4,
+          "end": 29.64,
+          "local_start": 0.0,
+          "local_end": 0.24
+        },
+        {
+          "word": "you.",
+          "start": 29.64,
+          "end": 29.86,
+          "local_start": 0.24,
+          "local_end": 0.46
+        },
+        {
+          "word": "Do",
+          "start": 30.16,
+          "end": 30.26,
+          "local_start": 0.76,
+          "local_end": 0.86
+        },
+        {
+          "word": "you",
+          "start": 30.26,
+          "end": 30.36,
+          "local_start": 0.86,
+          "local_end": 0.96
+        },
+        {
+          "word": "need",
+          "start": 30.36,
+          "end": 30.52,
+          "local_start": 0.96,
+          "local_end": 1.12
+        },
+        {
+          "word": "both",
+          "start": 30.52,
+          "end": 30.76,
+          "local_start": 1.12,
+          "local_end": 1.36
+        },
+        {
+          "word": "cards",
+          "start": 30.76,
+          "end": 31.0,
+          "local_start": 1.36,
+          "local_end": 1.6
+        },
+        {
+          "word": "at",
+          "start": 31.0,
+          "end": 31.1,
+          "local_start": 1.6,
+          "local_end": 1.7
+        },
+        {
+          "word": "the",
+          "start": 31.1,
+          "end": 31.26,
+          "local_start": 1.7,
+          "local_end": 1.86
+        },
+        {
+          "word": "same",
+          "start": 31.26,
+          "end": 31.38,
+          "local_start": 1.86,
+          "local_end": 1.98
+        },
+        {
+          "word": "time?",
+          "start": 31.38,
+          "end": 31.56,
+          "local_start": 1.98,
+          "local_end": 2.16
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "file": "10.mp3",
+      "text": "Yes, please. I'll run them together and bring both receipts back.",
+      "audio_sha256": "c0123b0bf610a6f061766492f5a2cd9e36023a1b1587963e0e2be3511c6a7973",
+      "start": 31.8,
+      "end": 35.76,
+      "duration": 3.96,
+      "words": [
+        {
+          "word": "Yes,",
+          "start": 31.8,
+          "end": 32.24,
+          "local_start": 0.0,
+          "local_end": 0.44
+        },
+        {
+          "word": "please.",
+          "start": 32.44,
+          "end": 32.82,
+          "local_start": 0.64,
+          "local_end": 1.02
+        },
+        {
+          "word": "I'll",
+          "start": 33.22,
+          "end": 33.52,
+          "local_start": 1.42,
+          "local_end": 1.72
+        },
+        {
+          "word": "run",
+          "start": 33.52,
+          "end": 33.62,
+          "local_start": 1.72,
+          "local_end": 1.82
+        },
+        {
+          "word": "them",
+          "start": 33.62,
+          "end": 33.78,
+          "local_start": 1.82,
+          "local_end": 1.98
+        },
+        {
+          "word": "together",
+          "start": 33.78,
+          "end": 34.1,
+          "local_start": 1.98,
+          "local_end": 2.3
+        },
+        {
+          "word": "and",
+          "start": 34.1,
+          "end": 34.52,
+          "local_start": 2.3,
+          "local_end": 2.72
+        },
+        {
+          "word": "bring",
+          "start": 34.52,
+          "end": 34.62,
+          "local_start": 2.72,
+          "local_end": 2.82
+        },
+        {
+          "word": "both",
+          "start": 34.62,
+          "end": 34.94,
+          "local_start": 2.82,
+          "local_end": 3.14
+        },
+        {
+          "word": "receipts",
+          "start": 34.94,
+          "end": 35.16,
+          "local_start": 3.14,
+          "local_end": 3.36
+        },
+        {
+          "word": "back.",
+          "start": 35.16,
+          "end": 35.46,
+          "local_start": 3.36,
+          "local_end": 3.66
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "file": "11.mp3",
+      "text": "So that's thirty-two dollars each, plus a twenty percent tip on each card. I'll wait here with both cards.",
+      "audio_sha256": "3d8be42ad4b30cbe2411af923224430b5b7b1d69ec1202e3b759584b7720e4ca",
+      "start": 35.76,
+      "end": 42.408,
+      "duration": 6.648,
+      "words": [
+        {
+          "word": "So",
+          "start": 35.76,
+          "end": 36.14,
+          "local_start": 0.0,
+          "local_end": 0.38
+        },
+        {
+          "word": "that's",
+          "start": 36.14,
+          "end": 36.48,
+          "local_start": 0.38,
+          "local_end": 0.72
+        },
+        {
+          "word": "thirty-two",
+          "start": 36.48,
+          "end": 37.08,
+          "local_start": 0.72,
+          "local_end": 1.32
+        },
+        {
+          "word": "dollars",
+          "start": 37.08,
+          "end": 37.46,
+          "local_start": 1.32,
+          "local_end": 1.7
+        },
+        {
+          "word": "each,",
+          "start": 37.46,
+          "end": 37.84,
+          "local_start": 1.7,
+          "local_end": 2.08
+        },
+        {
+          "word": "plus",
+          "start": 38.24,
+          "end": 38.4,
+          "local_start": 2.48,
+          "local_end": 2.64
+        },
+        {
+          "word": "a",
+          "start": 38.4,
+          "end": 38.58,
+          "local_start": 2.64,
+          "local_end": 2.82
+        },
+        {
+          "word": "twenty",
+          "start": 38.58,
+          "end": 38.82,
+          "local_start": 2.82,
+          "local_end": 3.06
+        },
+        {
+          "word": "percent",
+          "start": 38.82,
+          "end": 39.18,
+          "local_start": 3.06,
+          "local_end": 3.42
+        },
+        {
+          "word": "tip",
+          "start": 39.18,
+          "end": 39.46,
+          "local_start": 3.42,
+          "local_end": 3.7
+        },
+        {
+          "word": "on",
+          "start": 39.46,
+          "end": 39.62,
+          "local_start": 3.7,
+          "local_end": 3.86
+        },
+        {
+          "word": "each",
+          "start": 39.62,
+          "end": 39.94,
+          "local_start": 3.86,
+          "local_end": 4.18
+        },
+        {
+          "word": "card.",
+          "start": 39.94,
+          "end": 40.12,
+          "local_start": 4.18,
+          "local_end": 4.36
+        },
+        {
+          "word": "I'll",
+          "start": 40.72,
+          "end": 40.9,
+          "local_start": 4.96,
+          "local_end": 5.14
+        },
+        {
+          "word": "wait",
+          "start": 40.9,
+          "end": 41.08,
+          "local_start": 5.14,
+          "local_end": 5.32
+        },
+        {
+          "word": "here",
+          "start": 41.08,
+          "end": 41.28,
+          "local_start": 5.32,
+          "local_end": 5.52
+        },
+        {
+          "word": "with",
+          "start": 41.28,
+          "end": 41.5,
+          "local_start": 5.52,
+          "local_end": 5.74
+        },
+        {
+          "word": "both",
+          "start": 41.5,
+          "end": 41.74,
+          "local_start": 5.74,
+          "local_end": 5.98
+        },
+        {
+          "word": "cards.",
+          "start": 41.74,
+          "end": 42.04,
+          "local_start": 5.98,
+          "local_end": 6.28
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "file": "12.mp3",
+      "text": "Perfect. I'll be right back with the receipts. Thanks for coming in tonight.",
+      "audio_sha256": "797f1475a5e5023d9ecd777c8d0cbd80f6f81e962ab3e81842cce45966d1a29f",
+      "start": 42.408,
+      "end": 47.472,
+      "duration": 5.064,
+      "words": [
+        {
+          "word": "Perfect.",
+          "start": 42.408,
+          "end": 42.908,
+          "local_start": 0.0,
+          "local_end": 0.5
+        },
+        {
+          "word": "I'll",
+          "start": 43.428,
+          "end": 43.708,
+          "local_start": 1.02,
+          "local_end": 1.3
+        },
+        {
+          "word": "be",
+          "start": 43.708,
+          "end": 43.848,
+          "local_start": 1.3,
+          "local_end": 1.44
+        },
+        {
+          "word": "right",
+          "start": 43.848,
+          "end": 44.088,
+          "local_start": 1.44,
+          "local_end": 1.68
+        },
+        {
+          "word": "back",
+          "start": 44.088,
+          "end": 44.308,
+          "local_start": 1.68,
+          "local_end": 1.9
+        },
+        {
+          "word": "with",
+          "start": 44.308,
+          "end": 44.388,
+          "local_start": 1.9,
+          "local_end": 1.98
+        },
+        {
+          "word": "the",
+          "start": 44.388,
+          "end": 44.848,
+          "local_start": 1.98,
+          "local_end": 2.44
+        },
+        {
+          "word": "receipts.",
+          "start": 44.848,
+          "end": 44.848,
+          "local_start": 2.44,
+          "local_end": 2.44
+        },
+        {
+          "word": "Thanks",
+          "start": 46.008,
+          "end": 46.208,
+          "local_start": 3.6,
+          "local_end": 3.8
+        },
+        {
+          "word": "for",
+          "start": 46.208,
+          "end": 46.428,
+          "local_start": 3.8,
+          "local_end": 4.02
+        },
+        {
+          "word": "coming",
+          "start": 46.428,
+          "end": 46.628,
+          "local_start": 4.02,
+          "local_end": 4.22
+        },
+        {
+          "word": "in",
+          "start": 46.628,
+          "end": 46.868,
+          "local_start": 4.22,
+          "local_end": 4.46
+        },
+        {
+          "word": "tonight.",
+          "start": 46.868,
+          "end": 47.048,
+          "local_start": 4.46,
+          "local_end": 4.64
+        }
+      ]
+    }
+  ]
+}

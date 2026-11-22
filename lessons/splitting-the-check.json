@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-22",
+  "slug": "splitting-the-check",
+  "title": "Splitting the Check",
+  "title_zh": "用餐后拆账结账",
+  "context": "Leah 和朋友刚在餐厅用完餐，向服务员 Chris 提出把账单平分到两张卡上，并确认人均金额和小费。",
+  "voices": {
+    "Leah": "marin",
+    "Chris": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Leah",
+      "en": "Excuse me, could we get the check, please?",
+      "zh": "不好意思，可以帮我们买单吗？"
+    },
+    {
+      "speaker": "Chris",
+      "en": "Of course. Would you like that all on one bill, or would you like to split it?",
+      "zh": "当然可以。你们是合在一起结，还是要分开算？"
+    },
+    {
+      "speaker": "Leah",
+      "en": "Could we split it evenly between two cards?",
+      "zh": "可以平分到两张卡上吗？"
+    },
+    {
+      "speaker": "Chris",
+      "en": "Sure. Are you paying with two credit cards?",
+      "zh": "可以。你们是用两张信用卡付款吗？"
+    },
+    {
+      "speaker": "Leah",
+      "en": "Yes. One is mine, and the other is my friend's.",
+      "zh": "对。一张是我的，另一张是我朋友的。"
+    },
+    {
+      "speaker": "Chris",
+      "en": "No problem. The total is sixty-four dollars, so that's thirty-two dollars each, before tip.",
+      "zh": "没问题。总计六十四美元，所以不含小费是每人三十二美元。"
+    },
+    {
+      "speaker": "Leah",
+      "en": "That sounds right. Can we add a twenty percent tip on each card?",
+      "zh": "没错。可以在每张卡上都加上百分之二十的小费吗？"
+    },
+    {
+      "speaker": "Chris",
+      "en": "Yes. I'll add that now. I can bring the receipts over in a minute.",
+      "zh": "可以。我现在就加上。我一会儿把收据拿过来。"
+    },
+    {
+      "speaker": "Leah",
+      "en": "Thank you. Do you need both cards at the same time?",
+      "zh": "谢谢。你需要两张卡一起拿去刷吗？"
+    },
+    {
+      "speaker": "Chris",
+      "en": "Yes, please. I'll run them together and bring both receipts back.",
+      "zh": "是的。我会一起刷，然后把两张收据都送回来。"
+    },
+    {
+      "speaker": "Leah",
+      "en": "So that's thirty-two dollars each, plus a twenty percent tip on each card. I'll wait here with both cards.",
+      "zh": "那就是每人三十二美元，再加上每张卡百分之二十的小费。我在这里拿着两张卡等你。"
+    },
+    {
+      "speaker": "Chris",
+      "en": "Perfect. I'll be right back with the receipts. Thanks for coming in tonight.",
+      "zh": "很好。我马上把收据拿回来。谢谢你们今晚光临。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "Could we get the check?",
+      "zh": "请把账单拿过来，用餐结束后请服务员结账的常用说法。",
+      "example": "Excuse me, could we get the check, please?"
+    },
+    {
+      "en": "all on one bill",
+      "zh": "合在一张账单上结账，和拆账相对。",
+      "example": "Would you like that all on one bill?"
+    },
+    {
+      "en": "split it evenly",
+      "zh": "平均分摊账单，通常按人数平分。",
+      "example": "Could we split it evenly between two cards?"
+    },
+    {
+      "en": "add a twenty percent tip",
+      "zh": "加上百分之二十的小费，在美国用餐后较常见。",
+      "example": "Can we add a twenty percent tip on each card?"
+    },
+    {
+      "en": "I'll be right back",
+      "zh": "我马上回来，用于暂离后很快返回。",
+      "example": "I'll be right back with the receipts."
+    }
+  ],
+  "pronunciation": "receipt 中的 p 不发音，读作 /rɪˈsiːt/；percent 的重音在第二音节 /pərˈsent/；evenly 的重音在第一音节 /ˈiːvənli/。check 在美式英语里指账单，读 /tʃek/。",
+  "practice": [
+    {
+      "title": "Part 1 · Eating out",
+      "prompt": "How do you usually pay when you eat out with friends?",
+      "answer": "I usually split the check with my friends. If the total is easy to divide, we pay evenly with two cards and add a tip on each one."
+    },
+    {
+      "title": "Part 2 · Splitting a bill",
+      "prompt": "Describe an imagined time you split a restaurant bill with a friend. Say where you were, how you asked to pay, and how you confirmed the amount and the tip.",
+      "answer": "Imagine that my friend and I have just finished dinner at a casual restaurant. I ask the server for the check and say we would like to split it evenly between two cards. The server tells us the total and the amount for each person before the tip. I repeat the numbers, ask to add a twenty percent tip on each card, and wait with both cards until the receipts come back. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Paying in groups",
+      "prompt": "Why do some people prefer to split the check evenly?",
+      "answer": "It can be faster and clearer when everyone ordered a similar amount of food. It also avoids confusion about who should pay for shared dishes, although some people still prefer to pay only for what they ordered."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "先听完整对话，再逐句跟读，再完成口头练习。",
+      "answer": "用四到六句请服务员拿账单并平分到两张卡上，复述人均金额，提出小费比例，并确认如何递卡和拿回收据。"
+    }
+  ]
+}
