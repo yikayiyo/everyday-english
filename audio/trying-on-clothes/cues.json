@@ -1,0 +1,1204 @@
+{
+  "model": "whisper-1",
+  "lesson": "trying-on-clothes",
+  "full_track": "dialogue-full.mp3",
+  "full_duration": 43.464,
+  "lines": [
+    {
+      "index": 1,
+      "file": "01.mp3",
+      "text": "Hi, I'm looking for this jacket in a medium. Do you have it?",
+      "audio_sha256": "39ed36f48217166b4d8e2d6f1ead3fcb949e7819b2eee6609901a683abaf02b9",
+      "start": 0.0,
+      "end": 3.912,
+      "duration": 3.912,
+      "words": [
+        {
+          "word": "Hi,",
+          "start": 0.62,
+          "end": 0.98,
+          "local_start": 0.62,
+          "local_end": 0.98
+        },
+        {
+          "word": "I'm",
+          "start": 0.98,
+          "end": 1.34,
+          "local_start": 0.98,
+          "local_end": 1.34
+        },
+        {
+          "word": "looking",
+          "start": 1.34,
+          "end": 1.52,
+          "local_start": 1.34,
+          "local_end": 1.52
+        },
+        {
+          "word": "for",
+          "start": 1.52,
+          "end": 1.78,
+          "local_start": 1.52,
+          "local_end": 1.78
+        },
+        {
+          "word": "this",
+          "start": 1.78,
+          "end": 2.04,
+          "local_start": 1.78,
+          "local_end": 2.04
+        },
+        {
+          "word": "jacket",
+          "start": 2.04,
+          "end": 2.16,
+          "local_start": 2.04,
+          "local_end": 2.16
+        },
+        {
+          "word": "in",
+          "start": 2.16,
+          "end": 2.36,
+          "local_start": 2.16,
+          "local_end": 2.36
+        },
+        {
+          "word": "a",
+          "start": 2.36,
+          "end": 2.54,
+          "local_start": 2.36,
+          "local_end": 2.54
+        },
+        {
+          "word": "medium.",
+          "start": 2.54,
+          "end": 2.7,
+          "local_start": 2.54,
+          "local_end": 2.7
+        },
+        {
+          "word": "Do",
+          "start": 2.96,
+          "end": 3.16,
+          "local_start": 2.96,
+          "local_end": 3.16
+        },
+        {
+          "word": "you",
+          "start": 3.16,
+          "end": 3.24,
+          "local_start": 3.16,
+          "local_end": 3.24
+        },
+        {
+          "word": "have",
+          "start": 3.24,
+          "end": 3.4,
+          "local_start": 3.24,
+          "local_end": 3.4
+        },
+        {
+          "word": "it?",
+          "start": 3.4,
+          "end": 3.52,
+          "local_start": 3.4,
+          "local_end": 3.52
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "file": "02.mp3",
+      "text": "Let me check. We should have a medium in the back. Would you like to try this one on first?",
+      "audio_sha256": "34e9e89ba3fb6310a0803417f34e434b073d02f2423c27c24b676406b43efcdb",
+      "start": 3.912,
+      "end": 9.36,
+      "duration": 5.448,
+      "words": [
+        {
+          "word": "Let",
+          "start": 3.912,
+          "end": 4.172,
+          "local_start": 0.0,
+          "local_end": 0.26
+        },
+        {
+          "word": "me",
+          "start": 4.172,
+          "end": 4.332,
+          "local_start": 0.26,
+          "local_end": 0.42
+        },
+        {
+          "word": "check.",
+          "start": 4.332,
+          "end": 4.612,
+          "local_start": 0.42,
+          "local_end": 0.7
+        },
+        {
+          "word": "We",
+          "start": 5.112,
+          "end": 5.352,
+          "local_start": 1.2,
+          "local_end": 1.44
+        },
+        {
+          "word": "should",
+          "start": 5.352,
+          "end": 5.592,
+          "local_start": 1.44,
+          "local_end": 1.68
+        },
+        {
+          "word": "have",
+          "start": 5.592,
+          "end": 5.752,
+          "local_start": 1.68,
+          "local_end": 1.84
+        },
+        {
+          "word": "a",
+          "start": 5.752,
+          "end": 5.992,
+          "local_start": 1.84,
+          "local_end": 2.08
+        },
+        {
+          "word": "medium",
+          "start": 5.992,
+          "end": 6.192,
+          "local_start": 2.08,
+          "local_end": 2.28
+        },
+        {
+          "word": "in",
+          "start": 6.192,
+          "end": 6.332,
+          "local_start": 2.28,
+          "local_end": 2.42
+        },
+        {
+          "word": "the",
+          "start": 6.332,
+          "end": 6.452,
+          "local_start": 2.42,
+          "local_end": 2.54
+        },
+        {
+          "word": "back.",
+          "start": 6.452,
+          "end": 6.772,
+          "local_start": 2.54,
+          "local_end": 2.86
+        },
+        {
+          "word": "Would",
+          "start": 7.732,
+          "end": 7.772,
+          "local_start": 3.82,
+          "local_end": 3.86
+        },
+        {
+          "word": "you",
+          "start": 7.772,
+          "end": 7.972,
+          "local_start": 3.86,
+          "local_end": 4.06
+        },
+        {
+          "word": "like",
+          "start": 7.972,
+          "end": 8.212,
+          "local_start": 4.06,
+          "local_end": 4.3
+        },
+        {
+          "word": "to",
+          "start": 8.212,
+          "end": 8.352,
+          "local_start": 4.3,
+          "local_end": 4.44
+        },
+        {
+          "word": "try",
+          "start": 8.352,
+          "end": 8.492,
+          "local_start": 4.44,
+          "local_end": 4.58
+        },
+        {
+          "word": "this",
+          "start": 8.492,
+          "end": 8.672,
+          "local_start": 4.58,
+          "local_end": 4.76
+        },
+        {
+          "word": "one",
+          "start": 8.672,
+          "end": 8.792,
+          "local_start": 4.76,
+          "local_end": 4.88
+        },
+        {
+          "word": "on",
+          "start": 8.792,
+          "end": 8.992,
+          "local_start": 4.88,
+          "local_end": 5.08
+        },
+        {
+          "word": "first?",
+          "start": 8.992,
+          "end": 9.212,
+          "local_start": 5.08,
+          "local_end": 5.3
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "file": "03.mp3",
+      "text": "Yes, please. Where are the fitting rooms?",
+      "audio_sha256": "28de68205264568dc858eca9da9733b7868930a5633515a7ed34827c1527b1f7",
+      "start": 9.36,
+      "end": 12.072,
+      "duration": 2.712,
+      "words": [
+        {
+          "word": "Yes,",
+          "start": 9.36,
+          "end": 9.8,
+          "local_start": 0.0,
+          "local_end": 0.44
+        },
+        {
+          "word": "please.",
+          "start": 10.02,
+          "end": 10.42,
+          "local_start": 0.66,
+          "local_end": 1.06
+        },
+        {
+          "word": "Where",
+          "start": 10.9,
+          "end": 10.98,
+          "local_start": 1.54,
+          "local_end": 1.62
+        },
+        {
+          "word": "are",
+          "start": 10.98,
+          "end": 11.1,
+          "local_start": 1.62,
+          "local_end": 1.74
+        },
+        {
+          "word": "the",
+          "start": 11.1,
+          "end": 11.24,
+          "local_start": 1.74,
+          "local_end": 1.88
+        },
+        {
+          "word": "fitting",
+          "start": 11.24,
+          "end": 11.4,
+          "local_start": 1.88,
+          "local_end": 2.04
+        },
+        {
+          "word": "rooms?",
+          "start": 11.4,
+          "end": 11.62,
+          "local_start": 2.04,
+          "local_end": 2.26
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "file": "04.mp3",
+      "text": "They're right around the corner, past the mirrors. I can hold your bag at the counter if you'd like.",
+      "audio_sha256": "7239cd5448becfffe2fbd4e906cb3e2d650b8a05bfc5d6bb5595d8c7265571a7",
+      "start": 12.072,
+      "end": 17.376,
+      "duration": 5.304,
+      "words": [
+        {
+          "word": "They're",
+          "start": 12.072,
+          "end": 12.492,
+          "local_start": 0.0,
+          "local_end": 0.42
+        },
+        {
+          "word": "right",
+          "start": 12.492,
+          "end": 12.692,
+          "local_start": 0.42,
+          "local_end": 0.62
+        },
+        {
+          "word": "around",
+          "start": 12.692,
+          "end": 12.872,
+          "local_start": 0.62,
+          "local_end": 0.8
+        },
+        {
+          "word": "the",
+          "start": 12.872,
+          "end": 13.352,
+          "local_start": 0.8,
+          "local_end": 1.28
+        },
+        {
+          "word": "corner,",
+          "start": 13.352,
+          "end": 13.352,
+          "local_start": 1.28,
+          "local_end": 1.28
+        },
+        {
+          "word": "past",
+          "start": 13.652,
+          "end": 13.832,
+          "local_start": 1.58,
+          "local_end": 1.76
+        },
+        {
+          "word": "the",
+          "start": 13.832,
+          "end": 14.032,
+          "local_start": 1.76,
+          "local_end": 1.96
+        },
+        {
+          "word": "mirrors.",
+          "start": 14.032,
+          "end": 14.292,
+          "local_start": 1.96,
+          "local_end": 2.22
+        },
+        {
+          "word": "I",
+          "start": 15.052,
+          "end": 15.172,
+          "local_start": 2.98,
+          "local_end": 3.1
+        },
+        {
+          "word": "can",
+          "start": 15.172,
+          "end": 15.352,
+          "local_start": 3.1,
+          "local_end": 3.28
+        },
+        {
+          "word": "hold",
+          "start": 15.352,
+          "end": 15.492,
+          "local_start": 3.28,
+          "local_end": 3.42
+        },
+        {
+          "word": "your",
+          "start": 15.492,
+          "end": 15.772,
+          "local_start": 3.42,
+          "local_end": 3.7
+        },
+        {
+          "word": "bag",
+          "start": 15.772,
+          "end": 15.892,
+          "local_start": 3.7,
+          "local_end": 3.82
+        },
+        {
+          "word": "at",
+          "start": 15.892,
+          "end": 16.252,
+          "local_start": 3.82,
+          "local_end": 4.18
+        },
+        {
+          "word": "the",
+          "start": 16.252,
+          "end": 16.372,
+          "local_start": 4.18,
+          "local_end": 4.3
+        },
+        {
+          "word": "counter",
+          "start": 16.372,
+          "end": 16.672,
+          "local_start": 4.3,
+          "local_end": 4.6
+        },
+        {
+          "word": "if",
+          "start": 16.672,
+          "end": 16.812,
+          "local_start": 4.6,
+          "local_end": 4.74
+        },
+        {
+          "word": "you'd",
+          "start": 16.812,
+          "end": 16.992,
+          "local_start": 4.74,
+          "local_end": 4.92
+        },
+        {
+          "word": "like.",
+          "start": 16.992,
+          "end": 17.132,
+          "local_start": 4.92,
+          "local_end": 5.06
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "file": "05.mp3",
+      "text": "That would be great. I'll just be a few minutes.",
+      "audio_sha256": "75e62d7c493eaebbee59ef71bbde5fad53b6287fa430f8f3b6b6388add3eb96a",
+      "start": 17.376,
+      "end": 19.944,
+      "duration": 2.568,
+      "words": [
+        {
+          "word": "That",
+          "start": 17.376,
+          "end": 17.596,
+          "local_start": 0.0,
+          "local_end": 0.22
+        },
+        {
+          "word": "would",
+          "start": 17.596,
+          "end": 17.696,
+          "local_start": 0.22,
+          "local_end": 0.32
+        },
+        {
+          "word": "be",
+          "start": 17.696,
+          "end": 17.836,
+          "local_start": 0.32,
+          "local_end": 0.46
+        },
+        {
+          "word": "great.",
+          "start": 17.836,
+          "end": 18.176,
+          "local_start": 0.46,
+          "local_end": 0.8
+        },
+        {
+          "word": "I'll",
+          "start": 18.596,
+          "end": 18.716,
+          "local_start": 1.22,
+          "local_end": 1.34
+        },
+        {
+          "word": "just",
+          "start": 18.716,
+          "end": 18.876,
+          "local_start": 1.34,
+          "local_end": 1.5
+        },
+        {
+          "word": "be",
+          "start": 18.876,
+          "end": 19.016,
+          "local_start": 1.5,
+          "local_end": 1.64
+        },
+        {
+          "word": "a",
+          "start": 19.016,
+          "end": 19.116,
+          "local_start": 1.64,
+          "local_end": 1.74
+        },
+        {
+          "word": "few",
+          "start": 19.116,
+          "end": 19.236,
+          "local_start": 1.74,
+          "local_end": 1.86
+        },
+        {
+          "word": "minutes.",
+          "start": 19.236,
+          "end": 19.536,
+          "local_start": 1.86,
+          "local_end": 2.16
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "file": "06.mp3",
+      "text": "How did it fit?",
+      "audio_sha256": "bfba4af5bae1c444b8f1b58c40003362a9b2b0b5f3db720b4d03868f5e3c6a40",
+      "start": 19.944,
+      "end": 20.808,
+      "duration": 0.864,
+      "words": [
+        {
+          "word": "How",
+          "start": 19.944,
+          "end": 20.164,
+          "local_start": 0.0,
+          "local_end": 0.22
+        },
+        {
+          "word": "did",
+          "start": 20.164,
+          "end": 20.264,
+          "local_start": 0.22,
+          "local_end": 0.32
+        },
+        {
+          "word": "it",
+          "start": 20.264,
+          "end": 20.344,
+          "local_start": 0.32,
+          "local_end": 0.4
+        },
+        {
+          "word": "fit?",
+          "start": 20.344,
+          "end": 20.544,
+          "local_start": 0.4,
+          "local_end": 0.6
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "file": "07.mp3",
+      "text": "It's a bit tight in the shoulders. Do you have a large?",
+      "audio_sha256": "f0cb02e3b17d33ddb0be5ba8306984d917dc034faec1aa8a301c12dc165e17a3",
+      "start": 20.808,
+      "end": 23.76,
+      "duration": 2.952,
+      "words": [
+        {
+          "word": "It's",
+          "start": 20.808,
+          "end": 21.088,
+          "local_start": 0.0,
+          "local_end": 0.28
+        },
+        {
+          "word": "a",
+          "start": 21.088,
+          "end": 21.168,
+          "local_start": 0.28,
+          "local_end": 0.36
+        },
+        {
+          "word": "bit",
+          "start": 21.168,
+          "end": 21.408,
+          "local_start": 0.36,
+          "local_end": 0.6
+        },
+        {
+          "word": "tight",
+          "start": 21.408,
+          "end": 21.668,
+          "local_start": 0.6,
+          "local_end": 0.86
+        },
+        {
+          "word": "in",
+          "start": 21.668,
+          "end": 21.768,
+          "local_start": 0.86,
+          "local_end": 0.96
+        },
+        {
+          "word": "the",
+          "start": 21.768,
+          "end": 22.388,
+          "local_start": 0.96,
+          "local_end": 1.58
+        },
+        {
+          "word": "shoulders.",
+          "start": 22.388,
+          "end": 22.388,
+          "local_start": 1.58,
+          "local_end": 1.58
+        },
+        {
+          "word": "Do",
+          "start": 22.748,
+          "end": 22.828,
+          "local_start": 1.94,
+          "local_end": 2.02
+        },
+        {
+          "word": "you",
+          "start": 22.828,
+          "end": 22.948,
+          "local_start": 2.02,
+          "local_end": 2.14
+        },
+        {
+          "word": "have",
+          "start": 22.948,
+          "end": 23.108,
+          "local_start": 2.14,
+          "local_end": 2.3
+        },
+        {
+          "word": "a",
+          "start": 23.108,
+          "end": 23.268,
+          "local_start": 2.3,
+          "local_end": 2.46
+        },
+        {
+          "word": "large?",
+          "start": 23.268,
+          "end": 23.528,
+          "local_start": 2.46,
+          "local_end": 2.72
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "file": "08.mp3",
+      "text": "We do. I'll grab a large for you. Same color, right?",
+      "audio_sha256": "0376ce4c186b181b8960c7cccfb09943d9509c60fdb507f159f1dd740ec41cb7",
+      "start": 23.76,
+      "end": 27.528,
+      "duration": 3.768,
+      "words": [
+        {
+          "word": "We",
+          "start": 23.76,
+          "end": 23.92,
+          "local_start": 0.0,
+          "local_end": 0.16
+        },
+        {
+          "word": "do.",
+          "start": 23.92,
+          "end": 24.22,
+          "local_start": 0.16,
+          "local_end": 0.46
+        },
+        {
+          "word": "I'll",
+          "start": 24.6,
+          "end": 25.02,
+          "local_start": 0.84,
+          "local_end": 1.26
+        },
+        {
+          "word": "grab",
+          "start": 25.02,
+          "end": 25.24,
+          "local_start": 1.26,
+          "local_end": 1.48
+        },
+        {
+          "word": "a",
+          "start": 25.24,
+          "end": 25.54,
+          "local_start": 1.48,
+          "local_end": 1.78
+        },
+        {
+          "word": "large",
+          "start": 25.54,
+          "end": 25.74,
+          "local_start": 1.78,
+          "local_end": 1.98
+        },
+        {
+          "word": "for",
+          "start": 25.74,
+          "end": 26.02,
+          "local_start": 1.98,
+          "local_end": 2.26
+        },
+        {
+          "word": "you.",
+          "start": 26.02,
+          "end": 26.22,
+          "local_start": 2.26,
+          "local_end": 2.46
+        },
+        {
+          "word": "Same",
+          "start": 26.72,
+          "end": 26.84,
+          "local_start": 2.96,
+          "local_end": 3.08
+        },
+        {
+          "word": "color,",
+          "start": 26.84,
+          "end": 27.1,
+          "local_start": 3.08,
+          "local_end": 3.34
+        },
+        {
+          "word": "right?",
+          "start": 27.18,
+          "end": 27.36,
+          "local_start": 3.42,
+          "local_end": 3.6
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "file": "09.mp3",
+      "text": "Yes, the navy one. Does it come in any other colors?",
+      "audio_sha256": "63502cadd079db6b0a9479367a500056aed128c3fb30d2873c6a25ce00a0bccb",
+      "start": 27.528,
+      "end": 31.248,
+      "duration": 3.72,
+      "words": [
+        {
+          "word": "Yes,",
+          "start": 27.528,
+          "end": 27.968,
+          "local_start": 0.0,
+          "local_end": 0.44
+        },
+        {
+          "word": "the",
+          "start": 28.388,
+          "end": 28.628,
+          "local_start": 0.86,
+          "local_end": 1.1
+        },
+        {
+          "word": "navy",
+          "start": 28.628,
+          "end": 28.828,
+          "local_start": 1.1,
+          "local_end": 1.3
+        },
+        {
+          "word": "one.",
+          "start": 28.828,
+          "end": 29.188,
+          "local_start": 1.3,
+          "local_end": 1.66
+        },
+        {
+          "word": "Does",
+          "start": 29.608,
+          "end": 29.668,
+          "local_start": 2.08,
+          "local_end": 2.14
+        },
+        {
+          "word": "it",
+          "start": 29.668,
+          "end": 29.808,
+          "local_start": 2.14,
+          "local_end": 2.28
+        },
+        {
+          "word": "come",
+          "start": 29.808,
+          "end": 30.048,
+          "local_start": 2.28,
+          "local_end": 2.52
+        },
+        {
+          "word": "in",
+          "start": 30.048,
+          "end": 30.188,
+          "local_start": 2.52,
+          "local_end": 2.66
+        },
+        {
+          "word": "any",
+          "start": 30.188,
+          "end": 30.348,
+          "local_start": 2.66,
+          "local_end": 2.82
+        },
+        {
+          "word": "other",
+          "start": 30.348,
+          "end": 30.548,
+          "local_start": 2.82,
+          "local_end": 3.02
+        },
+        {
+          "word": "colors?",
+          "start": 30.548,
+          "end": 30.828,
+          "local_start": 3.02,
+          "local_end": 3.3
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "file": "10.mp3",
+      "text": "We also have it in gray and black. I can bring the gray large too if you want to compare.",
+      "audio_sha256": "0c48f4d4cd9d591587f46b786b22ed9efcada10960aaf8e1088e9a70a49234ce",
+      "start": 31.248,
+      "end": 36.312,
+      "duration": 5.064,
+      "words": [
+        {
+          "word": "We",
+          "start": 31.248,
+          "end": 31.448,
+          "local_start": 0.0,
+          "local_end": 0.2
+        },
+        {
+          "word": "also",
+          "start": 31.448,
+          "end": 31.748,
+          "local_start": 0.2,
+          "local_end": 0.5
+        },
+        {
+          "word": "have",
+          "start": 31.748,
+          "end": 31.968,
+          "local_start": 0.5,
+          "local_end": 0.72
+        },
+        {
+          "word": "it",
+          "start": 31.968,
+          "end": 32.068,
+          "local_start": 0.72,
+          "local_end": 0.82
+        },
+        {
+          "word": "in",
+          "start": 32.068,
+          "end": 32.348,
+          "local_start": 0.82,
+          "local_end": 1.1
+        },
+        {
+          "word": "gray",
+          "start": 32.348,
+          "end": 32.568,
+          "local_start": 1.1,
+          "local_end": 1.32
+        },
+        {
+          "word": "and",
+          "start": 32.568,
+          "end": 32.808,
+          "local_start": 1.32,
+          "local_end": 1.56
+        },
+        {
+          "word": "black.",
+          "start": 32.808,
+          "end": 33.128,
+          "local_start": 1.56,
+          "local_end": 1.88
+        },
+        {
+          "word": "I",
+          "start": 33.848,
+          "end": 33.908,
+          "local_start": 2.6,
+          "local_end": 2.66
+        },
+        {
+          "word": "can",
+          "start": 33.908,
+          "end": 34.068,
+          "local_start": 2.66,
+          "local_end": 2.82
+        },
+        {
+          "word": "bring",
+          "start": 34.068,
+          "end": 34.228,
+          "local_start": 2.82,
+          "local_end": 2.98
+        },
+        {
+          "word": "the",
+          "start": 34.228,
+          "end": 34.428,
+          "local_start": 2.98,
+          "local_end": 3.18
+        },
+        {
+          "word": "gray",
+          "start": 34.428,
+          "end": 34.548,
+          "local_start": 3.18,
+          "local_end": 3.3
+        },
+        {
+          "word": "large",
+          "start": 34.548,
+          "end": 34.888,
+          "local_start": 3.3,
+          "local_end": 3.64
+        },
+        {
+          "word": "too",
+          "start": 34.888,
+          "end": 35.208,
+          "local_start": 3.64,
+          "local_end": 3.96
+        },
+        {
+          "word": "if",
+          "start": 35.208,
+          "end": 35.548,
+          "local_start": 3.96,
+          "local_end": 4.3
+        },
+        {
+          "word": "you",
+          "start": 35.548,
+          "end": 35.688,
+          "local_start": 4.3,
+          "local_end": 4.44
+        },
+        {
+          "word": "want",
+          "start": 35.688,
+          "end": 35.768,
+          "local_start": 4.44,
+          "local_end": 4.52
+        },
+        {
+          "word": "to",
+          "start": 35.768,
+          "end": 36.108,
+          "local_start": 4.52,
+          "local_end": 4.86
+        },
+        {
+          "word": "compare.",
+          "start": 36.108,
+          "end": 36.108,
+          "local_start": 4.86,
+          "local_end": 4.86
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "file": "11.mp3",
+      "text": "Just the navy large is fine. If that fits, I'll take it.",
+      "audio_sha256": "87494900c13cf50c299ca6f5cbd6e32f97af5e94ba8bf4f9a1bd2d212ec56b01",
+      "start": 36.312,
+      "end": 39.912,
+      "duration": 3.6,
+      "words": [
+        {
+          "word": "Just",
+          "start": 36.312,
+          "end": 36.652,
+          "local_start": 0.0,
+          "local_end": 0.34
+        },
+        {
+          "word": "the",
+          "start": 36.652,
+          "end": 36.872,
+          "local_start": 0.34,
+          "local_end": 0.56
+        },
+        {
+          "word": "navy",
+          "start": 36.872,
+          "end": 37.092,
+          "local_start": 0.56,
+          "local_end": 0.78
+        },
+        {
+          "word": "large",
+          "start": 37.092,
+          "end": 37.492,
+          "local_start": 0.78,
+          "local_end": 1.18
+        },
+        {
+          "word": "is",
+          "start": 37.492,
+          "end": 37.632,
+          "local_start": 1.18,
+          "local_end": 1.32
+        },
+        {
+          "word": "fine.",
+          "start": 37.632,
+          "end": 37.972,
+          "local_start": 1.32,
+          "local_end": 1.66
+        },
+        {
+          "word": "If",
+          "start": 38.272,
+          "end": 38.372,
+          "local_start": 1.96,
+          "local_end": 2.06
+        },
+        {
+          "word": "that",
+          "start": 38.372,
+          "end": 38.612,
+          "local_start": 2.06,
+          "local_end": 2.3
+        },
+        {
+          "word": "fits,",
+          "start": 38.612,
+          "end": 38.872,
+          "local_start": 2.3,
+          "local_end": 2.56
+        },
+        {
+          "word": "I'll",
+          "start": 39.232,
+          "end": 39.352,
+          "local_start": 2.92,
+          "local_end": 3.04
+        },
+        {
+          "word": "take",
+          "start": 39.352,
+          "end": 39.552,
+          "local_start": 3.04,
+          "local_end": 3.24
+        },
+        {
+          "word": "it.",
+          "start": 39.552,
+          "end": 39.712,
+          "local_start": 3.24,
+          "local_end": 3.4
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "file": "12.mp3",
+      "text": "Sounds good. I'll bring it over to the fitting room. Take your time.",
+      "audio_sha256": "9ea9b5ae51a3075ef9e4340a11d38f8efab7330b38d1823f173e19cf040555b2",
+      "start": 39.912,
+      "end": 43.464,
+      "duration": 3.552,
+      "words": [
+        {
+          "word": "Sounds",
+          "start": 39.912,
+          "end": 40.252,
+          "local_start": 0.0,
+          "local_end": 0.34
+        },
+        {
+          "word": "good.",
+          "start": 40.252,
+          "end": 40.712,
+          "local_start": 0.34,
+          "local_end": 0.8
+        },
+        {
+          "word": "I'll",
+          "start": 41.032,
+          "end": 41.212,
+          "local_start": 1.12,
+          "local_end": 1.3
+        },
+        {
+          "word": "bring",
+          "start": 41.212,
+          "end": 41.372,
+          "local_start": 1.3,
+          "local_end": 1.46
+        },
+        {
+          "word": "it",
+          "start": 41.372,
+          "end": 41.492,
+          "local_start": 1.46,
+          "local_end": 1.58
+        },
+        {
+          "word": "over",
+          "start": 41.492,
+          "end": 41.652,
+          "local_start": 1.58,
+          "local_end": 1.74
+        },
+        {
+          "word": "to",
+          "start": 41.652,
+          "end": 41.752,
+          "local_start": 1.74,
+          "local_end": 1.84
+        },
+        {
+          "word": "the",
+          "start": 41.752,
+          "end": 41.912,
+          "local_start": 1.84,
+          "local_end": 2.0
+        },
+        {
+          "word": "fitting",
+          "start": 41.912,
+          "end": 42.012,
+          "local_start": 2.0,
+          "local_end": 2.1
+        },
+        {
+          "word": "room.",
+          "start": 42.012,
+          "end": 42.392,
+          "local_start": 2.1,
+          "local_end": 2.48
+        },
+        {
+          "word": "Take",
+          "start": 42.792,
+          "end": 42.872,
+          "local_start": 2.88,
+          "local_end": 2.96
+        },
+        {
+          "word": "your",
+          "start": 42.872,
+          "end": 42.992,
+          "local_start": 2.96,
+          "local_end": 3.08
+        },
+        {
+          "word": "time.",
+          "start": 42.992,
+          "end": 43.172,
+          "local_start": 3.08,
+          "local_end": 3.26
+        }
+      ]
+    }
+  ]
+}

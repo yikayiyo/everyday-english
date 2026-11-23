@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-23",
+  "slug": "trying-on-clothes",
+  "title": "Trying On a Jacket",
+  "title_zh": "试穿夹克并更换尺码",
+  "context": "Nina 在服装店看中一件夹克，向店员 Owen 询问尺码并试穿；因为肩膀偏紧，她请店员换成大一号后再决定购买。",
+  "voices": {
+    "Nina": "marin",
+    "Owen": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Nina",
+      "en": "Hi, I'm looking for this jacket in a medium. Do you have it?",
+      "zh": "你好，我想找这件夹克的中号。你们有吗？"
+    },
+    {
+      "speaker": "Owen",
+      "en": "Let me check. We should have a medium in the back. Would you like to try this one on first?",
+      "zh": "我看一下。后面应该有一件中号。你要先试一下这一件吗？"
+    },
+    {
+      "speaker": "Nina",
+      "en": "Yes, please. Where are the fitting rooms?",
+      "zh": "好的。试衣间在哪里？"
+    },
+    {
+      "speaker": "Owen",
+      "en": "They're right around the corner, past the mirrors. I can hold your bag at the counter if you'd like.",
+      "zh": "就在拐角过去，镜子后面。如果你愿意，我可以把你的包放在柜台这边帮你看着。"
+    },
+    {
+      "speaker": "Nina",
+      "en": "That would be great. I'll just be a few minutes.",
+      "zh": "那太好了。我只要几分钟。"
+    },
+    {
+      "speaker": "Owen",
+      "en": "How did it fit?",
+      "zh": "合身吗？"
+    },
+    {
+      "speaker": "Nina",
+      "en": "It's a bit tight in the shoulders. Do you have a large?",
+      "zh": "肩膀这里有点紧。有大号吗？"
+    },
+    {
+      "speaker": "Owen",
+      "en": "We do. I'll grab a large for you. Same color, right?",
+      "zh": "有的。我去帮你拿一件大号。还是同一个颜色，对吧？"
+    },
+    {
+      "speaker": "Nina",
+      "en": "Yes, the navy one. Does it come in any other colors?",
+      "zh": "对，就是这件海军蓝的。还有别的颜色吗？"
+    },
+    {
+      "speaker": "Owen",
+      "en": "We also have it in gray and black. I can bring the gray large too if you want to compare.",
+      "zh": "还有灰色和黑色。如果你想对比一下，我也可以把灰色的大号一起拿来。"
+    },
+    {
+      "speaker": "Nina",
+      "en": "Just the navy large is fine. If that fits, I'll take it.",
+      "zh": "海军蓝的大号就好。如果合身，我就买这件。"
+    },
+    {
+      "speaker": "Owen",
+      "en": "Sounds good. I'll bring it over to the fitting room. Take your time.",
+      "zh": "没问题。我拿到试衣间给你。你慢慢试。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "I'm looking for this in a medium",
+      "zh": "想找这件商品的中号，在店里询问特定尺码时常用。",
+      "example": "Hi, I'm looking for this jacket in a medium."
+    },
+    {
+      "en": "try this on",
+      "zh": "试穿这件衣服，进试衣间前向店员确认时常用。",
+      "example": "Would you like to try this one on first?"
+    },
+    {
+      "en": "fitting rooms",
+      "zh": "试衣间。询问位置时可以说 Where are the fitting rooms?",
+      "example": "Yes, please. Where are the fitting rooms?"
+    },
+    {
+      "en": "a bit tight in the shoulders",
+      "zh": "肩膀这里有点紧，用来说明衣服哪里不合身。",
+      "example": "It's a bit tight in the shoulders."
+    },
+    {
+      "en": "I'll take it",
+      "zh": "就买这件，试穿满意后决定购买的常用说法。",
+      "example": "If that fits, I'll take it."
+    }
+  ],
+  "pronunciation": "jacket 读作 /ˈdʒækɪt/，重音在第一音节；medium 读作 /ˈmiːdiəm/；shoulders 的 ou 发 /oʊ/，读作 /ˈʃoʊldərz/；navy 读作 /ˈneɪvi/；fitting 的重音在第一音节 /ˈfɪtɪŋ/。",
+  "practice": [
+    {
+      "title": "Part 1 · Clothes shopping",
+      "prompt": "Do you usually try clothes on before you buy them?",
+      "answer": "Yes, I do. I like to try jackets and shirts on in the store, because I want to check the size and see if they feel tight in the shoulders."
+    },
+    {
+      "title": "Part 2 · Trying on clothes",
+      "prompt": "Describe an imagined time you tried on clothes in a store. Say what you were looking for, how you asked for a size, and how you decided whether to buy it.",
+      "answer": "Imagine that I am in a clothing store and I see a navy jacket I like. I ask the clerk if they have it in a medium and then go to the fitting room to try it on. The jacket feels a bit tight in the shoulders, so I ask for a large in the same color. The clerk brings it over, I try it on again, and I decide to take it if it fits. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Shopping in stores and online",
+      "prompt": "Why do some people prefer to try clothes on in a store rather than buying them online?",
+      "answer": "It can be easier to check the fit and the fabric in person. If something is tight or the color looks different, you can ask for another size right away, instead of waiting to return it later."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "先听完整对话，再逐句跟读，再完成口头练习。",
+      "answer": "用四到六句向店员询问夹克的中号、确认试衣间位置、说明肩膀偏紧，并请对方换成同一颜色的大号。"
+    }
+  ]
+}
