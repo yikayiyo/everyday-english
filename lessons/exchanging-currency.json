@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-24",
+  "slug": "exchanging-currency",
+  "title": "Exchanging Currency",
+  "title_zh": "在兑换处换汇",
+  "context": "Maya 准备去日本旅行，在兑换处把美元换成日元；店员 Jordan 说明当天汇率和手续费，核验护照并完成兑换。",
+  "voices": {
+    "Maya": "marin",
+    "Jordan": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Maya",
+      "en": "Hi, I'd like to exchange some US dollars for Japanese yen, please.",
+      "zh": "你好，我想把一些美元换成日元。"
+    },
+    {
+      "speaker": "Jordan",
+      "en": "Of course. How much would you like to exchange today?",
+      "zh": "当然可以。你今天想换多少？"
+    },
+    {
+      "speaker": "Maya",
+      "en": "Three hundred dollars. What's the rate today?",
+      "zh": "三百美元。今天的汇率是多少？"
+    },
+    {
+      "speaker": "Jordan",
+      "en": "It's 148 yen to the dollar. There's also a small service fee.",
+      "zh": "一美元兑 148 日元。另外还要收一笔小额手续费。"
+    },
+    {
+      "speaker": "Maya",
+      "en": "How much is the fee?",
+      "zh": "手续费是多少？"
+    },
+    {
+      "speaker": "Jordan",
+      "en": "Five dollars. We can take it from the dollars or out of the yen. Either way is fine.",
+      "zh": "五美元。我们可以从美元里扣，也可以从日元里扣。两种都可以。"
+    },
+    {
+      "speaker": "Maya",
+      "en": "Please take it out of the yen. Do you need to see my ID?",
+      "zh": "请从日元里扣吧。需要看我的证件吗？"
+    },
+    {
+      "speaker": "Jordan",
+      "en": "Yes, a passport or a driver's license is fine. I'll also need to count the cash.",
+      "zh": "需要，护照或驾照都可以。我还需要清点一下现金。"
+    },
+    {
+      "speaker": "Maya",
+      "en": "Sure. Here's my passport and the three hundred dollars.",
+      "zh": "好的。这是我的护照，还有这三百美元。"
+    },
+    {
+      "speaker": "Jordan",
+      "en": "Thanks. Everything looks good. Please sign the receipt here.",
+      "zh": "谢谢。都没问题。请在这张回单上签字。"
+    },
+    {
+      "speaker": "Maya",
+      "en": "Got it. Will I get a better rate if I come back later?",
+      "zh": "好的。如果我晚一点再来，汇率会更好吗？"
+    },
+    {
+      "speaker": "Jordan",
+      "en": "It might change, but not by much today. Here's your yen and your copy of the receipt. Have a good trip!",
+      "zh": "可能会变，但今天幅度不会太大。这是你的日元，还有回单副本。祝你旅途愉快！"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "I'd like to exchange some US dollars for Japanese yen",
+      "zh": "想把美元换成日元，在兑换处说明兑换方向时常用。",
+      "example": "Hi, I'd like to exchange some US dollars for Japanese yen, please."
+    },
+    {
+      "en": "What's the rate today?",
+      "zh": "今天的汇率是多少？询问当天牌价的常用问法。",
+      "example": "Three hundred dollars. What's the rate today?"
+    },
+    {
+      "en": "service fee",
+      "zh": "手续费。兑换处常会另外收取一小笔费用。",
+      "example": "There's also a small service fee."
+    },
+    {
+      "en": "take it out of the yen",
+      "zh": "从日元里扣除（手续费），用来选择扣费方式。",
+      "example": "Please take it out of the yen."
+    },
+    {
+      "en": "Have a good trip!",
+      "zh": "祝你旅途愉快！在顾客办完兑换、准备出发时常用的道别。",
+      "example": "Here's your yen and your copy of the receipt. Have a good trip!"
+    }
+  ],
+  "pronunciation": "exchange 读作 /ɪksˈtʃeɪndʒ/，重音在第二音节；yen 读作 /jen/；receipt 的 p 不发音，读作 /rɪˈsiːt/；license 读作 /ˈlaɪsəns/；dollar 的重音在第一音节 /ˈdɑːlər/。",
+  "practice": [
+    {
+      "title": "Part 1 · Travel money",
+      "prompt": "Do you usually exchange money before you travel?",
+      "answer": "Yes, I do. I like to exchange a little cash before a trip, so I can pay for a taxi or a snack when I arrive. I usually keep the rest of my money on a card."
+    },
+    {
+      "title": "Part 2 · Exchanging money",
+      "prompt": "Describe an imagined time you exchanged money for a trip. Say where you were, what currency you needed, and how you asked about the rate and the fee.",
+      "answer": "Imagine that I am at a currency exchange desk because I am going to Japan. I tell the clerk I would like to exchange three hundred US dollars for Japanese yen, and I ask about the rate today. The clerk explains the rate and a small service fee, and I ask them to take the fee out of the yen. I show my passport, sign the receipt, and take the cash for my trip. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Cash and cards",
+      "prompt": "Why do some travelers prefer to use cards instead of cash?",
+      "answer": "Cards can be safer to carry, and you do not have to exchange a large amount of cash in advance. They also make it easier to keep a record of spending. Still, a little cash is useful when a shop or a taxi does not take cards."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "先听完整对话，再逐句跟读，再完成口头练习。",
+      "answer": "用四到六句向兑换处说明你想把美元换成日元、询问当天汇率和手续费，并请对方从日元里扣除费用。"
+    }
+  ]
+}
