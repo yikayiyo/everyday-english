@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-25",
+  "slug": "picking-up-a-prescription",
+  "title": "Picking Up a Prescription",
+  "title_zh": "到药房取处方药",
+  "context": "Maya 早上刚看完医生，来药房取处方药；药剂师 Jordan 核对证件和保险，说明仿制药、用法和注意事项，并告诉她取药时间。",
+  "voices": {
+    "Maya": "marin",
+    "Jordan": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Maya",
+      "en": "Hi, I'm here to pick up a prescription. It's under Maya Chen.",
+      "zh": "你好，我来取一份处方药。名字是 Maya Chen。"
+    },
+    {
+      "speaker": "Jordan",
+      "en": "Sure. Can I see your ID, and do you have your insurance card with you?",
+      "zh": "好的。能看一下你的证件吗？保险卡也带着了吗？"
+    },
+    {
+      "speaker": "Maya",
+      "en": "Yes, here they are. The doctor sent it over this morning.",
+      "zh": "带着了，给你。医生今天早上已经把处方发过来了。"
+    },
+    {
+      "speaker": "Jordan",
+      "en": "I see it. It's a ten-day antibiotic. Would you like the generic version? It's the same medicine, but it costs less.",
+      "zh": "找到了。这是一个十天的抗生素。你要仿制药吗？药效一样，但更便宜。"
+    },
+    {
+      "speaker": "Maya",
+      "en": "Yes, the generic is fine. How much will it be?",
+      "zh": "好，仿制药就行。要多少钱？"
+    },
+    {
+      "speaker": "Jordan",
+      "en": "With your insurance, it's twelve dollars. It'll be ready in about fifteen minutes.",
+      "zh": "走保险的话是十二美元。大概十五分钟就能好。"
+    },
+    {
+      "speaker": "Maya",
+      "en": "That's great. Should I take it with food?",
+      "zh": "太好了。需要跟着饭一起吃吗？"
+    },
+    {
+      "speaker": "Jordan",
+      "en": "Yes, take one tablet twice a day with a meal. And finish the whole course, even if you feel better.",
+      "zh": "对，一天两次，每次一片，跟着饭吃。就算感觉好了，也要把整个疗程吃完。"
+    },
+    {
+      "speaker": "Maya",
+      "en": "Got it. Are there any side effects I should watch for?",
+      "zh": "明白了。有什么副作用需要注意吗？"
+    },
+    {
+      "speaker": "Jordan",
+      "en": "You might have a mild stomach upset. If you get a rash or have trouble breathing, stop and call your doctor.",
+      "zh": "可能会有轻微的肠胃不适。如果起皮疹或者呼吸困难，就停药并联系医生。"
+    },
+    {
+      "speaker": "Maya",
+      "en": "Okay. Do I just wait here, or can I come back?",
+      "zh": "好的。我是在这里等，还是可以先离开再回来？"
+    },
+    {
+      "speaker": "Jordan",
+      "en": "Either way is fine. I'll text you when it's ready. Here's your receipt for the copay.",
+      "zh": "两种都可以。准备好了我会给你发短信。这是你自付部分的收据。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "pick up a prescription",
+      "zh": "到药房取处方药，说明来意时最常用。",
+      "example": "Hi, I'm here to pick up a prescription."
+    },
+    {
+      "en": "generic version",
+      "zh": "仿制药，成分通常与原厂药相同，但价格更低。",
+      "example": "Would you like the generic version? It's the same medicine, but it costs less."
+    },
+    {
+      "en": "With your insurance",
+      "zh": "走保险之后（的价格），用来说明报销后的费用。",
+      "example": "With your insurance, it's twelve dollars."
+    },
+    {
+      "en": "finish the whole course",
+      "zh": "把整个疗程吃完，尤其是抗生素，即使已经感觉好转。",
+      "example": "Finish the whole course, even if you feel better."
+    },
+    {
+      "en": "side effects",
+      "zh": "副作用。问药会不会引起不适时常用。",
+      "example": "Are there any side effects I should watch for?"
+    }
+  ],
+  "pronunciation": "prescription 读作 /prɪˈskrɪpʃn/，重音在第二音节；generic 读作 /dʒəˈnerɪk/；antibiotic 读作 /ˌæntibaɪˈɒtɪk/，主重音在 -ot-；insurance 读作 /ɪnˈʃʊrəns/；stomach 的 ch 发 /k/，读作 /ˈstʌmək/。",
+  "practice": [
+    {
+      "title": "Part 1 · Pharmacies",
+      "prompt": "Do you usually go to a pharmacy when you are sick?",
+      "answer": "Yes, I do. If I need medicine, I go to a pharmacy near my home. Sometimes I pick up a prescription, and sometimes I just ask for advice about a cold."
+    },
+    {
+      "title": "Part 2 · Getting medicine",
+      "prompt": "Describe an imagined time you picked up medicine at a pharmacy. Say why you were there, what the pharmacist told you, and how you paid.",
+      "answer": "Imagine that I am at a pharmacy to pick up a prescription after seeing a doctor. I show my ID and insurance card, and the pharmacist offers the generic version because it costs less. I ask whether I should take it with food, and I also ask about side effects. The pharmacist tells me to finish the whole course and says the medicine will be ready in about fifteen minutes. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Generic medicine",
+      "prompt": "Why do some people choose generic medicine instead of brand-name medicine?",
+      "answer": "Generic medicine usually has the same active ingredients, but it is often cheaper. For many people, the lower price matters, especially if they need to take the medicine for several days. A pharmacist can also explain how to use it safely."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "先听完整对话，再逐句跟读，再完成口头练习。",
+      "answer": "用四到六句向药剂师说明你来取处方药、询问是否有更便宜的仿制药、用法是否需要随餐，以及有哪些副作用需要注意。"
+    }
+  ]
+}

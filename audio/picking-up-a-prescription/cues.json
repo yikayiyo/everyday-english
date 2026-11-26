@@ -1,0 +1,1323 @@
+{
+  "model": "whisper-1",
+  "lesson": "picking-up-a-prescription",
+  "full_track": "dialogue-full.mp3",
+  "full_duration": 55.104,
+  "lines": [
+    {
+      "index": 1,
+      "file": "01.mp3",
+      "text": "Hi, I'm here to pick up a prescription. It's under Maya Chen.",
+      "audio_sha256": "1b073bf80c31ad1f8fb7616c81aeeaf2d61668a2d2b3e6a8cd404dfdd00c8d7c",
+      "start": 0.0,
+      "end": 4.368,
+      "duration": 4.368,
+      "words": [
+        {
+          "word": "Hi,",
+          "start": 0.0,
+          "end": 0.54,
+          "local_start": 0.0,
+          "local_end": 0.54
+        },
+        {
+          "word": "I'm",
+          "start": 0.88,
+          "end": 1.12,
+          "local_start": 0.88,
+          "local_end": 1.12
+        },
+        {
+          "word": "here",
+          "start": 1.12,
+          "end": 1.3,
+          "local_start": 1.12,
+          "local_end": 1.3
+        },
+        {
+          "word": "to",
+          "start": 1.3,
+          "end": 1.48,
+          "local_start": 1.3,
+          "local_end": 1.48
+        },
+        {
+          "word": "pick",
+          "start": 1.48,
+          "end": 1.58,
+          "local_start": 1.48,
+          "local_end": 1.58
+        },
+        {
+          "word": "up",
+          "start": 1.58,
+          "end": 1.7,
+          "local_start": 1.58,
+          "local_end": 1.7
+        },
+        {
+          "word": "a",
+          "start": 1.7,
+          "end": 1.92,
+          "local_start": 1.7,
+          "local_end": 1.92
+        },
+        {
+          "word": "prescription.",
+          "start": 1.92,
+          "end": 2.24,
+          "local_start": 1.92,
+          "local_end": 2.24
+        },
+        {
+          "word": "It's",
+          "start": 2.84,
+          "end": 2.96,
+          "local_start": 2.84,
+          "local_end": 2.96
+        },
+        {
+          "word": "under",
+          "start": 2.96,
+          "end": 3.3,
+          "local_start": 2.96,
+          "local_end": 3.3
+        },
+        {
+          "word": "Maya",
+          "start": 3.3,
+          "end": 3.84,
+          "local_start": 3.3,
+          "local_end": 3.84
+        },
+        {
+          "word": "Chen.",
+          "start": 3.84,
+          "end": 4.06,
+          "local_start": 3.84,
+          "local_end": 4.06
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "file": "02.mp3",
+      "text": "Sure. Can I see your ID, and do you have your insurance card with you?",
+      "audio_sha256": "da466ad6236f5e46a239ac5c6476a7aa730cad2b69e301c7282bf77f960bacfd",
+      "start": 4.368,
+      "end": 8.28,
+      "duration": 3.912,
+      "words": [
+        {
+          "word": "Sure.",
+          "start": 4.368,
+          "end": 4.808,
+          "local_start": 0.0,
+          "local_end": 0.44
+        },
+        {
+          "word": "Can",
+          "start": 5.128,
+          "end": 5.448,
+          "local_start": 0.76,
+          "local_end": 1.08
+        },
+        {
+          "word": "I",
+          "start": 5.448,
+          "end": 5.588,
+          "local_start": 1.08,
+          "local_end": 1.22
+        },
+        {
+          "word": "see",
+          "start": 5.588,
+          "end": 5.688,
+          "local_start": 1.22,
+          "local_end": 1.32
+        },
+        {
+          "word": "your",
+          "start": 5.688,
+          "end": 5.868,
+          "local_start": 1.32,
+          "local_end": 1.5
+        },
+        {
+          "word": "ID,",
+          "start": 5.868,
+          "end": 6.088,
+          "local_start": 1.5,
+          "local_end": 1.72
+        },
+        {
+          "word": "and",
+          "start": 6.508,
+          "end": 6.668,
+          "local_start": 2.14,
+          "local_end": 2.3
+        },
+        {
+          "word": "do",
+          "start": 6.668,
+          "end": 6.748,
+          "local_start": 2.3,
+          "local_end": 2.38
+        },
+        {
+          "word": "you",
+          "start": 6.748,
+          "end": 6.828,
+          "local_start": 2.38,
+          "local_end": 2.46
+        },
+        {
+          "word": "have",
+          "start": 6.828,
+          "end": 6.988,
+          "local_start": 2.46,
+          "local_end": 2.62
+        },
+        {
+          "word": "your",
+          "start": 6.988,
+          "end": 7.148,
+          "local_start": 2.62,
+          "local_end": 2.78
+        },
+        {
+          "word": "insurance",
+          "start": 7.148,
+          "end": 7.408,
+          "local_start": 2.78,
+          "local_end": 3.04
+        },
+        {
+          "word": "card",
+          "start": 7.408,
+          "end": 7.608,
+          "local_start": 3.04,
+          "local_end": 3.24
+        },
+        {
+          "word": "with",
+          "start": 7.608,
+          "end": 7.768,
+          "local_start": 3.24,
+          "local_end": 3.4
+        },
+        {
+          "word": "you?",
+          "start": 7.768,
+          "end": 7.908,
+          "local_start": 3.4,
+          "local_end": 3.54
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "file": "03.mp3",
+      "text": "Yes, here they are. The doctor sent it over this morning.",
+      "audio_sha256": "f3ce5540b60ada7a5f3d2e56843a6e1bc61d835f245302c6539248daf56029c3",
+      "start": 8.28,
+      "end": 12.144,
+      "duration": 3.864,
+      "words": [
+        {
+          "word": "Yes,",
+          "start": 8.28,
+          "end": 8.7,
+          "local_start": 0.0,
+          "local_end": 0.42
+        },
+        {
+          "word": "here",
+          "start": 9.2,
+          "end": 9.42,
+          "local_start": 0.92,
+          "local_end": 1.14
+        },
+        {
+          "word": "they",
+          "start": 9.42,
+          "end": 9.54,
+          "local_start": 1.14,
+          "local_end": 1.26
+        },
+        {
+          "word": "are.",
+          "start": 9.54,
+          "end": 9.86,
+          "local_start": 1.26,
+          "local_end": 1.58
+        },
+        {
+          "word": "The",
+          "start": 10.0,
+          "end": 10.5,
+          "local_start": 1.72,
+          "local_end": 2.22
+        },
+        {
+          "word": "doctor",
+          "start": 10.5,
+          "end": 10.74,
+          "local_start": 2.22,
+          "local_end": 2.46
+        },
+        {
+          "word": "sent",
+          "start": 10.74,
+          "end": 11.02,
+          "local_start": 2.46,
+          "local_end": 2.74
+        },
+        {
+          "word": "it",
+          "start": 11.02,
+          "end": 11.18,
+          "local_start": 2.74,
+          "local_end": 2.9
+        },
+        {
+          "word": "over",
+          "start": 11.18,
+          "end": 11.28,
+          "local_start": 2.9,
+          "local_end": 3.0
+        },
+        {
+          "word": "this",
+          "start": 11.28,
+          "end": 11.56,
+          "local_start": 3.0,
+          "local_end": 3.28
+        },
+        {
+          "word": "morning.",
+          "start": 11.56,
+          "end": 11.76,
+          "local_start": 3.28,
+          "local_end": 3.48
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "file": "04.mp3",
+      "text": "I see it. It's a ten-day antibiotic. Would you like the generic version? It's the same medicine, but it costs less.",
+      "audio_sha256": "0fcefca4c560f5dcc96d587535f152abbd329f3849e09717a8e1667dec71524b",
+      "start": 12.144,
+      "end": 19.992,
+      "duration": 7.848,
+      "words": [
+        {
+          "word": "I",
+          "start": 12.144,
+          "end": 12.424,
+          "local_start": 0.0,
+          "local_end": 0.28
+        },
+        {
+          "word": "see",
+          "start": 12.424,
+          "end": 12.564,
+          "local_start": 0.28,
+          "local_end": 0.42
+        },
+        {
+          "word": "it.",
+          "start": 12.564,
+          "end": 12.724,
+          "local_start": 0.42,
+          "local_end": 0.58
+        },
+        {
+          "word": "It's",
+          "start": 13.384,
+          "end": 13.524,
+          "local_start": 1.24,
+          "local_end": 1.38
+        },
+        {
+          "word": "a",
+          "start": 13.524,
+          "end": 13.704,
+          "local_start": 1.38,
+          "local_end": 1.56
+        },
+        {
+          "word": "ten-day",
+          "start": 13.704,
+          "end": 14.224,
+          "local_start": 1.56,
+          "local_end": 2.08
+        },
+        {
+          "word": "antibiotic.",
+          "start": 14.224,
+          "end": 14.864,
+          "local_start": 2.08,
+          "local_end": 2.72
+        },
+        {
+          "word": "Would",
+          "start": 15.644,
+          "end": 15.724,
+          "local_start": 3.5,
+          "local_end": 3.58
+        },
+        {
+          "word": "you",
+          "start": 15.724,
+          "end": 15.864,
+          "local_start": 3.58,
+          "local_end": 3.72
+        },
+        {
+          "word": "like",
+          "start": 15.864,
+          "end": 16.004,
+          "local_start": 3.72,
+          "local_end": 3.86
+        },
+        {
+          "word": "the",
+          "start": 16.004,
+          "end": 16.264,
+          "local_start": 3.86,
+          "local_end": 4.12
+        },
+        {
+          "word": "generic",
+          "start": 16.264,
+          "end": 16.424,
+          "local_start": 4.12,
+          "local_end": 4.28
+        },
+        {
+          "word": "version?",
+          "start": 16.424,
+          "end": 16.704,
+          "local_start": 4.28,
+          "local_end": 4.56
+        },
+        {
+          "word": "It's",
+          "start": 17.304,
+          "end": 17.464,
+          "local_start": 5.16,
+          "local_end": 5.32
+        },
+        {
+          "word": "the",
+          "start": 17.464,
+          "end": 17.644,
+          "local_start": 5.32,
+          "local_end": 5.5
+        },
+        {
+          "word": "same",
+          "start": 17.644,
+          "end": 17.944,
+          "local_start": 5.5,
+          "local_end": 5.8
+        },
+        {
+          "word": "medicine,",
+          "start": 17.944,
+          "end": 18.264,
+          "local_start": 5.8,
+          "local_end": 6.12
+        },
+        {
+          "word": "but",
+          "start": 18.584,
+          "end": 18.684,
+          "local_start": 6.44,
+          "local_end": 6.54
+        },
+        {
+          "word": "it",
+          "start": 18.684,
+          "end": 19.184,
+          "local_start": 6.54,
+          "local_end": 7.04
+        },
+        {
+          "word": "costs",
+          "start": 19.184,
+          "end": 19.184,
+          "local_start": 7.04,
+          "local_end": 7.04
+        },
+        {
+          "word": "less.",
+          "start": 19.184,
+          "end": 19.564,
+          "local_start": 7.04,
+          "local_end": 7.42
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "file": "05.mp3",
+      "text": "Yes, the generic is fine. How much will it be?",
+      "audio_sha256": "69be61adaab6a1a1dbe4e294240d0e101d5e8350665e9b23ce583d43e817f445",
+      "start": 19.992,
+      "end": 23.304,
+      "duration": 3.312,
+      "words": [
+        {
+          "word": "Yes,",
+          "start": 19.992,
+          "end": 20.592,
+          "local_start": 0.0,
+          "local_end": 0.6
+        },
+        {
+          "word": "the",
+          "start": 20.892,
+          "end": 21.052,
+          "local_start": 0.9,
+          "local_end": 1.06
+        },
+        {
+          "word": "generic",
+          "start": 21.052,
+          "end": 21.292,
+          "local_start": 1.06,
+          "local_end": 1.3
+        },
+        {
+          "word": "is",
+          "start": 21.292,
+          "end": 21.572,
+          "local_start": 1.3,
+          "local_end": 1.58
+        },
+        {
+          "word": "fine.",
+          "start": 21.572,
+          "end": 21.872,
+          "local_start": 1.58,
+          "local_end": 1.88
+        },
+        {
+          "word": "How",
+          "start": 22.372,
+          "end": 22.452,
+          "local_start": 2.38,
+          "local_end": 2.46
+        },
+        {
+          "word": "much",
+          "start": 22.452,
+          "end": 22.592,
+          "local_start": 2.46,
+          "local_end": 2.6
+        },
+        {
+          "word": "will",
+          "start": 22.592,
+          "end": 22.752,
+          "local_start": 2.6,
+          "local_end": 2.76
+        },
+        {
+          "word": "it",
+          "start": 22.752,
+          "end": 22.852,
+          "local_start": 2.76,
+          "local_end": 2.86
+        },
+        {
+          "word": "be?",
+          "start": 22.852,
+          "end": 23.012,
+          "local_start": 2.86,
+          "local_end": 3.02
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "file": "06.mp3",
+      "text": "With your insurance, it's twelve dollars. It'll be ready in about fifteen minutes.",
+      "audio_sha256": "a64bb782b138c8e606aff710784e72be31ad465ca3998186422ba28261cb201a",
+      "start": 23.304,
+      "end": 27.768,
+      "duration": 4.464,
+      "words": [
+        {
+          "word": "With",
+          "start": 23.304,
+          "end": 23.504,
+          "local_start": 0.0,
+          "local_end": 0.2
+        },
+        {
+          "word": "your",
+          "start": 23.504,
+          "end": 23.744,
+          "local_start": 0.2,
+          "local_end": 0.44
+        },
+        {
+          "word": "insurance,",
+          "start": 23.744,
+          "end": 24.124,
+          "local_start": 0.44,
+          "local_end": 0.82
+        },
+        {
+          "word": "it's",
+          "start": 24.344,
+          "end": 24.424,
+          "local_start": 1.04,
+          "local_end": 1.12
+        },
+        {
+          "word": "twelve",
+          "start": 24.424,
+          "end": 24.744,
+          "local_start": 1.12,
+          "local_end": 1.44
+        },
+        {
+          "word": "dollars.",
+          "start": 24.744,
+          "end": 25.184,
+          "local_start": 1.44,
+          "local_end": 1.88
+        },
+        {
+          "word": "It'll",
+          "start": 25.844,
+          "end": 25.964,
+          "local_start": 2.54,
+          "local_end": 2.66
+        },
+        {
+          "word": "be",
+          "start": 25.964,
+          "end": 26.164,
+          "local_start": 2.66,
+          "local_end": 2.86
+        },
+        {
+          "word": "ready",
+          "start": 26.164,
+          "end": 26.284,
+          "local_start": 2.86,
+          "local_end": 2.98
+        },
+        {
+          "word": "in",
+          "start": 26.284,
+          "end": 26.444,
+          "local_start": 2.98,
+          "local_end": 3.14
+        },
+        {
+          "word": "about",
+          "start": 26.444,
+          "end": 26.704,
+          "local_start": 3.14,
+          "local_end": 3.4
+        },
+        {
+          "word": "fifteen",
+          "start": 26.704,
+          "end": 27.124,
+          "local_start": 3.4,
+          "local_end": 3.82
+        },
+        {
+          "word": "minutes.",
+          "start": 27.124,
+          "end": 27.464,
+          "local_start": 3.82,
+          "local_end": 4.16
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "file": "07.mp3",
+      "text": "That's great. Should I take it with food?",
+      "audio_sha256": "30a0c6380d6379b624346c399c5a09226dc6758d2c5c093fe3c945b158dd9ed8",
+      "start": 27.768,
+      "end": 30.336,
+      "duration": 2.568,
+      "words": [
+        {
+          "word": "That's",
+          "start": 27.768,
+          "end": 28.148,
+          "local_start": 0.0,
+          "local_end": 0.38
+        },
+        {
+          "word": "great.",
+          "start": 28.148,
+          "end": 28.488,
+          "local_start": 0.38,
+          "local_end": 0.72
+        },
+        {
+          "word": "Should",
+          "start": 28.848,
+          "end": 29.208,
+          "local_start": 1.08,
+          "local_end": 1.44
+        },
+        {
+          "word": "I",
+          "start": 29.208,
+          "end": 29.368,
+          "local_start": 1.44,
+          "local_end": 1.6
+        },
+        {
+          "word": "take",
+          "start": 29.368,
+          "end": 29.528,
+          "local_start": 1.6,
+          "local_end": 1.76
+        },
+        {
+          "word": "it",
+          "start": 29.528,
+          "end": 29.628,
+          "local_start": 1.76,
+          "local_end": 1.86
+        },
+        {
+          "word": "with",
+          "start": 29.628,
+          "end": 29.788,
+          "local_start": 1.86,
+          "local_end": 2.02
+        },
+        {
+          "word": "food?",
+          "start": 29.788,
+          "end": 29.988,
+          "local_start": 2.02,
+          "local_end": 2.22
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "file": "08.mp3",
+      "text": "Yes, take one tablet twice a day with a meal. And finish the whole course, even if you feel better.",
+      "audio_sha256": "3b6832c70bcde8be18abdf779841df7490b88a14c31471ed2c3e20f46ce41ea2",
+      "start": 30.336,
+      "end": 36.84,
+      "duration": 6.504,
+      "words": [
+        {
+          "word": "Yes,",
+          "start": 30.336,
+          "end": 30.856,
+          "local_start": 0.0,
+          "local_end": 0.52
+        },
+        {
+          "word": "take",
+          "start": 31.096,
+          "end": 31.196,
+          "local_start": 0.76,
+          "local_end": 0.86
+        },
+        {
+          "word": "one",
+          "start": 31.196,
+          "end": 31.476,
+          "local_start": 0.86,
+          "local_end": 1.14
+        },
+        {
+          "word": "tablet",
+          "start": 31.476,
+          "end": 31.756,
+          "local_start": 1.14,
+          "local_end": 1.42
+        },
+        {
+          "word": "twice",
+          "start": 31.756,
+          "end": 32.176,
+          "local_start": 1.42,
+          "local_end": 1.84
+        },
+        {
+          "word": "a",
+          "start": 32.176,
+          "end": 32.356,
+          "local_start": 1.84,
+          "local_end": 2.02
+        },
+        {
+          "word": "day",
+          "start": 32.356,
+          "end": 32.456,
+          "local_start": 2.02,
+          "local_end": 2.12
+        },
+        {
+          "word": "with",
+          "start": 32.456,
+          "end": 32.616,
+          "local_start": 2.12,
+          "local_end": 2.28
+        },
+        {
+          "word": "a",
+          "start": 32.616,
+          "end": 32.976,
+          "local_start": 2.28,
+          "local_end": 2.64
+        },
+        {
+          "word": "meal.",
+          "start": 32.976,
+          "end": 32.976,
+          "local_start": 2.64,
+          "local_end": 2.64
+        },
+        {
+          "word": "And",
+          "start": 33.596,
+          "end": 33.856,
+          "local_start": 3.26,
+          "local_end": 3.52
+        },
+        {
+          "word": "finish",
+          "start": 33.856,
+          "end": 34.076,
+          "local_start": 3.52,
+          "local_end": 3.74
+        },
+        {
+          "word": "the",
+          "start": 34.076,
+          "end": 34.356,
+          "local_start": 3.74,
+          "local_end": 4.02
+        },
+        {
+          "word": "whole",
+          "start": 34.356,
+          "end": 34.896,
+          "local_start": 4.02,
+          "local_end": 4.56
+        },
+        {
+          "word": "course,",
+          "start": 34.896,
+          "end": 35.076,
+          "local_start": 4.56,
+          "local_end": 4.74
+        },
+        {
+          "word": "even",
+          "start": 35.456,
+          "end": 35.556,
+          "local_start": 5.12,
+          "local_end": 5.22
+        },
+        {
+          "word": "if",
+          "start": 35.556,
+          "end": 35.696,
+          "local_start": 5.22,
+          "local_end": 5.36
+        },
+        {
+          "word": "you",
+          "start": 35.696,
+          "end": 35.816,
+          "local_start": 5.36,
+          "local_end": 5.48
+        },
+        {
+          "word": "feel",
+          "start": 35.816,
+          "end": 35.956,
+          "local_start": 5.48,
+          "local_end": 5.62
+        },
+        {
+          "word": "better.",
+          "start": 35.956,
+          "end": 36.176,
+          "local_start": 5.62,
+          "local_end": 5.84
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "file": "09.mp3",
+      "text": "Got it. Are there any side effects I should watch for?",
+      "audio_sha256": "f28a015d15e3c7dec966bac8c814eebc52609e752b67e88ee51177f078280c62",
+      "start": 36.84,
+      "end": 40.2,
+      "duration": 3.36,
+      "words": [
+        {
+          "word": "Got",
+          "start": 36.84,
+          "end": 37.1,
+          "local_start": 0.0,
+          "local_end": 0.26
+        },
+        {
+          "word": "it.",
+          "start": 37.1,
+          "end": 37.48,
+          "local_start": 0.26,
+          "local_end": 0.64
+        },
+        {
+          "word": "Are",
+          "start": 37.58,
+          "end": 37.84,
+          "local_start": 0.74,
+          "local_end": 1.0
+        },
+        {
+          "word": "there",
+          "start": 37.84,
+          "end": 38.0,
+          "local_start": 1.0,
+          "local_end": 1.16
+        },
+        {
+          "word": "any",
+          "start": 38.0,
+          "end": 38.3,
+          "local_start": 1.16,
+          "local_end": 1.46
+        },
+        {
+          "word": "side",
+          "start": 38.3,
+          "end": 38.56,
+          "local_start": 1.46,
+          "local_end": 1.72
+        },
+        {
+          "word": "effects",
+          "start": 38.56,
+          "end": 38.8,
+          "local_start": 1.72,
+          "local_end": 1.96
+        },
+        {
+          "word": "I",
+          "start": 38.8,
+          "end": 39.0,
+          "local_start": 1.96,
+          "local_end": 2.16
+        },
+        {
+          "word": "should",
+          "start": 39.0,
+          "end": 39.14,
+          "local_start": 2.16,
+          "local_end": 2.3
+        },
+        {
+          "word": "watch",
+          "start": 39.14,
+          "end": 39.4,
+          "local_start": 2.3,
+          "local_end": 2.56
+        },
+        {
+          "word": "for?",
+          "start": 39.4,
+          "end": 39.64,
+          "local_start": 2.56,
+          "local_end": 2.8
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "file": "10.mp3",
+      "text": "You might have a mild stomach upset. If you get a rash or have trouble breathing, stop and call your doctor.",
+      "audio_sha256": "b562978e504ec91a45910e46b20eb4e6670e9709601e80b07d2c8ed70cdc88d8",
+      "start": 40.2,
+      "end": 46.368,
+      "duration": 6.168,
+      "words": [
+        {
+          "word": "You",
+          "start": 40.2,
+          "end": 40.38,
+          "local_start": 0.0,
+          "local_end": 0.18
+        },
+        {
+          "word": "might",
+          "start": 40.38,
+          "end": 40.58,
+          "local_start": 0.18,
+          "local_end": 0.38
+        },
+        {
+          "word": "have",
+          "start": 40.58,
+          "end": 40.78,
+          "local_start": 0.38,
+          "local_end": 0.58
+        },
+        {
+          "word": "a",
+          "start": 40.78,
+          "end": 40.96,
+          "local_start": 0.58,
+          "local_end": 0.76
+        },
+        {
+          "word": "mild",
+          "start": 40.96,
+          "end": 41.3,
+          "local_start": 0.76,
+          "local_end": 1.1
+        },
+        {
+          "word": "stomach",
+          "start": 41.3,
+          "end": 41.62,
+          "local_start": 1.1,
+          "local_end": 1.42
+        },
+        {
+          "word": "upset.",
+          "start": 41.62,
+          "end": 42.0,
+          "local_start": 1.42,
+          "local_end": 1.8
+        },
+        {
+          "word": "If",
+          "start": 42.48,
+          "end": 42.5,
+          "local_start": 2.28,
+          "local_end": 2.3
+        },
+        {
+          "word": "you",
+          "start": 42.5,
+          "end": 42.64,
+          "local_start": 2.3,
+          "local_end": 2.44
+        },
+        {
+          "word": "get",
+          "start": 42.64,
+          "end": 42.76,
+          "local_start": 2.44,
+          "local_end": 2.56
+        },
+        {
+          "word": "a",
+          "start": 42.76,
+          "end": 43.16,
+          "local_start": 2.56,
+          "local_end": 2.96
+        },
+        {
+          "word": "rash",
+          "start": 43.16,
+          "end": 43.18,
+          "local_start": 2.96,
+          "local_end": 2.98
+        },
+        {
+          "word": "or",
+          "start": 43.18,
+          "end": 43.38,
+          "local_start": 2.98,
+          "local_end": 3.18
+        },
+        {
+          "word": "have",
+          "start": 43.38,
+          "end": 43.56,
+          "local_start": 3.18,
+          "local_end": 3.36
+        },
+        {
+          "word": "trouble",
+          "start": 43.56,
+          "end": 43.82,
+          "local_start": 3.36,
+          "local_end": 3.62
+        },
+        {
+          "word": "breathing,",
+          "start": 43.82,
+          "end": 44.18,
+          "local_start": 3.62,
+          "local_end": 3.98
+        },
+        {
+          "word": "stop",
+          "start": 44.74,
+          "end": 44.96,
+          "local_start": 4.54,
+          "local_end": 4.76
+        },
+        {
+          "word": "and",
+          "start": 44.96,
+          "end": 45.38,
+          "local_start": 4.76,
+          "local_end": 5.18
+        },
+        {
+          "word": "call",
+          "start": 45.38,
+          "end": 45.5,
+          "local_start": 5.18,
+          "local_end": 5.3
+        },
+        {
+          "word": "your",
+          "start": 45.5,
+          "end": 45.74,
+          "local_start": 5.3,
+          "local_end": 5.54
+        },
+        {
+          "word": "doctor.",
+          "start": 45.74,
+          "end": 45.9,
+          "local_start": 5.54,
+          "local_end": 5.7
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "file": "11.mp3",
+      "text": "Okay. Do I just wait here, or can I come back?",
+      "audio_sha256": "c221fb5d6cb66b722d00275d8738862109b5036ee39e8b3b50a9662948f3a0e2",
+      "start": 46.368,
+      "end": 50.136,
+      "duration": 3.768,
+      "words": [
+        {
+          "word": "Okay.",
+          "start": 46.368,
+          "end": 46.848,
+          "local_start": 0.0,
+          "local_end": 0.48
+        },
+        {
+          "word": "Do",
+          "start": 47.228,
+          "end": 47.448,
+          "local_start": 0.86,
+          "local_end": 1.08
+        },
+        {
+          "word": "I",
+          "start": 47.448,
+          "end": 47.588,
+          "local_start": 1.08,
+          "local_end": 1.22
+        },
+        {
+          "word": "just",
+          "start": 47.588,
+          "end": 47.928,
+          "local_start": 1.22,
+          "local_end": 1.56
+        },
+        {
+          "word": "wait",
+          "start": 47.928,
+          "end": 48.088,
+          "local_start": 1.56,
+          "local_end": 1.72
+        },
+        {
+          "word": "here,",
+          "start": 48.088,
+          "end": 48.488,
+          "local_start": 1.72,
+          "local_end": 2.12
+        },
+        {
+          "word": "or",
+          "start": 48.708,
+          "end": 48.948,
+          "local_start": 2.34,
+          "local_end": 2.58
+        },
+        {
+          "word": "can",
+          "start": 48.948,
+          "end": 49.128,
+          "local_start": 2.58,
+          "local_end": 2.76
+        },
+        {
+          "word": "I",
+          "start": 49.128,
+          "end": 49.268,
+          "local_start": 2.76,
+          "local_end": 2.9
+        },
+        {
+          "word": "come",
+          "start": 49.268,
+          "end": 49.408,
+          "local_start": 2.9,
+          "local_end": 3.04
+        },
+        {
+          "word": "back?",
+          "start": 49.408,
+          "end": 49.728,
+          "local_start": 3.04,
+          "local_end": 3.36
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "file": "12.mp3",
+      "text": "Either way is fine. I'll text you when it's ready. Here's your receipt for the copay.",
+      "audio_sha256": "ce5530c5d25b72181017775533edf1ed6e066e30f01a557062e469ec47b10682",
+      "start": 50.136,
+      "end": 55.104,
+      "duration": 4.968,
+      "words": [
+        {
+          "word": "Either",
+          "start": 51.156,
+          "end": 51.356,
+          "local_start": 1.02,
+          "local_end": 1.22
+        },
+        {
+          "word": "way",
+          "start": 51.356,
+          "end": 51.366,
+          "local_start": 1.22,
+          "local_end": 1.23
+        },
+        {
+          "word": "is",
+          "start": 51.356,
+          "end": 51.796,
+          "local_start": 1.22,
+          "local_end": 1.66
+        },
+        {
+          "word": "fine.",
+          "start": 51.796,
+          "end": 51.801,
+          "local_start": 1.66,
+          "local_end": 1.665
+        },
+        {
+          "word": "I'll",
+          "start": 51.801,
+          "end": 51.806,
+          "local_start": 1.665,
+          "local_end": 1.67
+        },
+        {
+          "word": "text",
+          "start": 51.796,
+          "end": 52.036,
+          "local_start": 1.66,
+          "local_end": 1.9
+        },
+        {
+          "word": "you",
+          "start": 52.036,
+          "end": 52.216,
+          "local_start": 1.9,
+          "local_end": 2.08
+        },
+        {
+          "word": "when",
+          "start": 52.216,
+          "end": 52.436,
+          "local_start": 2.08,
+          "local_end": 2.3
+        },
+        {
+          "word": "it's",
+          "start": 52.436,
+          "end": 52.476,
+          "local_start": 2.3,
+          "local_end": 2.34
+        },
+        {
+          "word": "ready.",
+          "start": 52.476,
+          "end": 53.016,
+          "local_start": 2.34,
+          "local_end": 2.88
+        },
+        {
+          "word": "Here's",
+          "start": 53.536,
+          "end": 53.696,
+          "local_start": 3.4,
+          "local_end": 3.56
+        },
+        {
+          "word": "your",
+          "start": 53.696,
+          "end": 53.896,
+          "local_start": 3.56,
+          "local_end": 3.76
+        },
+        {
+          "word": "receipt",
+          "start": 53.896,
+          "end": 54.116,
+          "local_start": 3.76,
+          "local_end": 3.98
+        },
+        {
+          "word": "for",
+          "start": 54.116,
+          "end": 54.476,
+          "local_start": 3.98,
+          "local_end": 4.34
+        },
+        {
+          "word": "the",
+          "start": 54.476,
+          "end": 54.736,
+          "local_start": 4.34,
+          "local_end": 4.6
+        },
+        {
+          "word": "copay.",
+          "start": 54.736,
+          "end": 54.916,
+          "local_start": 4.6,
+          "local_end": 4.78
+        }
+      ]
+    }
+  ]
+}
