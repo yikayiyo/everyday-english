@@ -1,0 +1,1148 @@
+{
+  "model": "whisper-1",
+  "lesson": "buying-movie-tickets",
+  "full_track": "dialogue-full.mp3",
+  "full_duration": 46.056,
+  "lines": [
+    {
+      "index": 1,
+      "file": "01.mp3",
+      "text": "Hi, I'd like two tickets for the 7:30 showing of The Late Train, please.",
+      "audio_sha256": "6e63990b2eaf7016a2ab319328a0936e6e3f0b45b06cea12a2ece30ca9a173e4",
+      "start": 0.0,
+      "end": 4.248,
+      "duration": 4.248,
+      "words": [
+        {
+          "word": "Hi,",
+          "start": 0.0,
+          "end": 0.34,
+          "local_start": 0.0,
+          "local_end": 0.34
+        },
+        {
+          "word": "I'd",
+          "start": 0.66,
+          "end": 0.82,
+          "local_start": 0.66,
+          "local_end": 0.82
+        },
+        {
+          "word": "like",
+          "start": 0.82,
+          "end": 1.02,
+          "local_start": 0.82,
+          "local_end": 1.02
+        },
+        {
+          "word": "two",
+          "start": 1.02,
+          "end": 1.2,
+          "local_start": 1.02,
+          "local_end": 1.2
+        },
+        {
+          "word": "tickets",
+          "start": 1.2,
+          "end": 1.46,
+          "local_start": 1.2,
+          "local_end": 1.46
+        },
+        {
+          "word": "for",
+          "start": 1.46,
+          "end": 1.68,
+          "local_start": 1.46,
+          "local_end": 1.68
+        },
+        {
+          "word": "the",
+          "start": 1.68,
+          "end": 1.88,
+          "local_start": 1.68,
+          "local_end": 1.88
+        },
+        {
+          "word": "7:30",
+          "start": 1.88,
+          "end": 2.34,
+          "local_start": 1.88,
+          "local_end": 2.34
+        },
+        {
+          "word": "showing",
+          "start": 2.34,
+          "end": 2.74,
+          "local_start": 2.34,
+          "local_end": 2.74
+        },
+        {
+          "word": "of",
+          "start": 2.74,
+          "end": 2.98,
+          "local_start": 2.74,
+          "local_end": 2.98
+        },
+        {
+          "word": "The",
+          "start": 2.98,
+          "end": 3.16,
+          "local_start": 2.98,
+          "local_end": 3.16
+        },
+        {
+          "word": "Late",
+          "start": 3.16,
+          "end": 3.34,
+          "local_start": 3.16,
+          "local_end": 3.34
+        },
+        {
+          "word": "Train,",
+          "start": 3.34,
+          "end": 3.6,
+          "local_start": 3.34,
+          "local_end": 3.6
+        },
+        {
+          "word": "please.",
+          "start": 3.84,
+          "end": 3.96,
+          "local_start": 3.84,
+          "local_end": 3.96
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "file": "02.mp3",
+      "text": "Sure. Would you like standard seats or premium seats?",
+      "audio_sha256": "e088185f4bb0729d66e118effff5a306b695153ee7d1cf73d4dc1d7d94e59769",
+      "start": 4.248,
+      "end": 7.416,
+      "duration": 3.168,
+      "words": [
+        {
+          "word": "Sure.",
+          "start": 4.248,
+          "end": 4.628,
+          "local_start": 0.0,
+          "local_end": 0.38
+        },
+        {
+          "word": "Would",
+          "start": 4.988,
+          "end": 5.268,
+          "local_start": 0.74,
+          "local_end": 1.02
+        },
+        {
+          "word": "you",
+          "start": 5.268,
+          "end": 5.428,
+          "local_start": 1.02,
+          "local_end": 1.18
+        },
+        {
+          "word": "like",
+          "start": 5.428,
+          "end": 5.608,
+          "local_start": 1.18,
+          "local_end": 1.36
+        },
+        {
+          "word": "standard",
+          "start": 5.608,
+          "end": 5.928,
+          "local_start": 1.36,
+          "local_end": 1.68
+        },
+        {
+          "word": "seats",
+          "start": 5.928,
+          "end": 6.208,
+          "local_start": 1.68,
+          "local_end": 1.96
+        },
+        {
+          "word": "or",
+          "start": 6.208,
+          "end": 6.608,
+          "local_start": 1.96,
+          "local_end": 2.36
+        },
+        {
+          "word": "premium",
+          "start": 6.608,
+          "end": 6.928,
+          "local_start": 2.36,
+          "local_end": 2.68
+        },
+        {
+          "word": "seats?",
+          "start": 6.928,
+          "end": 7.228,
+          "local_start": 2.68,
+          "local_end": 2.98
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "file": "03.mp3",
+      "text": "What's the difference?",
+      "audio_sha256": "06e6756751db55bdaa49b2ab71cb6c086225905963a3c1778938819921a542f0",
+      "start": 7.416,
+      "end": 8.568,
+      "duration": 1.152,
+      "words": [
+        {
+          "word": "What's",
+          "start": 7.416,
+          "end": 7.696,
+          "local_start": 0.0,
+          "local_end": 0.28
+        },
+        {
+          "word": "the",
+          "start": 7.696,
+          "end": 7.896,
+          "local_start": 0.28,
+          "local_end": 0.48
+        },
+        {
+          "word": "difference?",
+          "start": 7.896,
+          "end": 8.216,
+          "local_start": 0.48,
+          "local_end": 0.8
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "file": "04.mp3",
+      "text": "Premium seats are closer to the center, and they lean back a little. They're five dollars more each.",
+      "audio_sha256": "ce4a58ba4fe81d72d7dc13c92c765ec0049914d95fe1c882d31c6257afff40d7",
+      "start": 8.568,
+      "end": 13.92,
+      "duration": 5.352,
+      "words": [
+        {
+          "word": "Premium",
+          "start": 8.928,
+          "end": 9.128,
+          "local_start": 0.36,
+          "local_end": 0.56
+        },
+        {
+          "word": "seats",
+          "start": 9.128,
+          "end": 9.408,
+          "local_start": 0.56,
+          "local_end": 0.84
+        },
+        {
+          "word": "are",
+          "start": 9.408,
+          "end": 9.688,
+          "local_start": 0.84,
+          "local_end": 1.12
+        },
+        {
+          "word": "closer",
+          "start": 9.688,
+          "end": 9.948,
+          "local_start": 1.12,
+          "local_end": 1.38
+        },
+        {
+          "word": "to",
+          "start": 9.948,
+          "end": 10.108,
+          "local_start": 1.38,
+          "local_end": 1.54
+        },
+        {
+          "word": "the",
+          "start": 10.108,
+          "end": 10.268,
+          "local_start": 1.54,
+          "local_end": 1.7
+        },
+        {
+          "word": "center,",
+          "start": 10.268,
+          "end": 10.508,
+          "local_start": 1.7,
+          "local_end": 1.94
+        },
+        {
+          "word": "and",
+          "start": 10.988,
+          "end": 10.988,
+          "local_start": 2.42,
+          "local_end": 2.42
+        },
+        {
+          "word": "they",
+          "start": 10.988,
+          "end": 11.188,
+          "local_start": 2.42,
+          "local_end": 2.62
+        },
+        {
+          "word": "lean",
+          "start": 11.188,
+          "end": 11.288,
+          "local_start": 2.62,
+          "local_end": 2.72
+        },
+        {
+          "word": "back",
+          "start": 11.288,
+          "end": 11.508,
+          "local_start": 2.72,
+          "local_end": 2.94
+        },
+        {
+          "word": "a",
+          "start": 11.508,
+          "end": 11.648,
+          "local_start": 2.94,
+          "local_end": 3.08
+        },
+        {
+          "word": "little.",
+          "start": 11.648,
+          "end": 11.808,
+          "local_start": 3.08,
+          "local_end": 3.24
+        },
+        {
+          "word": "They're",
+          "start": 12.288,
+          "end": 12.448,
+          "local_start": 3.72,
+          "local_end": 3.88
+        },
+        {
+          "word": "five",
+          "start": 12.448,
+          "end": 12.768,
+          "local_start": 3.88,
+          "local_end": 4.2
+        },
+        {
+          "word": "dollars",
+          "start": 12.768,
+          "end": 13.068,
+          "local_start": 4.2,
+          "local_end": 4.5
+        },
+        {
+          "word": "more",
+          "start": 13.068,
+          "end": 13.328,
+          "local_start": 4.5,
+          "local_end": 4.76
+        },
+        {
+          "word": "each.",
+          "start": 13.328,
+          "end": 13.628,
+          "local_start": 4.76,
+          "local_end": 5.06
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "file": "05.mp3",
+      "text": "Standard is fine. Can we sit together on the aisle?",
+      "audio_sha256": "87af0a56ed5cbf5f0e0a470d5c93969f561d76c8e3a6cec9be1b43526598db27",
+      "start": 13.92,
+      "end": 17.424,
+      "duration": 3.504,
+      "words": [
+        {
+          "word": "Standard",
+          "start": 13.92,
+          "end": 14.44,
+          "local_start": 0.0,
+          "local_end": 0.52
+        },
+        {
+          "word": "is",
+          "start": 14.44,
+          "end": 14.7,
+          "local_start": 0.52,
+          "local_end": 0.78
+        },
+        {
+          "word": "fine.",
+          "start": 14.7,
+          "end": 15.06,
+          "local_start": 0.78,
+          "local_end": 1.14
+        },
+        {
+          "word": "Can",
+          "start": 15.18,
+          "end": 15.66,
+          "local_start": 1.26,
+          "local_end": 1.74
+        },
+        {
+          "word": "we",
+          "start": 15.66,
+          "end": 15.88,
+          "local_start": 1.74,
+          "local_end": 1.96
+        },
+        {
+          "word": "sit",
+          "start": 15.88,
+          "end": 16.02,
+          "local_start": 1.96,
+          "local_end": 2.1
+        },
+        {
+          "word": "together",
+          "start": 16.02,
+          "end": 16.38,
+          "local_start": 2.1,
+          "local_end": 2.46
+        },
+        {
+          "word": "on",
+          "start": 16.38,
+          "end": 16.58,
+          "local_start": 2.46,
+          "local_end": 2.66
+        },
+        {
+          "word": "the",
+          "start": 16.58,
+          "end": 16.86,
+          "local_start": 2.66,
+          "local_end": 2.94
+        },
+        {
+          "word": "aisle?",
+          "start": 16.86,
+          "end": 16.86,
+          "local_start": 2.94,
+          "local_end": 2.94
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "file": "06.mp3",
+      "text": "Let me check. Yes, I have two aisle seats in row G.",
+      "audio_sha256": "db16e25c2a9c683e5e7260c1409721a0d6486c8fc75490325e9997ebf0db0962",
+      "start": 17.424,
+      "end": 21.288,
+      "duration": 3.864,
+      "words": [
+        {
+          "word": "Let",
+          "start": 17.424,
+          "end": 17.724,
+          "local_start": 0.0,
+          "local_end": 0.3
+        },
+        {
+          "word": "me",
+          "start": 17.724,
+          "end": 17.904,
+          "local_start": 0.3,
+          "local_end": 0.48
+        },
+        {
+          "word": "check.",
+          "start": 17.904,
+          "end": 18.164,
+          "local_start": 0.48,
+          "local_end": 0.74
+        },
+        {
+          "word": "Yes,",
+          "start": 18.784,
+          "end": 19.104,
+          "local_start": 1.36,
+          "local_end": 1.68
+        },
+        {
+          "word": "I",
+          "start": 19.224,
+          "end": 19.344,
+          "local_start": 1.8,
+          "local_end": 1.92
+        },
+        {
+          "word": "have",
+          "start": 19.344,
+          "end": 19.564,
+          "local_start": 1.92,
+          "local_end": 2.14
+        },
+        {
+          "word": "two",
+          "start": 19.564,
+          "end": 19.804,
+          "local_start": 2.14,
+          "local_end": 2.38
+        },
+        {
+          "word": "aisle",
+          "start": 19.804,
+          "end": 20.044,
+          "local_start": 2.38,
+          "local_end": 2.62
+        },
+        {
+          "word": "seats",
+          "start": 20.044,
+          "end": 20.284,
+          "local_start": 2.62,
+          "local_end": 2.86
+        },
+        {
+          "word": "in",
+          "start": 20.284,
+          "end": 20.544,
+          "local_start": 2.86,
+          "local_end": 3.12
+        },
+        {
+          "word": "row",
+          "start": 20.544,
+          "end": 20.624,
+          "local_start": 3.12,
+          "local_end": 3.2
+        },
+        {
+          "word": "G.",
+          "start": 20.624,
+          "end": 20.864,
+          "local_start": 3.2,
+          "local_end": 3.44
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "file": "07.mp3",
+      "text": "Perfect. Do you have a student discount?",
+      "audio_sha256": "21c0bcbda4b7ed2811559d4ced9aa63394b286030fbe00d59576d5586ba40367",
+      "start": 21.288,
+      "end": 23.736,
+      "duration": 2.448,
+      "words": [
+        {
+          "word": "Perfect.",
+          "start": 21.288,
+          "end": 21.748,
+          "local_start": 0.0,
+          "local_end": 0.46
+        },
+        {
+          "word": "Do",
+          "start": 21.888,
+          "end": 22.288,
+          "local_start": 0.6,
+          "local_end": 1.0
+        },
+        {
+          "word": "you",
+          "start": 22.288,
+          "end": 22.348,
+          "local_start": 1.0,
+          "local_end": 1.06
+        },
+        {
+          "word": "have",
+          "start": 22.348,
+          "end": 22.508,
+          "local_start": 1.06,
+          "local_end": 1.22
+        },
+        {
+          "word": "a",
+          "start": 22.508,
+          "end": 22.728,
+          "local_start": 1.22,
+          "local_end": 1.44
+        },
+        {
+          "word": "student",
+          "start": 22.728,
+          "end": 22.968,
+          "local_start": 1.44,
+          "local_end": 1.68
+        },
+        {
+          "word": "discount?",
+          "start": 22.968,
+          "end": 23.208,
+          "local_start": 1.68,
+          "local_end": 1.92
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "file": "08.mp3",
+      "text": "Yes, if you show a student ID, it's two dollars off each ticket. That brings it to twenty-four dollars total.",
+      "audio_sha256": "a6bc0057e2369384f949d116f7c25ffecfb2b2eb59c679be383a84201347ad42",
+      "start": 23.736,
+      "end": 29.952,
+      "duration": 6.216,
+      "words": [
+        {
+          "word": "Yes,",
+          "start": 23.736,
+          "end": 24.236,
+          "local_start": 0.0,
+          "local_end": 0.5
+        },
+        {
+          "word": "if",
+          "start": 24.676,
+          "end": 24.756,
+          "local_start": 0.94,
+          "local_end": 1.02
+        },
+        {
+          "word": "you",
+          "start": 24.756,
+          "end": 24.856,
+          "local_start": 1.02,
+          "local_end": 1.12
+        },
+        {
+          "word": "show",
+          "start": 24.856,
+          "end": 25.036,
+          "local_start": 1.12,
+          "local_end": 1.3
+        },
+        {
+          "word": "a",
+          "start": 25.036,
+          "end": 25.236,
+          "local_start": 1.3,
+          "local_end": 1.5
+        },
+        {
+          "word": "student",
+          "start": 25.236,
+          "end": 25.376,
+          "local_start": 1.5,
+          "local_end": 1.64
+        },
+        {
+          "word": "ID,",
+          "start": 25.376,
+          "end": 25.656,
+          "local_start": 1.64,
+          "local_end": 1.92
+        },
+        {
+          "word": "it's",
+          "start": 26.016,
+          "end": 26.216,
+          "local_start": 2.28,
+          "local_end": 2.48
+        },
+        {
+          "word": "two",
+          "start": 26.216,
+          "end": 26.416,
+          "local_start": 2.48,
+          "local_end": 2.68
+        },
+        {
+          "word": "dollars",
+          "start": 26.416,
+          "end": 26.716,
+          "local_start": 2.68,
+          "local_end": 2.98
+        },
+        {
+          "word": "off",
+          "start": 26.716,
+          "end": 26.996,
+          "local_start": 2.98,
+          "local_end": 3.26
+        },
+        {
+          "word": "each",
+          "start": 26.996,
+          "end": 27.396,
+          "local_start": 3.26,
+          "local_end": 3.66
+        },
+        {
+          "word": "ticket.",
+          "start": 27.396,
+          "end": 27.636,
+          "local_start": 3.66,
+          "local_end": 3.9
+        },
+        {
+          "word": "That",
+          "start": 28.096,
+          "end": 28.236,
+          "local_start": 4.36,
+          "local_end": 4.5
+        },
+        {
+          "word": "brings",
+          "start": 28.236,
+          "end": 28.416,
+          "local_start": 4.5,
+          "local_end": 4.68
+        },
+        {
+          "word": "it",
+          "start": 28.416,
+          "end": 28.536,
+          "local_start": 4.68,
+          "local_end": 4.8
+        },
+        {
+          "word": "to",
+          "start": 28.536,
+          "end": 28.716,
+          "local_start": 4.8,
+          "local_end": 4.98
+        },
+        {
+          "word": "twenty-four",
+          "start": 28.716,
+          "end": 29.076,
+          "local_start": 4.98,
+          "local_end": 5.34
+        },
+        {
+          "word": "dollars",
+          "start": 29.076,
+          "end": 29.356,
+          "local_start": 5.34,
+          "local_end": 5.62
+        },
+        {
+          "word": "total.",
+          "start": 29.356,
+          "end": 29.596,
+          "local_start": 5.62,
+          "local_end": 5.86
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "file": "09.mp3",
+      "text": "Great. Here's my ID, and I'll pay by card. What time should we arrive?",
+      "audio_sha256": "cc5c04f5e7a00dbe09b37df04d5a70d44c816d42b4fbd228bdd70adf65f0cd80",
+      "start": 29.952,
+      "end": 34.512,
+      "duration": 4.56,
+      "words": [
+        {
+          "word": "Great.",
+          "start": 29.952,
+          "end": 30.512,
+          "local_start": 0.0,
+          "local_end": 0.56
+        },
+        {
+          "word": "Here's",
+          "start": 30.812,
+          "end": 30.972,
+          "local_start": 0.86,
+          "local_end": 1.02
+        },
+        {
+          "word": "my",
+          "start": 30.972,
+          "end": 31.152,
+          "local_start": 1.02,
+          "local_end": 1.2
+        },
+        {
+          "word": "ID,",
+          "start": 31.152,
+          "end": 31.432,
+          "local_start": 1.2,
+          "local_end": 1.48
+        },
+        {
+          "word": "and",
+          "start": 31.832,
+          "end": 31.932,
+          "local_start": 1.88,
+          "local_end": 1.98
+        },
+        {
+          "word": "I'll",
+          "start": 31.932,
+          "end": 32.032,
+          "local_start": 1.98,
+          "local_end": 2.08
+        },
+        {
+          "word": "pay",
+          "start": 32.032,
+          "end": 32.192,
+          "local_start": 2.08,
+          "local_end": 2.24
+        },
+        {
+          "word": "by",
+          "start": 32.192,
+          "end": 32.452,
+          "local_start": 2.24,
+          "local_end": 2.5
+        },
+        {
+          "word": "card.",
+          "start": 32.452,
+          "end": 32.672,
+          "local_start": 2.5,
+          "local_end": 2.72
+        },
+        {
+          "word": "What",
+          "start": 33.092,
+          "end": 33.212,
+          "local_start": 3.14,
+          "local_end": 3.26
+        },
+        {
+          "word": "time",
+          "start": 33.212,
+          "end": 33.412,
+          "local_start": 3.26,
+          "local_end": 3.46
+        },
+        {
+          "word": "should",
+          "start": 33.412,
+          "end": 33.532,
+          "local_start": 3.46,
+          "local_end": 3.58
+        },
+        {
+          "word": "we",
+          "start": 33.532,
+          "end": 33.752,
+          "local_start": 3.58,
+          "local_end": 3.8
+        },
+        {
+          "word": "arrive?",
+          "start": 33.752,
+          "end": 34.012,
+          "local_start": 3.8,
+          "local_end": 4.06
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "file": "10.mp3",
+      "text": "The doors open about twenty minutes before the show. There's also a bag check at the entrance.",
+      "audio_sha256": "67dd84095caae90667578af36b9ba267c29d2bcb764099d305d447de36164127",
+      "start": 34.512,
+      "end": 39.624,
+      "duration": 5.112,
+      "words": [
+        {
+          "word": "The",
+          "start": 34.512,
+          "end": 34.712,
+          "local_start": 0.0,
+          "local_end": 0.2
+        },
+        {
+          "word": "doors",
+          "start": 34.712,
+          "end": 34.872,
+          "local_start": 0.2,
+          "local_end": 0.36
+        },
+        {
+          "word": "open",
+          "start": 34.872,
+          "end": 35.292,
+          "local_start": 0.36,
+          "local_end": 0.78
+        },
+        {
+          "word": "about",
+          "start": 35.292,
+          "end": 35.612,
+          "local_start": 0.78,
+          "local_end": 1.1
+        },
+        {
+          "word": "twenty",
+          "start": 35.612,
+          "end": 35.892,
+          "local_start": 1.1,
+          "local_end": 1.38
+        },
+        {
+          "word": "minutes",
+          "start": 35.892,
+          "end": 36.172,
+          "local_start": 1.38,
+          "local_end": 1.66
+        },
+        {
+          "word": "before",
+          "start": 36.172,
+          "end": 36.452,
+          "local_start": 1.66,
+          "local_end": 1.94
+        },
+        {
+          "word": "the",
+          "start": 36.452,
+          "end": 36.672,
+          "local_start": 1.94,
+          "local_end": 2.16
+        },
+        {
+          "word": "show.",
+          "start": 36.672,
+          "end": 36.832,
+          "local_start": 2.16,
+          "local_end": 2.32
+        },
+        {
+          "word": "There's",
+          "start": 37.632,
+          "end": 37.732,
+          "local_start": 3.12,
+          "local_end": 3.22
+        },
+        {
+          "word": "also",
+          "start": 37.732,
+          "end": 38.012,
+          "local_start": 3.22,
+          "local_end": 3.5
+        },
+        {
+          "word": "a",
+          "start": 38.012,
+          "end": 38.152,
+          "local_start": 3.5,
+          "local_end": 3.64
+        },
+        {
+          "word": "bag",
+          "start": 38.152,
+          "end": 38.432,
+          "local_start": 3.64,
+          "local_end": 3.92
+        },
+        {
+          "word": "check",
+          "start": 38.432,
+          "end": 38.692,
+          "local_start": 3.92,
+          "local_end": 4.18
+        },
+        {
+          "word": "at",
+          "start": 38.692,
+          "end": 38.992,
+          "local_start": 4.18,
+          "local_end": 4.48
+        },
+        {
+          "word": "the",
+          "start": 38.992,
+          "end": 39.132,
+          "local_start": 4.48,
+          "local_end": 4.62
+        },
+        {
+          "word": "entrance.",
+          "start": 39.132,
+          "end": 39.372,
+          "local_start": 4.62,
+          "local_end": 4.86
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "file": "11.mp3",
+      "text": "Got it. Can I get the tickets on my phone?",
+      "audio_sha256": "fe174c63147ed62118ab088e94d6ed2843becf52357b165264c2cd178d16af89",
+      "start": 39.624,
+      "end": 42.336,
+      "duration": 2.712,
+      "words": [
+        {
+          "word": "Got",
+          "start": 39.624,
+          "end": 39.864,
+          "local_start": 0.0,
+          "local_end": 0.24
+        },
+        {
+          "word": "it.",
+          "start": 39.864,
+          "end": 40.204,
+          "local_start": 0.24,
+          "local_end": 0.58
+        },
+        {
+          "word": "Can",
+          "start": 40.504,
+          "end": 40.904,
+          "local_start": 0.88,
+          "local_end": 1.28
+        },
+        {
+          "word": "I",
+          "start": 40.904,
+          "end": 41.044,
+          "local_start": 1.28,
+          "local_end": 1.42
+        },
+        {
+          "word": "get",
+          "start": 41.044,
+          "end": 41.144,
+          "local_start": 1.42,
+          "local_end": 1.52
+        },
+        {
+          "word": "the",
+          "start": 41.144,
+          "end": 41.284,
+          "local_start": 1.52,
+          "local_end": 1.66
+        },
+        {
+          "word": "tickets",
+          "start": 41.284,
+          "end": 41.504,
+          "local_start": 1.66,
+          "local_end": 1.88
+        },
+        {
+          "word": "on",
+          "start": 41.504,
+          "end": 41.664,
+          "local_start": 1.88,
+          "local_end": 2.04
+        },
+        {
+          "word": "my",
+          "start": 41.664,
+          "end": 41.884,
+          "local_start": 2.04,
+          "local_end": 2.26
+        },
+        {
+          "word": "phone?",
+          "start": 41.884,
+          "end": 41.884,
+          "local_start": 2.26,
+          "local_end": 2.26
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "file": "12.mp3",
+      "text": "Yes, I'll email you the QR codes. Enjoy the movie!",
+      "audio_sha256": "64c162150a48c39b4afe72567bd7ff14c33f0888651c2ecfec5da60ed876a92d",
+      "start": 42.336,
+      "end": 46.056,
+      "duration": 3.72,
+      "words": [
+        {
+          "word": "Yes,",
+          "start": 42.336,
+          "end": 42.856,
+          "local_start": 0.0,
+          "local_end": 0.52
+        },
+        {
+          "word": "I'll",
+          "start": 43.276,
+          "end": 43.476,
+          "local_start": 0.94,
+          "local_end": 1.14
+        },
+        {
+          "word": "email",
+          "start": 43.476,
+          "end": 43.756,
+          "local_start": 1.14,
+          "local_end": 1.42
+        },
+        {
+          "word": "you",
+          "start": 43.756,
+          "end": 43.996,
+          "local_start": 1.42,
+          "local_end": 1.66
+        },
+        {
+          "word": "the",
+          "start": 43.996,
+          "end": 44.176,
+          "local_start": 1.66,
+          "local_end": 1.84
+        },
+        {
+          "word": "QR",
+          "start": 44.176,
+          "end": 44.416,
+          "local_start": 1.84,
+          "local_end": 2.08
+        },
+        {
+          "word": "codes.",
+          "start": 44.416,
+          "end": 44.776,
+          "local_start": 2.08,
+          "local_end": 2.44
+        },
+        {
+          "word": "Enjoy",
+          "start": 45.416,
+          "end": 45.436,
+          "local_start": 3.08,
+          "local_end": 3.1
+        },
+        {
+          "word": "the",
+          "start": 45.436,
+          "end": 45.616,
+          "local_start": 3.1,
+          "local_end": 3.28
+        },
+        {
+          "word": "movie!",
+          "start": 45.616,
+          "end": 45.736,
+          "local_start": 3.28,
+          "local_end": 3.4
+        }
+      ]
+    }
+  ]
+}

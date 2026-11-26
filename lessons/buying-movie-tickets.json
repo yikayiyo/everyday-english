@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-26",
+  "slug": "buying-movie-tickets",
+  "title": "Buying Movie Tickets",
+  "title_zh": "在电影院买电影票",
+  "context": "Maya 晚上想和朋友看电影，在电影院售票处买票；售票员 Jordan 帮她选场次和座位，并说明学生优惠和入场时间。",
+  "voices": {
+    "Maya": "marin",
+    "Jordan": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Maya",
+      "en": "Hi, I'd like two tickets for the 7:30 showing of The Late Train, please.",
+      "zh": "你好，我想买两张七点半这场《The Late Train》的票。"
+    },
+    {
+      "speaker": "Jordan",
+      "en": "Sure. Would you like standard seats or premium seats?",
+      "zh": "好的。你要普通座位还是高级座位？"
+    },
+    {
+      "speaker": "Maya",
+      "en": "What's the difference?",
+      "zh": "有什么区别？"
+    },
+    {
+      "speaker": "Jordan",
+      "en": "Premium seats are closer to the center, and they lean back a little. They're five dollars more each.",
+      "zh": "高级座位更靠中间，而且可以稍微向后靠。每张要多五美元。"
+    },
+    {
+      "speaker": "Maya",
+      "en": "Standard is fine. Can we sit together on the aisle?",
+      "zh": "普通座位就行。我们能坐在一起、靠过道吗？"
+    },
+    {
+      "speaker": "Jordan",
+      "en": "Let me check. Yes, I have two aisle seats in row G.",
+      "zh": "我看一下。有的，G 排有两个靠过道的座位。"
+    },
+    {
+      "speaker": "Maya",
+      "en": "Perfect. Do you have a student discount?",
+      "zh": "太好了。有学生优惠吗？"
+    },
+    {
+      "speaker": "Jordan",
+      "en": "Yes, if you show a student ID, it's two dollars off each ticket. That brings it to twenty-four dollars total.",
+      "zh": "有，出示学生证的话每张票减两美元。这样总共是二十四美元。"
+    },
+    {
+      "speaker": "Maya",
+      "en": "Great. Here's my ID, and I'll pay by card. What time should we arrive?",
+      "zh": "太好了。这是我的学生证，我用卡付。我们该什么时候到？"
+    },
+    {
+      "speaker": "Jordan",
+      "en": "The doors open about twenty minutes before the show. There's also a bag check at the entrance.",
+      "zh": "开场前大约二十分钟开门。入口处还要检查一下包。"
+    },
+    {
+      "speaker": "Maya",
+      "en": "Got it. Can I get the tickets on my phone?",
+      "zh": "明白了。票能发到我手机上吗？"
+    },
+    {
+      "speaker": "Jordan",
+      "en": "Yes, I'll email you the QR codes. Enjoy the movie!",
+      "zh": "可以，我会把二维码发到你邮箱。祝你们观影愉快！"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "I'd like two tickets for the 7:30 showing",
+      "zh": "想买两张七点半这场的票，在售票处说明场次时常用。",
+      "example": "Hi, I'd like two tickets for the 7:30 showing of The Late Train, please."
+    },
+    {
+      "en": "aisle seats",
+      "zh": "靠过道的座位，进出比较方便。",
+      "example": "Can we sit together on the aisle? I have two aisle seats in row G."
+    },
+    {
+      "en": "student discount",
+      "zh": "学生优惠。买票时出示学生证往往可以便宜一些。",
+      "example": "Do you have a student discount?"
+    },
+    {
+      "en": "That brings it to…",
+      "zh": "这样加起来是……，用来说明折扣后的总价。",
+      "example": "That brings it to twenty-four dollars total."
+    },
+    {
+      "en": "Enjoy the movie!",
+      "zh": "祝观影愉快！出票后常用的道别。",
+      "example": "I'll email you the QR codes. Enjoy the movie!"
+    }
+  ],
+  "pronunciation": "aisle 的 s 不发音，读作 /aɪl/；tickets 读作 /ˈtɪkɪts/；discount 的重音在第一音节，读作 /ˈdɪskaʊnt/；showing 读作 /ˈʃoʊɪŋ/；entrance 的重音在第一音节，读作 /ˈentrəns/。",
+  "practice": [
+    {
+      "title": "Part 1 · Movies",
+      "prompt": "Do you often go to the movies?",
+      "answer": "Yes, I do. I usually go to the movies once or twice a month, often on weekends. I like buying tickets at the theater so I can choose my seats."
+    },
+    {
+      "title": "Part 2 · Buying tickets",
+      "prompt": "Describe an imagined time you bought movie tickets at a theater. Say what movie you chose, how you asked about seats and a discount, and how you paid.",
+      "answer": "Imagine that I am at a movie theater to buy two tickets for an evening showing. I ask about standard and premium seats, and I choose standard seats on the aisle so we can sit together. I also ask about a student discount, show my student ID, and pay by card. The clerk tells me when the doors open and emails the tickets to my phone. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Watching movies",
+      "prompt": "Why do some people prefer watching movies at a theater instead of at home?",
+      "answer": "The screen and the sound at a theater are usually better, and it can feel more special to go out. Some people also like choosing seats and watching with a large audience. At home it is more convenient, but it is easier to get distracted."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "先听完整对话，再逐句跟读，再完成口头练习。",
+      "answer": "用四到六句在售票处说明你想买哪一场的两张票、想坐靠过道的座位、询问有没有学生优惠，并问该什么时候入场。"
+    }
+  ]
+}
