@@ -1,0 +1,1302 @@
+{
+  "model": "whisper-1",
+  "lesson": "booking-a-study-room",
+  "full_track": "dialogue-full.mp3",
+  "full_duration": 49.344,
+  "lines": [
+    {
+      "index": 1,
+      "file": "01.mp3",
+      "text": "Hi, I'd like to reserve a study room for this afternoon, please.",
+      "audio_sha256": "85727ed35280118fd69d044c56cf297b68ec73bb1b1168c9fc5cf7c5d4c8b77d",
+      "start": 0.0,
+      "end": 3.456,
+      "duration": 3.456,
+      "words": [
+        {
+          "word": "Hi,",
+          "start": 0.0,
+          "end": 0.58,
+          "local_start": 0.0,
+          "local_end": 0.58
+        },
+        {
+          "word": "I'd",
+          "start": 0.66,
+          "end": 0.84,
+          "local_start": 0.66,
+          "local_end": 0.84
+        },
+        {
+          "word": "like",
+          "start": 0.84,
+          "end": 1.02,
+          "local_start": 0.84,
+          "local_end": 1.02
+        },
+        {
+          "word": "to",
+          "start": 1.02,
+          "end": 1.38,
+          "local_start": 1.02,
+          "local_end": 1.38
+        },
+        {
+          "word": "reserve",
+          "start": 1.38,
+          "end": 1.38,
+          "local_start": 1.38,
+          "local_end": 1.38
+        },
+        {
+          "word": "a",
+          "start": 1.38,
+          "end": 1.66,
+          "local_start": 1.38,
+          "local_end": 1.66
+        },
+        {
+          "word": "study",
+          "start": 1.66,
+          "end": 1.8,
+          "local_start": 1.66,
+          "local_end": 1.8
+        },
+        {
+          "word": "room",
+          "start": 1.8,
+          "end": 2.0,
+          "local_start": 1.8,
+          "local_end": 2.0
+        },
+        {
+          "word": "for",
+          "start": 2.0,
+          "end": 2.16,
+          "local_start": 2.0,
+          "local_end": 2.16
+        },
+        {
+          "word": "this",
+          "start": 2.16,
+          "end": 2.36,
+          "local_start": 2.16,
+          "local_end": 2.36
+        },
+        {
+          "word": "afternoon,",
+          "start": 2.36,
+          "end": 2.66,
+          "local_start": 2.36,
+          "local_end": 2.66
+        },
+        {
+          "word": "please.",
+          "start": 2.84,
+          "end": 3.06,
+          "local_start": 2.84,
+          "local_end": 3.06
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "file": "02.mp3",
+      "text": "Sure. How many people will be using it, and for how long?",
+      "audio_sha256": "123823530c9e3dcd0af7df89e38018ad20236fb88a276cc0cc1786ad00222606",
+      "start": 3.456,
+      "end": 7.008,
+      "duration": 3.552,
+      "words": [
+        {
+          "word": "Sure.",
+          "start": 3.456,
+          "end": 3.896,
+          "local_start": 0.0,
+          "local_end": 0.44
+        },
+        {
+          "word": "How",
+          "start": 4.456,
+          "end": 4.776,
+          "local_start": 1.0,
+          "local_end": 1.32
+        },
+        {
+          "word": "many",
+          "start": 4.776,
+          "end": 4.936,
+          "local_start": 1.32,
+          "local_end": 1.48
+        },
+        {
+          "word": "people",
+          "start": 4.936,
+          "end": 5.156,
+          "local_start": 1.48,
+          "local_end": 1.7
+        },
+        {
+          "word": "will",
+          "start": 5.156,
+          "end": 5.296,
+          "local_start": 1.7,
+          "local_end": 1.84
+        },
+        {
+          "word": "be",
+          "start": 5.296,
+          "end": 5.496,
+          "local_start": 1.84,
+          "local_end": 2.04
+        },
+        {
+          "word": "using",
+          "start": 5.496,
+          "end": 5.656,
+          "local_start": 2.04,
+          "local_end": 2.2
+        },
+        {
+          "word": "it,",
+          "start": 5.656,
+          "end": 5.816,
+          "local_start": 2.2,
+          "local_end": 2.36
+        },
+        {
+          "word": "and",
+          "start": 5.936,
+          "end": 6.196,
+          "local_start": 2.48,
+          "local_end": 2.74
+        },
+        {
+          "word": "for",
+          "start": 6.196,
+          "end": 6.316,
+          "local_start": 2.74,
+          "local_end": 2.86
+        },
+        {
+          "word": "how",
+          "start": 6.316,
+          "end": 6.536,
+          "local_start": 2.86,
+          "local_end": 3.08
+        },
+        {
+          "word": "long?",
+          "start": 6.536,
+          "end": 6.676,
+          "local_start": 3.08,
+          "local_end": 3.22
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "file": "03.mp3",
+      "text": "There will be four of us, and we need it for two hours.",
+      "audio_sha256": "aaab7d8ff2e21163fa404693ab5bc6cbc74c6f73c3685aa1e20adcf4dac037fc",
+      "start": 7.008,
+      "end": 10.272,
+      "duration": 3.264,
+      "words": [
+        {
+          "word": "There",
+          "start": 7.008,
+          "end": 7.308,
+          "local_start": 0.0,
+          "local_end": 0.3
+        },
+        {
+          "word": "will",
+          "start": 7.308,
+          "end": 7.448,
+          "local_start": 0.3,
+          "local_end": 0.44
+        },
+        {
+          "word": "be",
+          "start": 7.448,
+          "end": 7.708,
+          "local_start": 0.44,
+          "local_end": 0.7
+        },
+        {
+          "word": "four",
+          "start": 7.708,
+          "end": 7.928,
+          "local_start": 0.7,
+          "local_end": 0.92
+        },
+        {
+          "word": "of",
+          "start": 7.928,
+          "end": 8.148,
+          "local_start": 0.92,
+          "local_end": 1.14
+        },
+        {
+          "word": "us,",
+          "start": 8.148,
+          "end": 8.368,
+          "local_start": 1.14,
+          "local_end": 1.36
+        },
+        {
+          "word": "and",
+          "start": 8.488,
+          "end": 8.708,
+          "local_start": 1.48,
+          "local_end": 1.7
+        },
+        {
+          "word": "we",
+          "start": 8.708,
+          "end": 8.828,
+          "local_start": 1.7,
+          "local_end": 1.82
+        },
+        {
+          "word": "need",
+          "start": 8.828,
+          "end": 8.988,
+          "local_start": 1.82,
+          "local_end": 1.98
+        },
+        {
+          "word": "it",
+          "start": 8.988,
+          "end": 9.068,
+          "local_start": 1.98,
+          "local_end": 2.06
+        },
+        {
+          "word": "for",
+          "start": 9.068,
+          "end": 9.288,
+          "local_start": 2.06,
+          "local_end": 2.28
+        },
+        {
+          "word": "two",
+          "start": 9.288,
+          "end": 9.508,
+          "local_start": 2.28,
+          "local_end": 2.5
+        },
+        {
+          "word": "hours.",
+          "start": 9.508,
+          "end": 9.848,
+          "local_start": 2.5,
+          "local_end": 2.84
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "file": "04.mp3",
+      "text": "I have a room on the third floor from 2:00 to 4:00. Does that work for you?",
+      "audio_sha256": "f88305464019bc4cad6a4bd61b0b5d587ac4d20a7792e60311e68f0aa1b3bdc4",
+      "start": 10.272,
+      "end": 14.928,
+      "duration": 4.656,
+      "words": [
+        {
+          "word": "I",
+          "start": 10.272,
+          "end": 10.472,
+          "local_start": 0.0,
+          "local_end": 0.2
+        },
+        {
+          "word": "have",
+          "start": 10.472,
+          "end": 10.672,
+          "local_start": 0.2,
+          "local_end": 0.4
+        },
+        {
+          "word": "a",
+          "start": 10.672,
+          "end": 10.892,
+          "local_start": 0.4,
+          "local_end": 0.62
+        },
+        {
+          "word": "room",
+          "start": 10.892,
+          "end": 11.112,
+          "local_start": 0.62,
+          "local_end": 0.84
+        },
+        {
+          "word": "on",
+          "start": 11.112,
+          "end": 11.312,
+          "local_start": 0.84,
+          "local_end": 1.04
+        },
+        {
+          "word": "the",
+          "start": 11.312,
+          "end": 11.532,
+          "local_start": 1.04,
+          "local_end": 1.26
+        },
+        {
+          "word": "third",
+          "start": 11.532,
+          "end": 11.732,
+          "local_start": 1.26,
+          "local_end": 1.46
+        },
+        {
+          "word": "floor",
+          "start": 11.732,
+          "end": 12.012,
+          "local_start": 1.46,
+          "local_end": 1.74
+        },
+        {
+          "word": "from",
+          "start": 12.012,
+          "end": 12.492,
+          "local_start": 1.74,
+          "local_end": 2.22
+        },
+        {
+          "word": "2:00",
+          "start": 12.492,
+          "end": 12.932,
+          "local_start": 2.22,
+          "local_end": 2.66
+        },
+        {
+          "word": "to",
+          "start": 12.932,
+          "end": 13.112,
+          "local_start": 2.66,
+          "local_end": 2.84
+        },
+        {
+          "word": "4:00.",
+          "start": 13.112,
+          "end": 14.052,
+          "local_start": 2.84,
+          "local_end": 3.78
+        },
+        {
+          "word": "Does",
+          "start": 14.052,
+          "end": 14.172,
+          "local_start": 3.78,
+          "local_end": 3.9
+        },
+        {
+          "word": "that",
+          "start": 14.172,
+          "end": 14.332,
+          "local_start": 3.9,
+          "local_end": 4.06
+        },
+        {
+          "word": "work",
+          "start": 14.332,
+          "end": 14.452,
+          "local_start": 4.06,
+          "local_end": 4.18
+        },
+        {
+          "word": "for",
+          "start": 14.452,
+          "end": 14.592,
+          "local_start": 4.18,
+          "local_end": 4.32
+        },
+        {
+          "word": "you?",
+          "start": 14.592,
+          "end": 14.712,
+          "local_start": 4.32,
+          "local_end": 4.44
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "file": "05.mp3",
+      "text": "That works. Do I need a library card to book it?",
+      "audio_sha256": "22175ba9106734324f416c4bf647f5ac3d3b436b8ea475a7a3e914e926f0816f",
+      "start": 14.928,
+      "end": 17.928,
+      "duration": 3.0,
+      "words": [
+        {
+          "word": "That",
+          "start": 14.928,
+          "end": 15.188,
+          "local_start": 0.0,
+          "local_end": 0.26
+        },
+        {
+          "word": "works.",
+          "start": 15.188,
+          "end": 15.508,
+          "local_start": 0.26,
+          "local_end": 0.58
+        },
+        {
+          "word": "Do",
+          "start": 16.148,
+          "end": 16.268,
+          "local_start": 1.22,
+          "local_end": 1.34
+        },
+        {
+          "word": "I",
+          "start": 16.268,
+          "end": 16.388,
+          "local_start": 1.34,
+          "local_end": 1.46
+        },
+        {
+          "word": "need",
+          "start": 16.388,
+          "end": 16.488,
+          "local_start": 1.46,
+          "local_end": 1.56
+        },
+        {
+          "word": "a",
+          "start": 16.488,
+          "end": 16.748,
+          "local_start": 1.56,
+          "local_end": 1.82
+        },
+        {
+          "word": "library",
+          "start": 16.748,
+          "end": 16.968,
+          "local_start": 1.82,
+          "local_end": 2.04
+        },
+        {
+          "word": "card",
+          "start": 16.968,
+          "end": 17.288,
+          "local_start": 2.04,
+          "local_end": 2.36
+        },
+        {
+          "word": "to",
+          "start": 17.288,
+          "end": 17.528,
+          "local_start": 2.36,
+          "local_end": 2.6
+        },
+        {
+          "word": "book",
+          "start": 17.528,
+          "end": 17.588,
+          "local_start": 2.6,
+          "local_end": 2.66
+        },
+        {
+          "word": "it?",
+          "start": 17.588,
+          "end": 17.748,
+          "local_start": 2.66,
+          "local_end": 2.82
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "file": "06.mp3",
+      "text": "Yes, I'll need to see your library card. The room holds up to six people, so you'll have some extra space.",
+      "audio_sha256": "db7725083be0351457e0aece72daa8730b36d00ce7119538e01025090d63d0b2",
+      "start": 17.928,
+      "end": 23.688,
+      "duration": 5.76,
+      "words": [
+        {
+          "word": "Yes,",
+          "start": 17.928,
+          "end": 18.248,
+          "local_start": 0.0,
+          "local_end": 0.32
+        },
+        {
+          "word": "I'll",
+          "start": 18.568,
+          "end": 18.808,
+          "local_start": 0.64,
+          "local_end": 0.88
+        },
+        {
+          "word": "need",
+          "start": 18.808,
+          "end": 18.928,
+          "local_start": 0.88,
+          "local_end": 1.0
+        },
+        {
+          "word": "to",
+          "start": 18.928,
+          "end": 19.048,
+          "local_start": 1.0,
+          "local_end": 1.12
+        },
+        {
+          "word": "see",
+          "start": 19.048,
+          "end": 19.168,
+          "local_start": 1.12,
+          "local_end": 1.24
+        },
+        {
+          "word": "your",
+          "start": 19.168,
+          "end": 19.328,
+          "local_start": 1.24,
+          "local_end": 1.4
+        },
+        {
+          "word": "library",
+          "start": 19.328,
+          "end": 19.648,
+          "local_start": 1.4,
+          "local_end": 1.72
+        },
+        {
+          "word": "card.",
+          "start": 19.648,
+          "end": 19.988,
+          "local_start": 1.72,
+          "local_end": 2.06
+        },
+        {
+          "word": "The",
+          "start": 20.728,
+          "end": 20.848,
+          "local_start": 2.8,
+          "local_end": 2.92
+        },
+        {
+          "word": "room",
+          "start": 20.848,
+          "end": 20.988,
+          "local_start": 2.92,
+          "local_end": 3.06
+        },
+        {
+          "word": "holds",
+          "start": 20.988,
+          "end": 21.228,
+          "local_start": 3.06,
+          "local_end": 3.3
+        },
+        {
+          "word": "up",
+          "start": 21.228,
+          "end": 21.348,
+          "local_start": 3.3,
+          "local_end": 3.42
+        },
+        {
+          "word": "to",
+          "start": 21.348,
+          "end": 21.688,
+          "local_start": 3.42,
+          "local_end": 3.76
+        },
+        {
+          "word": "six",
+          "start": 21.688,
+          "end": 21.768,
+          "local_start": 3.76,
+          "local_end": 3.84
+        },
+        {
+          "word": "people,",
+          "start": 21.768,
+          "end": 22.048,
+          "local_start": 3.84,
+          "local_end": 4.12
+        },
+        {
+          "word": "so",
+          "start": 22.348,
+          "end": 22.448,
+          "local_start": 4.42,
+          "local_end": 4.52
+        },
+        {
+          "word": "you'll",
+          "start": 22.448,
+          "end": 22.648,
+          "local_start": 4.52,
+          "local_end": 4.72
+        },
+        {
+          "word": "have",
+          "start": 22.648,
+          "end": 22.748,
+          "local_start": 4.72,
+          "local_end": 4.82
+        },
+        {
+          "word": "some",
+          "start": 22.748,
+          "end": 22.928,
+          "local_start": 4.82,
+          "local_end": 5.0
+        },
+        {
+          "word": "extra",
+          "start": 22.928,
+          "end": 23.108,
+          "local_start": 5.0,
+          "local_end": 5.18
+        },
+        {
+          "word": "space.",
+          "start": 23.108,
+          "end": 23.368,
+          "local_start": 5.18,
+          "local_end": 5.44
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "file": "07.mp3",
+      "text": "Perfect. Can we use the whiteboard and the screen in the room?",
+      "audio_sha256": "2ec318b1494a6373cd7af927c6ec013da0a0c3b91d82403221650d4e278c6979",
+      "start": 23.688,
+      "end": 27.192,
+      "duration": 3.504,
+      "words": [
+        {
+          "word": "Perfect.",
+          "start": 23.688,
+          "end": 24.208,
+          "local_start": 0.0,
+          "local_end": 0.52
+        },
+        {
+          "word": "Can",
+          "start": 24.348,
+          "end": 24.768,
+          "local_start": 0.66,
+          "local_end": 1.08
+        },
+        {
+          "word": "we",
+          "start": 24.768,
+          "end": 24.908,
+          "local_start": 1.08,
+          "local_end": 1.22
+        },
+        {
+          "word": "use",
+          "start": 24.908,
+          "end": 25.108,
+          "local_start": 1.22,
+          "local_end": 1.42
+        },
+        {
+          "word": "the",
+          "start": 25.108,
+          "end": 25.348,
+          "local_start": 1.42,
+          "local_end": 1.66
+        },
+        {
+          "word": "whiteboard",
+          "start": 25.348,
+          "end": 25.768,
+          "local_start": 1.66,
+          "local_end": 2.08
+        },
+        {
+          "word": "and",
+          "start": 25.768,
+          "end": 26.028,
+          "local_start": 2.08,
+          "local_end": 2.34
+        },
+        {
+          "word": "the",
+          "start": 26.028,
+          "end": 26.248,
+          "local_start": 2.34,
+          "local_end": 2.56
+        },
+        {
+          "word": "screen",
+          "start": 26.248,
+          "end": 26.428,
+          "local_start": 2.56,
+          "local_end": 2.74
+        },
+        {
+          "word": "in",
+          "start": 26.428,
+          "end": 26.608,
+          "local_start": 2.74,
+          "local_end": 2.92
+        },
+        {
+          "word": "the",
+          "start": 26.608,
+          "end": 26.768,
+          "local_start": 2.92,
+          "local_end": 3.08
+        },
+        {
+          "word": "room?",
+          "start": 26.768,
+          "end": 26.888,
+          "local_start": 3.08,
+          "local_end": 3.2
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "file": "08.mp3",
+      "text": "Yes. There are markers in the drawer, and you can plug your laptop into the screen.",
+      "audio_sha256": "158764c92872d2bbcccc437456da0d77322dcbd37fd49598b746afceca2801b6",
+      "start": 27.192,
+      "end": 32.256,
+      "duration": 5.064,
+      "words": [
+        {
+          "word": "Yes.",
+          "start": 27.192,
+          "end": 27.652,
+          "local_start": 0.0,
+          "local_end": 0.46
+        },
+        {
+          "word": "There",
+          "start": 28.172,
+          "end": 28.292,
+          "local_start": 0.98,
+          "local_end": 1.1
+        },
+        {
+          "word": "are",
+          "start": 28.292,
+          "end": 28.592,
+          "local_start": 1.1,
+          "local_end": 1.4
+        },
+        {
+          "word": "markers",
+          "start": 28.592,
+          "end": 28.792,
+          "local_start": 1.4,
+          "local_end": 1.6
+        },
+        {
+          "word": "in",
+          "start": 28.792,
+          "end": 29.052,
+          "local_start": 1.6,
+          "local_end": 1.86
+        },
+        {
+          "word": "the",
+          "start": 29.052,
+          "end": 29.392,
+          "local_start": 1.86,
+          "local_end": 2.2
+        },
+        {
+          "word": "drawer,",
+          "start": 29.392,
+          "end": 29.392,
+          "local_start": 2.2,
+          "local_end": 2.2
+        },
+        {
+          "word": "and",
+          "start": 30.092,
+          "end": 30.132,
+          "local_start": 2.9,
+          "local_end": 2.94
+        },
+        {
+          "word": "you",
+          "start": 30.132,
+          "end": 30.252,
+          "local_start": 2.94,
+          "local_end": 3.06
+        },
+        {
+          "word": "can",
+          "start": 30.252,
+          "end": 30.532,
+          "local_start": 3.06,
+          "local_end": 3.34
+        },
+        {
+          "word": "plug",
+          "start": 30.532,
+          "end": 30.632,
+          "local_start": 3.34,
+          "local_end": 3.44
+        },
+        {
+          "word": "your",
+          "start": 30.632,
+          "end": 30.852,
+          "local_start": 3.44,
+          "local_end": 3.66
+        },
+        {
+          "word": "laptop",
+          "start": 30.852,
+          "end": 31.252,
+          "local_start": 3.66,
+          "local_end": 4.06
+        },
+        {
+          "word": "into",
+          "start": 31.252,
+          "end": 31.672,
+          "local_start": 4.06,
+          "local_end": 4.48
+        },
+        {
+          "word": "the",
+          "start": 31.672,
+          "end": 31.852,
+          "local_start": 4.48,
+          "local_end": 4.66
+        },
+        {
+          "word": "screen.",
+          "start": 31.852,
+          "end": 32.052,
+          "local_start": 4.66,
+          "local_end": 4.86
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "file": "09.mp3",
+      "text": "Great. What if we're a few minutes late?",
+      "audio_sha256": "172543c4928e4f8d7e6f705a5e72bbae8f5a2945e7548a22b54d451679c647ed",
+      "start": 32.256,
+      "end": 35.064,
+      "duration": 2.808,
+      "words": [
+        {
+          "word": "Great.",
+          "start": 32.256,
+          "end": 32.696,
+          "local_start": 0.0,
+          "local_end": 0.44
+        },
+        {
+          "word": "What",
+          "start": 33.096,
+          "end": 33.416,
+          "local_start": 0.84,
+          "local_end": 1.16
+        },
+        {
+          "word": "if",
+          "start": 33.416,
+          "end": 33.576,
+          "local_start": 1.16,
+          "local_end": 1.32
+        },
+        {
+          "word": "we're",
+          "start": 33.576,
+          "end": 33.696,
+          "local_start": 1.32,
+          "local_end": 1.44
+        },
+        {
+          "word": "a",
+          "start": 33.696,
+          "end": 33.816,
+          "local_start": 1.44,
+          "local_end": 1.56
+        },
+        {
+          "word": "few",
+          "start": 33.816,
+          "end": 33.996,
+          "local_start": 1.56,
+          "local_end": 1.74
+        },
+        {
+          "word": "minutes",
+          "start": 33.996,
+          "end": 34.196,
+          "local_start": 1.74,
+          "local_end": 1.94
+        },
+        {
+          "word": "late?",
+          "start": 34.196,
+          "end": 34.576,
+          "local_start": 1.94,
+          "local_end": 2.32
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "file": "10.mp3",
+      "text": "We hold the room for ten minutes. After that, we may give it to someone else.",
+      "audio_sha256": "98fdc686e9ab8120d93c4aedd5d9cce987d6c76ec441217d1f48bb4cff09f635",
+      "start": 35.064,
+      "end": 39.624,
+      "duration": 4.56,
+      "words": [
+        {
+          "word": "We",
+          "start": 38.284,
+          "end": 38.404,
+          "local_start": 3.22,
+          "local_end": 3.34
+        },
+        {
+          "word": "hold",
+          "start": 38.404,
+          "end": 38.405,
+          "local_start": 3.34,
+          "local_end": 3.341
+        },
+        {
+          "word": "the",
+          "start": 38.405,
+          "end": 38.406,
+          "local_start": 3.341,
+          "local_end": 3.342
+        },
+        {
+          "word": "room",
+          "start": 38.406,
+          "end": 38.407,
+          "local_start": 3.342,
+          "local_end": 3.343
+        },
+        {
+          "word": "for",
+          "start": 38.407,
+          "end": 38.408,
+          "local_start": 3.343,
+          "local_end": 3.344
+        },
+        {
+          "word": "ten",
+          "start": 38.408,
+          "end": 38.41,
+          "local_start": 3.344,
+          "local_end": 3.346
+        },
+        {
+          "word": "minutes.",
+          "start": 38.41,
+          "end": 38.411,
+          "local_start": 3.346,
+          "local_end": 3.347
+        },
+        {
+          "word": "After",
+          "start": 38.411,
+          "end": 38.412,
+          "local_start": 3.347,
+          "local_end": 3.348
+        },
+        {
+          "word": "that,",
+          "start": 38.412,
+          "end": 38.413,
+          "local_start": 3.348,
+          "local_end": 3.349
+        },
+        {
+          "word": "we",
+          "start": 38.413,
+          "end": 38.414,
+          "local_start": 3.349,
+          "local_end": 3.35
+        },
+        {
+          "word": "may",
+          "start": 38.404,
+          "end": 38.564,
+          "local_start": 3.34,
+          "local_end": 3.5
+        },
+        {
+          "word": "give",
+          "start": 38.564,
+          "end": 38.724,
+          "local_start": 3.5,
+          "local_end": 3.66
+        },
+        {
+          "word": "it",
+          "start": 38.724,
+          "end": 38.744,
+          "local_start": 3.66,
+          "local_end": 3.68
+        },
+        {
+          "word": "to",
+          "start": 38.744,
+          "end": 38.944,
+          "local_start": 3.68,
+          "local_end": 3.88
+        },
+        {
+          "word": "someone",
+          "start": 38.944,
+          "end": 39.164,
+          "local_start": 3.88,
+          "local_end": 4.1
+        },
+        {
+          "word": "else.",
+          "start": 39.164,
+          "end": 39.464,
+          "local_start": 4.1,
+          "local_end": 4.4
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "file": "11.mp3",
+      "text": "Got it. Can I cancel if our plans change?",
+      "audio_sha256": "f0f145a04eec58aa026693db71b23a6c872800ad89b193ff160fcc6a370504a6",
+      "start": 39.624,
+      "end": 42.384,
+      "duration": 2.76,
+      "words": [
+        {
+          "word": "Got",
+          "start": 39.624,
+          "end": 39.884,
+          "local_start": 0.0,
+          "local_end": 0.26
+        },
+        {
+          "word": "it.",
+          "start": 39.884,
+          "end": 40.204,
+          "local_start": 0.26,
+          "local_end": 0.58
+        },
+        {
+          "word": "Can",
+          "start": 40.524,
+          "end": 40.624,
+          "local_start": 0.9,
+          "local_end": 1.0
+        },
+        {
+          "word": "I",
+          "start": 40.624,
+          "end": 40.824,
+          "local_start": 1.0,
+          "local_end": 1.2
+        },
+        {
+          "word": "cancel",
+          "start": 40.824,
+          "end": 41.124,
+          "local_start": 1.2,
+          "local_end": 1.5
+        },
+        {
+          "word": "if",
+          "start": 41.124,
+          "end": 41.304,
+          "local_start": 1.5,
+          "local_end": 1.68
+        },
+        {
+          "word": "our",
+          "start": 41.304,
+          "end": 41.424,
+          "local_start": 1.68,
+          "local_end": 1.8
+        },
+        {
+          "word": "plans",
+          "start": 41.424,
+          "end": 41.684,
+          "local_start": 1.8,
+          "local_end": 2.06
+        },
+        {
+          "word": "change?",
+          "start": 41.684,
+          "end": 42.044,
+          "local_start": 2.06,
+          "local_end": 2.42
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "file": "12.mp3",
+      "text": "Yes, please cancel online or at the desk at least an hour ahead. You're all set. Here's your confirmation.",
+      "audio_sha256": "ef8af4be5c73667dae44639a027913cec8ecd08efd0f37d06bf3953958f70e72",
+      "start": 42.384,
+      "end": 49.344,
+      "duration": 6.96,
+      "words": [
+        {
+          "word": "Yes,",
+          "start": 42.384,
+          "end": 42.904,
+          "local_start": 0.0,
+          "local_end": 0.52
+        },
+        {
+          "word": "please",
+          "start": 43.344,
+          "end": 43.644,
+          "local_start": 0.96,
+          "local_end": 1.26
+        },
+        {
+          "word": "cancel",
+          "start": 43.644,
+          "end": 44.044,
+          "local_start": 1.26,
+          "local_end": 1.66
+        },
+        {
+          "word": "online",
+          "start": 44.044,
+          "end": 44.564,
+          "local_start": 1.66,
+          "local_end": 2.18
+        },
+        {
+          "word": "or",
+          "start": 44.564,
+          "end": 44.984,
+          "local_start": 2.18,
+          "local_end": 2.6
+        },
+        {
+          "word": "at",
+          "start": 44.984,
+          "end": 45.084,
+          "local_start": 2.6,
+          "local_end": 2.7
+        },
+        {
+          "word": "the",
+          "start": 45.084,
+          "end": 45.244,
+          "local_start": 2.7,
+          "local_end": 2.86
+        },
+        {
+          "word": "desk",
+          "start": 45.244,
+          "end": 45.484,
+          "local_start": 2.86,
+          "local_end": 3.1
+        },
+        {
+          "word": "at",
+          "start": 45.484,
+          "end": 45.724,
+          "local_start": 3.1,
+          "local_end": 3.34
+        },
+        {
+          "word": "least",
+          "start": 45.724,
+          "end": 45.884,
+          "local_start": 3.34,
+          "local_end": 3.5
+        },
+        {
+          "word": "an",
+          "start": 45.884,
+          "end": 46.264,
+          "local_start": 3.5,
+          "local_end": 3.88
+        },
+        {
+          "word": "hour",
+          "start": 46.264,
+          "end": 46.264,
+          "local_start": 3.88,
+          "local_end": 3.88
+        },
+        {
+          "word": "ahead.",
+          "start": 46.264,
+          "end": 46.584,
+          "local_start": 3.88,
+          "local_end": 4.2
+        },
+        {
+          "word": "You're",
+          "start": 47.204,
+          "end": 47.404,
+          "local_start": 4.82,
+          "local_end": 5.02
+        },
+        {
+          "word": "all",
+          "start": 47.404,
+          "end": 47.584,
+          "local_start": 5.02,
+          "local_end": 5.2
+        },
+        {
+          "word": "set.",
+          "start": 47.584,
+          "end": 47.804,
+          "local_start": 5.2,
+          "local_end": 5.42
+        },
+        {
+          "word": "Here's",
+          "start": 48.244,
+          "end": 48.344,
+          "local_start": 5.86,
+          "local_end": 5.96
+        },
+        {
+          "word": "your",
+          "start": 48.344,
+          "end": 48.564,
+          "local_start": 5.96,
+          "local_end": 6.18
+        },
+        {
+          "word": "confirmation.",
+          "start": 48.564,
+          "end": 48.924,
+          "local_start": 6.18,
+          "local_end": 6.54
+        }
+      ]
+    }
+  ]
+}

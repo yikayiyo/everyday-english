@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-27",
+  "slug": "booking-a-study-room",
+  "title": "Booking a Study Room",
+  "title_zh": "在图书馆预约研讨室",
+  "context": "Maya 下午要和同学做小组作业，到图书馆前台预约研讨室；工作人员 Jordan 帮她确认人数、使用时长和房间设施，并说明迟到保留与取消规则。",
+  "voices": {
+    "Maya": "marin",
+    "Jordan": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Maya",
+      "en": "Hi, I'd like to reserve a study room for this afternoon, please.",
+      "zh": "你好，我想预约一间今天下午的研讨室。"
+    },
+    {
+      "speaker": "Jordan",
+      "en": "Sure. How many people will be using it, and for how long?",
+      "zh": "好的。你们几个人用，需要用多久？"
+    },
+    {
+      "speaker": "Maya",
+      "en": "There will be four of us, and we need it for two hours.",
+      "zh": "我们有四个人，需要用两个小时。"
+    },
+    {
+      "speaker": "Jordan",
+      "en": "I have a room on the third floor from 2:00 to 4:00. Does that work for you?",
+      "zh": "三楼有一间，下午两点到四点。这个时间可以吗？"
+    },
+    {
+      "speaker": "Maya",
+      "en": "That works. Do I need a library card to book it?",
+      "zh": "可以。预约需要借书证吗？"
+    },
+    {
+      "speaker": "Jordan",
+      "en": "Yes, I'll need to see your library card. The room holds up to six people, so you'll have some extra space.",
+      "zh": "需要，请出示一下你的借书证。这间最多可以坐六个人，所以你们还会有一点空余位置。"
+    },
+    {
+      "speaker": "Maya",
+      "en": "Perfect. Can we use the whiteboard and the screen in the room?",
+      "zh": "太好了。房间里的白板和屏幕我们可以用吗？"
+    },
+    {
+      "speaker": "Jordan",
+      "en": "Yes. There are markers in the drawer, and you can plug your laptop into the screen.",
+      "zh": "可以。白板笔在抽屉里，你也可以把笔记本电脑接到屏幕上。"
+    },
+    {
+      "speaker": "Maya",
+      "en": "Great. What if we're a few minutes late?",
+      "zh": "好的。如果我们晚到几分钟怎么办？"
+    },
+    {
+      "speaker": "Jordan",
+      "en": "We hold the room for ten minutes. After that, we may give it to someone else.",
+      "zh": "房间会为你们保留十分钟。超过这个时间，我们可能会把房间给其他人。"
+    },
+    {
+      "speaker": "Maya",
+      "en": "Got it. Can I cancel if our plans change?",
+      "zh": "明白了。如果我们计划有变，可以取消吗？"
+    },
+    {
+      "speaker": "Jordan",
+      "en": "Yes, please cancel online or at the desk at least an hour ahead. You're all set. Here's your confirmation.",
+      "zh": "可以，请至少提前一小时在网上或到前台取消。都办好了。这是你的确认单。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "I'd like to reserve a study room",
+      "zh": "我想预约一间研讨室，在图书馆前台说明需求时常用。",
+      "example": "Hi, I'd like to reserve a study room for this afternoon, please."
+    },
+    {
+      "en": "Does that work for you?",
+      "zh": "这个安排可以吗？用来确认时间或方案是否合适。",
+      "example": "I have a room on the third floor from 2:00 to 4:00. Does that work for you?"
+    },
+    {
+      "en": "We hold the room for ten minutes",
+      "zh": "房间会先为你保留十分钟，说明迟到宽限时常用。",
+      "example": "We hold the room for ten minutes. After that, we may give it to someone else."
+    },
+    {
+      "en": "at least an hour ahead",
+      "zh": "至少提前一小时，取消或改期时常用。",
+      "example": "Please cancel online or at the desk at least an hour ahead."
+    },
+    {
+      "en": "You're all set",
+      "zh": "都办好了，表示事情已经安排妥当。",
+      "example": "You're all set. Here's your confirmation."
+    }
+  ],
+  "pronunciation": "reserve 的重音在第二音节，读作 /rɪˈzɜːrv/；third 的 th 读作 /θ/，floor 读作 /flɔːr/；whiteboard 读作 /ˈwaɪtbɔːrd/；confirmation 的重音在第三音节，读作 /ˌkɑːnfərˈmeɪʃn/；cancel 的重音在第一音节，读作 /ˈkænsl/。",
+  "practice": [
+    {
+      "title": "Part 1 · Libraries",
+      "prompt": "Do you often study in a library?",
+      "answer": "Yes, I do. I usually go to the library a few times a week when I have group work or need a quiet place. I sometimes book a study room so my classmates and I can talk without bothering other people."
+    },
+    {
+      "title": "Part 2 · Booking a study room",
+      "prompt": "Describe an imagined time you booked a study room at a library. Say why you needed it, how you reserved it, and what the staff told you about the room.",
+      "answer": "Imagine that I am at the library desk to reserve a study room for four classmates. I ask for a two-hour booking in the afternoon, and the staff offers a room on the third floor from 2:00 to 4:00. I show my library card, and I also ask if we can use the whiteboard and the screen. The staff tells me they will hold the room for ten minutes if we are late, and I should cancel at least an hour ahead if our plans change. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Study spaces",
+      "prompt": "Why do some people prefer studying in a library instead of at home?",
+      "answer": "A library is usually quieter than home, and it can be easier to focus when other people are studying too. Some libraries also have study rooms, screens, and a stable internet connection, which are useful for group work. At home it is more comfortable, but it is easier to get distracted."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "先听完整对话，再逐句跟读，再完成口头练习。",
+      "answer": "用四到六句在图书馆前台预约一间今天下午的研讨室：说明人数和时长，询问能否使用白板和屏幕，并问迟到或取消需要注意什么。"
+    }
+  ]
+}
