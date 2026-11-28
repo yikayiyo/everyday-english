@@ -1,0 +1,1232 @@
+{
+  "model": "whisper-1",
+  "lesson": "getting-a-haircut",
+  "full_track": "dialogue-full.mp3",
+  "full_duration": 50.472,
+  "lines": [
+    {
+      "index": 1,
+      "file": "01.mp3",
+      "text": "Hi, do you take walk-ins? I'd like a haircut today.",
+      "audio_sha256": "6dae7e9751ca96af726fbfc0ff201799dac87624f2a1c30d1942144c9821b0f3",
+      "start": 0.0,
+      "end": 3.456,
+      "duration": 3.456,
+      "words": [
+        {
+          "word": "Hi,",
+          "start": 0.0,
+          "end": 0.36,
+          "local_start": 0.0,
+          "local_end": 0.36
+        },
+        {
+          "word": "do",
+          "start": 0.9,
+          "end": 0.98,
+          "local_start": 0.9,
+          "local_end": 0.98
+        },
+        {
+          "word": "you",
+          "start": 0.98,
+          "end": 1.12,
+          "local_start": 0.98,
+          "local_end": 1.12
+        },
+        {
+          "word": "take",
+          "start": 1.12,
+          "end": 1.3,
+          "local_start": 1.12,
+          "local_end": 1.3
+        },
+        {
+          "word": "walk-ins?",
+          "start": 1.3,
+          "end": 2.22,
+          "local_start": 1.3,
+          "local_end": 2.22
+        },
+        {
+          "word": "I'd",
+          "start": 2.22,
+          "end": 2.46,
+          "local_start": 2.22,
+          "local_end": 2.46
+        },
+        {
+          "word": "like",
+          "start": 2.46,
+          "end": 2.5,
+          "local_start": 2.46,
+          "local_end": 2.5
+        },
+        {
+          "word": "a",
+          "start": 2.5,
+          "end": 2.68,
+          "local_start": 2.5,
+          "local_end": 2.68
+        },
+        {
+          "word": "haircut",
+          "start": 2.68,
+          "end": 2.86,
+          "local_start": 2.68,
+          "local_end": 2.86
+        },
+        {
+          "word": "today.",
+          "start": 2.86,
+          "end": 3.16,
+          "local_start": 2.86,
+          "local_end": 3.16
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "file": "02.mp3",
+      "text": "We do. I have an opening in about ten minutes. What are you looking for?",
+      "audio_sha256": "5c3ea0fcce30c2b8bde1147f5526ad6a4c641df33f3a90c856e5899724f912b2",
+      "start": 3.456,
+      "end": 7.872,
+      "duration": 4.416,
+      "words": [
+        {
+          "word": "We",
+          "start": 3.456,
+          "end": 3.616,
+          "local_start": 0.0,
+          "local_end": 0.16
+        },
+        {
+          "word": "do.",
+          "start": 3.616,
+          "end": 3.896,
+          "local_start": 0.16,
+          "local_end": 0.44
+        },
+        {
+          "word": "I",
+          "start": 4.536,
+          "end": 4.756,
+          "local_start": 1.08,
+          "local_end": 1.3
+        },
+        {
+          "word": "have",
+          "start": 4.756,
+          "end": 4.856,
+          "local_start": 1.3,
+          "local_end": 1.4
+        },
+        {
+          "word": "an",
+          "start": 4.856,
+          "end": 5.016,
+          "local_start": 1.4,
+          "local_end": 1.56
+        },
+        {
+          "word": "opening",
+          "start": 5.016,
+          "end": 5.176,
+          "local_start": 1.56,
+          "local_end": 1.72
+        },
+        {
+          "word": "in",
+          "start": 5.176,
+          "end": 5.376,
+          "local_start": 1.72,
+          "local_end": 1.92
+        },
+        {
+          "word": "about",
+          "start": 5.376,
+          "end": 5.636,
+          "local_start": 1.92,
+          "local_end": 2.18
+        },
+        {
+          "word": "ten",
+          "start": 5.636,
+          "end": 5.896,
+          "local_start": 2.18,
+          "local_end": 2.44
+        },
+        {
+          "word": "minutes.",
+          "start": 5.896,
+          "end": 6.256,
+          "local_start": 2.44,
+          "local_end": 2.8
+        },
+        {
+          "word": "What",
+          "start": 6.956,
+          "end": 7.036,
+          "local_start": 3.5,
+          "local_end": 3.58
+        },
+        {
+          "word": "are",
+          "start": 7.036,
+          "end": 7.116,
+          "local_start": 3.58,
+          "local_end": 3.66
+        },
+        {
+          "word": "you",
+          "start": 7.116,
+          "end": 7.256,
+          "local_start": 3.66,
+          "local_end": 3.8
+        },
+        {
+          "word": "looking",
+          "start": 7.256,
+          "end": 7.356,
+          "local_start": 3.8,
+          "local_end": 3.9
+        },
+        {
+          "word": "for?",
+          "start": 7.356,
+          "end": 7.616,
+          "local_start": 3.9,
+          "local_end": 4.16
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "file": "03.mp3",
+      "text": "Just a trim, please, and maybe a little shorter on the sides.",
+      "audio_sha256": "9a569cad21d7e471d79d910fbfeba7c00b197e8daa5c4c857cebb11b6f2a0f04",
+      "start": 7.872,
+      "end": 12.12,
+      "duration": 4.248,
+      "words": [
+        {
+          "word": "Just",
+          "start": 7.872,
+          "end": 8.172,
+          "local_start": 0.0,
+          "local_end": 0.3
+        },
+        {
+          "word": "a",
+          "start": 8.172,
+          "end": 8.272,
+          "local_start": 0.3,
+          "local_end": 0.4
+        },
+        {
+          "word": "trim,",
+          "start": 8.272,
+          "end": 8.592,
+          "local_start": 0.4,
+          "local_end": 0.72
+        },
+        {
+          "word": "please,",
+          "start": 9.072,
+          "end": 9.192,
+          "local_start": 1.2,
+          "local_end": 1.32
+        },
+        {
+          "word": "and",
+          "start": 9.232,
+          "end": 9.712,
+          "local_start": 1.36,
+          "local_end": 1.84
+        },
+        {
+          "word": "maybe",
+          "start": 9.712,
+          "end": 9.892,
+          "local_start": 1.84,
+          "local_end": 2.02
+        },
+        {
+          "word": "a",
+          "start": 9.892,
+          "end": 10.132,
+          "local_start": 2.02,
+          "local_end": 2.26
+        },
+        {
+          "word": "little",
+          "start": 10.132,
+          "end": 10.372,
+          "local_start": 2.26,
+          "local_end": 2.5
+        },
+        {
+          "word": "shorter",
+          "start": 10.372,
+          "end": 10.652,
+          "local_start": 2.5,
+          "local_end": 2.78
+        },
+        {
+          "word": "on",
+          "start": 10.652,
+          "end": 10.812,
+          "local_start": 2.78,
+          "local_end": 2.94
+        },
+        {
+          "word": "the",
+          "start": 10.812,
+          "end": 10.992,
+          "local_start": 2.94,
+          "local_end": 3.12
+        },
+        {
+          "word": "sides.",
+          "start": 10.992,
+          "end": 11.312,
+          "local_start": 3.12,
+          "local_end": 3.44
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "file": "04.mp3",
+      "text": "Sure. How short would you like the sides? I can do a two or a three.",
+      "audio_sha256": "061a3433f0df6ea7946afe42e241792d68ce6c8cf3d4d3f652e6c92e3b488811",
+      "start": 12.12,
+      "end": 16.368,
+      "duration": 4.248,
+      "words": [
+        {
+          "word": "Sure.",
+          "start": 12.12,
+          "end": 12.48,
+          "local_start": 0.0,
+          "local_end": 0.36
+        },
+        {
+          "word": "How",
+          "start": 12.9,
+          "end": 13.28,
+          "local_start": 0.78,
+          "local_end": 1.16
+        },
+        {
+          "word": "short",
+          "start": 13.28,
+          "end": 13.56,
+          "local_start": 1.16,
+          "local_end": 1.44
+        },
+        {
+          "word": "would",
+          "start": 13.56,
+          "end": 13.68,
+          "local_start": 1.44,
+          "local_end": 1.56
+        },
+        {
+          "word": "you",
+          "start": 13.68,
+          "end": 13.78,
+          "local_start": 1.56,
+          "local_end": 1.66
+        },
+        {
+          "word": "like",
+          "start": 13.78,
+          "end": 13.92,
+          "local_start": 1.66,
+          "local_end": 1.8
+        },
+        {
+          "word": "the",
+          "start": 13.92,
+          "end": 14.4,
+          "local_start": 1.8,
+          "local_end": 2.28
+        },
+        {
+          "word": "sides?",
+          "start": 14.4,
+          "end": 14.4,
+          "local_start": 2.28,
+          "local_end": 2.28
+        },
+        {
+          "word": "I",
+          "start": 14.88,
+          "end": 15.08,
+          "local_start": 2.76,
+          "local_end": 2.96
+        },
+        {
+          "word": "can",
+          "start": 15.08,
+          "end": 15.22,
+          "local_start": 2.96,
+          "local_end": 3.1
+        },
+        {
+          "word": "do",
+          "start": 15.22,
+          "end": 15.32,
+          "local_start": 3.1,
+          "local_end": 3.2
+        },
+        {
+          "word": "a",
+          "start": 15.32,
+          "end": 15.48,
+          "local_start": 3.2,
+          "local_end": 3.36
+        },
+        {
+          "word": "two",
+          "start": 15.48,
+          "end": 15.62,
+          "local_start": 3.36,
+          "local_end": 3.5
+        },
+        {
+          "word": "or",
+          "start": 15.62,
+          "end": 15.76,
+          "local_start": 3.5,
+          "local_end": 3.64
+        },
+        {
+          "word": "a",
+          "start": 15.76,
+          "end": 16.06,
+          "local_start": 3.64,
+          "local_end": 3.94
+        },
+        {
+          "word": "three.",
+          "start": 16.06,
+          "end": 16.06,
+          "local_start": 3.94,
+          "local_end": 3.94
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "file": "05.mp3",
+      "text": "A three, please. And please don't take too much off the top.",
+      "audio_sha256": "d9783dfe5b48e09a26999145c83ef0c144b10b838e58501db6333cda10e57c6a",
+      "start": 16.368,
+      "end": 20.472,
+      "duration": 4.104,
+      "words": [
+        {
+          "word": "A",
+          "start": 16.368,
+          "end": 16.628,
+          "local_start": 0.0,
+          "local_end": 0.26
+        },
+        {
+          "word": "three,",
+          "start": 16.628,
+          "end": 16.928,
+          "local_start": 0.26,
+          "local_end": 0.56
+        },
+        {
+          "word": "please.",
+          "start": 17.568,
+          "end": 17.688,
+          "local_start": 1.2,
+          "local_end": 1.32
+        },
+        {
+          "word": "And",
+          "start": 18.228,
+          "end": 18.568,
+          "local_start": 1.86,
+          "local_end": 2.2
+        },
+        {
+          "word": "please",
+          "start": 18.568,
+          "end": 18.808,
+          "local_start": 2.2,
+          "local_end": 2.44
+        },
+        {
+          "word": "don't",
+          "start": 18.808,
+          "end": 19.008,
+          "local_start": 2.44,
+          "local_end": 2.64
+        },
+        {
+          "word": "take",
+          "start": 19.008,
+          "end": 19.188,
+          "local_start": 2.64,
+          "local_end": 2.82
+        },
+        {
+          "word": "too",
+          "start": 19.188,
+          "end": 19.408,
+          "local_start": 2.82,
+          "local_end": 3.04
+        },
+        {
+          "word": "much",
+          "start": 19.408,
+          "end": 19.588,
+          "local_start": 3.04,
+          "local_end": 3.22
+        },
+        {
+          "word": "off",
+          "start": 19.588,
+          "end": 19.728,
+          "local_start": 3.22,
+          "local_end": 3.36
+        },
+        {
+          "word": "the",
+          "start": 19.728,
+          "end": 19.868,
+          "local_start": 3.36,
+          "local_end": 3.5
+        },
+        {
+          "word": "top.",
+          "start": 19.868,
+          "end": 20.128,
+          "local_start": 3.5,
+          "local_end": 3.76
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "file": "06.mp3",
+      "text": "Got it. I'll keep the length on top and just clean it up. Have a seat over here.",
+      "audio_sha256": "dd3679c71f08841f3f3274ca2cac9f741ad3f7baed9564cf5f9dec91710cabed",
+      "start": 20.472,
+      "end": 25.224,
+      "duration": 4.752,
+      "words": [
+        {
+          "word": "Got",
+          "start": 20.472,
+          "end": 20.712,
+          "local_start": 0.0,
+          "local_end": 0.24
+        },
+        {
+          "word": "it.",
+          "start": 20.712,
+          "end": 21.092,
+          "local_start": 0.24,
+          "local_end": 0.62
+        },
+        {
+          "word": "I'll",
+          "start": 21.352,
+          "end": 21.472,
+          "local_start": 0.88,
+          "local_end": 1.0
+        },
+        {
+          "word": "keep",
+          "start": 21.472,
+          "end": 21.572,
+          "local_start": 1.0,
+          "local_end": 1.1
+        },
+        {
+          "word": "the",
+          "start": 21.572,
+          "end": 21.852,
+          "local_start": 1.1,
+          "local_end": 1.38
+        },
+        {
+          "word": "length",
+          "start": 21.852,
+          "end": 21.912,
+          "local_start": 1.38,
+          "local_end": 1.44
+        },
+        {
+          "word": "on",
+          "start": 21.912,
+          "end": 22.112,
+          "local_start": 1.44,
+          "local_end": 1.64
+        },
+        {
+          "word": "top",
+          "start": 22.112,
+          "end": 22.372,
+          "local_start": 1.64,
+          "local_end": 1.9
+        },
+        {
+          "word": "and",
+          "start": 22.372,
+          "end": 22.612,
+          "local_start": 1.9,
+          "local_end": 2.14
+        },
+        {
+          "word": "just",
+          "start": 22.612,
+          "end": 22.872,
+          "local_start": 2.14,
+          "local_end": 2.4
+        },
+        {
+          "word": "clean",
+          "start": 22.872,
+          "end": 23.032,
+          "local_start": 2.4,
+          "local_end": 2.56
+        },
+        {
+          "word": "it",
+          "start": 23.032,
+          "end": 23.172,
+          "local_start": 2.56,
+          "local_end": 2.7
+        },
+        {
+          "word": "up.",
+          "start": 23.172,
+          "end": 23.492,
+          "local_start": 2.7,
+          "local_end": 3.02
+        },
+        {
+          "word": "Have",
+          "start": 24.072,
+          "end": 24.092,
+          "local_start": 3.6,
+          "local_end": 3.62
+        },
+        {
+          "word": "a",
+          "start": 24.092,
+          "end": 24.292,
+          "local_start": 3.62,
+          "local_end": 3.82
+        },
+        {
+          "word": "seat",
+          "start": 24.292,
+          "end": 24.332,
+          "local_start": 3.82,
+          "local_end": 3.86
+        },
+        {
+          "word": "over",
+          "start": 24.332,
+          "end": 24.512,
+          "local_start": 3.86,
+          "local_end": 4.04
+        },
+        {
+          "word": "here.",
+          "start": 24.512,
+          "end": 24.732,
+          "local_start": 4.04,
+          "local_end": 4.26
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "file": "07.mp3",
+      "text": "Thanks. About how long will the haircut take?",
+      "audio_sha256": "1d6eab69045367e46f7fa0e6b47159478dbdd6c24169985af9ade82ebf3d17c6",
+      "start": 25.224,
+      "end": 28.032,
+      "duration": 2.808,
+      "words": [
+        {
+          "word": "Thanks.",
+          "start": 25.224,
+          "end": 25.784,
+          "local_start": 0.0,
+          "local_end": 0.56
+        },
+        {
+          "word": "About",
+          "start": 26.344,
+          "end": 26.564,
+          "local_start": 1.12,
+          "local_end": 1.34
+        },
+        {
+          "word": "how",
+          "start": 26.564,
+          "end": 26.824,
+          "local_start": 1.34,
+          "local_end": 1.6
+        },
+        {
+          "word": "long",
+          "start": 26.824,
+          "end": 26.964,
+          "local_start": 1.6,
+          "local_end": 1.74
+        },
+        {
+          "word": "will",
+          "start": 26.964,
+          "end": 27.124,
+          "local_start": 1.74,
+          "local_end": 1.9
+        },
+        {
+          "word": "the",
+          "start": 27.124,
+          "end": 27.244,
+          "local_start": 1.9,
+          "local_end": 2.02
+        },
+        {
+          "word": "haircut",
+          "start": 27.244,
+          "end": 27.464,
+          "local_start": 2.02,
+          "local_end": 2.24
+        },
+        {
+          "word": "take?",
+          "start": 27.464,
+          "end": 27.784,
+          "local_start": 2.24,
+          "local_end": 2.56
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "file": "08.mp3",
+      "text": "About twenty-five minutes. Can I get you some water while I set up?",
+      "audio_sha256": "6125b999421b08d57e0d04b071cbc8e939046aa4b9a31c15013ab1294d40953e",
+      "start": 28.032,
+      "end": 32.784,
+      "duration": 4.752,
+      "words": [
+        {
+          "word": "About",
+          "start": 28.032,
+          "end": 28.612,
+          "local_start": 0.0,
+          "local_end": 0.58
+        },
+        {
+          "word": "twenty-five",
+          "start": 28.612,
+          "end": 29.412,
+          "local_start": 0.58,
+          "local_end": 1.38
+        },
+        {
+          "word": "minutes.",
+          "start": 29.412,
+          "end": 29.712,
+          "local_start": 1.38,
+          "local_end": 1.68
+        },
+        {
+          "word": "Can",
+          "start": 30.472,
+          "end": 30.552,
+          "local_start": 2.44,
+          "local_end": 2.52
+        },
+        {
+          "word": "I",
+          "start": 30.552,
+          "end": 30.712,
+          "local_start": 2.52,
+          "local_end": 2.68
+        },
+        {
+          "word": "get",
+          "start": 30.712,
+          "end": 30.792,
+          "local_start": 2.68,
+          "local_end": 2.76
+        },
+        {
+          "word": "you",
+          "start": 30.792,
+          "end": 30.932,
+          "local_start": 2.76,
+          "local_end": 2.9
+        },
+        {
+          "word": "some",
+          "start": 30.932,
+          "end": 31.232,
+          "local_start": 2.9,
+          "local_end": 3.2
+        },
+        {
+          "word": "water",
+          "start": 31.232,
+          "end": 31.392,
+          "local_start": 3.2,
+          "local_end": 3.36
+        },
+        {
+          "word": "while",
+          "start": 31.392,
+          "end": 31.712,
+          "local_start": 3.36,
+          "local_end": 3.68
+        },
+        {
+          "word": "I",
+          "start": 31.712,
+          "end": 31.932,
+          "local_start": 3.68,
+          "local_end": 3.9
+        },
+        {
+          "word": "set",
+          "start": 31.932,
+          "end": 32.352,
+          "local_start": 3.9,
+          "local_end": 4.32
+        },
+        {
+          "word": "up?",
+          "start": 32.352,
+          "end": 32.532,
+          "local_start": 4.32,
+          "local_end": 4.5
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "file": "09.mp3",
+      "text": "I'm all set, thanks. Will you style my hair at the end?",
+      "audio_sha256": "1ca6904488e0641e1a4cf6cb8e62f4f88ce03bf5780d8863bcae50ba53afb25c",
+      "start": 32.784,
+      "end": 36.504,
+      "duration": 3.72,
+      "words": [
+        {
+          "word": "I'm",
+          "start": 32.784,
+          "end": 33.044,
+          "local_start": 0.0,
+          "local_end": 0.26
+        },
+        {
+          "word": "all",
+          "start": 33.044,
+          "end": 33.204,
+          "local_start": 0.26,
+          "local_end": 0.42
+        },
+        {
+          "word": "set,",
+          "start": 33.204,
+          "end": 33.464,
+          "local_start": 0.42,
+          "local_end": 0.68
+        },
+        {
+          "word": "thanks.",
+          "start": 33.884,
+          "end": 34.104,
+          "local_start": 1.1,
+          "local_end": 1.32
+        },
+        {
+          "word": "Will",
+          "start": 34.744,
+          "end": 34.824,
+          "local_start": 1.96,
+          "local_end": 2.04
+        },
+        {
+          "word": "you",
+          "start": 34.824,
+          "end": 35.084,
+          "local_start": 2.04,
+          "local_end": 2.3
+        },
+        {
+          "word": "style",
+          "start": 35.084,
+          "end": 35.184,
+          "local_start": 2.3,
+          "local_end": 2.4
+        },
+        {
+          "word": "my",
+          "start": 35.184,
+          "end": 35.404,
+          "local_start": 2.4,
+          "local_end": 2.62
+        },
+        {
+          "word": "hair",
+          "start": 35.404,
+          "end": 35.564,
+          "local_start": 2.62,
+          "local_end": 2.78
+        },
+        {
+          "word": "at",
+          "start": 35.564,
+          "end": 35.764,
+          "local_start": 2.78,
+          "local_end": 2.98
+        },
+        {
+          "word": "the",
+          "start": 35.764,
+          "end": 35.844,
+          "local_start": 2.98,
+          "local_end": 3.06
+        },
+        {
+          "word": "end?",
+          "start": 35.844,
+          "end": 35.944,
+          "local_start": 3.06,
+          "local_end": 3.16
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "file": "10.mp3",
+      "text": "Yes. I'll wash, cut, and blow-dry it, so you'll be ready to go.",
+      "audio_sha256": "e8c85e185f224d8d535f2731eb3f04060e740d87f57d729d7ce7f65f72c44d1c",
+      "start": 36.504,
+      "end": 41.352,
+      "duration": 4.848,
+      "words": [
+        {
+          "word": "Yes.",
+          "start": 36.504,
+          "end": 36.964,
+          "local_start": 0.0,
+          "local_end": 0.46
+        },
+        {
+          "word": "I'll",
+          "start": 37.444,
+          "end": 37.704,
+          "local_start": 0.94,
+          "local_end": 1.2
+        },
+        {
+          "word": "wash,",
+          "start": 37.704,
+          "end": 38.024,
+          "local_start": 1.2,
+          "local_end": 1.52
+        },
+        {
+          "word": "cut,",
+          "start": 38.524,
+          "end": 38.524,
+          "local_start": 2.02,
+          "local_end": 2.02
+        },
+        {
+          "word": "and",
+          "start": 38.704,
+          "end": 38.884,
+          "local_start": 2.2,
+          "local_end": 2.38
+        },
+        {
+          "word": "blow-dry",
+          "start": 38.884,
+          "end": 39.224,
+          "local_start": 2.38,
+          "local_end": 2.72
+        },
+        {
+          "word": "it,",
+          "start": 39.224,
+          "end": 39.684,
+          "local_start": 2.72,
+          "local_end": 3.18
+        },
+        {
+          "word": "so",
+          "start": 39.804,
+          "end": 39.924,
+          "local_start": 3.3,
+          "local_end": 3.42
+        },
+        {
+          "word": "you'll",
+          "start": 39.924,
+          "end": 40.064,
+          "local_start": 3.42,
+          "local_end": 3.56
+        },
+        {
+          "word": "be",
+          "start": 40.064,
+          "end": 40.304,
+          "local_start": 3.56,
+          "local_end": 3.8
+        },
+        {
+          "word": "ready",
+          "start": 40.304,
+          "end": 40.444,
+          "local_start": 3.8,
+          "local_end": 3.94
+        },
+        {
+          "word": "to",
+          "start": 40.444,
+          "end": 40.704,
+          "local_start": 3.94,
+          "local_end": 4.2
+        },
+        {
+          "word": "go.",
+          "start": 40.704,
+          "end": 40.844,
+          "local_start": 4.2,
+          "local_end": 4.34
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "file": "11.mp3",
+      "text": "Perfect. A little product is fine, too. What's the price for a haircut?",
+      "audio_sha256": "0de66120e1340449a54b9bdee24fa91ab166e7b27ba98de720cc7efcaa7ab939",
+      "start": 41.352,
+      "end": 45.312,
+      "duration": 3.96,
+      "words": [
+        {
+          "word": "Perfect.",
+          "start": 42.012,
+          "end": 42.212,
+          "local_start": 0.66,
+          "local_end": 0.86
+        },
+        {
+          "word": "A",
+          "start": 42.212,
+          "end": 42.332,
+          "local_start": 0.86,
+          "local_end": 0.98
+        },
+        {
+          "word": "little",
+          "start": 42.332,
+          "end": 42.512,
+          "local_start": 0.98,
+          "local_end": 1.16
+        },
+        {
+          "word": "product",
+          "start": 42.512,
+          "end": 42.812,
+          "local_start": 1.16,
+          "local_end": 1.46
+        },
+        {
+          "word": "is",
+          "start": 42.812,
+          "end": 43.012,
+          "local_start": 1.46,
+          "local_end": 1.66
+        },
+        {
+          "word": "fine,",
+          "start": 43.012,
+          "end": 43.232,
+          "local_start": 1.66,
+          "local_end": 1.88
+        },
+        {
+          "word": "too.",
+          "start": 43.332,
+          "end": 43.472,
+          "local_start": 1.98,
+          "local_end": 2.12
+        },
+        {
+          "word": "What's",
+          "start": 44.012,
+          "end": 44.172,
+          "local_start": 2.66,
+          "local_end": 2.82
+        },
+        {
+          "word": "the",
+          "start": 44.172,
+          "end": 44.352,
+          "local_start": 2.82,
+          "local_end": 3.0
+        },
+        {
+          "word": "price",
+          "start": 44.352,
+          "end": 44.512,
+          "local_start": 3.0,
+          "local_end": 3.16
+        },
+        {
+          "word": "for",
+          "start": 44.512,
+          "end": 44.692,
+          "local_start": 3.16,
+          "local_end": 3.34
+        },
+        {
+          "word": "a",
+          "start": 44.692,
+          "end": 44.912,
+          "local_start": 3.34,
+          "local_end": 3.56
+        },
+        {
+          "word": "haircut?",
+          "start": 44.912,
+          "end": 45.032,
+          "local_start": 3.56,
+          "local_end": 3.68
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "file": "12.mp3",
+      "text": "It's thirty-two dollars, plus tax. You can pay at the front when we're done.",
+      "audio_sha256": "490343ceaaafa6a54c5b0c53eeffd1682e6833def37391852c8456cc25c46e50",
+      "start": 45.312,
+      "end": 50.472,
+      "duration": 5.16,
+      "words": [
+        {
+          "word": "It's",
+          "start": 45.312,
+          "end": 45.772,
+          "local_start": 0.0,
+          "local_end": 0.46
+        },
+        {
+          "word": "thirty-two",
+          "start": 45.772,
+          "end": 46.432,
+          "local_start": 0.46,
+          "local_end": 1.12
+        },
+        {
+          "word": "dollars,",
+          "start": 46.432,
+          "end": 46.892,
+          "local_start": 1.12,
+          "local_end": 1.58
+        },
+        {
+          "word": "plus",
+          "start": 47.152,
+          "end": 47.372,
+          "local_start": 1.84,
+          "local_end": 2.06
+        },
+        {
+          "word": "tax.",
+          "start": 47.372,
+          "end": 47.792,
+          "local_start": 2.06,
+          "local_end": 2.48
+        },
+        {
+          "word": "You",
+          "start": 48.432,
+          "end": 48.492,
+          "local_start": 3.12,
+          "local_end": 3.18
+        },
+        {
+          "word": "can",
+          "start": 48.492,
+          "end": 48.732,
+          "local_start": 3.18,
+          "local_end": 3.42
+        },
+        {
+          "word": "pay",
+          "start": 48.732,
+          "end": 48.852,
+          "local_start": 3.42,
+          "local_end": 3.54
+        },
+        {
+          "word": "at",
+          "start": 48.852,
+          "end": 49.012,
+          "local_start": 3.54,
+          "local_end": 3.7
+        },
+        {
+          "word": "the",
+          "start": 49.012,
+          "end": 49.232,
+          "local_start": 3.7,
+          "local_end": 3.92
+        },
+        {
+          "word": "front",
+          "start": 49.232,
+          "end": 49.472,
+          "local_start": 3.92,
+          "local_end": 4.16
+        },
+        {
+          "word": "when",
+          "start": 49.472,
+          "end": 49.892,
+          "local_start": 4.16,
+          "local_end": 4.58
+        },
+        {
+          "word": "we're",
+          "start": 49.892,
+          "end": 50.092,
+          "local_start": 4.58,
+          "local_end": 4.78
+        },
+        {
+          "word": "done.",
+          "start": 50.092,
+          "end": 50.252,
+          "local_start": 4.78,
+          "local_end": 4.94
+        }
+      ]
+    }
+  ]
+}

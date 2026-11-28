@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-28",
+  "slug": "getting-a-haircut",
+  "title": "Getting a Haircut",
+  "title_zh": "在理发店剪头发",
+  "context": "Sam 路过街区的理发店，想不预约直接剪头；发型师 Casey 帮他确认修剪幅度、两侧长度和头顶保留，并说明时长、造型和价格。",
+  "voices": {
+    "Sam": "marin",
+    "Casey": "cedar"
+  },
+  "dialogue": [
+    {
+      "speaker": "Sam",
+      "en": "Hi, do you take walk-ins? I'd like a haircut today.",
+      "zh": "你好，你们接受未预约的客人吗？我想今天剪个头。"
+    },
+    {
+      "speaker": "Casey",
+      "en": "We do. I have an opening in about ten minutes. What are you looking for?",
+      "zh": "接受。大概十分钟后有空位。你想剪成什么样？"
+    },
+    {
+      "speaker": "Sam",
+      "en": "Just a trim, please, and maybe a little shorter on the sides.",
+      "zh": "稍微修剪一下就好，两侧可以再短一点。"
+    },
+    {
+      "speaker": "Casey",
+      "en": "Sure. How short would you like the sides? I can do a two or a three.",
+      "zh": "好的。两侧想剪多短？我可以用二号或三号推剪。"
+    },
+    {
+      "speaker": "Sam",
+      "en": "A three, please. And please don't take too much off the top.",
+      "zh": "请用三号。上面请不要剪掉太多。"
+    },
+    {
+      "speaker": "Casey",
+      "en": "Got it. I'll keep the length on top and just clean it up. Have a seat over here.",
+      "zh": "明白了。上面会保留长度，只是修整齐。请坐到这边来。"
+    },
+    {
+      "speaker": "Sam",
+      "en": "Thanks. About how long will the haircut take?",
+      "zh": "谢谢。这次剪发大概需要多长时间？"
+    },
+    {
+      "speaker": "Casey",
+      "en": "About twenty-five minutes. Can I get you some water while I set up?",
+      "zh": "大概二十五分钟。我准备的时候，要不要给你倒杯水？"
+    },
+    {
+      "speaker": "Sam",
+      "en": "I'm all set, thanks. Will you style my hair at the end?",
+      "zh": "不用了，谢谢。最后会帮我把头发定型吗？"
+    },
+    {
+      "speaker": "Casey",
+      "en": "Yes. I'll wash, cut, and blow-dry it, so you'll be ready to go.",
+      "zh": "会的。我会洗、剪，再用吹风机吹干，弄完你就可以直接走。"
+    },
+    {
+      "speaker": "Sam",
+      "en": "Perfect. A little product is fine, too. What's the price for a haircut?",
+      "zh": "太好了。也可以稍微用一点造型产品。剪发怎么收费？"
+    },
+    {
+      "speaker": "Casey",
+      "en": "It's thirty-two dollars, plus tax. You can pay at the front when we're done.",
+      "zh": "三十二美元，另加税费。剪完后到前台付款就行。"
+    }
+  ],
+  "expressions": [
+    {
+      "en": "Do you take walk-ins?",
+      "zh": "你们接受未预约直接来的客人吗？到店询问是否需要预约时常用。",
+      "example": "Hi, do you take walk-ins? I'd like a haircut today."
+    },
+    {
+      "en": "just a trim",
+      "zh": "稍微修剪一下，表示只剪掉一点，不想改发型。",
+      "example": "Just a trim, please, and maybe a little shorter on the sides."
+    },
+    {
+      "en": "don't take too much off the top",
+      "zh": "上面不要剪掉太多，说明头顶想保留长度时常用。",
+      "example": "A three, please. And please don't take too much off the top."
+    },
+    {
+      "en": "I'm all set",
+      "zh": "我不用了 / 我这边没问题，礼貌谢绝对方的额外提议。",
+      "example": "I'm all set, thanks. Will you style my hair at the end?"
+    },
+    {
+      "en": "plus tax",
+      "zh": "另加税费，报价时常用来说明标价还没含税。",
+      "example": "It's thirty-two dollars, plus tax. You can pay at the front when we're done."
+    }
+  ],
+  "pronunciation": "walk-ins 读作 /ˈwɔːk ɪnz/，重音在 walk；trim 的 tr 要读清楚，读作 /trɪm/；sides 读作 /saɪdz/；blow-dry 读作 /ˈbloʊ draɪ/，两个音节都要咬清楚；thirty-two 里的 th 读作 /θ/，不要读成 /s/。",
+  "practice": [
+    {
+      "title": "Part 1 · Haircuts",
+      "prompt": "How often do you get a haircut?",
+      "answer": "I usually get a haircut every five or six weeks. I like a simple style, so I often ask for a trim and a little shorter on the sides. If the salon is busy, I try to go on a weekday afternoon."
+    },
+    {
+      "title": "Part 2 · Getting a haircut",
+      "prompt": "Describe an imagined time you got a haircut. Say why you went, what you asked the stylist to do, and how the visit went.",
+      "answer": "Imagine that I walk into a neighborhood salon without an appointment and ask if they take walk-ins. The stylist has an opening in ten minutes, and I ask for a trim, with the sides a little shorter. I also say I do not want too much taken off the top, and the stylist tells me it will take about twenty-five minutes. At the end, the stylist washes, cuts, and blow-dries my hair, and I pay thirty-two dollars plus tax at the front. 这是入门短答，请补充个人经历并扩展到接近两分钟。"
+    },
+    {
+      "title": "Part 3 · Personal style",
+      "prompt": "Why do some people spend a lot of time and money on their hair?",
+      "answer": "Hair is often part of how people present themselves at work or in social life, so a good haircut can make them feel more confident. Some styles also need regular maintenance, which costs more time and money. Other people prefer a simple, low-maintenance cut because it is cheaper and easier to look after."
+    },
+    {
+      "title": "跟读与口头练习",
+      "prompt": "先听完整对话，再逐句跟读，再完成口头练习。",
+      "answer": "用四到六句在理发店说明你想怎么剪：询问能否不预约直接剪，说明两侧和头顶分别想怎么处理，并问需要多长时间以及价格是否含税。"
+    }
+  ]
+}
